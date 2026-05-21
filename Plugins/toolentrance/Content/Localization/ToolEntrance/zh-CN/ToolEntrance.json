@@ -1,0 +1,34 @@
+{
+  "Contexts": {
+    "ToolEntrance": "工具入口插件"
+  },
+  "FToolEntranceModule": {
+    "PluginConcernedSettingsUnloaded": "关注设置（未启用）",
+    "PluginDLipSyncToolUnloaded": "DLipSyncTool（未启用）",
+    "PluginLookDevUnloaded": "LookDev（未启用）",
+    "PluginMaterialVisionerUnloaded": "MaterialVisioner（未启用）",
+    "ToolEntranceMenu_ToolTip": "完美工具入口",
+    "ToolEntranceMenu": "完美工具集",
+    "PluginUnloaded_Tooltip": "插件未启用，请在插件管理器中启用后使用。",
+    "ToolEntranceMenuPlugins": "插件",
+    "ToolEntranceSubMenuRenderPipeline": "渲染管线",
+    "ToolEntranceSubMenuRenderPipeline_ToolTip": "渲染管线提示",
+    "ToolEntranceMenuSettings": "设置",
+    "PluginTerrainUnloaded": "地形编辑器（未启用）",
+    "PluginWeatherUnloaded": "天气编辑器（未启用）"
+  },
+  "UICommands.FToolEntranceModule": {
+    "ConcernedSettings": "关注设置",
+    "ConcernedSettings_ToolTip": "关注设置描述",
+    "DLipSyncTool_ToolTip": "DLipSyncTool描述",
+    "RenderPipeline_ForwardPP_ToolTip": "Forward++描述",
+    "LookDev_ToolTip": "LookDev描述",
+    "MaterialVisioner_ToolTip": "MaterialVisioner描述",
+    "RenderPipeline_SSR_ToolTip": "SSR描述",
+    "Terrain": "地形编辑器",
+    "Terrain_ToolTip": "地形编辑器描述",
+    "WeatherEditor": "天气编辑器",
+    "WeatherEditor_ToolTip": "天气编辑器描述",
+    "RenderPipeline_ZPrePass_ToolTip": "Z PrePass描述"
+  }
+}

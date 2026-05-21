@@ -1,0 +1,40 @@
+{
+  "Contexts": {
+    "ToolEntrance": "ToolEntrance Plugin"
+  },
+  "FToolEntranceModule": {
+    "PluginConcernedSettingsUnloaded": "ConcernedSettings (Unloaded)",
+    "PluginDLipSyncToolUnloaded": "DLipSyncTool (Unloaded)",
+    "PluginLookDevUnloaded": "LookDev (Unloaded)",
+    "PluginMaterialVisionerUnloaded": "MaterialVisioner (Unloaded)",
+    "ToolEntranceMenu_ToolTip": "Perfect Tools Entrance",
+    "ToolEntranceMenu": "PerfectTools",
+    "PluginUnloaded_Tooltip": "Plugin is unloaded, if you want to use it please enable it in plugin browser.",
+    "ToolEntranceMenuPlugins": "Plugins",
+    "ToolEntranceSubMenuRenderPipeline": "Render Pipeline",
+    "ToolEntranceSubMenuRenderPipeline_ToolTip": "Render Pipeline ToolTip",
+    "ToolEntranceMenuSettings": "Settings",
+    "PluginTerrainUnloaded": "Terrain (Unloaded)",
+    "PluginWeatherUnloaded": "Weather (Unloaded)"
+  },
+  "UICommands.FToolEntranceModule": {
+    "ConcernedSettings": "ConcernedSettings",
+    "ConcernedSettings_ToolTip": "ConcernedSettings Description",
+    "DLipSyncTool": "DLipSyncTool",
+    "DLipSyncTool_ToolTip": "DLipSyncTool Description",
+    "RenderPipeline_ForwardPP": "Forward++",
+    "RenderPipeline_ForwardPP_ToolTip": "Forward++ Description",
+    "LookDev": "LookDev",
+    "LookDev_ToolTip": "LookDev Description",
+    "MaterialVisioner": "MaterialVisioner",
+    "MaterialVisioner_ToolTip": "MaterialVisioner Description",
+    "RenderPipeline_SSR": "SSR",
+    "RenderPipeline_SSR_ToolTip": "SSR Description",
+    "Terrain": "Terrain",
+    "Terrain_ToolTip": "Terren Description",
+    "WeatherEditor": "Weather",
+    "WeatherEditor_ToolTip": "Weather Description",
+    "RenderPipeline_ZPrePass": "Z PrePass",
+    "RenderPipeline_ZPrePass_ToolTip": "Z PrePass Description"
+  }
+}
