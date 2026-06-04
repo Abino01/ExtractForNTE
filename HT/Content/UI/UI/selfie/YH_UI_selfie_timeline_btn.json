@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_timeline_btn",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_selfie_timeline_btn",
+    "Properties": {
+      "ImportedSize": {
+        "X": 20,
+        "Y": 26
+      },
+      "LightingGuid": "D383F945-41FD428E-FE1C8088-2DFC5C85",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 20,
+    "SizeY": 26,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2080,
+          "SizeOnDisk": 2080,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 20,
+        "SizeY": 26,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

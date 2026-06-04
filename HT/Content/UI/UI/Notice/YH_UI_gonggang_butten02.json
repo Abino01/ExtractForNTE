@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_gonggang_butten02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Notice/YH_UI_gonggang_butten02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 412,
+        "Y": 112
+      },
+      "LightingGuid": "D715F27B-445AF0C3-F14296A4-35DC2DD1",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 412,
+    "SizeY": 112,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 46144,
+          "SizeOnDisk": 46144,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 412,
+        "SizeY": 112,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

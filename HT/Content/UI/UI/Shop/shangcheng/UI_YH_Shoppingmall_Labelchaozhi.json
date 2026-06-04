@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Shoppingmall_Labelchaozhi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/shangcheng/UI_YH_Shoppingmall_Labelchaozhi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 148,
+        "Y": 36
+      },
+      "LightingGuid": "539D75AB-4FA76C65-D65B9086-4A3B5315",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 148,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 21312,
+          "SizeOnDisk": 21312,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 148,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

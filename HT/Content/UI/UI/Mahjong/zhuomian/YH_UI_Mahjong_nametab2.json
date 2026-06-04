@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_nametab2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_Mahjong_nametab2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 248,
+        "Y": 44
+      },
+      "LightingGuid": "AE8075E7-41FFDE2E-166772BA-489135E3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 248,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10912,
+          "SizeOnDisk": 10912,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 248,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

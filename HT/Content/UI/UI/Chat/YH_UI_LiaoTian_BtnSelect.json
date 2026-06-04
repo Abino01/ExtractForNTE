@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LiaoTian_BtnSelect",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Chat/YH_UI_LiaoTian_BtnSelect",
+    "Properties": {
+      "ImportedSize": {
+        "X": 92,
+        "Y": 68
+      },
+      "LightingGuid": "A3A59E8E-4DE3ED64-96DD2C8C-10A4A45F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 92,
+    "SizeY": 68,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6256,
+          "SizeOnDisk": 6256,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 92,
+        "SizeY": 68,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

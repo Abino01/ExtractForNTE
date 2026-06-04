@@ -1,0 +1,88 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "YH_UI_yueka_card_line",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/Monthcard/YH_UI_yueka_card_line",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_UI_Glow'",
+        "ObjectPath": "/Game/UI/UI_Material/Effects/M_UI_Glow.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Max",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "9AAAD952-48CA6FF3-89206C8E-25947699"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Min",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "CF7AC951-48A7F208-CAD4D68C-3A67F1D3"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Number",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 2.0,
+          "ExpressionGUID": "D13E3FD3-4FE5B9AC-9E980B8E-3528C2B7"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "4571CBD8-46A13202-3AB092BC-53F09D4A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Texture",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_yueka_card_bian'",
+            "ObjectPath": "/Game/UI/UI/Monthcard/YH_UI_yueka_card_bian.0"
+          },
+          "ExpressionGUID": "B17E735B-444B6FE4-A3C13FBF-7E7D2204"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_Additive",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

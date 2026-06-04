@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_FB_Reward_Bkg_03",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/UI_YH_FB_Reward_Bkg_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 64,
+        "Y": 616
+      },
+      "LightingGuid": "2F91518C-4AB82687-A7A2FBA1-8727F7DB",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 64,
+    "SizeY": 616,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 39424,
+          "SizeOnDisk": 39424,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 64,
+        "SizeY": 616,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

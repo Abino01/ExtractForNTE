@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_JiaoXue_WeiXuanZhong_TiShi_DiBan1_common2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/teachguide/YH_UI_JiaoXue_WeiXuanZhong_TiShi_DiBan1_common2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 54,
+        "Y": 46
+      },
+      "LightingGuid": "2B876290-4D07C419-6D6A3DAD-5495407D",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 54,
+    "SizeY": 46,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9936,
+          "SizeOnDisk": 9936,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 54,
+        "SizeY": 46,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

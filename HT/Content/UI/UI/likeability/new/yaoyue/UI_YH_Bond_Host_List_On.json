@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Host_List_On",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/new/yaoyue/UI_YH_Bond_Host_List_On",
+    "Properties": {
+      "ImportedSize": {
+        "X": 156,
+        "Y": 192
+      },
+      "LightingGuid": "FA4B8F00-4CEB1C8C-EA3C538E-A6D3AE4E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 156,
+    "SizeY": 192,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 29952,
+          "SizeOnDisk": 29952,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 156,
+        "SizeY": 192,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

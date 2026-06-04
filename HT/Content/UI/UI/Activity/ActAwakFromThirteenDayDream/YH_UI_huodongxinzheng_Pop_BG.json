@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_huodongxinzheng_Pop_BG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/ActAwakFromThirteenDayDream/YH_UI_huodongxinzheng_Pop_BG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1628,
+        "Y": 904
+      },
+      "LightingGuid": "5FDA6FEF-4696A7A8-53AD5FBF-AC8C9101",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1628,
+    "SizeY": 904,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1471712,
+          "SizeOnDisk": 1471712,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1628,
+        "SizeY": 904,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

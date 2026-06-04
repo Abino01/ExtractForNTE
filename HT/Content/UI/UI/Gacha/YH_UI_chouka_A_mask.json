@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_chouka_A_mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_chouka_A_mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 140,
+        "Y": 132
+      },
+      "LightingGuid": "5E632CF7-4CEFAA42-6DE38082-E2ED633A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 140,
+    "SizeY": 132,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 73920,
+          "SizeOnDisk": 73920,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 140,
+        "SizeY": 132,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

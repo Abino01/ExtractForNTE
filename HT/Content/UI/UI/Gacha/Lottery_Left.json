@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Lottery_Left",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/Lottery_Left",
+    "Properties": {
+      "ImportedSize": {
+        "X": 274,
+        "Y": 44
+      },
+      "LightingGuid": "48886D86-4F77FC21-84936887-A0E17D7C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 274,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 48224,
+          "SizeOnDisk": 48224,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 274,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_weituo_listtitle_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/TakeOrders/YH_UI_weituo_listtitle_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 248,
+        "Y": 30
+      },
+      "LightingGuid": "1255A754-4EFDF956-0349E599-F875EA68",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 248,
+    "SizeY": 30,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 29760,
+          "SizeOnDisk": 29760,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 248,
+        "SizeY": 30,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LiaoTian_DuiHuaSelect",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Chat/YH_UI_LiaoTian_DuiHuaSelect",
+    "Properties": {
+      "ImportedSize": {
+        "X": 148,
+        "Y": 72
+      },
+      "LightingGuid": "83D8FA5B-48C3E13D-5A9A3395-2C60913D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 148,
+    "SizeY": 72,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10656,
+          "SizeOnDisk": 10656,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 148,
+        "SizeY": 72,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

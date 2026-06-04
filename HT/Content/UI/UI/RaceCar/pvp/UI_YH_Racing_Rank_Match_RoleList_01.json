@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Rank_Match_RoleList_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVP/UI_YH_Racing_Rank_Match_RoleList_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 472,
+        "Y": 304
+      },
+      "LightingGuid": "5D216B8C-4C6B8174-7618C892-58253E8D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 472,
+    "SizeY": 304,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 143488,
+          "SizeOnDisk": 143488,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 472,
+        "SizeY": 304,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

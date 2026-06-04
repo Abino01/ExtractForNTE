@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_skill_xun_jinduzhuangshi03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/zhujiemian_1/YH_UI_skill_xun_jinduzhuangshi03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 176,
+        "Y": 176
+      },
+      "LightingGuid": "7EE25F70-4638B899-430C5A8E-18CD8A50",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 176,
+    "SizeY": 176,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 30976,
+          "SizeOnDisk": 30976,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 176,
+        "SizeY": 176,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

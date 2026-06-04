@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TJ_HuPan_Unselected_Anti",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Manual/HuPan/YH_UI_TJ_HuPan_Unselected_Anti",
+    "Properties": {
+      "ImportedSize": {
+        "X": 412,
+        "Y": 712
+      },
+      "LightingGuid": "C76DB42C-4AABE4DE-6F033587-BEDF1ACB",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 412,
+    "SizeY": 712,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1173376,
+          "SizeOnDisk": 1173376,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 412,
+        "SizeY": 712,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

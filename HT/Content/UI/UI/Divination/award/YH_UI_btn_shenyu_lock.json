@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_btn_shenyu_lock",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Divination/award/YH_UI_btn_shenyu_lock",
+    "Properties": {
+      "ImportedSize": {
+        "X": 520,
+        "Y": 100
+      },
+      "LightingGuid": "FD7ECA39-45E0E1A0-F32D769C-F2DBCAA0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 520,
+    "SizeY": 100,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 52000,
+          "SizeOnDisk": 52000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 520,
+        "SizeY": 100,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

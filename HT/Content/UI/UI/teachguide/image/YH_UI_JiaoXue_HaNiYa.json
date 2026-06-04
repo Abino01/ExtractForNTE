@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_JiaoXue_HaNiYa",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/teachguide/image/YH_UI_JiaoXue_HaNiYa",
+    "Properties": {
+      "ImportedSize": {
+        "X": 823,
+        "Y": 424
+      },
+      "LightingGuid": "118EDF7C-4726C68D-41BD8AAA-2FDE6A70",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 823,
+    "SizeY": 424,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1395808,
+          "SizeOnDisk": 1395808,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 823,
+        "SizeY": 424,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

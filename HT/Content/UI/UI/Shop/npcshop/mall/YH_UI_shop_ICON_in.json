@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shop_ICON_in",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/npcshop/mall/YH_UI_shop_ICON_in",
+    "Properties": {
+      "ImportedSize": {
+        "X": 280,
+        "Y": 380
+      },
+      "LightingGuid": "68CB812B-4A48D581-D33F89AF-1BAD1926",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 280,
+    "SizeY": 380,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 106400,
+          "SizeOnDisk": 106400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 280,
+        "SizeY": 380,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

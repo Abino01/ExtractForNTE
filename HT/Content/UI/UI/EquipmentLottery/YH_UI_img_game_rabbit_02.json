@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_img_game_rabbit_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/EquipmentLottery/YH_UI_img_game_rabbit_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 456,
+        "Y": 457
+      },
+      "LightingGuid": "69C762E7-4EDF4CCE-9EFE8085-0C01BC83",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 456,
+    "SizeY": 457,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 833568,
+          "SizeOnDisk": 833568,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 456,
+        "SizeY": 457,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

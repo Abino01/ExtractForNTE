@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Interaction_City_List_Select",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/new/UI_YH_Bond_Interaction_City_List_Select",
+    "Properties": {
+      "ImportedSize": {
+        "X": 440,
+        "Y": 312
+      },
+      "LightingGuid": "C4A982FC-494F93D0-93D6E49E-53F837A2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 440,
+    "SizeY": 312,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 137280,
+          "SizeOnDisk": 137280,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 440,
+        "SizeY": 312,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Meetup_Bkg_Top",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/main/UI_YH_Racing_Meetup_Bkg_Top",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1920,
+        "Y": 108
+      },
+      "LightingGuid": "9912CA16-41DDE083-6560DBB8-BCA16F5E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1920,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 207360,
+          "SizeOnDisk": 207360,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1920,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

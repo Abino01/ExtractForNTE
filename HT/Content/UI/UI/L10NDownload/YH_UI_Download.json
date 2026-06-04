@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Download",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/L10NDownload/YH_UI_Download",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1280,
+        "Y": 30
+      },
+      "LightingGuid": "6D407EDB-4EBB15B8-3FA8BF86-078F2E93",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1280,
+    "SizeY": 30,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 153600,
+          "SizeOnDisk": 153600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1280,
+        "SizeY": 30,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

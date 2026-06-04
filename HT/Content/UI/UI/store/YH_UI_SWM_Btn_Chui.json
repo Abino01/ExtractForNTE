@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SWM_Btn_Chui",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/YH_UI_SWM_Btn_Chui",
+    "Properties": {
+      "ImportedSize": {
+        "X": 148,
+        "Y": 149
+      },
+      "LightingGuid": "B8912C2E-4B842484-6AA37984-CB36CB3F",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 148,
+    "SizeY": 149,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 88208,
+          "SizeOnDisk": 88208,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 148,
+        "SizeY": 149,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

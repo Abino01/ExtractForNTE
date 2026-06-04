@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SignInMainForm_kelingqu_2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/SignIn/YH_UI_SignInMainForm_kelingqu_2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 356,
+        "Y": 218
+      },
+      "LightingGuid": "C8DF1115-443C21C5-2241D886-F036CB9B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 356,
+    "SizeY": 218,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 310432,
+          "SizeOnDisk": 310432,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 356,
+        "SizeY": 218,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Characternamepanel",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_Characternamepanel",
+    "Properties": {
+      "ImportedSize": {
+        "X": 276,
+        "Y": 72
+      },
+      "LightingGuid": "0827C635-4050B78C-465565AC-3B43C0AF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 276,
+    "SizeY": 72,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 19872,
+          "SizeOnDisk": 19872,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 276,
+        "SizeY": 72,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LacrimosaDairy_YxbgM",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Ability/YH_UI_LacrimosaDairy_YxbgM",
+    "Properties": {
+      "ImportedSize": {
+        "X": 192,
+        "Y": 228
+      },
+      "LightingGuid": "85DE8DE2-4A9D76BF-04F2958E-5353B124",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 192,
+    "SizeY": 228,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 43776,
+          "SizeOnDisk": 43776,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 192,
+        "SizeY": 228,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_YinY_DaoJiShi_3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YH_YinY_DaoJiShi_3",
+    "Properties": {
+      "ImportedSize": {
+        "X": 392,
+        "Y": 384
+      },
+      "LightingGuid": "00B42D71-4234F48D-DDD0A587-BDF35BFB",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 392,
+    "SizeY": 384,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 602112,
+          "SizeOnDisk": 602112,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 392,
+        "SizeY": 384,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

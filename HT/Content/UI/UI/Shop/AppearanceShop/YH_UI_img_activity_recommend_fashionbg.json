@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_img_activity_recommend_fashionbg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/AppearanceShop/YH_UI_img_activity_recommend_fashionbg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 3072,
+        "Y": 2258
+      },
+      "LightingGuid": "056AAE3C-4F8FF83F-DB95EE86-9A3E4F46",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 3072,
+    "SizeY": 2258,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 27746304,
+          "SizeOnDisk": 27746304,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 3072,
+        "SizeY": 2258,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

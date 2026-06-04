@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Guide_eluosifangkuai_anniu_4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/teachguide/image/SCNEW/anniu/UI_YH_Guide_eluosifangkuai_anniu_4",
+    "Properties": {
+      "ImportedSize": {
+        "X": 60,
+        "Y": 60
+      },
+      "LightingGuid": "CE3C8AB1-45044DEA-D1F8EA89-E49DD7EC",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 60,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 14400,
+          "SizeOnDisk": 14400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 60,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Common_Amount_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/Butten/UI_YH_Common_Amount_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 179,
+        "Y": 44
+      },
+      "LightingGuid": "85AC4E0C-4EF9C29B-AEE51FB3-A4409A34",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 179,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 31504,
+          "SizeOnDisk": 31504,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 179,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_CityAbilityOverview_Text",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_UI_CityAbilityOverview_Text",
+    "Properties": {
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 800,
+        "Y": 254
+      },
+      "LightingGuid": "1601EC0D-44A7D821-8101CD81-61AD3F05",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 800,
+    "SizeY": 254,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 812800,
+          "SizeOnDisk": 812800,
+          "OffsetInFile": "0x7C"
+        },
+        "SizeX": 800,
+        "SizeY": 254,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_DCommission_Info_Bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/TakeOrders/LeftPopup/UI_YH_DCommission_Info_Bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 208,
+        "Y": 208
+      },
+      "LightingGuid": "561B0961-46DEC7E8-ABBB34A5-CD072C56",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 208,
+    "SizeY": 208,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 43264,
+          "SizeOnDisk": 43264,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 208,
+        "SizeY": 208,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

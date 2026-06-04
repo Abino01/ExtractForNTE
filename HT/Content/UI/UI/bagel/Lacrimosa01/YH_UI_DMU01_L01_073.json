@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DMU01_L01_073",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/bagel/Lacrimosa01/YH_UI_DMU01_L01_073",
+    "Properties": {
+      "ImportedSize": {
+        "X": 300,
+        "Y": 400
+      },
+      "LightingGuid": "BF1DA68B-495B26D0-0A2CE0AB-92CF1869",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 300,
+    "SizeY": 400,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 120000,
+          "SizeOnDisk": 120000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 300,
+        "SizeY": 400,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

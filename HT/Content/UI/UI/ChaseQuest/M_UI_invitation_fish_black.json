@@ -1,0 +1,168 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "M_UI_invitation_fish_black",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/ChaseQuest/M_UI_invitation_fish_black",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_UI_invitation_fish'",
+        "ObjectPath": "/Game/UI/UI/ChaseQuest/M_UI_invitation_fish.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Appear",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "DCC87B38-4A79FF18-DD25EBBD-BBA2EA0F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Low Brighness",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.05,
+          "ExpressionGUID": "D43AB5D9-43C407BB-B95C36B3-DB554C76"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Main Noise Strenth BOOS07",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.01,
+          "ExpressionGUID": "239BFD05-4932941F-3088B9AF-ECDE03B4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "5CF3736F-486D21D7-03C96498-42979FD2"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Flash Control",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.2,
+            "G": 0.6,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "7CCCFF"
+          },
+          "ExpressionGUID": "0159BFAD-4593BC7D-09E1ECA1-A340CA86"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Wave Left",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 0.0,
+            "A": -0.1,
+            "Hex": "FFFF00"
+          },
+          "ExpressionGUID": "F771A8AE-4E41BD42-3D339ABC-AD33E7D1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Wave Right",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 0.1,
+            "Hex": "19FFFF00"
+          },
+          "ExpressionGUID": "4FA9EF99-49DCB8BA-84BA2BBD-B463F690"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Main Noise SV BOOS07",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 2.0,
+            "G": 3.0,
+            "B": 1.0,
+            "A": 0.1,
+            "Hex": "19FFFFFF"
+          },
+          "ExpressionGUID": "5B7C2DF8-44DAA259-EFC0A393-0E7B7CE1"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Wave Left",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_Noise0021'",
+            "ObjectPath": "/Game/FX/Tex/zt_tex/T_Noise0021.0"
+          },
+          "ExpressionGUID": "9AD88778-4702189B-D37A008A-1EE172E0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Main Noise BOOS07",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_Noise0021'",
+            "ObjectPath": "/Game/FX/Tex/zt_tex/T_Noise0021.0"
+          },
+          "ExpressionGUID": "3A29426A-418A0828-2194CE8E-515E7501"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_Additive",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

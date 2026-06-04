@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Tips_Attribute_Lock",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/UI_YH_Tips_Attribute_Lock",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 30
+      },
+      "LightingGuid": "ED893EBE-480F100F-76B3AAB8-80AB10B6",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 30,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 12000,
+          "SizeOnDisk": 12000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 100,
+        "SizeY": 30,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "bufficon_skia_shouya",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/WishingFountain/Buff/Player/bufficon_skia_shouya",
+    "Properties": {
+      "ImportedSize": {
+        "X": 28,
+        "Y": 28
+      },
+      "LightingGuid": "4FB3BF67-4B38A09D-7798F294-296DCD5A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 28,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 784,
+          "SizeOnDisk": 784,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 28,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

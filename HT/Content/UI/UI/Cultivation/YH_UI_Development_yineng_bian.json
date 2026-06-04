@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Development_yineng_bian",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Cultivation/YH_UI_Development_yineng_bian",
+    "Properties": {
+      "ImportedSize": {
+        "X": 104,
+        "Y": 104
+      },
+      "LightingGuid": "5CC45A22-4D9F1511-A1D913B1-4D883F38",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 104,
+    "SizeY": 104,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10816,
+          "SizeOnDisk": 10816,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 104,
+        "SizeY": 104,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

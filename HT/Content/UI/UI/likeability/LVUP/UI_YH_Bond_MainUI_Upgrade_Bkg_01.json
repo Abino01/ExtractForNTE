@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_MainUI_Upgrade_Bkg_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/LVUP/UI_YH_Bond_MainUI_Upgrade_Bkg_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1920,
+        "Y": 360
+      },
+      "LightingGuid": "BC9DDDE3-4AFB8FFD-6B5D7CA0-E7526CA0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1920,
+    "SizeY": 360,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 691200,
+          "SizeOnDisk": 691200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1920,
+        "SizeY": 360,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

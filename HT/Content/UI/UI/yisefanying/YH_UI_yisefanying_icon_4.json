@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yisefanying_icon_4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/yisefanying/YH_UI_yisefanying_icon_4",
+    "Properties": {
+      "ImportedSize": {
+        "X": 108,
+        "Y": 108
+      },
+      "LightingGuid": "C2BC36A5-47535011-DC33B9AA-BD5A5646",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 108,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 11664,
+          "SizeOnDisk": 11664,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 108,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

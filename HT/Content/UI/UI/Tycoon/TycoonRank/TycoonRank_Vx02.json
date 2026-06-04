@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "TycoonRank_Vx02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/TycoonRank/TycoonRank_Vx02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1000,
+        "Y": 1000
+      },
+      "LightingGuid": "F4C3F2FA-40DE9FC2-D48F05BA-EF06B3C2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1000,
+    "SizeY": 1000,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1000000,
+          "SizeOnDisk": 1000000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1000,
+        "SizeY": 1000,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

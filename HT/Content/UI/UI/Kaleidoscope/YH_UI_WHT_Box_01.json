@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_WHT_Box_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Kaleidoscope/YH_UI_WHT_Box_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 432,
+        "Y": 432
+      },
+      "LightingGuid": "A636D220-48CA21C5-5FFFFB97-AD89D514",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 432,
+    "SizeY": 432,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 186624,
+          "SizeOnDisk": 186624,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 432,
+        "SizeY": 432,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

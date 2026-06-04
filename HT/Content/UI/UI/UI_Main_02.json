@@ -1,0 +1,1030 @@
+[
+  {
+    "Type": "Material",
+    "Name": "UI_Main_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Material'",
+    "Package": "/Game/UI/UI/UI_Main_02",
+    "Properties": {
+      "MaterialDomain": "EMaterialDomain::MD_UI",
+      "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+      "MaterialDecalResponse": "EMaterialDecalResponse::MDR_None",
+      "bCanMaskedBeAssumedOpaque": true,
+      "PixelDepthOffsetMode": "EPixelDepthOffsetMode::PDOM_Legacy",
+      "StateId": "4DB7A5DD-424F85CE-103FA6B6-D3A82687",
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedExpressionData": {
+      "RuntimeEntries": {
+        "ParameterInfoSet": [
+          {
+            "Name": "RotatorSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Side mask Power(L&R)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Side mask Power(U&D)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Rongjie",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Circular_Mask",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Circular_Hardness",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Circular_Size",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "U",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "V",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UseCustomTime",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "CustomTime",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Heartbeat Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Flashing Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UV_Scale",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Appear random",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Mosaic Power",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Line_Thickness",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Line_Contrast",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Line_Breath",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Respiratory_Frequency",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Float Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Speed U",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Speed V",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Aperture Power",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Heartbeat Power",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Heartbeat Size",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Rotator",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Speed_V",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Sweep Wide",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Float Range",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Saoguang",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "PowerTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "SphereMaskPower",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Mip_Level",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Exoluminescence_2Tex_Power",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "TexMaskRotatorSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Heartbeat Interval",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Rongjie_power",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "OpacityPower",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Details_Rotator",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Details_U_Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Details_V_Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Details_U",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Details_V",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Sweep Interval(0_1)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Hover_Animate",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[1]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "Sweeping color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Aperture Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Exoluminescence Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Details_Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[2]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[3]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "UI_Tex_01",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Sweep_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Tex_Mask",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Details_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UI_Tex_02",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "MaskTexture",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[4]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[5]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[6]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[7]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[8]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "ReverseCircleMask",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Use_OpacityPower",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Use_Details",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Colored Circle Only",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Side mask switch(Left Or Right)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Left or Right",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Side mask switch(Up or Down)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Up or Down",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Reversal of direction",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Flashing switch",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Sweep Switch",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Aperture Switch",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "(LR&UD)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Filpbook",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Wrap&Clamp Switch",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Exoluminescence Switch",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "heartbeat",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Diamond mask switch",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Float Switch",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Float(LR)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Sweep Switch Am",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UsePowerTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UseSweepTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "SphereMask_Switch",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Tex mask",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Heartbeat Interval Switch",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Rongjie_Mode",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Sweep Interval Switch",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "HoverFlashingOnly",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "ScalarPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "VectorPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "ScalarValues": [
+        0.0,
+        3.0,
+        3.0,
+        1.0,
+        -0.01,
+        0.98,
+        0.5,
+        2.0,
+        4.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.5,
+        1.5,
+        0.0,
+        1.0,
+        0.1,
+        0.0,
+        1.0,
+        3.0,
+        0.0,
+        0.0,
+        2.0,
+        0.1,
+        9.0,
+        -1.0,
+        1.0,
+        0.9,
+        5.0,
+        0.0,
+        1.0,
+        3.0,
+        -1.0,
+        0.3,
+        0.0,
+        1.0,
+        50.0,
+        2.0,
+        0.5,
+        -1.0,
+        0.0,
+        1.0,
+        1.0,
+        0.75,
+        0.0
+      ],
+      "StaticSwitchValues": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "DynamicSwitchValues": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "VectorValues": [
+        {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 1.0,
+          "Hex": "000000"
+        },
+        {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 1.0,
+          "Hex": "000000"
+        },
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        },
+        {
+          "R": 1.794018,
+          "G": 2.70104,
+          "B": 5.0,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        },
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        }
+      ],
+      "DoubleVectorValues": [],
+      "TextureValues": [
+        {
+          "AssetPathName": "/Game/UI/UI/main/jiaohu/UI_liaotianqipao_02.UI_liaotianqipao_02",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Engine/EngineResources/DefaultTexture.DefaultTexture",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/UI/UI/main/jiaohu/UI_liaotianqipao_02.UI_liaotianqipao_02",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/UI/UI/main/jiaohu/UI_liaotianqipao_02.UI_liaotianqipao_02",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask14.UI_T_Mask14",
+          "SubPathString": ""
+        }
+      ],
+      "TextureCollectionValues": [],
+      "FontValues": [],
+      "FontPageValues": [],
+      "RuntimeVirtualTextureValues": [],
+      "SparseVolumeTextureValues": [],
+      "ReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'UI_liaotianqipao_02'",
+          "ObjectPath": "/Game/UI/UI/main/jiaohu/UI_liaotianqipao_02.0"
+        },
+        null,
+        {
+          "ObjectName": "Texture2D'DefaultDiffuse'",
+          "ObjectPath": "/Engine/EngineMaterials/DefaultDiffuse.0"
+        },
+        {
+          "ObjectName": "Texture2D'DebugNumberStrip'",
+          "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.0"
+        },
+        {
+          "ObjectName": "Texture2D'DebugNumberPeriod'",
+          "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.0"
+        },
+        {
+          "ObjectName": "Texture2D'flipbook'",
+          "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.0"
+        },
+        {
+          "ObjectName": "Texture2D'DefaultTexture'",
+          "ObjectPath": "/Engine/EngineResources/DefaultTexture.0"
+        },
+        {
+          "ObjectName": "Texture2D'UI_T_Mask14'",
+          "ObjectPath": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask14.0"
+        }
+      ],
+      "ReferencedTextureCollections": [],
+      "ReferencedExternalCodeExpressionClasses": [],
+      "FunctionInfos": [
+        {
+          "StateId": "FF03844B-44F5A12D-60F4C1B0-46A85ABD",
+          "Function": {
+            "ObjectName": "MaterialFunction'VectorToRadialValue'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "E47E7D6B-466F913C-C1497584-EDB1DBD6",
+          "Function": {
+            "ObjectName": "MaterialFunction'ComputeMipLevel'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.0"
+          }
+        },
+        {
+          "StateId": "2DA7361E-4ADEEDBC-9E251392-08DB9B40",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugScalarValues'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "E47E7D6B-466F913C-C1497584-EDB1DBD6",
+          "Function": {
+            "ObjectName": "MaterialFunction'ComputeMipLevel'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.0"
+          }
+        },
+        {
+          "StateId": "2DA7361E-4ADEEDBC-9E251392-08DB9B40",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugScalarValues'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "BBE5CE17-42600C40-DF0A77AF-DB6EC5B4",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugFloat2Values'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.0"
+          }
+        },
+        {
+          "StateId": "CEA19503-4AFB6DD7-0ED556A0-0EFCD46F",
+          "Function": {
+            "ObjectName": "MaterialFunction'FlipBook'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "B2F4A5A7-4EDE33D8-E70A4A83-A28D1503",
+          "Function": {
+            "ObjectName": "MaterialFunction'ScaleUVsByCenter'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.0"
+          }
+        },
+        {
+          "StateId": "2F9B74B3-488E742F-2BAE96AF-8A5EF1BB",
+          "Function": {
+            "ObjectName": "MaterialFunction'MosaicUVs'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/MosaicUVs.0"
+          }
+        },
+        {
+          "StateId": "2F9B74B3-488E742F-2BAE96AF-8A5EF1BB",
+          "Function": {
+            "ObjectName": "MaterialFunction'MosaicUVs'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/MosaicUVs.0"
+          }
+        },
+        {
+          "StateId": "42FB52C9-4B6E464D-2D6CB2B5-E6A65899",
+          "Function": {
+            "ObjectName": "MaterialFunction'ExponentialDensity'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.0"
+          }
+        },
+        {
+          "StateId": "42FB52C9-4B6E464D-2D6CB2B5-E6A65899",
+          "Function": {
+            "ObjectName": "MaterialFunction'ExponentialDensity'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.0"
+          }
+        },
+        {
+          "StateId": "235C8133-44D704CA-0297108A-59B9F710",
+          "Function": {
+            "ObjectName": "MaterialFunction'RadialGradientExponential'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.0"
+          }
+        },
+        {
+          "StateId": "D1B4BAD5-4F146B23-084C06BD-6757A4AC",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HottaTime'",
+            "ObjectPath": "/Game/Materials/UI/MF_HottaTime.0"
+          }
+        },
+        {
+          "StateId": "D1B4BAD5-4F146B23-084C06BD-6757A4AC",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HottaTime'",
+            "ObjectPath": "/Game/Materials/UI/MF_HottaTime.0"
+          }
+        },
+        {
+          "StateId": "D1B4BAD5-4F146B23-084C06BD-6757A4AC",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HottaTime'",
+            "ObjectPath": "/Game/Materials/UI/MF_HottaTime.0"
+          }
+        },
+        {
+          "StateId": "D1B4BAD5-4F146B23-084C06BD-6757A4AC",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HottaTime'",
+            "ObjectPath": "/Game/Materials/UI/MF_HottaTime.0"
+          }
+        },
+        {
+          "StateId": "D1B4BAD5-4F146B23-084C06BD-6757A4AC",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HottaTime'",
+            "ObjectPath": "/Game/Materials/UI/MF_HottaTime.0"
+          }
+        },
+        {
+          "StateId": "D1B4BAD5-4F146B23-084C06BD-6757A4AC",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HottaTime'",
+            "ObjectPath": "/Game/Materials/UI/MF_HottaTime.0"
+          }
+        },
+        {
+          "StateId": "D1B4BAD5-4F146B23-084C06BD-6757A4AC",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HottaTime'",
+            "ObjectPath": "/Game/Materials/UI/MF_HottaTime.0"
+          }
+        },
+        {
+          "StateId": "D1B4BAD5-4F146B23-084C06BD-6757A4AC",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HottaTime'",
+            "ObjectPath": "/Game/Materials/UI/MF_HottaTime.0"
+          }
+        },
+        {
+          "StateId": "D1B4BAD5-4F146B23-084C06BD-6757A4AC",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HottaTime'",
+            "ObjectPath": "/Game/Materials/UI/MF_HottaTime.0"
+          }
+        },
+        {
+          "StateId": "D1B4BAD5-4F146B23-084C06BD-6757A4AC",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HottaTime'",
+            "ObjectPath": "/Game/Materials/UI/MF_HottaTime.0"
+          }
+        },
+        {
+          "StateId": "D1B4BAD5-4F146B23-084C06BD-6757A4AC",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HottaTime'",
+            "ObjectPath": "/Game/Materials/UI/MF_HottaTime.0"
+          }
+        },
+        {
+          "StateId": "D1B4BAD5-4F146B23-084C06BD-6757A4AC",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HottaTime'",
+            "ObjectPath": "/Game/Materials/UI/MF_HottaTime.0"
+          }
+        }
+      ],
+      "FunctionInfosStateCRC": 507811911,
+      "ParameterCollectionInfos": [],
+      "GrassTypes": [],
+      "MaterialLayers": {
+        "Layers": [],
+        "Blends": [],
+        "tree": {
+          "Nodes": [],
+          "Payloads": [],
+          "Root": -1
+        }
+      },
+      "DynamicParameterNames": [],
+      "QualityLevelsUsed": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "bHasMaterialLayers": false,
+      "bHasRuntimeVirtualTextureOutput": false,
+      "bHasFirstPersonOutput": false,
+      "bHasMaterialCacheOutput": false,
+      "bMaterialCacheHasNonUVDerivedExpression": false,
+      "bHasSceneColor": false,
+      "bHasPerInstanceCustomData": false,
+      "bHasPerInstanceRandom": false,
+      "bHasVertexInterpolator": false,
+      "bHasCustomizedUVs": false,
+      "bHasMeshPaintTexture": false,
+      "bHasWorldPosition": false,
+      "PropertyConnectedMask": 3
+    },
+    "ReferencedTextures": [
+      {
+        "ObjectName": "Texture2D'DefaultDiffuse'",
+        "ObjectPath": "/Engine/EngineMaterials/DefaultDiffuse.0"
+      },
+      {
+        "ObjectName": "Texture2D'DefaultTexture'",
+        "ObjectPath": "/Engine/EngineResources/DefaultTexture.0"
+      },
+      {
+        "ObjectName": "Texture2D'DebugNumberStrip'",
+        "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.0"
+      },
+      {
+        "ObjectName": "Texture2D'DebugNumberPeriod'",
+        "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.0"
+      },
+      {
+        "ObjectName": "Texture2D'flipbook'",
+        "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.0"
+      },
+      {
+        "ObjectName": "Texture2D'UI_liaotianqipao_02'",
+        "ObjectPath": "/Game/UI/UI/main/jiaohu/UI_liaotianqipao_02.0"
+      },
+      {
+        "ObjectName": "Texture2D'UI_T_Mask14'",
+        "ObjectPath": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask14.0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_citytycoon_Coordinates_OutLine",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/YH_UI_citytycoon_Coordinates_OutLine",
+    "Properties": {
+      "ImportedSize": {
+        "X": 300,
+        "Y": 331
+      },
+      "LightingGuid": "AA651B7C-403A6669-27797D88-18518731",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 300,
+    "SizeY": 331,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 397200,
+          "SizeOnDisk": 397200,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 300,
+        "SizeY": 331,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_car_tex1_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVE/YH_UI_car_tex1_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1000,
+        "Y": 1036
+      },
+      "LightingGuid": "9A88DE22-4DE2F4EE-8F6F5A9D-30D796FE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1000,
+    "SizeY": 1036,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1036000,
+          "SizeOnDisk": 1036000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1000,
+        "SizeY": 1036,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

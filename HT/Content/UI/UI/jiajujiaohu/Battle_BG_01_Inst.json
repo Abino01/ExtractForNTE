@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "Battle_BG_01_Inst",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/jiajujiaohu/Battle_BG_01_Inst",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'UI_Main_01'",
+        "ObjectPath": "/Game/Resources/UI/UI_Main_01.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "RotateOffset",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "1249203A-4BD126A5-83C3CEA2-98DD0588"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex_01",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_icon_record_03'",
+            "ObjectPath": "/Game/UI/UI_Icon/Item/YH_UI_icon_record_03.0"
+          },
+          "ExpressionGUID": "78F03A28-468DDB8E-40FB98A8-8C19FA2E"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

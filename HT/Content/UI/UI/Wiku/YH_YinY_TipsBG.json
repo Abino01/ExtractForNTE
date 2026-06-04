@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_YinY_TipsBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YH_YinY_TipsBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 124,
+        "Y": 60
+      },
+      "LightingGuid": "4E2EE889-4789BB2F-7B766D9B-7A19BBD8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 124,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7440,
+          "SizeOnDisk": 7440,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 124,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

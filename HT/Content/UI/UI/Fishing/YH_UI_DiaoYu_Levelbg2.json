@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DiaoYu_Levelbg2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Fishing/YH_UI_DiaoYu_Levelbg2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 384,
+        "Y": 34
+      },
+      "LightingGuid": "44600D3C-47507208-6F1FC38B-5A12C5E2",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "SRGB": false,
+      "NeverStream": true
+    },
+    "SizeX": 384,
+    "SizeY": 34,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 52224,
+          "SizeOnDisk": 52224,
+          "OffsetInFile": "0x7E"
+        },
+        "SizeX": 384,
+        "SizeY": 34,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

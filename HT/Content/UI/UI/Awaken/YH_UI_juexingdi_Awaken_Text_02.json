@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_juexingdi_Awaken_Text_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Awaken/YH_UI_juexingdi_Awaken_Text_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 320,
+        "Y": 48
+      },
+      "LightingGuid": "66A82E81-4EC3F7D1-DD612794-9AD605E5",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 320,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 61440,
+          "SizeOnDisk": 61440,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 320,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

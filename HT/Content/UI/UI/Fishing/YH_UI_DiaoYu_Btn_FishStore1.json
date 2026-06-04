@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DiaoYu_Btn_FishStore1",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Fishing/YH_UI_DiaoYu_Btn_FishStore1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 50,
+        "Y": 50
+      },
+      "LightingGuid": "253353FE-42BE68D5-00812F9C-5A32F286",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 50,
+    "SizeY": 50,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10000,
+          "SizeOnDisk": 10000,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 50,
+        "SizeY": 50,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

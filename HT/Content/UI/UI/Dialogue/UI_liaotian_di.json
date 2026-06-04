@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_liaotian_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/dialogue/UI_liaotian_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 973,
+        "Y": 103
+      },
+      "LightingGuid": "215B2EAB-48C54B13-D9FE7B91-0A8B21F0",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 973,
+    "SizeY": 103,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 400876,
+          "SizeOnDisk": 400876,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 973,
+        "SizeY": 103,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

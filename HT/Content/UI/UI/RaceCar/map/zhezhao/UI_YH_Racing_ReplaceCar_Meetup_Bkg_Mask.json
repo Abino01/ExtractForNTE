@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_ReplaceCar_Meetup_Bkg_Mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/map/zhezhao/UI_YH_Racing_ReplaceCar_Meetup_Bkg_Mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 440,
+        "Y": 272
+      },
+      "LightingGuid": "AD7C8EDD-4265FBE7-5DA76DBE-CB40B46E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 440,
+    "SizeY": 272,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 59840,
+          "SizeOnDisk": 59840,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 440,
+        "SizeY": 272,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

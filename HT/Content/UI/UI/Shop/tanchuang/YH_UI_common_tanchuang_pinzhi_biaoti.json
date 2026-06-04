@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_common_tanchuang_pinzhi_biaoti",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/tanchuang/YH_UI_common_tanchuang_pinzhi_biaoti",
+    "Properties": {
+      "ImportedSize": {
+        "X": 314,
+        "Y": 94
+      },
+      "LightingGuid": "0EA9EA2D-4C84A581-E9F43990-AFDF9F7B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 314,
+    "SizeY": 94,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 118064,
+          "SizeOnDisk": 118064,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 314,
+        "SizeY": 94,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

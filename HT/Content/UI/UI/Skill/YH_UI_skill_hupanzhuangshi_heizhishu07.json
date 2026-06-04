@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_skill_hupanzhuangshi_heizhishu07",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/skill/YH_UI_skill_hupanzhuangshi_heizhishu07",
+    "Properties": {
+      "ImportedSize": {
+        "X": 32,
+        "Y": 122
+      },
+      "LightingGuid": "0853EA9D-4D851F8A-670BB697-1340D5EA",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 32,
+    "SizeY": 122,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 15616,
+          "SizeOnDisk": 15616,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 32,
+        "SizeY": 122,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_room_shushidu_ico",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/roomsetting/YH_UI_room_shushidu_ico",
+    "Properties": {
+      "ImportedSize": {
+        "X": 40,
+        "Y": 40
+      },
+      "LightingGuid": "31DDDAC5-44956D99-3CE7A29B-069C2EEF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 40,
+    "SizeY": 40,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1600,
+          "SizeOnDisk": 1600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 40,
+        "SizeY": 40,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

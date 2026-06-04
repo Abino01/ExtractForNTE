@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_yh_fwq_xuanze_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/login/UI_yh_fwq_xuanze_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 900,
+        "Y": 484
+      },
+      "LightingGuid": "DD604A5C-4BB518EF-6881868A-8AE9DD5A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 900,
+    "SizeY": 484,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1742400,
+          "SizeOnDisk": 1742400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 900,
+        "SizeY": 484,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

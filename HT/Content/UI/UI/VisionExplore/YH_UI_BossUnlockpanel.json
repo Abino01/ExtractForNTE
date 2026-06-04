@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_BossUnlockpanel",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/YH_UI_BossUnlockpanel",
+    "Properties": {
+      "ImportedSize": {
+        "X": 80,
+        "Y": 48
+      },
+      "LightingGuid": "EA20F887-4410F1CB-1534CCA3-A8B9FDE4",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 80,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 15360,
+          "SizeOnDisk": 15360,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 80,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

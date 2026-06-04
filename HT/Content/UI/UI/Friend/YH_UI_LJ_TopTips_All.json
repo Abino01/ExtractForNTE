@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LJ_TopTips_All",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Friend/YH_UI_LJ_TopTips_All",
+    "Properties": {
+      "ImportedSize": {
+        "X": 60,
+        "Y": 60
+      },
+      "LightingGuid": "102D8412-47DCF7EC-266A499F-404D5B34",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 60,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3600,
+          "SizeOnDisk": 3600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 60,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_JBFB_fangsitab",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Mamen/UI_YH_JBFB_fangsitab",
+    "Properties": {
+      "ImportedSize": {
+        "X": 199,
+        "Y": 46
+      },
+      "LightingGuid": "6257E15C-4A9D4E87-6E6C5B83-535F9D64",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 199,
+    "SizeY": 46,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 36616,
+          "SizeOnDisk": 36616,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 199,
+        "SizeY": 46,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

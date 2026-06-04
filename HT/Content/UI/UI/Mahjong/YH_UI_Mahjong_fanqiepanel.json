@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_fanqiepanel",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/YH_UI_Mahjong_fanqiepanel",
+    "Properties": {
+      "ImportedSize": {
+        "X": 120,
+        "Y": 80
+      },
+      "LightingGuid": "7193A49D-4B30AA52-B73C76A5-B6E5C5D9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 120,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9600,
+          "SizeOnDisk": 9600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 120,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

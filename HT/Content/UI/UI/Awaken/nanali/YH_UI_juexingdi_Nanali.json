@@ -1,0 +1,39 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_juexingdi_Nanali",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Awaken/Nanali/YH_UI_juexingdi_Nanali",
+    "Properties": {
+      "AddressX": "TextureAddress::TA_Clamp",
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 1700,
+        "Y": 1360
+      },
+      "LightingGuid": "2E6BE1E5-4AAC6374-F6049082-1B16179B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1700,
+    "SizeY": 1360,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9248000,
+          "SizeOnDisk": 9248000,
+          "OffsetInFile": "0x7D"
+        },
+        "SizeX": 1700,
+        "SizeY": 1360,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

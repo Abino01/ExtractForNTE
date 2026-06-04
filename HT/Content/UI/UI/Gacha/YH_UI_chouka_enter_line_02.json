@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_chouka_enter_line_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_chouka_enter_line_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 210,
+        "Y": 10
+      },
+      "LightingGuid": "A14F888F-4BE5962B-7B020B8A-82A62FD5",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 210,
+    "SizeY": 10,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8400,
+          "SizeOnDisk": 8400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 210,
+        "SizeY": 10,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

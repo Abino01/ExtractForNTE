@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_File_voice_frame1",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/dangan/YH_UI_File_voice_frame1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 110,
+        "Y": 110
+      },
+      "LightingGuid": "EBA1469C-47C9DB29-B02D649E-4A57E80A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 110,
+    "SizeY": 110,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 48400,
+          "SizeOnDisk": 48400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 110,
+        "SizeY": 110,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

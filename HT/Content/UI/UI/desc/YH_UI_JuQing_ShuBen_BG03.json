@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_JuQing_ShuBen_BG03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/desc/YH_UI_JuQing_ShuBen_BG03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1008,
+        "Y": 1164
+      },
+      "LightingGuid": "BBAA23C1-4F1C1298-96099DB0-3782572D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1008,
+    "SizeY": 1164,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1173312,
+          "SizeOnDisk": 1173312,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1008,
+        "SizeY": 1164,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

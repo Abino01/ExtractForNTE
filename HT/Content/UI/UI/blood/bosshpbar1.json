@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "bosshpbar1",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/blood/bosshpbar1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 430,
+        "Y": 8
+      },
+      "LightingGuid": "87D788DC-4F9D23BB-0B51C389-8051485F",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 430,
+    "SizeY": 8,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 13760,
+          "SizeOnDisk": 13760,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 430,
+        "SizeY": 8,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

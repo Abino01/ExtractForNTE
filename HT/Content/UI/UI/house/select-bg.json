@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "select-bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/select-bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 300,
+        "Y": 300
+      },
+      "LightingGuid": "70313C7D-47F07855-179845AA-439AE665",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 300,
+    "SizeY": 300,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 90000,
+          "SizeOnDisk": 90000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 300,
+        "SizeY": 300,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

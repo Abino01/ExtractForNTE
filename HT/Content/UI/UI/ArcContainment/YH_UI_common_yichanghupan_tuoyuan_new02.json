@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_common_yichanghupan_tuoyuan_new02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ArcContainment/YH_UI_common_yichanghupan_tuoyuan_new02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 178,
+        "Y": 178
+      },
+      "LightingGuid": "7321287B-42A0259E-6EC5E78C-9E33D5EB",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 178,
+    "SizeY": 178,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 126736,
+          "SizeOnDisk": 126736,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 178,
+        "SizeY": 178,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Rank_Icon_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVPRank/Rank/UI_YH_Racing_Rank_Icon_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 412,
+        "Y": 412
+      },
+      "LightingGuid": "CFA12E1F-4F6909EF-209C21A2-2CB6C76A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 412,
+    "SizeY": 412,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 169744,
+          "SizeOnDisk": 169744,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 412,
+        "SizeY": 412,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

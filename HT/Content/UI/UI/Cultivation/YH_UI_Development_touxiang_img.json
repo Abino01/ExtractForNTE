@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Development_touxiang_img",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Cultivation/YH_UI_Development_touxiang_img",
+    "Properties": {
+      "ImportedSize": {
+        "X": 132,
+        "Y": 132
+      },
+      "LightingGuid": "B515B42B-4CFF2904-4A078697-0EE3E588",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 132,
+    "SizeY": 132,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 17424,
+          "SizeOnDisk": 17424,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 132,
+        "SizeY": 132,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

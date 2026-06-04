@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangdianshop_qingdanbg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/caigou/YH_UI_shangdianshop_qingdanbg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 456,
+        "Y": 136
+      },
+      "LightingGuid": "ED68CDAA-4FAA472C-628FEA9D-BC7685BB",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 456,
+    "SizeY": 136,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 62016,
+          "SizeOnDisk": 62016,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 456,
+        "SizeY": 136,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

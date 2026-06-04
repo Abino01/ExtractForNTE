@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_jueseshuxing_touxiangkuang_orange",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/UI_jueseshuxing_touxiangkuang_orange",
+    "Properties": {
+      "ImportedSize": {
+        "X": 116,
+        "Y": 116
+      },
+      "LightingGuid": "0038145A-43179674-0673FD8A-D2F3CFBF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 116,
+    "SizeY": 116,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 13456,
+          "SizeOnDisk": 13456,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 116,
+        "SizeY": 116,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_dichan_logo02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/YH_UI_dichan_logo02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 900,
+        "Y": 300
+      },
+      "LightingGuid": "47325172-481B16FB-D92AB585-BC743FA3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 900,
+    "SizeY": 300,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 270000,
+          "SizeOnDisk": 270000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 900,
+        "SizeY": 300,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

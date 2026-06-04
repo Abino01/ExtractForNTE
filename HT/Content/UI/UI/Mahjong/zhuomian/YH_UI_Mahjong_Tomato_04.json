@@ -1,0 +1,39 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_Tomato_04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_Mahjong_Tomato_04",
+    "Properties": {
+      "AddressX": "TextureAddress::TA_Clamp",
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 240,
+        "Y": 200
+      },
+      "LightingGuid": "DCF5A878-4F51D77B-3DCB03BA-C9AF8052",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 240,
+    "SizeY": 200,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 192000,
+          "SizeOnDisk": 192000,
+          "OffsetInFile": "0x7D"
+        },
+        "SizeX": 240,
+        "SizeY": 200,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

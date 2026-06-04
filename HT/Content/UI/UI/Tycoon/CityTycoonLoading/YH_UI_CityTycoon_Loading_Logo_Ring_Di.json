@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_CityTycoon_Loading_Logo_Ring_Di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/CityTycoonLoading/YH_UI_CityTycoon_Loading_Logo_Ring_Di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 852,
+        "Y": 852
+      },
+      "LightingGuid": "E93D9D53-4F24B117-E4ADC384-C85D445C",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 852,
+    "SizeY": 852,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2903616,
+          "SizeOnDisk": 2903616,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 852,
+        "SizeY": 852,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

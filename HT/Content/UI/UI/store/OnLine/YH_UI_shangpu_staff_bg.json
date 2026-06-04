@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_staff_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/OnLine/YH_UI_shangpu_staff_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 340,
+        "Y": 152
+      },
+      "LightingGuid": "25E736F9-42E1E3DB-CACBE7A8-9D342818",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 340,
+    "SizeY": 152,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 51680,
+          "SizeOnDisk": 51680,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 340,
+        "SizeY": 152,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

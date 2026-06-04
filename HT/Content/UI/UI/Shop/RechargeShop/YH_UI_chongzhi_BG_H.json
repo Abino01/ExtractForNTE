@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_chongzhi_BG_H",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/RechargeShop/YH_UI_chongzhi_BG_H",
+    "Properties": {
+      "ImportedSize": {
+        "X": 248,
+        "Y": 740
+      },
+      "LightingGuid": "15BB86D7-433CAEDF-84E6DFA5-07C586F0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 248,
+    "SizeY": 740,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 183520,
+          "SizeOnDisk": 183520,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 248,
+        "SizeY": 740,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

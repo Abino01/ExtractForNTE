@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_denglu_huawen01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/login/YH_UI_denglu_huawen01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 888,
+        "Y": 888
+      },
+      "LightingGuid": "FDCE47DD-44216A7F-071A8E9B-72BC65AF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 888,
+    "SizeY": 888,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 788544,
+          "SizeOnDisk": 788544,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 888,
+        "SizeY": 888,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

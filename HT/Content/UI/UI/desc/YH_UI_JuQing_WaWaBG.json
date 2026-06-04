@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_JuQing_WaWaBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/desc/YH_UI_JuQing_WaWaBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 876,
+        "Y": 820
+      },
+      "LightingGuid": "D38FDB2A-4FE932A1-BF4D01A8-3CBA0DE6",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 876,
+    "SizeY": 820,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 718320,
+          "SizeOnDisk": 718320,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 876,
+        "SizeY": 820,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

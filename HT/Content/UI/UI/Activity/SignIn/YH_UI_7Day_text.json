@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_7Day_text",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/SignIn/YH_UI_7Day_text",
+    "Properties": {
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 890,
+        "Y": 80
+      },
+      "LightingGuid": "DD3F077E-47F82581-A7D0F7AB-DCB943DA",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 890,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 284800,
+          "SizeOnDisk": 284800,
+          "OffsetInFile": "0x7C"
+        },
+        "SizeX": 890,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

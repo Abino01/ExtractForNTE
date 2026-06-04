@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_beiguo_jili_diwen",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/NoteBook/YH_UI_beiguo_jili_diwen",
+    "Properties": {
+      "ImportedSize": {
+        "X": 402,
+        "Y": 251
+      },
+      "LightingGuid": "9281C052-4EA77D28-C47F738E-8A021C67",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 402,
+    "SizeY": 251,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 403608,
+          "SizeOnDisk": 403608,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 402,
+        "SizeY": 251,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

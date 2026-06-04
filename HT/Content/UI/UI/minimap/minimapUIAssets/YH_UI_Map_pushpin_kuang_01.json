@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Map_pushpin_kuang_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/minimapUIAssets/YH_UI_Map_pushpin_kuang_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 56,
+        "Y": 36
+      },
+      "LightingGuid": "C2A915CB-46F5B046-D87DF38E-C227A72C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 56,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2016,
+          "SizeOnDisk": 2016,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 56,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

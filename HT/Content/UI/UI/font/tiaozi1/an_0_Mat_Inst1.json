@@ -1,0 +1,133 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "an_0_Mat_Inst1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/font/tiaozi1/an_0_Mat_Inst1",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'an_0_Mat1'",
+        "ObjectPath": "/Game/UI/UI/font/tiaozi1/an_0_Mat1.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "AM",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "A97522CC-491F0EE2-8FF5BB9F-DFACD42F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Animation  Phase (0-1) (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "235135E2-41C2EA42-924939A3-B9984A49"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "LightMul",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 5.0,
+          "ExpressionGUID": "BCF99318-467BCC52-9E3459BE-7384E791"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorAngle (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -60.0,
+          "ExpressionGUID": "F376ADB4-48B0801C-3951E1A2-16BB43D3"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "TextureScale",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.8,
+          "ExpressionGUID": "AC543513-4CD2BE32-379E0B84-0EB5E947"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "OverlayTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "47793630-41ABD6A3-EC0AE4BC-7F5A082B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "OverlayUV",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.2,
+            "G": 1.2,
+            "B": -0.336,
+            "A": 0.232,
+            "Hex": "3BFFFF00"
+          },
+          "ExpressionGUID": "474053B4-474E4707-F476F7B1-CAEC2249"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'an_0'",
+            "ObjectPath": "/Game/UI/UI/font/tiaozi1/an_0.0"
+          },
+          "ExpressionGUID": "A8865C10-4DE42011-9E104698-5E92B8B4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "OverlayTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'crit_test'",
+            "ObjectPath": "/Game/UI/UI/font/tiaozi1/crit_test.0"
+          },
+          "ExpressionGUID": "0853D67C-415A3577-7BE34AB3-97C8DF4F"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

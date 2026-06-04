@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "shengyuanBG3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/tishi/shengyuanBG3",
+    "Properties": {
+      "ImportedSize": {
+        "X": 392,
+        "Y": 212
+      },
+      "LightingGuid": "9BE41CF9-4FA5A0A0-94B1A0BE-2F65A67B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 392,
+    "SizeY": 212,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 332416,
+          "SizeOnDisk": 332416,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 392,
+        "SizeY": 212,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

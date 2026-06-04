@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_yuanjiaojuxing_40_hover",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/YH_UI_shangpu_yuanjiaojuxing_40_hover",
+    "Properties": {
+      "ImportedSize": {
+        "X": 60,
+        "Y": 40
+      },
+      "LightingGuid": "068CB922-4E016244-8FAE7592-7E571222",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 60,
+    "SizeY": 40,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9600,
+          "SizeOnDisk": 9600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 60,
+        "SizeY": 40,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

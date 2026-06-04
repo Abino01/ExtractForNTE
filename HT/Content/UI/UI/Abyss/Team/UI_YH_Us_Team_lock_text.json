@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Team_lock_text",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Team/UI_YH_Us_Team_lock_text",
+    "Properties": {
+      "ImportedSize": {
+        "X": 258,
+        "Y": 56
+      },
+      "LightingGuid": "5F954AC5-4D22FC86-52BB3DA8-E6E6DD88",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 258,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 57792,
+          "SizeOnDisk": 57792,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 258,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_QTE_BG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/QTE/YH_UI_QTE_BG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 456,
+        "Y": 456
+      },
+      "LightingGuid": "32004737-43C866E1-2403DEB7-934B5E5F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 456,
+    "SizeY": 456,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 207936,
+          "SizeOnDisk": 207936,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 456,
+        "SizeY": 456,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LiaoTian_RoleSelectBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/liaotian/YH_UI_LiaoTian_RoleSelectBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 532,
+        "Y": 116
+      },
+      "LightingGuid": "6946B412-4C9D4CF0-16DB7EAE-A0C44D66",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 532,
+    "SizeY": 116,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 61712,
+          "SizeOnDisk": 61712,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 532,
+        "SizeY": 116,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

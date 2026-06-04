@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_zhaopian_dikuang_new",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/YH_UI_shangpu_zhaopian_dikuang_new",
+    "Properties": {
+      "ImportedSize": {
+        "X": 74,
+        "Y": 74
+      },
+      "LightingGuid": "2051BD5E-4A4DDA68-D676238B-91CA6DFE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 74,
+    "SizeY": 74,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 21904,
+          "SizeOnDisk": 21904,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 74,
+        "SizeY": 74,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

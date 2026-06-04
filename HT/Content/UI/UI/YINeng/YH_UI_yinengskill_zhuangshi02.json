@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yinengskill_zhuangshi02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_UI_yinengskill_zhuangshi02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 125,
+        "Y": 62
+      },
+      "LightingGuid": "B15271C8-4637B74F-B0CAD5A5-B4858C70",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 125,
+    "SizeY": 62,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 31000,
+          "SizeOnDisk": 31000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 125,
+        "SizeY": 62,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

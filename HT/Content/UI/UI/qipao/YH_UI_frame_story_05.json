@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_frame_story_05",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/qipao/YH_UI_frame_story_05",
+    "Properties": {
+      "ImportedSize": {
+        "X": 72,
+        "Y": 20
+      },
+      "LightingGuid": "3EBB05A6-4D4C9C46-7C7CE4B2-ABC28E65",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 72,
+    "SizeY": 20,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5760,
+          "SizeOnDisk": 5760,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 72,
+        "SizeY": 20,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

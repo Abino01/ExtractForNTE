@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_furniture_collect",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/FurnitureList/YH_UI_bg_furniture_collect",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1732,
+        "Y": 844
+      },
+      "LightingGuid": "5DCB2888-4057D7F7-A98063A4-373E182B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1732,
+    "SizeY": 844,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1461808,
+          "SizeOnDisk": 1461808,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1732,
+        "SizeY": 844,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

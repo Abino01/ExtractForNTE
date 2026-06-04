@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TitleSystem_Bagel3_444",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PlayerInfo/TitleSystem/Title/Tycoon/YH_UI_TitleSystem_Bagel3_444",
+    "Properties": {
+      "ImportedSize": {
+        "X": 444,
+        "Y": 156
+      },
+      "LightingGuid": "87B847C0-4FFCD16A-0358F295-3E21C4A0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 444,
+    "SizeY": 156,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 69264,
+          "SizeOnDisk": 69264,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 444,
+        "SizeY": 156,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

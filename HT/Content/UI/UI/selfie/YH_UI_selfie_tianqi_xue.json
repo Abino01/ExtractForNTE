@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_tianqi_xue",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_selfie_tianqi_xue",
+    "Properties": {
+      "ImportedSize": {
+        "X": 60,
+        "Y": 60
+      },
+      "LightingGuid": "A231D5B9-4D1B7DD5-0EBA828B-295EF40E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 60,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3600,
+          "SizeOnDisk": 3600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 60,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

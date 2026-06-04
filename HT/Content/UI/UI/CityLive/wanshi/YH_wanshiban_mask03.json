@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_wanshiban_mask03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/YH_wanshiban_mask03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 420,
+        "Y": 406
+      },
+      "LightingGuid": "7E777801-4032A8E1-5A4E1BAF-DC2B3212",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 420,
+    "SizeY": 406,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 682080,
+          "SizeOnDisk": 682080,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 420,
+        "SizeY": 406,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

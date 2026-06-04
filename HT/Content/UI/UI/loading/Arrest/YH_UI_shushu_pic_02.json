@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shushu_pic_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/loading/Arrest/YH_UI_shushu_pic_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 820,
+        "Y": 360
+      },
+      "LightingGuid": "D9CE3BE7-4DFBD39D-4AEB81B3-11F42FB2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 820,
+    "SizeY": 360,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 295200,
+          "SizeOnDisk": 295200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 820,
+        "SizeY": 360,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_CityGameplay_Details_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Taxi/UI_YH_CityGameplay_Details_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 564,
+        "Y": 1080
+      },
+      "LightingGuid": "C3D5001D-4B929C3F-E669529E-13C8FC7E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 564,
+    "SizeY": 1080,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 609120,
+          "SizeOnDisk": 609120,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 564,
+        "SizeY": 1080,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "interactiveMask",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/jiaohu/interactiveMask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 548,
+        "Y": 56
+      },
+      "LightingGuid": "CA779015-47BFE933-E1995591-5AB70071",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 548,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 122752,
+          "SizeOnDisk": 122752,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 548,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

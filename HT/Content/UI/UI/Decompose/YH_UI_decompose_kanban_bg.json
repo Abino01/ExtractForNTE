@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_decompose_kanban_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Decompose/YH_UI_decompose_kanban_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 520,
+        "Y": 656
+      },
+      "LightingGuid": "F1E70C7C-4909B3E6-29C2B7A4-66D61382",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 520,
+    "SizeY": 656,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 341120,
+          "SizeOnDisk": 341120,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 520,
+        "SizeY": 656,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

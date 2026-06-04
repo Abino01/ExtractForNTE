@@ -1,0 +1,929 @@
+[
+  {
+    "Type": "CanvasPanel",
+    "Name": "CanvasPanel_27",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CanvasPanel'",
+    "Outer": {
+      "ObjectName": "WidgetTree'GlidingUI_BP_C:WidgetTree'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.19"
+    },
+    "Properties": {
+      "Slots": [
+        {
+          "ObjectName": "CanvasPanelSlot'GlidingUI_BP_C:WidgetTree.CanvasPanel_27.CanvasPanelSlot_0'",
+          "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.1"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "CanvasPanelSlot",
+    "Name": "CanvasPanelSlot_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CanvasPanelSlot'",
+    "Outer": {
+      "ObjectName": "CanvasPanel'GlidingUI_BP_C:WidgetTree.CanvasPanel_27'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.0"
+    },
+    "Properties": {
+      "LayoutData": {
+        "Offsets": {
+          "Left": -64.0,
+          "Top": -524.0,
+          "Right": -64.0,
+          "Bottom": -444.0
+        },
+        "Anchors": {
+          "Maximum": {
+            "X": 1.0,
+            "Y": 1.0
+          }
+        },
+        "Alignment": {
+          "X": 0.5,
+          "Y": 0.5
+        }
+      },
+      "bAutoSize": true,
+      "Parent": {
+        "ObjectName": "CanvasPanel'GlidingUI_BP_C:WidgetTree.CanvasPanel_27'",
+        "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.0"
+      },
+      "Content": {
+        "ObjectName": "Image'GlidingUI_BP_C:WidgetTree.Image_34'",
+        "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.3"
+      }
+    }
+  },
+  {
+    "Type": "GlidingUI_BP_C",
+    "Name": "Default__GlidingUI_BP_C",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "WidgetBlueprintGeneratedClass'/Game/UI/UI/Gliding/GlidingUI_BP.GlidingUI_BP_C'",
+    "Package": "/Game/UI/UI/Gliding/GlidingUI_BP",
+    "Properties": {
+      "bHasScriptImplementedTick": false,
+      "bHasScriptImplementedPaint": false
+    }
+  },
+  {
+    "Type": "Image",
+    "Name": "Image_34",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Image'",
+    "Outer": {
+      "ObjectName": "WidgetTree'GlidingUI_BP_C:WidgetTree'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.19"
+    },
+    "Properties": {
+      "Brush": {
+        "ImageType": "ESlateBrushImageType::FullColor",
+        "ResourceObject": {
+          "ObjectName": "MaterialInstanceConstant'M_common_glid_002_Inst'",
+          "ObjectPath": "/Game/FX/Mat/Common/M_common_glid_002_Inst.0"
+        }
+      },
+      "Slot": {
+        "ObjectName": "CanvasPanelSlot'GlidingUI_BP_C:WidgetTree.CanvasPanel_27.CanvasPanelSlot_0'",
+        "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.1"
+      },
+      "Visibility": "ESlateVisibility::HitTestInvisible"
+    }
+  },
+  {
+    "Type": "MovieScene",
+    "Name": "HideAnimation",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieScene'",
+    "Outer": {
+      "ObjectName": "WidgetAnimation'GlidingUI_BP_C:HideAnimation_INST'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.16"
+    },
+    "Properties": {
+      "Possessables": [
+        {
+          "Tags": [],
+          "Guid": "324B7C04-44DD9837-77619C89-B18C26B8",
+          "Name": "Image_34",
+          "ParentGuid": "00000000-00000000-00000000-00000000",
+          "SpawnableObjectBindingID": {
+            "Guid": "00000000-00000000-00000000-00000000",
+            "SequenceId": 0,
+            "ResolveParentIndex": -1
+          }
+        }
+      ],
+      "ObjectBindings": [
+        {
+          "ObjectGuid": "324B7C04-44DD9837-77619C89-B18C26B8",
+          "BindingName": "Image_34",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'GlidingUI_BP_C:HideAnimation_INST.HideAnimation.MovieSceneFloatTrack_0'",
+              "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.14"
+            }
+          ]
+        }
+      ],
+      "PlaybackRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 1,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 0,
+            "Value": {
+              "Value": 135001
+            }
+          }
+        }
+      },
+      "DisplayRate": {
+        "Numerator": 20
+      },
+      "Signature": "2C1BBA14-41B3C712-01AE6B9C-CA30E722"
+    }
+  },
+  {
+    "Type": "MovieScene",
+    "Name": "ShowAnimation",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieScene'",
+    "Outer": {
+      "ObjectName": "WidgetAnimation'GlidingUI_BP_C:ShowAnimation_INST'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.17"
+    },
+    "Properties": {
+      "Possessables": [
+        {
+          "Tags": [],
+          "Guid": "BED39E9B-406ABD69-D5DAD0AD-BD0FF290",
+          "Name": "Image_34",
+          "ParentGuid": "00000000-00000000-00000000-00000000",
+          "SpawnableObjectBindingID": {
+            "Guid": "00000000-00000000-00000000-00000000",
+            "SequenceId": 0,
+            "ResolveParentIndex": -1
+          }
+        }
+      ],
+      "ObjectBindings": [
+        {
+          "ObjectGuid": "BED39E9B-406ABD69-D5DAD0AD-BD0FF290",
+          "BindingName": "Image_34",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'GlidingUI_BP_C:ShowAnimation_INST.ShowAnimation.MovieSceneFloatTrack_0'",
+              "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.15"
+            }
+          ]
+        }
+      ],
+      "PlaybackRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 1,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 0,
+            "Value": {
+              "Value": 135001
+            }
+          }
+        }
+      },
+      "DisplayRate": {
+        "Numerator": 20
+      },
+      "Signature": "608ACB12-4953A345-3BF3BAAC-FBD8FD90"
+    }
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Flags": "RF_Public | RF_Transactional | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'",
+    "Outer": {
+      "ObjectName": "MovieSceneFloatSection'GlidingUI_BP_C:HideAnimation_INST.HideAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.12"
+    }
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Flags": "RF_Public | RF_Transactional | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'",
+    "Outer": {
+      "ObjectName": "MovieSceneFloatSection'GlidingUI_BP_C:HideAnimation_INST.HideAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.12"
+    }
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Flags": "RF_Public | RF_Transactional | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'",
+    "Outer": {
+      "ObjectName": "MovieSceneFloatSection'GlidingUI_BP_C:ShowAnimation_INST.ShowAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.13"
+    }
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Flags": "RF_Public | RF_Transactional | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'",
+    "Outer": {
+      "ObjectName": "MovieSceneFloatSection'GlidingUI_BP_C:ShowAnimation_INST.ShowAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.13"
+    }
+  },
+  {
+    "Type": "MovieSceneCompiledData",
+    "Name": "CompiledData",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneCompiledData'",
+    "Outer": {
+      "ObjectName": "WidgetAnimation'GlidingUI_BP_C:HideAnimation_INST'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.16"
+    },
+    "Properties": {
+      "EntityComponentField": {
+        "PersistentEntityTree": {
+          "SerializedData": {
+            "Data": {
+              "Entries": [
+                {
+                  "StartIndex": 0,
+                  "Size": 1,
+                  "Capacity": 1
+                }
+              ],
+              "Items": [
+                {
+                  "EntityIndex": 0,
+                  "MetaDataIndex": -1
+                }
+              ]
+            },
+            "RootNode": {
+              "Range": {
+                "LowerBound": {
+                  "Type": 2,
+                  "Value": {
+                    "Value": 0
+                  }
+                },
+                "UpperBound": {
+                  "Type": 2,
+                  "Value": {
+                    "Value": 0
+                  }
+                }
+              },
+              "Parent": {
+                "ChildrenHandle": {
+                  "EntryIndex": -1
+                },
+                "Index": -1
+              },
+              "ChildrenID": {
+                "EntryIndex": 0
+              },
+              "DataID": {
+                "EntryIndex": -1
+              }
+            },
+            "ChildNodes": {
+              "Entries": [
+                {
+                  "StartIndex": 0,
+                  "Size": 1,
+                  "Capacity": 1
+                }
+              ],
+              "Items": [
+                {
+                  "Range": {
+                    "LowerBound": {
+                      "Type": 1,
+                      "Value": {
+                        "Value": 0
+                      }
+                    },
+                    "UpperBound": {
+                      "Type": 1,
+                      "Value": {
+                        "Value": 135000
+                      }
+                    }
+                  },
+                  "Parent": {
+                    "ChildrenHandle": {
+                      "EntryIndex": -1
+                    },
+                    "Index": 0
+                  },
+                  "ChildrenID": {
+                    "EntryIndex": -1
+                  },
+                  "DataID": {
+                    "EntryIndex": 0
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "Entities": [
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'GlidingUI_BP_C:HideAnimation_INST.HideAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+                "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.12"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 0
+          }
+        ],
+        "SharedMetaData": [
+          {
+            "ObjectBindingID": "324B7C04-44DD9837-77619C89-B18C26B8"
+          }
+        ]
+      },
+      "DeterminismFences": [
+        {
+          "FrameNumber": {
+            "Value": 135000
+          },
+          "bInclusive": false
+        }
+      ],
+      "CompiledSignature": "4C10B5A8-4FDCE87C-92D798B0-6B17B3A6",
+      "CompilerVersion": "7D4B9809-2FAC4A6B-964ECF72-D8279EF8",
+      "AccumulatedMask": "EMovieSceneSequenceCompilerMask::EntityComponentField",
+      "AllocatedMask": "EMovieSceneSequenceCompilerMask::EntityComponentField"
+    }
+  },
+  {
+    "Type": "MovieSceneCompiledData",
+    "Name": "CompiledData",
+    "Flags": "RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneCompiledData'",
+    "Outer": {
+      "ObjectName": "WidgetAnimation'GlidingUI_BP_C:ShowAnimation_INST'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.17"
+    },
+    "Properties": {
+      "EntityComponentField": {
+        "PersistentEntityTree": {
+          "SerializedData": {
+            "Data": {
+              "Entries": [
+                {
+                  "StartIndex": 0,
+                  "Size": 1,
+                  "Capacity": 1
+                }
+              ],
+              "Items": [
+                {
+                  "EntityIndex": 0,
+                  "MetaDataIndex": -1
+                }
+              ]
+            },
+            "RootNode": {
+              "Range": {
+                "LowerBound": {
+                  "Type": 2,
+                  "Value": {
+                    "Value": 0
+                  }
+                },
+                "UpperBound": {
+                  "Type": 2,
+                  "Value": {
+                    "Value": 0
+                  }
+                }
+              },
+              "Parent": {
+                "ChildrenHandle": {
+                  "EntryIndex": -1
+                },
+                "Index": -1
+              },
+              "ChildrenID": {
+                "EntryIndex": 0
+              },
+              "DataID": {
+                "EntryIndex": -1
+              }
+            },
+            "ChildNodes": {
+              "Entries": [
+                {
+                  "StartIndex": 0,
+                  "Size": 1,
+                  "Capacity": 1
+                }
+              ],
+              "Items": [
+                {
+                  "Range": {
+                    "LowerBound": {
+                      "Type": 1,
+                      "Value": {
+                        "Value": 0
+                      }
+                    },
+                    "UpperBound": {
+                      "Type": 1,
+                      "Value": {
+                        "Value": 135000
+                      }
+                    }
+                  },
+                  "Parent": {
+                    "ChildrenHandle": {
+                      "EntryIndex": -1
+                    },
+                    "Index": 0
+                  },
+                  "ChildrenID": {
+                    "EntryIndex": -1
+                  },
+                  "DataID": {
+                    "EntryIndex": 0
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "Entities": [
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'GlidingUI_BP_C:ShowAnimation_INST.ShowAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+                "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.13"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 0
+          }
+        ],
+        "SharedMetaData": [
+          {
+            "ObjectBindingID": "BED39E9B-406ABD69-D5DAD0AD-BD0FF290"
+          }
+        ]
+      },
+      "DeterminismFences": [
+        {
+          "FrameNumber": {
+            "Value": 135000
+          },
+          "bInclusive": false
+        }
+      ],
+      "CompiledSignature": "950B7047-43469967-96A7C48A-2842F5E2",
+      "CompilerVersion": "7D4B9809-2FAC4A6B-964ECF72-D8279EF8",
+      "AccumulatedMask": "EMovieSceneSequenceCompilerMask::EntityComponentField",
+      "AllocatedMask": "EMovieSceneSequenceCompilerMask::EntityComponentField"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Outer": {
+      "ObjectName": "MovieSceneFloatTrack'GlidingUI_BP_C:HideAnimation_INST.HideAnimation.MovieSceneFloatTrack_0'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.14"
+    },
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 135000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": false,
+        "TickResolution": {
+          "Numerator": 60000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": {
+          "ObjectName": "MovieSceneBuiltInEasingFunction'GlidingUI_BP_C:HideAnimation_INST.HideAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0.EaseInFunction'",
+          "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.6"
+        },
+        "EaseOut": {
+          "ObjectName": "MovieSceneBuiltInEasingFunction'GlidingUI_BP_C:HideAnimation_INST.HideAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0.EaseOutFunction'",
+          "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.7"
+        }
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 1,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 1,
+            "Value": {
+              "Value": 135000
+            }
+          }
+        }
+      },
+      "Signature": "624E349A-4D6D38C9-339366BD-74ABC371"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Outer": {
+      "ObjectName": "MovieSceneFloatTrack'GlidingUI_BP_C:ShowAnimation_INST.ShowAnimation.MovieSceneFloatTrack_0'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.15"
+    },
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 135000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": false,
+        "TickResolution": {
+          "Numerator": 60000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": {
+          "ObjectName": "MovieSceneBuiltInEasingFunction'GlidingUI_BP_C:ShowAnimation_INST.ShowAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0.EaseInFunction'",
+          "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.8"
+        },
+        "EaseOut": {
+          "ObjectName": "MovieSceneBuiltInEasingFunction'GlidingUI_BP_C:ShowAnimation_INST.ShowAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0.EaseOutFunction'",
+          "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.9"
+        }
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 1,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 1,
+            "Value": {
+              "Value": 135000
+            }
+          }
+        }
+      },
+      "Signature": "D3A03452-44023077-3B1BD1AF-40C63237"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Outer": {
+      "ObjectName": "MovieScene'GlidingUI_BP_C:HideAnimation_INST.HideAnimation'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.4"
+    },
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "RenderOpacity",
+        "PropertyPath": "RenderOpacity",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'GlidingUI_BP_C:HideAnimation_INST.HideAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+          "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.12"
+        }
+      ],
+      "EvaluationFieldGuid": "5412D2D0-4A711622-3D987093-388AC8F4",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'GlidingUI_BP_C:HideAnimation_INST.HideAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+              "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.12"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": {
+                  "Value": 135000
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "5412D2D0-4A711622-3D987093-388AC8F4"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Outer": {
+      "ObjectName": "MovieScene'GlidingUI_BP_C:ShowAnimation_INST.ShowAnimation'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.5"
+    },
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "RenderOpacity",
+        "PropertyPath": "RenderOpacity",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'GlidingUI_BP_C:ShowAnimation_INST.ShowAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+          "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.13"
+        }
+      ],
+      "EvaluationFieldGuid": "CF07F337-484190F9-697BBF91-DC9AAF49",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'GlidingUI_BP_C:ShowAnimation_INST.ShowAnimation.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+              "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.13"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Inclusive",
+                "Value": {
+                  "Value": 135000
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "CF07F337-484190F9-697BBF91-DC9AAF49"
+    }
+  },
+  {
+    "Type": "WidgetAnimation",
+    "Name": "HideAnimation_INST",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'WidgetAnimation'",
+    "Outer": {
+      "ObjectName": "WidgetBlueprintGeneratedClass'GlidingUI_BP_C'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.18"
+    },
+    "Properties": {
+      "MovieScene": {
+        "ObjectName": "MovieScene'GlidingUI_BP_C:HideAnimation_INST.HideAnimation'",
+        "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.4"
+      },
+      "AnimationBindings": [
+        {
+          "WidgetName": "Image_34",
+          "SlotWidgetName": "None",
+          "AnimationGuid": "324B7C04-44DD9837-77619C89-B18C26B8",
+          "bIsRootWidget": false,
+          "DynamicBinding": {
+            "Function": null,
+            "ResolveParamsProperty": {
+              "Path": [],
+              "ResolvedOwner": null
+            }
+          }
+        }
+      ],
+      "DisplayLabel": "HideAnimation",
+      "CompiledData": {
+        "ObjectName": "MovieSceneCompiledData'GlidingUI_BP_C:HideAnimation_INST.CompiledData'",
+        "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.10"
+      },
+      "Signature": "4C10B5A8-4FDCE87C-92D798B0-6B17B3A6"
+    }
+  },
+  {
+    "Type": "WidgetAnimation",
+    "Name": "ShowAnimation_INST",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'WidgetAnimation'",
+    "Outer": {
+      "ObjectName": "WidgetBlueprintGeneratedClass'GlidingUI_BP_C'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.18"
+    },
+    "Properties": {
+      "MovieScene": {
+        "ObjectName": "MovieScene'GlidingUI_BP_C:ShowAnimation_INST.ShowAnimation'",
+        "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.5"
+      },
+      "AnimationBindings": [
+        {
+          "WidgetName": "Image_34",
+          "SlotWidgetName": "None",
+          "AnimationGuid": "BED39E9B-406ABD69-D5DAD0AD-BD0FF290",
+          "bIsRootWidget": false,
+          "DynamicBinding": {
+            "Function": null,
+            "ResolveParamsProperty": {
+              "Path": [],
+              "ResolvedOwner": null
+            }
+          }
+        }
+      ],
+      "DisplayLabel": "ShowAnimation",
+      "CompiledData": {
+        "ObjectName": "MovieSceneCompiledData'GlidingUI_BP_C:ShowAnimation_INST.CompiledData'",
+        "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.11"
+      },
+      "Signature": "950B7047-43469967-96A7C48A-2842F5E2"
+    }
+  },
+  {
+    "Type": "WidgetBlueprintGeneratedClass",
+    "Name": "GlidingUI_BP_C",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'WidgetBlueprintGeneratedClass'",
+    "Package": "/Game/UI/UI/Gliding/GlidingUI_BP",
+    "Properties": {
+      "WidgetTree": {
+        "ObjectName": "WidgetTree'GlidingUI_BP_C:WidgetTree'",
+        "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.19"
+      },
+      "bClassRequiresNativeTick": true,
+      "Animations": [
+        {
+          "ObjectName": "WidgetAnimation'GlidingUI_BP_C:ShowAnimation_INST'",
+          "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.17"
+        },
+        {
+          "ObjectName": "WidgetAnimation'GlidingUI_BP_C:HideAnimation_INST'",
+          "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.16"
+        }
+      ]
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'HTGlidingUserWidget'",
+      "ObjectPath": "/Script/HTGame"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "Image_34",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | ExportObject | BlueprintReadOnly | DisableEditOnInstance | InstancedReference | RepSkip | PersistentInstance",
+        "PropertyClass": {
+          "ObjectName": "Class'Image'",
+          "ObjectPath": "/Script/UMG"
+        }
+      }
+    ],
+    "ClassFlags": "CLASS_EditInlineNew | CLASS_CompiledFromBlueprint | CLASS_DefaultToInstanced | CLASS_HasInstancedReference",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "GlidingUI_BP_C'Default__GlidingUI_BP_C'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.2"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "WidgetTree",
+    "Name": "WidgetTree",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'WidgetTree'",
+    "Outer": {
+      "ObjectName": "WidgetBlueprintGeneratedClass'GlidingUI_BP_C'",
+      "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.18"
+    },
+    "Properties": {
+      "RootWidget": {
+        "ObjectName": "CanvasPanel'GlidingUI_BP_C:WidgetTree.CanvasPanel_27'",
+        "ObjectPath": "/Game/UI/UI/Gliding/GlidingUI_BP.0"
+      }
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Sd_PopUpTagBtnHoverd",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/SkipClone/UI_YH_Sd_PopUpTagBtnHoverd",
+    "Properties": {
+      "ImportedSize": {
+        "X": 108,
+        "Y": 108
+      },
+      "LightingGuid": "A756FBEE-4FE94B3B-40DA1F82-D02924B4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 108,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 11664,
+          "SizeOnDisk": 11664,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 108,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

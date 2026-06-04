@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Activity_Arc_Plane_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/CollectingFork/UI_YH_Activity_Arc_Plane_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 712,
+        "Y": 712
+      },
+      "LightingGuid": "DE78B5E1-4040F141-0F79CF82-EED1AC5B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 712,
+    "SizeY": 712,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2027776,
+          "SizeOnDisk": 2027776,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 712,
+        "SizeY": 712,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

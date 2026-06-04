@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_ICONbg_blackbg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/bag/UI_ICONbg_blackbg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 160,
+        "Y": 32
+      },
+      "LightingGuid": "6832D5CF-46839FF3-C0CED0A8-FEF0C418",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 160,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5120,
+          "SizeOnDisk": 5120,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 160,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

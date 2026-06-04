@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_OpActBondResonance_Text_Mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/Companion/YH_UI_OpActBondResonance_Text_Mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1064,
+        "Y": 478
+      },
+      "LightingGuid": "6FFFE9AC-4BFF1E4C-C471E4AC-DB93996D",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1064,
+    "SizeY": 478,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2034368,
+          "SizeOnDisk": 2034368,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1064,
+        "SizeY": 478,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

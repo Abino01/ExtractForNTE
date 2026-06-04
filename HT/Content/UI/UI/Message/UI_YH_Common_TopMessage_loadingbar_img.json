@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Common_TopMessage_loadingbar_img",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Message/UI_YH_Common_TopMessage_loadingbar_img",
+    "Properties": {
+      "ImportedSize": {
+        "X": 354,
+        "Y": 28
+      },
+      "LightingGuid": "046FA66E-48C8252C-EDE9D184-52B82D19",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 354,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 39648,
+          "SizeOnDisk": 39648,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 354,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

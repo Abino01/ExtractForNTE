@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_luxiang_btn",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_selfie_luxiang_btn",
+    "Properties": {
+      "ImportedSize": {
+        "X": 174,
+        "Y": 174
+      },
+      "LightingGuid": "E1AB8819-4923A0D1-E20B47A7-E497C716",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 174,
+    "SizeY": 174,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 121104,
+          "SizeOnDisk": 121104,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 174,
+        "SizeY": 174,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_shijian_btn_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/kucun/YH_UI_shangpu_shijian_btn_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 80,
+        "Y": 60
+      },
+      "LightingGuid": "81D549F8-4428FBED-8854F98F-51DE4F68",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 80,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4800,
+          "SizeOnDisk": 4800,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 80,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

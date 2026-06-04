@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Guide_Banner_089",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/teachguide/image/UI_YH_Guide_Banner_089",
+    "Properties": {
+      "ImportedSize": {
+        "X": 832,
+        "Y": 424
+      },
+      "LightingGuid": "2C727146-49280855-DB6DC9A4-52C28AA8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 832,
+    "SizeY": 424,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 352768,
+          "SizeOnDisk": 352768,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 832,
+        "SizeY": 424,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

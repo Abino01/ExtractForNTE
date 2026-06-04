@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SWM_Icon_Pan03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/OnLine/YH_UI_SWM_Icon_Pan03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 212,
+        "Y": 208
+      },
+      "LightingGuid": "5B5BE92F-48E13931-4DB6CB89-B90F101B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 212,
+    "SizeY": 208,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 44096,
+          "SizeOnDisk": 44096,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 212,
+        "SizeY": 208,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

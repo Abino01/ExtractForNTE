@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Bank_Evacuationbg2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RobBank/YH_UI_Bank_Evacuationbg2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 416,
+        "Y": 340
+      },
+      "LightingGuid": "05BCF05C-44A1B2BF-B5C62C9F-6F1DBDE8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 416,
+    "SizeY": 340,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 141440,
+          "SizeOnDisk": 141440,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 416,
+        "SizeY": 340,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

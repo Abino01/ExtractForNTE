@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_loadingbar_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_selfie_loadingbar_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 320,
+        "Y": 36
+      },
+      "LightingGuid": "0CE44F62-417B6B01-6F1B24BE-1A4B9F85",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 320,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 11520,
+          "SizeOnDisk": 11520,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 320,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

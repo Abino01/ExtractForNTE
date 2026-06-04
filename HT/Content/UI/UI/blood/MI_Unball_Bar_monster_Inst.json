@@ -1,0 +1,214 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_Unball_Bar_monster_Inst",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/blood/MI_Unball_Bar_monster_Inst",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_Unball_Bar'",
+        "ObjectPath": "/Game/UI/UI/blood/M_Unball_Bar.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Element_guang",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "A4884FC3-462CD67C-F00CAE82-69AEC291"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "NoiseSize",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1024.0,
+          "ExpressionGUID": "2699E045-4DEB0A8D-1699E7B8-31F5946B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "TexSize",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 256.0,
+          "ExpressionGUID": "965BE782-4B2E62F7-8D57EC88-2D567E71"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "CheapContrast",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -1.0,
+          "ExpressionGUID": "EEEAF1E9-4F8EF94F-E97D3584-65A480C7"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ColorMulti",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.5,
+          "ExpressionGUID": "C28521CC-4CCED157-AA050991-FD25E87F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Progress",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "23D09650-40663950-6E58A08A-47422EFA"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Reduce",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "89D8E6B6-43F5B986-DCBFECBE-78EAB131"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ReduceLerp",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.088,
+          "ExpressionGUID": "E860D71A-4AB40172-91FA7F96-DC75CB45"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "ReduceColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.5,
+            "G": 0.5,
+            "B": 0.5,
+            "A": 1.0,
+            "Hex": "BCBCBC"
+          },
+          "ExpressionGUID": "8EEAEA43-4144E76D-2DD7F881-C890DE31"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ReduceLerpColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.871367,
+            "G": 0.337164,
+            "B": 0.004391,
+            "A": 1.0,
+            "Hex": "F09D0E"
+          },
+          "ExpressionGUID": "8D7688A9-438794FA-2918D99F-656BB224"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UnballBarColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "85F2FB71-4BE3D379-02BFF797-DB654B4E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UVRotator",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 90.0,
+            "G": 0.03,
+            "B": 0.3,
+            "A": 0.36,
+            "Hex": "5CFF3095"
+          },
+          "ExpressionGUID": "EA34C5CA-4D50CFCA-C1F952A2-C6F3A79D"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UVTilingSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 10.0,
+            "B": -0.3,
+            "A": 0.0,
+            "Hex": "FFFF00"
+          },
+          "ExpressionGUID": "9AAC7792-47B60EF2-6EEFDAB9-5C470A79"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Image",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_BossParryBar_'",
+            "ObjectPath": "/Game/UI/Blueprints/HeadUp/new_Picture/YH_UI_BossParryBar_.0"
+          },
+          "ExpressionGUID": "F155852C-4BEC2CF4-B2CCAEBD-5E11CB02"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "UseReduceTex",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "39AD8C5B-4C28D9B1-B66445A0-87782CA0"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

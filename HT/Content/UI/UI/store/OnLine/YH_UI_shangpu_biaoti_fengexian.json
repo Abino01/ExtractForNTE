@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_biaoti_fengexian",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/OnLine/YH_UI_shangpu_biaoti_fengexian",
+    "Properties": {
+      "ImportedSize": {
+        "X": 3,
+        "Y": 20
+      },
+      "LightingGuid": "ABE7360F-480C49E3-5DB65596-40FDB494",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 3,
+    "SizeY": 20,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 240,
+          "SizeOnDisk": 240,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 3,
+        "SizeY": 20,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

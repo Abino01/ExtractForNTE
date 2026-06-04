@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_repair_02",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/yixiangjiaju/xiuligong/YH_UI_bg_repair_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 264,
+        "Y": 172
+      },
+      "LightingGuid": "56E3E548-49F3DECE-96DA0293-ABE121A4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 264,
+    "SizeY": 172,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 45408,
+          "SizeOnDisk": 45408,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 264,
+        "SizeY": 172,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

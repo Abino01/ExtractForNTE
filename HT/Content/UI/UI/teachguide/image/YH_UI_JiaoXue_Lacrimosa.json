@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_JiaoXue_Lacrimosa",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/teachguide/image/YH_UI_JiaoXue_Lacrimosa",
+    "Properties": {
+      "ImportedSize": {
+        "X": 832,
+        "Y": 424
+      },
+      "LightingGuid": "A977A1E7-4DFEA2C4-37CF65BD-DD256656",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 832,
+    "SizeY": 424,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 352768,
+          "SizeOnDisk": 352768,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 832,
+        "SizeY": 424,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

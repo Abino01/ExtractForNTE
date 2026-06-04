@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_citytycoon_Coordinates_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/YH_UI_citytycoon_Coordinates_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 156,
+        "Y": 36
+      },
+      "LightingGuid": "FC5048B9-49C7125F-17AEEBA7-CFD31852",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 156,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5616,
+          "SizeOnDisk": 5616,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 156,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

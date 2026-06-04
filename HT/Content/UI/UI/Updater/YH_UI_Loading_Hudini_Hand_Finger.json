@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Loading_Hudini_Hand_Finger",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Updater/YH_UI_Loading_Hudini_Hand_Finger",
+    "Properties": {
+      "ImportedSize": {
+        "X": 240,
+        "Y": 160
+      },
+      "LightingGuid": "DBE11F8D-44AD6D74-ABA780A1-D3309854",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 240,
+    "SizeY": 160,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 153600,
+          "SizeOnDisk": 153600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 240,
+        "SizeY": 160,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

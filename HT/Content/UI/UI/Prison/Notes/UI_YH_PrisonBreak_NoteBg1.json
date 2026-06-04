@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_PrisonBreak_NoteBg1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Prison/Notes/UI_YH_PrisonBreak_NoteBg1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1300,
+        "Y": 692
+      },
+      "LightingGuid": "3AC26971-44512231-5959CD8B-A6C91E6D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1300,
+    "SizeY": 692,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 899600,
+          "SizeOnDisk": 899600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1300,
+        "SizeY": 692,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

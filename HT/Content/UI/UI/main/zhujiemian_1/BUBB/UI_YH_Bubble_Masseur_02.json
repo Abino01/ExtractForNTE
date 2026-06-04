@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bubble_Masseur_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/zhujiemian_1/BUBB/UI_YH_Bubble_Masseur_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 164,
+        "Y": 220
+      },
+      "LightingGuid": "A9746B4E-4C212A4B-A9A520BE-8B7152E6",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 164,
+    "SizeY": 220,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 36080,
+          "SizeOnDisk": 36080,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 164,
+        "SizeY": 220,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

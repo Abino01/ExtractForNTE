@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LimitedTime_Font2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_LimitedTime_Font2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 250,
+        "Y": 2322
+      },
+      "LightingGuid": "44793FEF-458CB760-EF0D39A8-4CF8D5C3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 250,
+    "SizeY": 2322,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2322000,
+          "SizeOnDisk": 2322000,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 250,
+        "SizeY": 2322,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

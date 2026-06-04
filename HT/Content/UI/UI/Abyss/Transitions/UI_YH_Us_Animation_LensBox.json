@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Animation_LensBox",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Transitions/UI_YH_Us_Animation_LensBox",
+    "Properties": {
+      "ImportedSize": {
+        "X": 46,
+        "Y": 36
+      },
+      "LightingGuid": "55E611AE-4AFE8F41-A650F7BB-6A8B2F0C",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 46,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6624,
+          "SizeOnDisk": 6624,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 46,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

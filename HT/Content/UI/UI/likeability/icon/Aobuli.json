@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Aobuli",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/Icon/Aobuli",
+    "Properties": {
+      "ImportedSize": {
+        "X": 276,
+        "Y": 276
+      },
+      "LightingGuid": "7440BE00-430ABCAE-7E1F459E-0294C52B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 276,
+    "SizeY": 276,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 76176,
+          "SizeOnDisk": 76176,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 276,
+        "SizeY": 276,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

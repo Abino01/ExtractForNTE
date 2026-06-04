@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_BulletBox_Level2_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/UI_BulletBox_Level2_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 128,
+        "Y": 247
+      },
+      "LightingGuid": "D8E29EF8-4967F24F-AC082497-9D960587",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 128,
+    "SizeY": 247,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 126464,
+          "SizeOnDisk": 126464,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 128,
+        "SizeY": 247,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

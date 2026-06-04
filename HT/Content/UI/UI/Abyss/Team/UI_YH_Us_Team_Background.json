@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Team_Background",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Team/UI_YH_Us_Team_Background",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1812,
+        "Y": 856
+      },
+      "LightingGuid": "16F9BF69-44F6AF79-22775C99-A559C5AB",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1812,
+    "SizeY": 856,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1551072,
+          "SizeOnDisk": 1551072,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1812,
+        "SizeY": 856,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

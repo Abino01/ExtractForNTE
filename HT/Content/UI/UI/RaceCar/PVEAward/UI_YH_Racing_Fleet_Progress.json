@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Fleet_Progress",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVEAward/UI_YH_Racing_Fleet_Progress",
+    "Properties": {
+      "ImportedSize": {
+        "X": 80,
+        "Y": 144
+      },
+      "LightingGuid": "A877A5A8-42045635-44BF3089-996B5676",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 80,
+    "SizeY": 144,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 11520,
+          "SizeOnDisk": 11520,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 80,
+        "SizeY": 144,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

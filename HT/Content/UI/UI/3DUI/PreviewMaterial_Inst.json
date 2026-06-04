@@ -1,0 +1,182 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "PreviewMaterial_Inst",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/3DUI/PreviewMaterial_Inst",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'PreviewMaterial'",
+        "ObjectPath": "/Game/UI/UI/3DUI/PreviewMaterial.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "FxHardness (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 5.0,
+          "ExpressionGUID": "76611593-41FFBA24-7E114699-CBE2F708"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "FxHardnessMax (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "B48C1577-43306C2C-D075FEB2-399CDD57"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "FxHardnessMin (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "6A41AE92-4F4CF452-2023DABC-EF0FED4E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "YH_MF_SquareMaskMul",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 13.0,
+          "ExpressionGUID": "EDA9EFD8-45A25E9C-5E20729F-68A6B5EF"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "YH_MF_SquareMaskPower",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.01,
+          "ExpressionGUID": "DEECF86F-4D6C726A-95FEE2AB-AECAEB45"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "DisTexUVRotator",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 90.0,
+            "G": 0.0,
+            "B": 0.408,
+            "A": 0.0,
+            "Hex": "FF00AB"
+          },
+          "ExpressionGUID": "36EC1E25-4333457C-07B20789-F34C2FD9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "DisTexUVTilingSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 3.0,
+            "G": 1.5,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "FFFF00"
+          },
+          "ExpressionGUID": "F9CADC0C-440707CF-6DCFB0BD-637C13E5"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UVTilingSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.8,
+            "G": 1.2,
+            "B": -0.05,
+            "A": 0.0,
+            "Hex": "FFFF00"
+          },
+          "ExpressionGUID": "9AAC7792-47B60EF2-6EEFDAB9-5C470A79"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "WaveUV",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.6,
+            "G": 1.0,
+            "B": 0.02,
+            "A": -0.1,
+            "Hex": "FFFF26"
+          },
+          "ExpressionGUID": "894714B2-4EADFC1A-FE2F8282-6F74FAAC"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "DisTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_Smoke_004'",
+            "ObjectPath": "/Game/FX/Tex/Smoke/T_Smoke_004.0"
+          },
+          "ExpressionGUID": "1C43EB20-4059B643-FBA03BB6-11073155"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RenderTarget",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'Black'",
+            "ObjectPath": "/Engine/EngineResources/Black_Low.0"
+          },
+          "ExpressionGUID": "40C6C979-4F1FABF7-0224DDB6-242480FC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Wave_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_Smoke_007'",
+            "ObjectPath": "/Game/FX/Tex/Smoke/T_Smoke_007.0"
+          },
+          "ExpressionGUID": "A6E533B8-4437F61E-FD5DF5BF-5BA07D35"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

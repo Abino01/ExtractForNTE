@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_JQHG_MainEpisodes_Images_009",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Quest/ReviewQuest/bg/UI_YH_JQHG_MainEpisodes_Images_009",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1920,
+        "Y": 1080
+      },
+      "LightingGuid": "658FC26E-4899A263-7C1EF581-DA59D243",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1920,
+    "SizeY": 1080,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1036800,
+          "SizeOnDisk": 1036800,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1920,
+        "SizeY": 1080,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

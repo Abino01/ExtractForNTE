@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DiTuPop_FenJu_NameBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/minimapUIAssets/PopupWindow/YH_UI_DiTuPop_FenJu_NameBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 72,
+        "Y": 44
+      },
+      "LightingGuid": "68DAF344-4BA92865-BB0C9995-01EBC2AA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 72,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3168,
+          "SizeOnDisk": 3168,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 72,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

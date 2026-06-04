@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Shoppingmall_hupandiban4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ForkShop/UI_YH_Shoppingmall_hupandiban4",
+    "Properties": {
+      "ImportedSize": {
+        "X": 364,
+        "Y": 160
+      },
+      "LightingGuid": "1390E70F-4A36438E-5F3A2997-295FFADF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 364,
+    "SizeY": 160,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 58240,
+          "SizeOnDisk": 58240,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 364,
+        "SizeY": 160,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_HUD_Buffdown",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Buff/YH_UI_HUD_Buffdown",
+    "Properties": {
+      "ImportedSize": {
+        "X": 12,
+        "Y": 10
+      },
+      "LightingGuid": "B1F03C75-4ED1824A-297AF784-BDD1A904",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 12,
+    "SizeY": 10,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 480,
+          "SizeOnDisk": 480,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 12,
+        "SizeY": 10,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

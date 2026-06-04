@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_chouka_enter_triangle_mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_chouka_enter_triangle_mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 800,
+        "Y": 720
+      },
+      "LightingGuid": "39F677F8-4D91A13C-F7E5CD8C-B111B52E",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 800,
+    "SizeY": 720,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2304000,
+          "SizeOnDisk": 2304000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 800,
+        "SizeY": 720,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

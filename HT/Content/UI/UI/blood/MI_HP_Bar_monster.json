@@ -1,0 +1,284 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_HP_Bar_monster",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/blood/MI_HP_Bar_monster",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_HP_Bar'",
+        "ObjectPath": "/Game/UI/UI/blood/M_HP_Bar.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "CurseDarkParticle",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.66,
+          "ExpressionGUID": "93BF2A60-4EED2BD2-DB5FD99A-79A40079"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "CurseDarkReduce",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "7E0DF4B3-46889B8A-23E0D197-E7C32173"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Reduce",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "C9DB6C94-4BC2355D-92004CBB-9F3F7FE4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ReduceLerp",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.4,
+          "ExpressionGUID": "CAD9D2C1-4D797CF5-9AEBC5AD-D98673CD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "DynamicEffect",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "C5D7188A-4F54E3C8-50855D9D-5A03EBBD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "DynamicParam",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "3596EC17-4365E35A-6911238D-EF201A7B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "FlipBookSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.36,
+          "ExpressionGUID": "13E41AAF-447846E6-E2214E98-7DB86C64"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "OutLineWidth",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.1,
+          "ExpressionGUID": "16AA85CC-4B142522-6324E093-C58603E8"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Value1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "4EB6E7EB-44927DB7-7BD78A89-30EB8E91"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Value2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.164276,
+          "ExpressionGUID": "EDD696AF-4FCD04CF-23259989-B89B1495"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Value3",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.625178,
+          "ExpressionGUID": "9EC6413C-42433608-3D04F084-03EC3D0F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "GradientWidth",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.025,
+          "ExpressionGUID": "E873CDE4-480CFDDB-171467B8-6D815994"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "BackgroundColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.079982,
+            "G": 0.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "5000FF"
+          },
+          "ExpressionGUID": "A71EFAAC-472C9697-362A0482-604A0C40"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "DynamicEffectColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 0.941144,
+            "B": 0.312184,
+            "A": 1.0,
+            "Hex": "FFF998"
+          },
+          "ExpressionGUID": "DF5D6C82-48E60F2B-66C5628E-2AF08369"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Color1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.942708,
+            "G": 0.063829,
+            "B": 0.065836,
+            "A": 1.0,
+            "Hex": "F94748"
+          },
+          "ExpressionGUID": "23A4221D-4EE1DA03-75AE5080-50552D47"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Color2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.908423,
+            "G": 0.916667,
+            "B": 0.843947,
+            "A": 1.0,
+            "Hex": "F5F6ED"
+          },
+          "ExpressionGUID": "11E301A3-44AEFA9C-92A4D983-4CDE304E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Color3",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 0.619792,
+            "B": 0.619792,
+            "A": 1.0,
+            "Hex": "FFCFCF"
+          },
+          "ExpressionGUID": "176A50C9-49B75242-A1EF4D98-B8FA2847"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "DynamicEffectFlipbook",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_flipbook_blood'",
+            "ObjectPath": "/Game/UI/UI/blood/YH_UI_flipbook_blood.0"
+          },
+          "ExpressionGUID": "4F34C391-41EE1CE3-7009C89B-CC5FEECB"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "DynamicEffectTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_mask_vx_img'",
+            "ObjectPath": "/Game/UI/UI/blood/YH_UI_mask_vx_img.0"
+          },
+          "ExpressionGUID": "75DEFC21-4ADB272F-F8F013BC-FDAAC629"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Image",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_BossBar_Small'",
+            "ObjectPath": "/Game/UI/Blueprints/HeadUp/new_Picture/YH_UI_BossBar_Small.0"
+          },
+          "ExpressionGUID": "C9D97F32-43A0C6DA-8C8055A9-C2B42A34"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseFlipbook",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "B2437CC6-40429C51-3F39FE95-29F46203"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "UseBreathLight",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "99C44C67-4E453224-B104679E-44EEAB01"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

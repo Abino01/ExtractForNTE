@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Activity_BlindBox_Machine_Column",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/GashaponLottery/UI_YH_Activity_BlindBox_Machine_Column",
+    "Properties": {
+      "ImportedSize": {
+        "X": 968,
+        "Y": 600
+      },
+      "LightingGuid": "F73B7EF9-4F8F4549-F0FCE78B-BDED438A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 968,
+    "SizeY": 600,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2323200,
+          "SizeOnDisk": 2323200,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 968,
+        "SizeY": 600,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

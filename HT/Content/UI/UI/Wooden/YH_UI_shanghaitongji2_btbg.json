@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shanghaitongji2_btbg",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wooden/YH_UI_shanghaitongji2_btbg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 348,
+        "Y": 86
+      },
+      "LightingGuid": "DEA9A626-4B931E2D-AD208F94-0BE0AB7C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 348,
+    "SizeY": 86,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 119712,
+          "SizeOnDisk": 119712,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 348,
+        "SizeY": 86,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

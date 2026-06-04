@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TJ_DuShi_Ornament06",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Manual/YH_UI_TJ_DuShi_Ornament06",
+    "Properties": {
+      "ImportedSize": {
+        "X": 110,
+        "Y": 32
+      },
+      "LightingGuid": "DC653CE6-4A84917C-A70E96A0-7770EEB2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 110,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 14080,
+          "SizeOnDisk": 14080,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 110,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

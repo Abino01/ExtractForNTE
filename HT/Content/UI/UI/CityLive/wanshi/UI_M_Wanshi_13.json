@@ -1,0 +1,298 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_M_Wanshi_13",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/UI_M_Wanshi_13",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'UI_Main_01'",
+        "ObjectPath": "/Game/UI/UI/UI_Main_01.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Circular_Hardness",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.9,
+          "ExpressionGUID": "DB1BD212-428112D5-7E2254A9-C388F8DB"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Circular_Mask",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.01,
+          "ExpressionGUID": "0A45AE0B-47B895C6-EC0CBD98-87D09717"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Circular_Size",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "87C6AE8D-43EB2BD8-9095EB8F-075E45BF"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Mip_Level",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -1.0,
+          "ExpressionGUID": "C9C60B84-43810693-66F3A6AA-17D8CCED"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Aperture Power",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 2.0,
+          "ExpressionGUID": "06D2BC83-41205984-E42D0C83-71170E69"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Float Range",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "B56C5993-4B20DDB0-0FDA279F-D3C4979B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Float Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "9DEAFCEF-4883306C-BAF58F84-E45C41AD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "FA809CED-4E52BB79-D8B85693-DF33AD59"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Heartbeat Interval",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 5.0,
+          "ExpressionGUID": "891190D4-4EE4EE4B-C19B7E9D-E1476DDC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Heartbeat Power",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.1,
+          "ExpressionGUID": "ADAAF24B-4EFE9B71-3BFADC85-63B28F6E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Heartbeat Size",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 9.0,
+          "ExpressionGUID": "1D5C8AF1-46A85AC7-215F169F-3C6D6ECC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Heartbeat Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.35,
+          "ExpressionGUID": "40AB3EC2-4F290F34-81F2FA91-DDF019FE"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Rongjie",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "31DE87A5-432F151A-C8F0C7B4-464F9986"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "OpacityPower",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "FDD5C5AA-4F57B6AF-3404E583-AB03E395"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "E28438B1-419A2B03-B5121A95-490872B0"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex_01",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_wanshiban_bingo4_1'",
+            "ObjectPath": "/Game/UI/UI/CityLive/wanshi/YH_UI_wanshiban_bingo4_1.0"
+          },
+          "ExpressionGUID": "78F03A28-468DDB8E-40FB98A8-8C19FA2E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex_02",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": null,
+          "ExpressionGUID": "FF6107EB-4F26EFA4-6500A686-14BAEFC1"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "Exoluminescence Switch",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "2A4794D7-446287CC-C88F3794-7A42F158"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "Aperture Switch",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "E8BB80CD-4A2FC2F2-4FEDD39E-7F5A28E5"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "Colored Circle Only",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "0AAEDEC2-4148FD68-778581BF-E61F23CD"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Float Switch",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "F40D6391-4BEBF729-16B3F295-7C8E4566"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Float(LR)",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "05AAD792-482FE579-F8BC8E8C-E08AF4A6"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "heartbeat",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "AF5AD7CF-4EB44197-27F4DEB5-A005CB52"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "Heartbeat Interval Switch",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "F1D52814-40B98AA3-DBCC7DA2-445B3071"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "Rongjie_Mode",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "966E708C-4EA6C6D9-A3C1EAB3-4A28E5B3"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Use_OpacityPower",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "EF8DDFBB-4609107D-1FA278BB-2253F5BD"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

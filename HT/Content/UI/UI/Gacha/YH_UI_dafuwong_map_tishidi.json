@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_dafuwong_map_tishidi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_dafuwong_map_tishidi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 100
+      },
+      "LightingGuid": "45008A8D-4E27C9F3-BE9760A5-C1BB05F9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 100,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10000,
+          "SizeOnDisk": 10000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 100,
+        "SizeY": 100,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "NPC_001",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/Icon/NPC_001",
+    "Properties": {
+      "ImportedSize": {
+        "X": 276,
+        "Y": 276
+      },
+      "LightingGuid": "23A97B5C-44934F7E-8B1F4696-D63981B3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 276,
+    "SizeY": 276,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 38088,
+          "SizeOnDisk": 38088,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 276,
+        "SizeY": 276,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

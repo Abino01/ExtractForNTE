@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Fashion_1010_4",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Appearance/Fashion/Fashion_1010_4",
+    "Properties": {
+      "ImportedSize": {
+        "X": 380,
+        "Y": 980
+      },
+      "LightingGuid": "87018B80-485C8090-D2C36189-0C5D72F2",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 380,
+    "SizeY": 980,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1489600,
+          "SizeOnDisk": 1489600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 380,
+        "SizeY": 980,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

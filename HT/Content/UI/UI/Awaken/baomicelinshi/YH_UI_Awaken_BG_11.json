@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Awaken_BG_11",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Awaken/baomicelinshi/YH_UI_Awaken_BG_11",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1384,
+        "Y": 830
+      },
+      "LightingGuid": "0D82E842-445FF480-2EF37B89-30F4E193",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1384,
+    "SizeY": 830,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4594880,
+          "SizeOnDisk": 4594880,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 1384,
+        "SizeY": 830,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

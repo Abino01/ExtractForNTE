@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_hud_AUTO",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/drive/YH_UI_hud_AUTO",
+    "Properties": {
+      "ImportedSize": {
+        "X": 82,
+        "Y": 60
+      },
+      "LightingGuid": "249BE571-4B26A7E4-6774C39A-4FAD3D6C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 82,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 19680,
+          "SizeOnDisk": 19680,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 82,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

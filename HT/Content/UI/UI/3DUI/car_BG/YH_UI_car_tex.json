@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_car_tex",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/3DUI/car_BG/YH_UI_car_tex",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1000,
+        "Y": 1036
+      },
+      "LightingGuid": "48C1F6AF-4A62F873-480DB5A6-DE21F73A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1000,
+    "SizeY": 1036,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4144000,
+          "SizeOnDisk": 4144000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1000,
+        "SizeY": 1036,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

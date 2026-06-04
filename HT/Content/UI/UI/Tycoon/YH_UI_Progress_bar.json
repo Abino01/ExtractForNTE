@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Progress_bar",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/YH_UI_Progress_bar",
+    "Properties": {
+      "ImportedSize": {
+        "X": 892,
+        "Y": 20
+      },
+      "LightingGuid": "D9221D50-4D8450AA-54E4D59D-543CAF7A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 892,
+    "SizeY": 20,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 17840,
+          "SizeOnDisk": 17840,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 892,
+        "SizeY": 20,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

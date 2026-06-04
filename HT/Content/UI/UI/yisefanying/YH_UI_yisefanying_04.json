@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yisefanying_04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/yisefanying/YH_UI_yisefanying_04",
+    "Properties": {
+      "ImportedSize": {
+        "X": 386,
+        "Y": 197
+      },
+      "LightingGuid": "6A341625-4AC7599D-816B1FB1-9BB1A322",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 386,
+    "SizeY": 197,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 304168,
+          "SizeOnDisk": 304168,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 386,
+        "SizeY": 197,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

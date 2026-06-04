@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "bufficon_cang_ultra",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/WishingFountain/Buff/Player/bufficon_cang_ultra",
+    "Properties": {
+      "ImportedSize": {
+        "X": 28,
+        "Y": 28
+      },
+      "LightingGuid": "54A0B9FA-4EC93874-FE9D72B1-2B0FA559",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 28,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 784,
+          "SizeOnDisk": 784,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 28,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

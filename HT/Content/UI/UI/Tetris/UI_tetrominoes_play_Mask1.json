@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_tetrominoes_play_Mask1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tetris/UI_tetrominoes_play_Mask1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 640,
+        "Y": 200
+      },
+      "LightingGuid": "39CA2A56-482B99BD-12265B9C-08D904A4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 640,
+    "SizeY": 200,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 128000,
+          "SizeOnDisk": 128000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 640,
+        "SizeY": 200,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

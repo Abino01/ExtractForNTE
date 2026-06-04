@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Abyss_zhuangshizi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/jilu/YH_UI_Abyss_zhuangshizi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 760,
+        "Y": 80
+      },
+      "LightingGuid": "C804B35B-46E61533-898571BC-13696CCC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 760,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 60800,
+          "SizeOnDisk": 60800,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 760,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "YH_MonthCard_Logo_Glitch",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/Monthcard/YH_MonthCard_Logo_Glitch",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_UI_GlitchFlash'",
+        "ObjectPath": "/Game/UI/UI_Material/Effects/M_UI_GlitchFlash.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Color01",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 3.0,
+          "ExpressionGUID": "49A59E8D-4394CA8B-5636B08B-D57C6651"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Color02",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 2.0,
+          "ExpressionGUID": "12EC5CA2-4C57E1C7-178030A8-448E5BDD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ColorFlash01",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "ADA3155A-42BFD2A3-5A595386-C218CE75"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ColorFlash02",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "EC0F16F9-4A25144D-0D7B5785-85D70D27"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MaskUVAngle",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "6B015817-43187A30-530FA89B-2265C7C1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Scale",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 2.0,
+          "ExpressionGUID": "8B82D86F-41ECF849-CD4C1FAD-809A09BA"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "E6BBF4D5-40CD2474-E8E2DB99-81D41FF0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Square",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "04B86687-4AA87048-89538489-68EF59D9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Intension",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "2C5B68EC-411A47AB-E68C5BB9-D7DA3B58"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Wave01",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 3.0,
+          "ExpressionGUID": "AD332D1F-441A2AC4-3558E591-6FA562D2"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Wave02",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 2.0,
+          "ExpressionGUID": "DCCAF881-42DB483A-F6188DAD-3329DB24"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "WaveFlash01",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "CE2B6227-429475EE-874C0CAF-42A16B38"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "WaveFlash02",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "89E7DDD7-410ECAC6-427CD59B-42E3E86C"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "MaskUVOffestTranslation",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.517631,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "BF0000"
+          },
+          "ExpressionGUID": "922ADD6B-4D3D74E2-E29C45BF-4403B495"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MaskUVScale",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 8.021101,
+            "G": 0.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FF00FF"
+          },
+          "ExpressionGUID": "43C779CC-4A96CBDD-DE49FB84-244CF7D9"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "MaskTexture",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Mask_34_Clamp_Ant'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask_34_Clamp_Ant.0"
+          },
+          "ExpressionGUID": "E8417795-4CEAF43E-0ED0F5B4-5335838B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Texture",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_MonthCard_Logo'",
+            "ObjectPath": "/Game/UI/UI/Monthcard/YH_MonthCard_Logo.0"
+          },
+          "ExpressionGUID": "26ACBC55-4F2C200F-6818A081-AFBEAAAA"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "ColorFlashSwitch_B",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "7CED7DAF-4F64C39A-73E4B7BD-13A98746"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "ColorFlashSwitch_G",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "3E1AF8C2-48656129-77D63EA6-2C365525"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "ColorFlashSwitch_R",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "17D7FA2B-47881267-917420B3-79049E4F"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "SquareFlashSwitch",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "59024AC9-43624710-86B15AB5-115C7E78"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "GlitchFlashSwitch",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "35F889D9-4DB550A6-5A85ADA0-91E7D85E"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

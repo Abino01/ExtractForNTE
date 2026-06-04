@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yisefanying_unlockbtn_02",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/yisefanying/YH_UI_yisefanying_unlockbtn_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 92,
+        "Y": 39
+      },
+      "LightingGuid": "8D649457-49BA97A0-6D4C26B3-8C3F59D8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 92,
+    "SizeY": 39,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 14352,
+          "SizeOnDisk": 14352,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 92,
+        "SizeY": 39,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

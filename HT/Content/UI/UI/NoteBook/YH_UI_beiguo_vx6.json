@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_beiguo_vx6",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/NoteBook/YH_UI_beiguo_vx6",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1574,
+        "Y": 108
+      },
+      "LightingGuid": "2C9B7D49-44830540-E78B8CAF-05250C80",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1574,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 679968,
+          "SizeOnDisk": 679968,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1574,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

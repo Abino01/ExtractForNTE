@@ -1,0 +1,132 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_M_Wanshi_8",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/UI_M_Wanshi_8",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_UIMaskAnim'",
+        "ObjectPath": "/Game/UI/UI_Material/UIMask/M_UIMaskAnim.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "SphereLineThink",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.05,
+          "ExpressionGUID": "56D9DA0D-496E9CE6-2676BF9A-CFF07DC4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SphereSize",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "1DD51BA3-4151B78C-A17E0E90-A12F38CC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "MainTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_wanshiban_auto'",
+            "ObjectPath": "/Game/UI/UI/CityLive/wanshi/YH_UI_wanshiban_auto.0"
+          },
+          "ExpressionGUID": "9313E439-4DED10D2-C6E127A0-237E9539"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MaskTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_DefaultBlack'",
+            "ObjectPath": "/HottaUtility/FluidFlux/Interaction/Textures/T_DefaultBlack.0"
+          },
+          "ExpressionGUID": "39C1B37B-4CE2996B-5661329C-A638B960"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "NoiseTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_Noise1Blur_grass'",
+            "ObjectPath": "/Game/CoreMaterials/World/Foliage/Master/T_Noise1Blur_grass.0"
+          },
+          "ExpressionGUID": "B90423F9-44103560-DD5CE5B6-97DA99B7"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SphereMaskTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_wanshiban_auto'",
+            "ObjectPath": "/Game/UI/UI/CityLive/wanshi/YH_UI_wanshiban_auto.0"
+          },
+          "ExpressionGUID": "481C2A9A-4A97DD8A-F8341E9B-6120A0C8"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "T_MaskTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_wanshiban_auto'",
+            "ObjectPath": "/Game/UI/UI/CityLive/wanshi/YH_UI_wanshiban_auto.0"
+          },
+          "ExpressionGUID": "63BBBE5E-4597C46B-5C184DBA-7D0C86C2"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseCircleMask",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "477587D5-410C403B-24AE4BAB-7DCF872F"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

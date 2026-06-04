@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_chouka_celan_mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_chouka_celan_mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 700,
+        "Y": 250
+      },
+      "LightingGuid": "A05A1F5A-4E028797-F68AB391-60E106CB",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 700,
+    "SizeY": 250,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 700000,
+          "SizeOnDisk": 700000,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 700,
+        "SizeY": 250,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

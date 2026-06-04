@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_piano_tip",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/MusicDoll/YH_UI_bg_piano_tip",
+    "Properties": {
+      "ImportedSize": {
+        "X": 262,
+        "Y": 48
+      },
+      "LightingGuid": "E050ED61-43BDFAF4-28330BA1-91EA1C03",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 262,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 50304,
+          "SizeOnDisk": 50304,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 262,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

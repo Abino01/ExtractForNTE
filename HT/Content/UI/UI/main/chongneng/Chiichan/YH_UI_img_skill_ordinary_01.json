@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_img_skill_ordinary_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/chongneng/Chiichan/YH_UI_img_skill_ordinary_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 4,
+        "Y": 8
+      },
+      "LightingGuid": "F9CE0B40-42527AA5-C6A2ABB3-17A99DA3",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI"
+    },
+    "SizeX": 4,
+    "SizeY": 8,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 128,
+          "SizeOnDisk": 128,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 4,
+        "SizeY": 8,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

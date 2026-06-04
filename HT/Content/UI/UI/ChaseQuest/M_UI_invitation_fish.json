@@ -1,0 +1,380 @@
+[
+  {
+    "Type": "Material",
+    "Name": "M_UI_invitation_fish",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Material'",
+    "Package": "/Game/UI/UI/ChaseQuest/M_UI_invitation_fish",
+    "Properties": {
+      "MaterialDomain": "EMaterialDomain::MD_UI",
+      "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "6640AA2C-43183EB8-FC9F8391-0F6314C0",
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedExpressionData": {
+      "RuntimeEntries": {
+        "ParameterInfoSet": [
+          {
+            "Name": "Main Noise Strenth BOOS07",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Low Brighness",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Appear",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[1]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "Main Noise SV BOOS07",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Flash Control",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Wave Left",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Wave Right",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[2]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[3]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "Main Noise BOOS07",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Wave Left",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[4]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[5]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[6]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[7]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[8]": {
+        "ParameterInfoSet": []
+      },
+      "ScalarPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1
+      ],
+      "VectorPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "ScalarValues": [
+        0.05,
+        0.5,
+        1.0
+      ],
+      "StaticSwitchValues": [],
+      "DynamicSwitchValues": [],
+      "VectorValues": [
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 0.0,
+          "A": 0.1,
+          "Hex": "19FFFF00"
+        },
+        {
+          "R": 0.3,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "95FFFF"
+        },
+        {
+          "R": 0.99607843,
+          "G": 1.0,
+          "B": 0.79607844,
+          "A": 0.0,
+          "Hex": "FFFFE7"
+        },
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "FFFF00"
+        },
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "FFFF00"
+        }
+      ],
+      "DoubleVectorValues": [],
+      "TextureValues": [
+        {
+          "AssetPathName": "/Game/FX/Tex/zt_tex/Tex_Tile_22.Tex_Tile_22",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/FX/Tex/zt_tex/T_Noise006.T_Noise006",
+          "SubPathString": ""
+        }
+      ],
+      "TextureCollectionValues": [],
+      "FontValues": [],
+      "FontPageValues": [],
+      "RuntimeVirtualTextureValues": [],
+      "SparseVolumeTextureValues": [],
+      "ReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'DefaultTexture'",
+          "ObjectPath": "/Engine/EngineResources/DefaultTexture.0"
+        },
+        {
+          "ObjectName": "Texture2D'YH_UI_img_invitation_fish_black'",
+          "ObjectPath": "/Game/UI/UI/ChaseQuest/YH_UI_img_invitation_fish_black.0"
+        },
+        {
+          "ObjectName": "Texture2D'UI_Fish2'",
+          "ObjectPath": "/Game/UI/UI/ChaseQuest/UI_Fish2.0"
+        },
+        {
+          "ObjectName": "Texture2D'UI_FishMask'",
+          "ObjectPath": "/Game/UI/UI/ChaseQuest/UI_FishMask.0"
+        },
+        {
+          "ObjectName": "Texture2D'Tex_Tile_22'",
+          "ObjectPath": "/Game/FX/Tex/zt_tex/Tex_Tile_22.0"
+        },
+        {
+          "ObjectName": "Texture2D'UI_Fish3'",
+          "ObjectPath": "/Game/UI/UI/ChaseQuest/UI_Fish3.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_Noise006'",
+          "ObjectPath": "/Game/FX/Tex/zt_tex/T_Noise006.0"
+        }
+      ],
+      "ReferencedTextureCollections": [],
+      "ReferencedExternalCodeExpressionClasses": [],
+      "FunctionInfos": [
+        {
+          "StateId": "84B76E57-4BF59885-552414B4-C9285F61",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_Dissolve'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_Dissolve.0"
+          }
+        },
+        {
+          "StateId": "E572D701-496E6D38-CC53A5BD-C450B0ED",
+          "Function": {
+            "ObjectName": "MaterialFunction'CustomRotator'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.0"
+          }
+        },
+        {
+          "StateId": "5B938C50-440B6892-955AD79F-CD1A8337",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat3Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "1FD78D47-4AB7EA76-EE7EDD81-BE80DA6E",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_TexSV'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_TexSV.0"
+          }
+        },
+        {
+          "StateId": "FF03844B-44F5A12D-60F4C1B0-46A85ABD",
+          "Function": {
+            "ObjectName": "MaterialFunction'VectorToRadialValue'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.0"
+          }
+        },
+        {
+          "StateId": "59444864-4EC2E098-30A8039D-35A6C7AA",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugTimeSine'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugTimeSine.0"
+          }
+        },
+        {
+          "StateId": "E572D701-496E6D38-CC53A5BD-C450B0ED",
+          "Function": {
+            "ObjectName": "MaterialFunction'CustomRotator'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.0"
+          }
+        },
+        {
+          "StateId": "5B938C50-440B6892-955AD79F-CD1A8337",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat3Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "1FD78D47-4AB7EA76-EE7EDD81-BE80DA6E",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_TexSV'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_TexSV.0"
+          }
+        },
+        {
+          "StateId": "E572D701-496E6D38-CC53A5BD-C450B0ED",
+          "Function": {
+            "ObjectName": "MaterialFunction'CustomRotator'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.0"
+          }
+        },
+        {
+          "StateId": "5B938C50-440B6892-955AD79F-CD1A8337",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat3Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "1FD78D47-4AB7EA76-EE7EDD81-BE80DA6E",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_TexSV'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_TexSV.0"
+          }
+        }
+      ],
+      "FunctionInfosStateCRC": 2556896025,
+      "ParameterCollectionInfos": [
+        {
+          "StateId": "351088CC-4812BCE4-71E7FFA9-7CFDE7ED",
+          "ParameterCollection": {
+            "ObjectName": "MaterialParameterCollection'MC_Particle'",
+            "ObjectPath": "/Game/UltraDynamicSky/Materials/MC_Particle.0"
+          }
+        }
+      ],
+      "GrassTypes": [],
+      "MaterialLayers": {
+        "Layers": [],
+        "Blends": [],
+        "tree": {
+          "Nodes": [],
+          "Payloads": [],
+          "Root": -1
+        }
+      },
+      "DynamicParameterNames": [],
+      "QualityLevelsUsed": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "bHasMaterialLayers": false,
+      "bHasRuntimeVirtualTextureOutput": false,
+      "bHasFirstPersonOutput": false,
+      "bHasMaterialCacheOutput": false,
+      "bMaterialCacheHasNonUVDerivedExpression": false,
+      "bHasSceneColor": false,
+      "bHasPerInstanceCustomData": false,
+      "bHasPerInstanceRandom": false,
+      "bHasVertexInterpolator": false,
+      "bHasCustomizedUVs": false,
+      "bHasMeshPaintTexture": false,
+      "bHasWorldPosition": false,
+      "PropertyConnectedMask": 3
+    },
+    "ReferencedTextures": [
+      {
+        "ObjectName": "Texture2D'DefaultTexture'",
+        "ObjectPath": "/Engine/EngineResources/DefaultTexture.0"
+      },
+      {
+        "ObjectName": "Texture2D'T_Noise006'",
+        "ObjectPath": "/Game/FX/Tex/zt_tex/T_Noise006.0"
+      },
+      {
+        "ObjectName": "Texture2D'Tex_Tile_22'",
+        "ObjectPath": "/Game/FX/Tex/zt_tex/Tex_Tile_22.0"
+      },
+      {
+        "ObjectName": "Texture2D'UI_Fish2'",
+        "ObjectPath": "/Game/UI/UI/ChaseQuest/UI_Fish2.0"
+      },
+      {
+        "ObjectName": "Texture2D'UI_Fish3'",
+        "ObjectPath": "/Game/UI/UI/ChaseQuest/UI_Fish3.0"
+      },
+      {
+        "ObjectName": "Texture2D'UI_FishMask'",
+        "ObjectPath": "/Game/UI/UI/ChaseQuest/UI_FishMask.0"
+      },
+      {
+        "ObjectName": "Texture2D'YH_UI_img_invitation_fish_black'",
+        "ObjectPath": "/Game/UI/UI/ChaseQuest/YH_UI_img_invitation_fish_black.0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_skill_xun_diwen",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/zhujiemian_1/YH_UI_skill_xun_diwen",
+    "Properties": {
+      "ImportedSize": {
+        "X": 186,
+        "Y": 66
+      },
+      "LightingGuid": "1DBABDEB-4EF2B75E-B2D104A6-97ACFAE6",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 186,
+    "SizeY": 66,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 49104,
+          "SizeOnDisk": 49104,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 186,
+        "SizeY": 66,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

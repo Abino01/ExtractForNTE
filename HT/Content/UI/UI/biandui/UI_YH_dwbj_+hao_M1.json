@@ -1,0 +1,386 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_YH_dwbj_+hao_M1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/biandui/UI_YH_dwbj_+hao_M1",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'UI_Mat_Dissolve_Chapter'",
+        "ObjectPath": "/Game/UI/UI_Effect/UIMaterial/Chapter/UI_Mat_Dissolve_Chapter.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "DissolveBySelf",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "9CC112F6-4BFF120E-F3F31BB4-5B287B00"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "DissolveValue",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -1.0,
+          "ExpressionGUID": "63843AC6-4B2F6189-D88C90A5-BBC2B0E0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "LightValue",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 7.0,
+          "ExpressionGUID": "4513FAD2-43B528E8-9697318F-F00F51CF"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_Scale_U",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "86F3455F-4378B45C-93A50FB1-B0A3CD63"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_Scale_V",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "B7BEE874-4DB9E04E-5BCCAC98-10145B02"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_U",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "CC4D3D5C-44870CE4-A36516B9-276F28BF"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_V",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "CC9C87CC-4D9F3828-DFCDCBA8-835A1C90"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Gamma",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "ACD1F779-44A80121-AA319795-E5AC4C69"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "B_u",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "9AF10FA1-4D094F69-F742C1B0-FD59B339"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "B_v",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "45464B7E-4071D03E-A60840AE-3F8EFF79"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "G_u",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "F1DC6FF4-4782E151-236FDBB1-3C5E43B7"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "G_v",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "D979C23A-4F2D343A-F303A5A8-F29453A5"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "R_u",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "FEF1D5AF-45C85A0B-94F5189A-3B89422E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "R_v",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "EB7810F2-494B0272-92746787-53951369"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex_Offset_B",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "150AD37E-4CB10892-B2C75A87-C5640FD0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex_Offset_G",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "0222E1E0-4D6BD997-9E93DC9C-28DCEF61"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex_Offset_R",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "084BEAE4-417C0453-FDC582B2-B436C55C"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "TimeScale",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "90976D1F-4053F345-B895C0AB-4EB3A191"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UTiling (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "094E56C0-4ACEBDF2-0C0D4AB3-820DAC6A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VTiling (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "E362EC03-47EAACFC-5B2E43BF-24107B19"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "USpeed (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "014076FD-4676DFCD-4228F68B-35EC5EE1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "WavePower",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "E8FE1D11-450566F2-B7C7DC81-83BB65C4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UTiling (S)_1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "7E2F5AC1-478989ED-B12ADC97-88F1B437"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VTiling (S)_1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "D62A934E-4D50F1F9-C49D3B9D-E8C400FC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "USpeed (S)_1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "28858C08-4E4B15EA-44C7579E-44706586"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VSpeed (S)_1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "F22ADF54-49FFCB38-F0678187-F47B4664"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorAngle (S)_1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "7BB0982E-4273EF22-696283A7-61E014D9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorSpeed (S)_1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "EF145BAC-4BF14EE0-BACE0D88-170102B5"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Mask_TEX",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Base01'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Base/UI_T_Base01.0"
+          },
+          "ExpressionGUID": "4171FBDC-42F6DE92-446248BC-13F19740"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "DissolveTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Base01'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Base/UI_T_Base01.0"
+          },
+          "ExpressionGUID": "F4922778-4B2F0F2A-9BFF8AB5-17ADF524"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Base01'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Base/UI_T_Base01.0"
+          },
+          "ExpressionGUID": "2669A46B-48989DD7-B32D9F90-13910BC5"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_YH_dwbj_+hao1'",
+            "ObjectPath": "/Game/UI/UI/biandui/UI_YH_dwbj_+hao1.0"
+          },
+          "ExpressionGUID": "F3AA9609-43EFFCA8-6958EFA8-F77ED24E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Wave_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Square_11'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Square_11.0"
+          },
+          "ExpressionGUID": "24BA02C7-4BD5E812-D180BFB1-BBF2DD1B"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "UseDissolveMask",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "F3C7AD29-415767CD-F4D3A5B9-4A2576BB"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Open_RGB",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "2DA73799-421237A2-3EC0879F-35C28598"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "Use_Wave_Tex",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "F6C63C7B-43FCF599-93260198-6B252089"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

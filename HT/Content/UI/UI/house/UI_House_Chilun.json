@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_House_Chilun",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/house/UI_House_Chilun",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_UI_001'",
+        "ObjectPath": "/Game/FX/Mat/UI/M_UI_001.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "RotatorSpeed (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.1,
+          "ExpressionGUID": "E5C24D40-49A6CB77-9F7B409E-29D56991"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Opacity",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "45C8351F-4969BA0D-2FC5C8A0-338B48A0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_House_Chilun'",
+            "ObjectPath": "/Game/UI/UI/house/YH_UI_House_Chilun.0"
+          },
+          "ExpressionGUID": "050E04FC-44870C34-1581EE91-85FF43F8"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_juexingdi_Hasuoer_Fx",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Awaken/Hasuoer/YH_UI_juexingdi_Hasuoer_Fx",
+    "Properties": {
+      "AddressX": "TextureAddress::TA_Clamp",
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 1552,
+        "Y": 932
+      },
+      "LightingGuid": "AB42EDA7-4DCB0CD5-58B237B0-042E5B2F",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1552,
+    "SizeY": 932,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5785856,
+          "SizeOnDisk": 5785856,
+          "OffsetInFile": "0x7D"
+        },
+        "SizeX": 1552,
+        "SizeY": 932,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

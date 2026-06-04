@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_personal_info_ornament_12",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PlayerInfo/YH_UI_personal_info_ornament_12",
+    "Properties": {
+      "ImportedSize": {
+        "X": 156,
+        "Y": 86
+      },
+      "LightingGuid": "7AE78616-4383C8DD-634503AD-0D52300D",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 156,
+    "SizeY": 86,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 53664,
+          "SizeOnDisk": 53664,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 156,
+        "SizeY": 86,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

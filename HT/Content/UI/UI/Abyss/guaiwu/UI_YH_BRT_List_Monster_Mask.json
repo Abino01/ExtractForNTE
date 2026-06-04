@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_BRT_List_Monster_Mask",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/guaiwu/UI_YH_BRT_List_Monster_Mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 104,
+        "Y": 104
+      },
+      "LightingGuid": "53CAE2BB-4D63F7E8-FF482FA6-7C617514",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 104,
+    "SizeY": 104,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5408,
+          "SizeOnDisk": 5408,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 104,
+        "SizeY": 104,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

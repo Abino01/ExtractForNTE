@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Rails_owl_glow",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Transitions/YH_UI_Rails_owl_glow",
+    "Properties": {
+      "ImportedSize": {
+        "X": 636,
+        "Y": 204
+      },
+      "LightingGuid": "AA250A93-432009E4-27A44685-00B9075B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 636,
+    "SizeY": 204,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 518976,
+          "SizeOnDisk": 518976,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 636,
+        "SizeY": 204,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

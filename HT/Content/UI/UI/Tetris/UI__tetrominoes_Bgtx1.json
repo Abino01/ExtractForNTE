@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI__tetrominoes_Bgtx1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tetris/UI__tetrominoes_Bgtx1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1920,
+        "Y": 120
+      },
+      "LightingGuid": "1F54F4D9-4E16AC0B-3D99B18A-7C222D36",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1920,
+    "SizeY": 120,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 230400,
+          "SizeOnDisk": 230400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1920,
+        "SizeY": 120,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

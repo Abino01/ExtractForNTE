@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Arri_Bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Team/UI_YH_Us_Arri_Bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 112,
+        "Y": 48
+      },
+      "LightingGuid": "F5F4FCA2-48C211E2-CFBD3389-96C55052",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 112,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5376,
+          "SizeOnDisk": 5376,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 112,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_beiguo_qxgz2_btn",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/NoteBook/YH_UI_beiguo_qxgz2_btn",
+    "Properties": {
+      "ImportedSize": {
+        "X": 258,
+        "Y": 62
+      },
+      "LightingGuid": "A148FCB3-4D43C5A3-19EBFDA7-5B1A4723",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 258,
+    "SizeY": 62,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 63984,
+          "SizeOnDisk": 63984,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 258,
+        "SizeY": 62,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

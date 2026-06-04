@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_Racing_PVPReady_Circuit_Mask",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/haoyouzhunbei/UI_Racing_PVPReady_Circuit_Mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 412,
+        "Y": 620
+      },
+      "LightingGuid": "7F81523A-4B7DC48F-F816B185-656D5593",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 412,
+    "SizeY": 620,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 127720,
+          "SizeOnDisk": 127720,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 412,
+        "SizeY": 620,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

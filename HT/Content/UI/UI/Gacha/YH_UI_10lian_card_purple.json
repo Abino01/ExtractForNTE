@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_10lian_card_purple",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_10lian_card_purple",
+    "Properties": {
+      "ImportedSize": {
+        "X": 402,
+        "Y": 208
+      },
+      "LightingGuid": "1FEA9DBC-447069C4-5AFFABBA-B78C65DF",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 402,
+    "SizeY": 208,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 334464,
+          "SizeOnDisk": 334464,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 402,
+        "SizeY": 208,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

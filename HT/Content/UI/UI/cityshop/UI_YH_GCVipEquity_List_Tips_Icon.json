@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_GCVipEquity_List_Tips_Icon",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/cityshop/UI_YH_GCVipEquity_List_Tips_Icon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 60,
+        "Y": 60
+      },
+      "LightingGuid": "7D668D6F-4A830250-1C9377B2-E46DDB20",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 60,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 14400,
+          "SizeOnDisk": 14400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 60,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

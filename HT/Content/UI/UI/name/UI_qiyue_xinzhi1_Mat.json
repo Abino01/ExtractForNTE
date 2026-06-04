@@ -1,0 +1,413 @@
+[
+  {
+    "Type": "Material",
+    "Name": "UI_qiyue_xinzhi1_Mat",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Material'",
+    "Package": "/Game/UI/UI/name/UI_qiyue_xinzhi1_Mat",
+    "Properties": {
+      "MaterialDomain": "EMaterialDomain::MD_UI",
+      "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+      "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+      "ShadingModels": {
+        "ShadingModelField": 1
+      },
+      "bUsedWithNiagaraSprites": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "PixelDepthOffsetMode": "EPixelDepthOffsetMode::PDOM_Legacy",
+      "StateId": "20653562-4D80FABD-774B8789-9B7A0E8E",
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedExpressionData": {
+      "RuntimeEntries": {
+        "ParameterInfoSet": [
+          {
+            "Name": "Disappear(+Index0DY0)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "FxHardnessMin",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "FxHardnessMax",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "FxHardness",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "RotatorAngle (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "ColorMul",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Appear",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "YH_MF_SquareMaskMul",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "YH_MF_SquareMaskPower",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UP",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Down",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Right",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Left",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "YH_MF_SquareMask(Up&Down)(0_1)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "YH_MF_SquareMask(Left&Right)(0_1)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "YH_MF_SquareMask_TC",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "FxHardnessMin (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "FxHardnessMax (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "FxHardness (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[1]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "UVTilingSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UVRotator",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UV",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[2]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[3]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "Base_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[4]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[5]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[6]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[7]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[8]": {
+        "ParameterInfoSet": []
+      },
+      "ScalarPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "VectorPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "ScalarValues": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        60.0,
+        1.0,
+        1.0,
+        15.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        5.0
+      ],
+      "StaticSwitchValues": [],
+      "DynamicSwitchValues": [],
+      "VectorValues": [
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "FFFF00"
+        },
+        {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        },
+        {
+          "R": 1.0,
+          "G": 1.5,
+          "B": 1.8,
+          "A": 2.0,
+          "Hex": "FFFFFF"
+        },
+        {
+          "R": 500.0,
+          "G": 1.0,
+          "B": 2.0,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        }
+      ],
+      "DoubleVectorValues": [],
+      "TextureValues": [
+        {
+          "AssetPathName": "/Engine/EngineResources/DefaultTexture.DefaultTexture",
+          "SubPathString": ""
+        }
+      ],
+      "TextureCollectionValues": [],
+      "FontValues": [],
+      "FontPageValues": [],
+      "RuntimeVirtualTextureValues": [],
+      "SparseVolumeTextureValues": [],
+      "ReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'DefaultTexture'",
+          "ObjectPath": "/Engine/EngineResources/DefaultTexture.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_Smoke_007'",
+          "ObjectPath": "/Game/FX/Tex/Smoke/T_Smoke_007.0"
+        }
+      ],
+      "ReferencedTextureCollections": [],
+      "ReferencedExternalCodeExpressionClasses": [],
+      "FunctionInfos": [
+        {
+          "StateId": "D6581C71-48C9AD92-CEA203B4-8EBA29E8",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_FxHardness'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_FxHardness.0"
+          }
+        },
+        {
+          "StateId": "F1A8C6A9-4D37E691-BD787485-98A34AB8",
+          "Function": {
+            "ObjectName": "MaterialFunction'RemapValueRange'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "88ED1612-48F2C783-A7B35586-CFA4F664",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVTiling'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVTiling.0"
+          }
+        },
+        {
+          "StateId": "F1A8C6A9-4D37E691-BD787485-98A34AB8",
+          "Function": {
+            "ObjectName": "MaterialFunction'RemapValueRange'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "88ED1612-48F2C783-A7B35586-CFA4F664",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVTiling'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVTiling.0"
+          }
+        },
+        {
+          "StateId": "D6581C71-48C9AD92-CEA203B4-8EBA29E8",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_FxHardness'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_FxHardness.0"
+          }
+        },
+        {
+          "StateId": "D6581C71-48C9AD92-CEA203B4-8EBA29E8",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_FxHardness'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_FxHardness.0"
+          }
+        },
+        {
+          "StateId": "3F8893ED-4827FDEE-E700C699-ED78D4EB",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_SquareMask'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_SquareMask.0"
+          }
+        },
+        {
+          "StateId": "D6581C71-48C9AD92-CEA203B4-8EBA29E8",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_FxHardness'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_FxHardness.0"
+          }
+        }
+      ],
+      "FunctionInfosStateCRC": 4117402085,
+      "ParameterCollectionInfos": [
+        {
+          "StateId": "351088CC-4812BCE4-71E7FFA9-7CFDE7ED",
+          "ParameterCollection": {
+            "ObjectName": "MaterialParameterCollection'MC_Particle'",
+            "ObjectPath": "/Game/UltraDynamicSky/Materials/MC_Particle.0"
+          }
+        }
+      ],
+      "GrassTypes": [],
+      "MaterialLayers": {
+        "Layers": [],
+        "Blends": [],
+        "tree": {
+          "Nodes": [],
+          "Payloads": [],
+          "Root": -1
+        }
+      },
+      "DynamicParameterNames": [
+        "Disappear",
+        "Param2",
+        "Param3",
+        "Param4"
+      ],
+      "QualityLevelsUsed": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "bHasMaterialLayers": false,
+      "bHasRuntimeVirtualTextureOutput": false,
+      "bHasFirstPersonOutput": false,
+      "bHasMaterialCacheOutput": false,
+      "bMaterialCacheHasNonUVDerivedExpression": false,
+      "bHasSceneColor": false,
+      "bHasPerInstanceCustomData": false,
+      "bHasPerInstanceRandom": false,
+      "bHasVertexInterpolator": false,
+      "bHasCustomizedUVs": false,
+      "bHasMeshPaintTexture": false,
+      "bHasWorldPosition": false,
+      "PropertyConnectedMask": 35
+    },
+    "ReferencedTextures": [
+      {
+        "ObjectName": "Texture2D'DefaultTexture'",
+        "ObjectPath": "/Engine/EngineResources/DefaultTexture.0"
+      },
+      {
+        "ObjectName": "Texture2D'T_Smoke_007'",
+        "ObjectPath": "/Game/FX/Tex/Smoke/T_Smoke_007.0"
+      }
+    ]
+  }
+]

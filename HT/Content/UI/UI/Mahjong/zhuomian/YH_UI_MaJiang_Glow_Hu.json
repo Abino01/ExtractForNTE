@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_MaJiang_Glow_Hu",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_MaJiang_Glow_Hu",
+    "Properties": {
+      "ImportedSize": {
+        "X": 596,
+        "Y": 596
+      },
+      "LightingGuid": "CD1BAC1D-434A95DD-FB8E63A9-9C6E3EDE",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 596,
+    "SizeY": 596,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1420864,
+          "SizeOnDisk": 1420864,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 596,
+        "SizeY": 596,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

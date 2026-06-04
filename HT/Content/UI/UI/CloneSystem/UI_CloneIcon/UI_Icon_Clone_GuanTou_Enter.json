@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_Icon_Clone_GuanTou_Enter",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/UI_CloneIcon/UI_Icon_Clone_GuanTou_Enter",
+    "Properties": {
+      "ImportedSize": {
+        "X": 293,
+        "Y": 110
+      },
+      "LightingGuid": "146694D2-469AFE6E-A0615E91-F69D75B6",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 293,
+    "SizeY": 110,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 128920,
+          "SizeOnDisk": 128920,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 293,
+        "SizeY": 110,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Level_PB_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVE/UI_YH_Racing_Level_PB_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 612,
+        "Y": 36
+      },
+      "LightingGuid": "5F6A74BF-4A2998B4-C6A16C99-DF9E47DB",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 612,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 22032,
+          "SizeOnDisk": 22032,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 612,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

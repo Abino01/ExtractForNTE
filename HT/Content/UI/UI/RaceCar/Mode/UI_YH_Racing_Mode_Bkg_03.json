@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Mode_Bkg_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/Mode/UI_YH_Racing_Mode_Bkg_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1920,
+        "Y": 1080
+      },
+      "LightingGuid": "972B468E-40BD8CDA-26885E8E-638E403B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1920,
+    "SizeY": 1080,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2073600,
+          "SizeOnDisk": 2073600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1920,
+        "SizeY": 1080,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

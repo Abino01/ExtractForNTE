@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "wsad",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/wsad",
+    "Properties": {
+      "ImportedSize": {
+        "X": 328,
+        "Y": 328
+      },
+      "LightingGuid": "B94BE1F2-43A5D30B-6BED2F94-7F33D7A9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 328,
+    "SizeY": 328,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 107584,
+          "SizeOnDisk": 107584,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 328,
+        "SizeY": 328,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

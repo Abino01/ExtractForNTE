@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Btn_use",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/YH_UI_Btn_use",
+    "Properties": {
+      "ImportedSize": {
+        "X": 380,
+        "Y": 80
+      },
+      "LightingGuid": "51B68A52-4A7418EE-3EC2F9B9-59AA77DB",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 380,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 30400,
+          "SizeOnDisk": 30400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 380,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

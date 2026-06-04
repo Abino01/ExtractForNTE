@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Chengjiu_wenben_di03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Achievement/YH_UI_Chengjiu_wenben_di03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 124,
+        "Y": 48
+      },
+      "LightingGuid": "9073BD9D-4B28523F-0D1355BC-42D25CF7",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 124,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 23808,
+          "SizeOnDisk": 23808,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 124,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

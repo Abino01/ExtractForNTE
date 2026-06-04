@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_zuoyeqian_common",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/DelegateMission/YH_UI_zuoyeqian_common",
+    "Properties": {
+      "ImportedSize": {
+        "X": 192,
+        "Y": 740
+      },
+      "LightingGuid": "A9560938-4A9AADD4-58B120A1-A088843F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 192,
+    "SizeY": 740,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 142080,
+          "SizeOnDisk": 142080,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 192,
+        "SizeY": 740,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

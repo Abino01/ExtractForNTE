@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Meetup_Images_06",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Meetup_Images_06",
+    "Properties": {
+      "ImportedSize": {
+        "X": 396,
+        "Y": 508
+      },
+      "LightingGuid": "BE16AA93-472AE6A6-C401088C-FAF91A4E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 396,
+    "SizeY": 508,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 201168,
+          "SizeOnDisk": 201168,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 396,
+        "SizeY": 508,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

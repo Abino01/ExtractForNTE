@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Detail_BtnBg_Hoverd",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Team/UI_YH_Us_Detail_BtnBg_Hoverd",
+    "Properties": {
+      "ImportedSize": {
+        "X": 198,
+        "Y": 67
+      },
+      "LightingGuid": "0B1C0980-422359F1-F989EE97-F39AC016",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 198,
+    "SizeY": 67,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 53064,
+          "SizeOnDisk": 53064,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 198,
+        "SizeY": 67,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

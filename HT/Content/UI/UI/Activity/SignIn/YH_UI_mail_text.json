@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_mail_text",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/SignIn/YH_UI_mail_text",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1338,
+        "Y": 117
+      },
+      "LightingGuid": "ABDF105D-47FC1214-05A944BE-87F64775",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1338,
+    "SizeY": 117,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 626184,
+          "SizeOnDisk": 626184,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1338,
+        "SizeY": 117,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_YinY_Img_Album",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YH_YinY_Img_Album",
+    "Properties": {
+      "ImportedSize": {
+        "X": 888,
+        "Y": 724
+      },
+      "LightingGuid": "E04BA58F-45453EE5-4096BFA5-8F2F157D",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 888,
+    "SizeY": 724,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2571648,
+          "SizeOnDisk": 2571648,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 888,
+        "SizeY": 724,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

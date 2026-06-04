@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "MusicAlbumDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/Music/MusicAlbumDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'MusicAlbumData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "Music_Album_YH_7": {
+        "AlbumName": {
+          "CultureInvariantString": null
+        },
+        "SortIndex": 2,
+        "AlbumCover": {
+          "AssetPathName": "/Game/UI/UI/jiajujiaohu/changpianji/ht_11./Game/UI/UI/jiajujiaohu/changpianji/ht",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

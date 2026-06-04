@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_prerogative_Popup",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/TycoonRight/YH_UI_prerogative_Popup",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1316,
+        "Y": 816
+      },
+      "LightingGuid": "DA3B4303-46940D63-2BAD64B9-D6103C41",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1316,
+    "SizeY": 816,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1073856,
+          "SizeOnDisk": 1073856,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1316,
+        "SizeY": 816,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

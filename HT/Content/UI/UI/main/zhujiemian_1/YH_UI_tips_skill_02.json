@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_tips_skill_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/zhujiemian_1/YH_UI_tips_skill_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 20,
+        "Y": 20
+      },
+      "LightingGuid": "6AFAFDE8-41E06DA5-22DE42A7-F4FA1470",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 20,
+    "SizeY": 20,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 400,
+          "SizeOnDisk": 400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 20,
+        "SizeY": 20,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

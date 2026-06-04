@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Server_Bkg_Tips_Icon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/login/UI_YH_Server_Bkg_Tips_Icon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 116,
+        "Y": 56
+      },
+      "LightingGuid": "0A2621BD-45F6E48E-A25877BC-6334A72A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 116,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6496,
+          "SizeOnDisk": 6496,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 116,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

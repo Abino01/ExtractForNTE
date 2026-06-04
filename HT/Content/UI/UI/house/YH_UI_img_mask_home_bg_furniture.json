@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_img_mask_home_bg_furniture",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/YH_UI_img_mask_home_bg_furniture",
+    "Properties": {
+      "ImportedSize": {
+        "X": 77,
+        "Y": 48
+      },
+      "LightingGuid": "5F36AC89-4CD0F2A9-930A46AA-28851F72",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 77,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 14784,
+          "SizeOnDisk": 14784,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 77,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

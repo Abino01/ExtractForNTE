@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_jiesuantext2z2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_Mahjong_jiesuantext2z2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 56,
+        "Y": 32
+      },
+      "LightingGuid": "0B2603EB-416710E3-7E075AA7-88411147",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 56,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1792,
+          "SizeOnDisk": 1792,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 56,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

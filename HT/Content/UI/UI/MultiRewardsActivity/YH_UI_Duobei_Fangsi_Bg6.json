@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Duobei_Fangsi_Bg6",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/MultiRewardsActivity/YH_UI_Duobei_Fangsi_Bg6",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1116,
+        "Y": 698
+      },
+      "LightingGuid": "306C3C9A-4A6F7242-26390E90-C2B950CD",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1116,
+    "SizeY": 698,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3115872,
+          "SizeOnDisk": 3115872,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1116,
+        "SizeY": 698,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

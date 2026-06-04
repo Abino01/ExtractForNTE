@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_zhibo_liaotianbg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/bagel/YH_UI_zhibo_liaotianbg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 62,
+        "Y": 44
+      },
+      "LightingGuid": "A1BA0965-4D798E12-FB40CFB0-8EBE9DBE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 62,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10912,
+          "SizeOnDisk": 10912,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 62,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

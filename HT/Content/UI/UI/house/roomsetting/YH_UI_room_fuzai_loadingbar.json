@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_room_fuzai_loadingbar",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/roomsetting/YH_UI_room_fuzai_loadingbar",
+    "Properties": {
+      "ImportedSize": {
+        "X": 48,
+        "Y": 24
+      },
+      "LightingGuid": "FD4DD0AF-4656046D-EB0DEABE-D3DA0E95",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 48,
+    "SizeY": 24,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1152,
+          "SizeOnDisk": 1152,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 48,
+        "SizeY": 24,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

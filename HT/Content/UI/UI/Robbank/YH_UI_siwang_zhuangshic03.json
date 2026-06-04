@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_siwang_zhuangshic03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RobBank/YH_UI_siwang_zhuangshic03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 768,
+        "Y": 120
+      },
+      "LightingGuid": "15FD98D6-4E314AC2-471BE1A0-8153FDF9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 768,
+    "SizeY": 120,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 92160,
+          "SizeOnDisk": 92160,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 768,
+        "SizeY": 120,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

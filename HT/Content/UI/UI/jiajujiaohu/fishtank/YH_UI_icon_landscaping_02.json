@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_icon_landscaping_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/jiajujiaohu/fishtank/YH_UI_icon_landscaping_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 220,
+        "Y": 256
+      },
+      "LightingGuid": "9E422960-4F9CA5C8-F773078F-F6AC75B7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 220,
+    "SizeY": 256,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 56320,
+          "SizeOnDisk": 56320,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 220,
+        "SizeY": 256,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_hint_skill_08",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Divination/shenyu/icon/YH_UI_hint_skill_08",
+    "Properties": {
+      "ImportedSize": {
+        "X": 112,
+        "Y": 124
+      },
+      "LightingGuid": "7851BA29-4ED761FE-94FBF781-BD0006EC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 112,
+    "SizeY": 124,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 13888,
+          "SizeOnDisk": 13888,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 112,
+        "SizeY": 124,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

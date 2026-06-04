@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_choukadafuyong_Top",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_choukadafuyong_Top",
+    "Properties": {
+      "ImportedSize": {
+        "X": 90,
+        "Y": 168
+      },
+      "LightingGuid": "0C82153A-4892CCF0-7F641F99-43A9A6B8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 90,
+    "SizeY": 168,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 60480,
+          "SizeOnDisk": 60480,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 90,
+        "SizeY": 168,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

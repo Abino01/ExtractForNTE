@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Abyss_list_empty",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/jilu/YH_UI_Abyss_list_empty",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 20
+      },
+      "LightingGuid": "5DC66907-47D5A019-371369B7-F2EF1E8A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 20,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2000,
+          "SizeOnDisk": 2000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 100,
+        "SizeY": 20,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

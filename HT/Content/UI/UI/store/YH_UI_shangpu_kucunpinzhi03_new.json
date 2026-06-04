@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_kucunpinzhi03_new",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/YH_UI_shangpu_kucunpinzhi03_new",
+    "Properties": {
+      "ImportedSize": {
+        "X": 142,
+        "Y": 188
+      },
+      "LightingGuid": "481451DB-40125637-7A418DB4-CE7D7074",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "SRGB": false,
+      "NeverStream": true
+    },
+    "SizeX": 142,
+    "SizeY": 188,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 106784,
+          "SizeOnDisk": 106784,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 142,
+        "SizeY": 188,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

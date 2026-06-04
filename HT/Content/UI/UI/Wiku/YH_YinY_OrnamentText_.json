@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_YinY_OrnamentText_",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YH_YinY_OrnamentText_",
+    "Properties": {
+      "ImportedSize": {
+        "X": 894,
+        "Y": 52
+      },
+      "LightingGuid": "7F17D2B9-41199A21-DE9875BF-75719B6E",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "NeverStream": true
+    },
+    "SizeX": 894,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 185952,
+          "SizeOnDisk": 185952,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 894,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

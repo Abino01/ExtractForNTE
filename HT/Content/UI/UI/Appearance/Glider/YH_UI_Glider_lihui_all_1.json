@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Glider_lihui_all_1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Appearance/Glider/YH_UI_Glider_lihui_all_1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 464,
+        "Y": 432
+      },
+      "LightingGuid": "025F9D69-4A39F02D-FB4DA6AE-1DD9CF7B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 464,
+    "SizeY": 432,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 801792,
+          "SizeOnDisk": 801792,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 464,
+        "SizeY": 432,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

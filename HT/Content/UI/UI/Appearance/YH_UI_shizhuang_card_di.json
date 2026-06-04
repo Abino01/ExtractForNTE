@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shizhuang_card_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Appearance/YH_UI_shizhuang_card_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 216,
+        "Y": 560
+      },
+      "LightingGuid": "14C17581-4B489250-CCF088A5-3C8BA91F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 216,
+    "SizeY": 560,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 120960,
+          "SizeOnDisk": 120960,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 216,
+        "SizeY": 560,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

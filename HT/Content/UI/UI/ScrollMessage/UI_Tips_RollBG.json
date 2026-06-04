@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_Tips_RollBG",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ScrollMessage/UI_Tips_RollBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 142,
+        "Y": 74
+      },
+      "LightingGuid": "3BE55177-4A272D42-1B6DA485-E9FA1020",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 142,
+    "SizeY": 74,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 42032,
+          "SizeOnDisk": 42032,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 142,
+        "SizeY": 74,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

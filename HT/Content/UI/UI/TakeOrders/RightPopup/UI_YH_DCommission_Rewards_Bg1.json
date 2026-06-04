@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_DCommission_Rewards_Bg1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/TakeOrders/RightPopup/UI_YH_DCommission_Rewards_Bg1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 168,
+        "Y": 200
+      },
+      "LightingGuid": "0F90B63F-4BCEB913-40E7E39F-4B32654B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 168,
+    "SizeY": 200,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 33600,
+          "SizeOnDisk": 33600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 168,
+        "SizeY": 200,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

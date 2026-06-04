@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Phone_JDT01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/caidan/Menu_Phone/YH_UI_Phone_JDT01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 420,
+        "Y": 16
+      },
+      "LightingGuid": "10C9E87C-40AAE78A-FED7AE99-32B3B98A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 420,
+    "SizeY": 16,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6720,
+          "SizeOnDisk": 6720,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 420,
+        "SizeY": 16,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Shoppingmall_Labelshouqing",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/shangcheng/UI_YH_Shoppingmall_Labelshouqing",
+    "Properties": {
+      "ImportedSize": {
+        "X": 276,
+        "Y": 48
+      },
+      "LightingGuid": "D6D96B0B-4C2E16A2-65B699A1-B835EACE",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 276,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 52992,
+          "SizeOnDisk": 52992,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 276,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_wanshiban_bingo4_1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/YH_UI_wanshiban_bingo4_1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 500,
+        "Y": 500
+      },
+      "LightingGuid": "9DE3C749-4D3FB8EE-C3B14FA2-7D7E366B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 500,
+    "SizeY": 500,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 250000,
+          "SizeOnDisk": 250000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 500,
+        "SizeY": 500,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

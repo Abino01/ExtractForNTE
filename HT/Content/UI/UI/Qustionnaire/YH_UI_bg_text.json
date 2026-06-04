@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_text",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Qustionnaire/YH_UI_bg_text",
+    "Properties": {
+      "ImportedSize": {
+        "X": 732,
+        "Y": 56
+      },
+      "LightingGuid": "F7679CC5-415DFB0C-1F231C9B-C509628D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 732,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 40992,
+          "SizeOnDisk": 40992,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 732,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

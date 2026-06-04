@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_gain_text",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/EquipmentLottery/YH_UI_bg_gain_text",
+    "Properties": {
+      "ImportedSize": {
+        "X": 52,
+        "Y": 32
+      },
+      "LightingGuid": "F0D71076-47177A29-0332A9A8-65743BF2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 52,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1664,
+          "SizeOnDisk": 1664,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 52,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

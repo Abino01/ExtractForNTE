@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_camera_frame02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VideoTransition/YH_UI_camera_frame02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 280,
+        "Y": 280
+      },
+      "LightingGuid": "3B143671-40A7C612-72C877B9-47B2009D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 280,
+    "SizeY": 280,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 78400,
+          "SizeOnDisk": 78400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 280,
+        "SizeY": 280,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

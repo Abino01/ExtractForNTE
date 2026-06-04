@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_moderate_salt",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/dialogue/FrenchFries/YH_UI_bg_moderate_salt",
+    "Properties": {
+      "ImportedSize": {
+        "X": 205,
+        "Y": 270
+      },
+      "LightingGuid": "4AB39DA9-4051AA7D-C90577AB-7879CC93",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 205,
+    "SizeY": 270,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 221400,
+          "SizeOnDisk": 221400,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 205,
+        "SizeY": 270,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

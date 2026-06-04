@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Car_Dashboard_PB",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/drive/UI_YH_Car_Dashboard_PB",
+    "Properties": {
+      "ImportedSize": {
+        "X": 856,
+        "Y": 128
+      },
+      "LightingGuid": "11599147-4D79BB31-912B6B92-AB531210",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "SRGB": false,
+      "NeverStream": true
+    },
+    "SizeX": 856,
+    "SizeY": 128,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 109568,
+          "SizeOnDisk": 109568,
+          "OffsetInFile": "0x77"
+        },
+        "SizeX": 856,
+        "SizeY": 128,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_heimujuqing_di_guang",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/YH_UI_heimujuqing_di_guang",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1148,
+        "Y": 696
+      },
+      "LightingGuid": "12A06661-42ECBEE9-FAD08AA5-724DE32B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1148,
+    "SizeY": 696,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 799008,
+          "SizeOnDisk": 799008,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1148,
+        "SizeY": 696,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_citytcoon_city_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/CITYtycoon_new/YH_UI_citytcoon_city_di",
+    "Properties": {
+      "AddressX": "TextureAddress::TA_Clamp",
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 1600,
+        "Y": 1200
+      },
+      "LightingGuid": "3A822BE5-44545CE1-D5B5FC87-1AE64A34",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "Downscale": {
+        "bCooked": true,
+        "Default": 0.0,
+        "PerPlatform": null,
+        "Value": 0.0
+      },
+      "NeverStream": true
+    },
+    "SizeX": 1600,
+    "SizeY": 1200,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7680000,
+          "SizeOnDisk": 7680000,
+          "OffsetInFile": "0x85"
+        },
+        "SizeX": 1600,
+        "SizeY": 1200,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Menu_Title_Icon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/zanting/UI_YH_Racing_Menu_Title_Icon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 32,
+        "Y": 28
+      },
+      "LightingGuid": "E59B1E0A-415C0DC2-CE8C87B8-97CC226E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 32,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 896,
+          "SizeOnDisk": 896,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 32,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

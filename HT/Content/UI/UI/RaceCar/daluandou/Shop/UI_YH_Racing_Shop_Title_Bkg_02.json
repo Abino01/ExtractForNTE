@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Shop_Title_Bkg_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/daluandou/shop/UI_YH_Racing_Shop_Title_Bkg_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 156,
+        "Y": 28
+      },
+      "LightingGuid": "A528792A-4B49551B-9C638A80-536523D7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 156,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4368,
+          "SizeOnDisk": 4368,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 156,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yaoganfangxiang_common",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_yaoganfangxiang_common",
+    "Properties": {
+      "ImportedSize": {
+        "X": 32,
+        "Y": 24
+      },
+      "LightingGuid": "0573ECAB-4A9F493B-2BA3AC9D-25D4C926",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 32,
+    "SizeY": 24,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 768,
+          "SizeOnDisk": 768,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 32,
+        "SizeY": 24,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

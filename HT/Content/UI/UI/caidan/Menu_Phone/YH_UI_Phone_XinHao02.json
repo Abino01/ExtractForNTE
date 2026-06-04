@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Phone_XinHao02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/caidan/Menu_Phone/YH_UI_Phone_XinHao02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 32,
+        "Y": 24
+      },
+      "LightingGuid": "646576F0-432B5E6C-A4933887-169BCEC7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 32,
+    "SizeY": 24,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 768,
+          "SizeOnDisk": 768,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 32,
+        "SizeY": 24,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

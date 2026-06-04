@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Phone_DianLiang03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/caidan/Menu_Phone/YH_UI_Phone_DianLiang03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 32,
+        "Y": 16
+      },
+      "LightingGuid": "228C4F98-4E6E3FCE-3009DD94-E2A40E2A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI"
+    },
+    "SizeX": 32,
+    "SizeY": 16,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 512,
+          "SizeOnDisk": 512,
+          "OffsetInFile": "0x71"
+        },
+        "SizeX": 32,
+        "SizeY": 16,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,468 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MobileUICustomConfig",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/Setting/DT_MobileUICustomConfig",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'MobileUICustomConfig'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "WidgetMelee": {
+        "WidgetNames": [
+          "ButtonMelee",
+          "CP_USubS",
+          "PrisonWaterGunShoot"
+        ],
+        "WidgetOffset": {
+          "Left": -476.0,
+          "Top": -344.0,
+          "Right": 208.0,
+          "Bottom": 208.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetJump": {
+        "WidgetNames": [
+          "ButtonJump",
+          "CP_PickOrPutWeapon",
+          "CP_DiggingWall"
+        ],
+        "WidgetOffset": {
+          "Left": -278.0,
+          "Top": -412.0,
+          "Right": 172.0,
+          "Bottom": 172.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetSkill": {
+        "WidgetNames": [
+          "ButtonSkill",
+          "PrisonWaterGunChange"
+        ],
+        "WidgetOffset": {
+          "Left": -622.0,
+          "Top": -208.0,
+          "Right": 154.0,
+          "Bottom": 154.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetUltimateSkill": {
+        "WidgetNames": [
+          "ButtonUltimateSkill",
+          "PrisonWaterGunRotating"
+        ],
+        "WidgetOffset": {
+          "Left": -614.0,
+          "Top": -388.0,
+          "Right": 140.0,
+          "Bottom": 140.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetEvadeBean": {
+        "WidgetNames": [
+          "ButtonEvadeBean",
+          "CP_Tips_gliding",
+          "ButtonLeaveVines"
+        ],
+        "WidgetOffset": {
+          "Left": -278.0,
+          "Top": -226.0,
+          "Right": 172.0,
+          "Bottom": 172.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetAdditionalSkill": {
+        "WidgetNames": [
+          "AdditionalSkillPanel"
+        ],
+        "WidgetOffset": {
+          "Left": -440.0,
+          "Top": -490.0,
+          "Right": 140.0,
+          "Bottom": 140.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetLockPanel": {
+        "WidgetNames": [
+          "ManualLockPanel"
+        ],
+        "WidgetOffset": {
+          "Left": -700.0,
+          "Top": -426.0,
+          "Right": 88.0,
+          "Bottom": 88.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetAbyssCardSkill": {
+        "WidgetNames": [
+          "AbyssCardSkillPanel"
+        ],
+        "WidgetOffset": {
+          "Left": -604.0,
+          "Top": -514.0,
+          "Right": 120.0,
+          "Bottom": 120.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetAim": {
+        "WidgetNames": [
+          "AimingPanel",
+          "GSkillPanel"
+        ],
+        "WidgetOffset": {
+          "Left": -728.0,
+          "Top": -282.0,
+          "Right": 120.0,
+          "Bottom": 120.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetShortCut": {
+        "WidgetNames": [
+          "UIExtensionShortcut"
+        ],
+        "WidgetOffset": {
+          "Left": 126.0,
+          "Top": 13.0,
+          "Right": 240.0,
+          "Bottom": 160.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetChat": {
+        "WidgetNames": [
+          "ChatCP"
+        ],
+        "WidgetOffset": {
+          "Left": 48.0,
+          "Top": -68.0,
+          "Right": 60.0,
+          "Bottom": 60.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetRole": {
+        "WidgetNames": [
+          "WrapBoxCharacter"
+        ],
+        "WidgetOffset": {
+          "Left": -350.0,
+          "Top": -354.0,
+          "Right": 333.0,
+          "Bottom": 560.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetDriveLeft": {
+        "WidgetNames": [
+          "CP_Left"
+        ],
+        "WidgetOffset": {
+          "Left": 0.0,
+          "Top": -650.0,
+          "Right": 450.0,
+          "Bottom": 650.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetDriveRight": {
+        "WidgetNames": [
+          "CP_Right"
+        ],
+        "WidgetOffset": {
+          "Left": 420.0,
+          "Top": -650.0,
+          "Right": 450.0,
+          "Bottom": 650.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetDriveThrottle": {
+        "WidgetNames": [
+          "CP_Throttle",
+          "CP_Throttle_1"
+        ],
+        "WidgetOffset": {
+          "Left": -288.0,
+          "Top": -546.0,
+          "Right": 200.0,
+          "Bottom": 350.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetDriveReverse": {
+        "WidgetNames": [
+          "CP_Reverse",
+          "CP_Reverse_1"
+        ],
+        "WidgetOffset": {
+          "Left": -288.0,
+          "Top": -330.0,
+          "Right": 200.0,
+          "Bottom": 350.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetBrake": {
+        "WidgetNames": [
+          "CP_Brake_1",
+          "CP_Brake"
+        ],
+        "WidgetOffset": {
+          "Left": -700.0,
+          "Top": -231.0,
+          "Right": 156.0,
+          "Bottom": 156.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetHandeBrake": {
+        "WidgetNames": [
+          "CP_HandBrake_1",
+          "CP_HandBrake"
+        ],
+        "WidgetOffset": {
+          "Left": -521.0,
+          "Top": -231.0,
+          "Right": 156.0,
+          "Bottom": 156.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetDriveGetOff": {
+        "WidgetNames": [
+          "CP_GetOff_1",
+          "CP_GetOff"
+        ],
+        "WidgetOffset": {
+          "Left": -300.0,
+          "Top": -600.0,
+          "Right": 86.0,
+          "Bottom": 86.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetSwitchRearViewMode": {
+        "WidgetNames": [
+          "CP_SwitchRearViewMode_1",
+          "CP_SwitchRearViewMode"
+        ],
+        "WidgetOffset": {
+          "Left": -450.0,
+          "Top": -600.0,
+          "Right": 86.0,
+          "Bottom": 86.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetVehicleHorn": {
+        "WidgetNames": [
+          "CP_VehicleHorn",
+          "CP_VehicleHorn_1"
+        ],
+        "WidgetOffset": {
+          "Left": -600.0,
+          "Top": -600.0,
+          "Right": 86.0,
+          "Bottom": 86.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetSwitchCamera": {
+        "WidgetNames": [
+          "CP_SwitchCamera_1",
+          "CP_SwitchCamera"
+        ],
+        "WidgetOffset": {
+          "Left": -150.0,
+          "Top": -600.0,
+          "Right": 86.0,
+          "Bottom": 86.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetDriveOpenCloseRoof": {
+        "WidgetNames": [
+          "CP_OpenCloseRoof_1",
+          "CP_OpenCloseRoof"
+        ],
+        "WidgetOffset": {
+          "Left": -700.0,
+          "Top": -350.0,
+          "Right": 86.0,
+          "Bottom": 86.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetJoyStick": {
+        "WidgetNames": [
+          "UIExtensionJoyStick"
+        ],
+        "WidgetOffset": {
+          "Left": 0.0,
+          "Top": -550.0,
+          "Right": 700.0,
+          "Bottom": 550.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetJoyStickWheel": {
+        "WidgetNames": [
+          "UIExtensionJoyStickWheel"
+        ],
+        "WidgetOffset": {
+          "Left": 150.0,
+          "Top": -500.0,
+          "Right": 400.0,
+          "Bottom": 400.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetComfortMode": {
+        "WidgetNames": [
+          "CP_ComfortMode",
+          "CP_ComfortMode_1"
+        ],
+        "WidgetOffset": {
+          "Left": -700.0,
+          "Top": -500.0,
+          "Right": 86.0,
+          "Bottom": 86.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      },
+      "WidgetCPVehicleNitrous": {
+        "WidgetNames": [
+          "CP_VehicleNitrous"
+        ],
+        "WidgetOffset": {
+          "Left": -521.0,
+          "Top": -444.0,
+          "Right": 156.0,
+          "Bottom": 156.0
+        },
+        "RenderScale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "Opacity": 1.0
+      }
+    }
+  }
+]

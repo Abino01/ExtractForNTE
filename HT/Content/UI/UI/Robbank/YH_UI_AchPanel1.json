@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_AchPanel1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RobBank/YH_UI_AchPanel1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 228,
+        "Y": 64
+      },
+      "LightingGuid": "41AD0E1E-4A6323D2-21783A8D-CCC55670",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 228,
+    "SizeY": 64,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 14592,
+          "SizeOnDisk": 14592,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 228,
+        "SizeY": 64,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

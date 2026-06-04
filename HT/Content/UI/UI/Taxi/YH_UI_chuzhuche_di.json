@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_chuzhuche_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Taxi/YH_UI_chuzhuche_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 240,
+        "Y": 52
+      },
+      "LightingGuid": "0F9492B0-4210EBA1-427F3FB6-65D9D91C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 240,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 12480,
+          "SizeOnDisk": 12480,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 240,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

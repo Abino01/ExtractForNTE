@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_zhanbu_Button_On",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Divination/YH_UI_zhanbu_Button_On",
+    "Properties": {
+      "ImportedSize": {
+        "X": 340,
+        "Y": 96
+      },
+      "LightingGuid": "DACA841E-45B83661-B440B389-9E7137D0",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 340,
+    "SizeY": 96,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 130560,
+          "SizeOnDisk": 130560,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 340,
+        "SizeY": 96,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

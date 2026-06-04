@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Unlock_Bkg02_01_Mask",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/AwardTip/UI_YH_Bond_Unlock_Bkg02_01_Mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1764,
+        "Y": 304
+      },
+      "LightingGuid": "F9072AB5-45B5E2C4-04B62D86-42B73C59",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1764,
+    "SizeY": 304,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2145024,
+          "SizeOnDisk": 2145024,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1764,
+        "SizeY": 304,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

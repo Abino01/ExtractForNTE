@@ -1,0 +1,43 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Chengjiu_BG_wenzi03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Achievement/YH_UI_Chengjiu_BG_wenzi03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 3760,
+        "Y": 520
+      },
+      "LightingGuid": "A6A6E42F-4ACD79A6-58B81E95-FFEDA89E",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "Downscale": {
+        "bCooked": true,
+        "Default": 0.0,
+        "PerPlatform": null,
+        "Value": 0.0
+      },
+      "NeverStream": true
+    },
+    "SizeX": 3760,
+    "SizeY": 520,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7820800,
+          "SizeOnDisk": 7820800,
+          "OffsetInFile": "0x83"
+        },
+        "SizeX": 3760,
+        "SizeY": 520,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

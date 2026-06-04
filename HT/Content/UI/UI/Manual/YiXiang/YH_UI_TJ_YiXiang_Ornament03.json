@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TJ_YiXiang_Ornament03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Manual/YiXiang/YH_UI_TJ_YiXiang_Ornament03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 156,
+        "Y": 116
+      },
+      "LightingGuid": "9DD57803-4E66BA7B-FFB2549E-5F0F2B6C",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 156,
+    "SizeY": 116,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 72384,
+          "SizeOnDisk": 72384,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 156,
+        "SizeY": 116,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

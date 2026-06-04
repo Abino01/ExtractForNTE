@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Font_HongZi4_Oversea",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Quest/image/YH_UI_Font_HongZi4_Oversea",
+    "Properties": {
+      "ImportedSize": {
+        "X": 926,
+        "Y": 96
+      },
+      "LightingGuid": "34038ED9-49E1974E-11CBCB87-89CB09C9",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 926,
+    "SizeY": 96,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 355584,
+          "SizeOnDisk": 355584,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 926,
+        "SizeY": 96,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

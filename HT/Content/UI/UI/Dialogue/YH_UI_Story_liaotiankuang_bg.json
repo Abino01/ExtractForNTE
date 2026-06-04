@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Story_liaotiankuang_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/dialogue/YH_UI_Story_liaotiankuang_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 116,
+        "Y": 68
+      },
+      "LightingGuid": "8583A93A-469B0238-B2FF2AA5-C9F4EB9F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 116,
+    "SizeY": 68,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7888,
+          "SizeOnDisk": 7888,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 116,
+        "SizeY": 68,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

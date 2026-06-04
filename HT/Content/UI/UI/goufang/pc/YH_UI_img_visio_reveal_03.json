@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_img_visio_reveal_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/pc/YH_UI_img_visio_reveal_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 504,
+        "Y": 284
+      },
+      "LightingGuid": "DAD2DDAF-4E7E22F6-E6BFBD8A-0A02C51D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 504,
+    "SizeY": 284,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 143136,
+          "SizeOnDisk": 143136,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 504,
+        "SizeY": 284,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

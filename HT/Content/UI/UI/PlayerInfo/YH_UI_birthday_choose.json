@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_birthday_choose",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PlayerInfo/YH_UI_birthday_choose",
+    "Properties": {
+      "ImportedSize": {
+        "X": 96,
+        "Y": 64
+      },
+      "LightingGuid": "BAE99B26-46C7448B-BD729BB4-9BD28EAB",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 96,
+    "SizeY": 64,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6144,
+          "SizeOnDisk": 6144,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 96,
+        "SizeY": 64,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

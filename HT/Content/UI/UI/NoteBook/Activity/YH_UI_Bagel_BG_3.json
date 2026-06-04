@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Bagel_BG_3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/NoteBook/Activity/YH_UI_Bagel_BG_3",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2012,
+        "Y": 868
+      },
+      "LightingGuid": "9BE98DC9-48A77434-D0701298-88664D35",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 2012,
+    "SizeY": 868,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1746416,
+          "SizeOnDisk": 1746416,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 2012,
+        "SizeY": 868,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

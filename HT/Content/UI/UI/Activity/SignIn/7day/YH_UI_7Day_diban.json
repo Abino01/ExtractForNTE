@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_7Day_diban",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/SignIn/7day/YH_UI_7Day_diban",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1572,
+        "Y": 816
+      },
+      "LightingGuid": "77B68F20-4A9EEAC9-50B56A9B-40F52574",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1572,
+    "SizeY": 816,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1282752,
+          "SizeOnDisk": 1282752,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1572,
+        "SizeY": 816,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_VIP_mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/cityshop/VIP_CityShop/YH_UI_VIP_mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1040,
+        "Y": 124
+      },
+      "LightingGuid": "676B56B7-48429642-CA2E6EA1-ECEA1854",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1040,
+    "SizeY": 124,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 128960,
+          "SizeOnDisk": 128960,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1040,
+        "SizeY": 124,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Reward_Info_Mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Rewards/UI_YH_Us_Reward_Info_Mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 546,
+        "Y": 130
+      },
+      "LightingGuid": "B627F53F-4838D37A-A02265B8-12CE1369",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 546,
+    "SizeY": 130,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 283920,
+          "SizeOnDisk": 283920,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 546,
+        "SizeY": 130,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

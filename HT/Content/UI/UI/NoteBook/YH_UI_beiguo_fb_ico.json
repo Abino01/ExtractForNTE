@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_beiguo_fb_ico",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/NoteBook/YH_UI_beiguo_fb_ico",
+    "Properties": {
+      "ImportedSize": {
+        "X": 48,
+        "Y": 48
+      },
+      "LightingGuid": "83F50FFA-437EA9B1-9986DC86-030E3FC2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 48,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2304,
+          "SizeOnDisk": 2304,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 48,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

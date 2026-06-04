@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Companion_qiyue_yingwen02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/Companion/YH_UI_Companion_qiyue_yingwen02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 92,
+        "Y": 28
+      },
+      "LightingGuid": "1405923A-4EA72CBC-1870909F-2B47706E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 92,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2576,
+          "SizeOnDisk": 2576,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 92,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

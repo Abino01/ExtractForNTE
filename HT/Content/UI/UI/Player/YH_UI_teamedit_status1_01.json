@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_teamedit_status1_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/YH_UI_teamedit_status1_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 50,
+        "Y": 42
+      },
+      "LightingGuid": "3A482291-44F78432-3223A9A9-D98F7141",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 50,
+    "SizeY": 42,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8400,
+          "SizeOnDisk": 8400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 50,
+        "SizeY": 42,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

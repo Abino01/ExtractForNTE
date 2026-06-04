@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_PrisonBreak_Bkg_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Prison/UI_YH_PrisonBreak_Bkg_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 728,
+        "Y": 8
+      },
+      "LightingGuid": "C1A9959F-40271217-713DADAA-8C1C4F5A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 728,
+    "SizeY": 8,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 23296,
+          "SizeOnDisk": 23296,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 728,
+        "SizeY": 8,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Information_tap",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/World/Information_tap",
+    "Properties": {
+      "ImportedSize": {
+        "X": 512,
+        "Y": 84
+      },
+      "LightingGuid": "30155ACE-4A3BF508-C2CB74A7-113A6FE0",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 512,
+    "SizeY": 84,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 172032,
+          "SizeOnDisk": 172032,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 512,
+        "SizeY": 84,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

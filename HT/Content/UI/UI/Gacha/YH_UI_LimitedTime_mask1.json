@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LimitedTime_mask1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_LimitedTime_mask1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 10,
+        "Y": 237
+      },
+      "LightingGuid": "5403C516-4E79BCD9-4F57C4B3-4A14E0DF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 10,
+    "SizeY": 237,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9480,
+          "SizeOnDisk": 9480,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 10,
+        "SizeY": 237,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

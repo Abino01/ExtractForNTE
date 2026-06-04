@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_NewSeason_Bkg_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVPRank/NEWRank/UI_YH_Racing_NewSeason_Bkg_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 440,
+        "Y": 636
+      },
+      "LightingGuid": "AD711433-4369C3C5-27EAD292-1CB26611",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 440,
+    "SizeY": 636,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 279840,
+          "SizeOnDisk": 279840,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 440,
+        "SizeY": 636,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

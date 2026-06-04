@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_JQHG_SpinoffSeries_List_Tips_02_LV10",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Quest/ReviewQuest/UI_YH_JQHG_SpinoffSeries_List_Tips_02_LV10",
+    "Properties": {
+      "ImportedSize": {
+        "X": 200,
+        "Y": 168
+      },
+      "LightingGuid": "271F9BA1-48AA4FC1-1847F09B-9F014206",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 200,
+    "SizeY": 168,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 33600,
+          "SizeOnDisk": 33600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 200,
+        "SizeY": 168,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

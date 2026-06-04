@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_btn_shortcut_parking_sel",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/jiajujiaohu/car/YH_UI_btn_shortcut_parking_sel",
+    "Properties": {
+      "ImportedSize": {
+        "X": 340,
+        "Y": 84
+      },
+      "LightingGuid": "AEEDA8D4-40904F6F-1CBD5E97-D9AD6534",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 340,
+    "SizeY": 84,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 28560,
+          "SizeOnDisk": 28560,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 340,
+        "SizeY": 84,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

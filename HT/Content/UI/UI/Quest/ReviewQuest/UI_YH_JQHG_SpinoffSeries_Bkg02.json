@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_JQHG_SpinoffSeries_Bkg02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Quest/ReviewQuest/UI_YH_JQHG_SpinoffSeries_Bkg02",
+    "Properties": {
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 528,
+        "Y": 276
+      },
+      "LightingGuid": "C3D2AF3F-452CF600-A0B0FDA1-04F9CA86",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 528,
+    "SizeY": 276,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 582912,
+          "SizeOnDisk": 582912,
+          "OffsetInFile": "0x7C"
+        },
+        "SizeX": 528,
+        "SizeY": 276,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_zixuanwuxing_bg_wenben",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_zixuanwuxing_bg_wenben",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2832,
+        "Y": 190
+      },
+      "LightingGuid": "E3BFAF97-4C8D852F-FE0E1385-5DF27C9A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 2832,
+    "SizeY": 190,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2152320,
+          "SizeOnDisk": 2152320,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 2832,
+        "SizeY": 190,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

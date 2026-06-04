@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Reward_complete_BtnBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Rewards/UI_YH_Us_Reward_complete_BtnBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 218,
+        "Y": 64
+      },
+      "LightingGuid": "50C2DDA1-4DCD0FCC-96AB7793-B24E560A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 218,
+    "SizeY": 64,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 55808,
+          "SizeOnDisk": 55808,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 218,
+        "SizeY": 64,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

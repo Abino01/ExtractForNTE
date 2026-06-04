@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_auto_zuche_bg02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/YH_UI_auto_zuche_bg02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 612,
+        "Y": 848
+      },
+      "LightingGuid": "8782B158-4535712F-4EE59395-BBAA8967",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 612,
+    "SizeY": 848,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 518976,
+          "SizeOnDisk": 518976,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 612,
+        "SizeY": 848,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

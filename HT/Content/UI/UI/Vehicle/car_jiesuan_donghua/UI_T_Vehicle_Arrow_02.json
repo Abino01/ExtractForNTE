@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_T_Vehicle_Arrow_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/car_jiesuan_donghua/UI_T_Vehicle_Arrow_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 592,
+        "Y": 318
+      },
+      "LightingGuid": "9DFC5660-45FB55D6-ACCF1190-B18B175A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 592,
+    "SizeY": 318,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 753024,
+          "SizeOnDisk": 753024,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 592,
+        "SizeY": 318,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

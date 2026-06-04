@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "nte",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/jiajujiaohu/changpianji/nte",
+    "Properties": {
+      "ImportedSize": {
+        "X": 280,
+        "Y": 280
+      },
+      "LightingGuid": "841794D7-49969461-10CB398E-D2C3E516",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 280,
+    "SizeY": 280,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 78400,
+          "SizeOnDisk": 78400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 280,
+        "SizeY": 280,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_prerogative_tabhover",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/TycoonRight/YH_UI_prerogative_tabhover",
+    "Properties": {
+      "ImportedSize": {
+        "X": 200,
+        "Y": 84
+      },
+      "LightingGuid": "AE6EB212-4BADF573-62E13CA9-7A9FCD0A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 200,
+    "SizeY": 84,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 16800,
+          "SizeOnDisk": 16800,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 200,
+        "SizeY": 84,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

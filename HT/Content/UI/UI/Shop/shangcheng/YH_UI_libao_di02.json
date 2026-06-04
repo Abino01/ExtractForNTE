@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_libao_di02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/shangcheng/YH_UI_libao_di02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 740,
+        "Y": 212
+      },
+      "LightingGuid": "C47D6006-4A9712AB-5E951D96-CBEF5DCF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 740,
+    "SizeY": 212,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 156880,
+          "SizeOnDisk": 156880,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 740,
+        "SizeY": 212,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

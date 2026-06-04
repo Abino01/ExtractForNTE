@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_img_place_decor_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/YH_UI_img_place_decor_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 440,
+        "Y": 196
+      },
+      "LightingGuid": "7C22CC26-440FC94F-CEFDF9B7-0F5EA6AA",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 440,
+    "SizeY": 196,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 344960,
+          "SizeOnDisk": 344960,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 440,
+        "SizeY": 196,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

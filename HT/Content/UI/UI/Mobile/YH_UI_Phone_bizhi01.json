@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Phone_bizhi01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mobile/YH_UI_Phone_bizhi01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 516,
+        "Y": 940
+      },
+      "LightingGuid": "7E911782-48C630B7-B00739B7-D0DF5463",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 516,
+    "SizeY": 940,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 485040,
+          "SizeOnDisk": 485040,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 516,
+        "SizeY": 940,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

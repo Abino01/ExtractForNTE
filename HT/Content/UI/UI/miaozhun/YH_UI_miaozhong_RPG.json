@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_miaozhong_RPG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/miaozhun/YH_UI_miaozhong_RPG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 504,
+        "Y": 392
+      },
+      "LightingGuid": "2782F333-41735D4E-E15957A0-C62DDAD8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 504,
+    "SizeY": 392,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 197568,
+          "SizeOnDisk": 197568,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 504,
+        "SizeY": 392,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

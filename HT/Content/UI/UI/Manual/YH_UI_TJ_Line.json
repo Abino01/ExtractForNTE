@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TJ_Line",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Manual/YH_UI_TJ_Line",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1248,
+        "Y": 1216
+      },
+      "LightingGuid": "6F0E3F8D-4B47110B-78DDF193-E87A9AB6",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1248,
+    "SizeY": 1216,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1517568,
+          "SizeOnDisk": 1517568,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1248,
+        "SizeY": 1216,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

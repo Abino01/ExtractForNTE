@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Gacha_Prizeimages_Bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gashapon/UI_YH_Gacha_Prizeimages_Bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 440,
+        "Y": 657
+      },
+      "LightingGuid": "B68E6B08-42C00784-F4DEB194-577801C0",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 440,
+    "SizeY": 657,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1156320,
+          "SizeOnDisk": 1156320,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 440,
+        "SizeY": 657,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_jinru07_bg2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/animated/UI_jinru07_bg2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2336,
+        "Y": 32
+      },
+      "LightingGuid": "3D4C09B1-4ACD3E04-F9E912B3-7FBD067C",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 2336,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 299008,
+          "SizeOnDisk": 299008,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 2336,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

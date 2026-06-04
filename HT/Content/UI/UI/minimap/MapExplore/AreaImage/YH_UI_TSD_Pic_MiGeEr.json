@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TSD_Pic_MiGeEr",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/AreaImage/YH_UI_TSD_Pic_MiGeEr",
+    "Properties": {
+      "ImportedSize": {
+        "X": 504,
+        "Y": 244
+      },
+      "LightingGuid": "8188571D-47F72128-E0CFD5A3-8AE430A2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 504,
+    "SizeY": 244,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 61488,
+          "SizeOnDisk": 61488,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 504,
+        "SizeY": 244,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

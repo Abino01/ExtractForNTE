@@ -1,0 +1,139 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "YH_UI_Bank_Slow_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/common/function/Dialogue/YH_UI_Bank_Slow_02",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_UI_001'",
+        "ObjectPath": "/Game/FX/Mat/UI/M_UI_001.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "ActualQuantity",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 4.0,
+          "ExpressionGUID": "CE6CB837-49CA42DA-02FCB69F-ACB3882B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "AnimationPhase0_1S",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "85A9620A-4B60BA2C-0B79F2AC-E6F6F646"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Number of Columns (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 2.0,
+          "ExpressionGUID": "593BDB9D-454B7805-3D8DD0A3-F15CFA2E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Number of Rows (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 2.0,
+          "ExpressionGUID": "41ED3667-453AF1D6-D72900A6-86D4A132"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.5,
+          "ExpressionGUID": "E1C10A38-43DB89A2-BB523CA7-0213413A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Gamma",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "F3D57168-4EA4ACE4-7AE4D592-09A08AAC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Bank_05'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Memes/UI_T_Bank_05.0"
+          },
+          "ExpressionGUID": "050E04FC-44870C34-1581EE91-85FF43F8"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Use_Flipbook",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "42A9EA74-4F8DD8D0-CB9C05BB-66489418"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Use_Time",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "31BE519D-44ED6653-44D0368C-46D8C6CC"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Wrap&Clamp",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "9A092EB6-4FCB65F8-DDCBE397-ABC62D6E"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

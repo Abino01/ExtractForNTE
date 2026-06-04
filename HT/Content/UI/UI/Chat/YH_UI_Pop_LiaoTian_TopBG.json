@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Pop_LiaoTian_TopBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Chat/YH_UI_Pop_LiaoTian_TopBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 207,
+        "Y": 91
+      },
+      "LightingGuid": "7E3BB32F-480E2C22-769A58BF-D1E17CF8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 207,
+    "SizeY": 91,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 75348,
+          "SizeOnDisk": 75348,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 207,
+        "SizeY": 91,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

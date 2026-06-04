@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LiaoTian_ShuRuBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Chat/YH_UI_LiaoTian_ShuRuBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 104,
+        "Y": 64
+      },
+      "LightingGuid": "0061C800-4C9DE68E-66C87DA9-68C45344",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 104,
+    "SizeY": 64,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6656,
+          "SizeOnDisk": 6656,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 104,
+        "SizeY": 64,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

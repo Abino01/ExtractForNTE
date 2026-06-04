@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_ui_yieng_celan",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_ui_yieng_celan",
+    "Properties": {
+      "ImportedSize": {
+        "X": 137,
+        "Y": 137
+      },
+      "LightingGuid": "6897868F-4EE0C10E-A8E37682-F8C61E25",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 137,
+    "SizeY": 137,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 75076,
+          "SizeOnDisk": 75076,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 137,
+        "SizeY": 137,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

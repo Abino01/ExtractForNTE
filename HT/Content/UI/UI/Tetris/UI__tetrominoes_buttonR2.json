@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI__tetrominoes_buttonR2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tetris/UI__tetrominoes_buttonR2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 136,
+        "Y": 136
+      },
+      "LightingGuid": "26C1B36E-420701A4-8EDDBAA3-FF3CB685",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 136,
+    "SizeY": 136,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 18496,
+          "SizeOnDisk": 18496,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 136,
+        "SizeY": 136,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

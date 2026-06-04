@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TSD_POP_ZhiXian_BG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/YH_UI_TSD_POP_ZhiXian_BG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 120,
+        "Y": 80
+      },
+      "LightingGuid": "AEB9F386-44CFB185-129F98AB-640BFB35",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 120,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9600,
+          "SizeOnDisk": 9600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 120,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

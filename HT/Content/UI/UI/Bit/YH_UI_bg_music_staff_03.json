@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_music_staff_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Bit/YH_UI_bg_music_staff_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 152,
+        "Y": 152
+      },
+      "LightingGuid": "65E221E5-42D23AB1-DBEFDEA9-53E0E1DE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 152,
+    "SizeY": 152,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 23104,
+          "SizeOnDisk": 23104,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 152,
+        "SizeY": 152,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

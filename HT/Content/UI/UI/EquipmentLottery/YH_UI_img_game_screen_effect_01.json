@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_img_game_screen_effect_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/EquipmentLottery/YH_UI_img_game_screen_effect_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 356,
+        "Y": 956
+      },
+      "LightingGuid": "60D2B5F5-4FBCCE0E-AC2B3690-EDF5A940",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 356,
+    "SizeY": 956,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 340336,
+          "SizeOnDisk": 340336,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 356,
+        "SizeY": 956,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

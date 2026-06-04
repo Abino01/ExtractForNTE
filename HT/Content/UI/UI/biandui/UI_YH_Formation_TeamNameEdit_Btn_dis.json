@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Formation_TeamNameEdit_Btn_dis",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/biandui/UI_YH_Formation_TeamNameEdit_Btn_dis",
+    "Properties": {
+      "ImportedSize": {
+        "X": 72,
+        "Y": 52
+      },
+      "LightingGuid": "20C124E8-4478199C-CF753588-6DA42729",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 72,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3744,
+          "SizeOnDisk": 3744,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 72,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

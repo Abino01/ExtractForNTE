@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_auto_zuche_Butten02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/YH_UI_auto_zuche_Butten02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 220,
+        "Y": 74
+      },
+      "LightingGuid": "D3764E6F-426AC63D-9D161EA6-922D9D10",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 220,
+    "SizeY": 74,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 65120,
+          "SizeOnDisk": 65120,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 220,
+        "SizeY": 74,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

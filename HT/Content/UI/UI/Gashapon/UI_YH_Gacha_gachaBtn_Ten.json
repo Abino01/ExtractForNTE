@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Gacha_gachaBtn_Ten",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gashapon/UI_YH_Gacha_gachaBtn_Ten",
+    "Properties": {
+      "ImportedSize": {
+        "X": 348,
+        "Y": 454
+      },
+      "LightingGuid": "24B44BC1-4B95D04D-AF88D495-AD9F2759",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 348,
+    "SizeY": 454,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 631968,
+          "SizeOnDisk": 631968,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 348,
+        "SizeY": 454,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_JiaoXue_DaFuDiEr",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/teachguide/image/YH_UI_JiaoXue_DaFuDiEr",
+    "Properties": {
+      "ImportedSize": {
+        "X": 823,
+        "Y": 424
+      },
+      "LightingGuid": "6CB8A992-4F3B940B-1216EE84-DA184798",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 823,
+    "SizeY": 424,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1395808,
+          "SizeOnDisk": 1395808,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 823,
+        "SizeY": 424,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

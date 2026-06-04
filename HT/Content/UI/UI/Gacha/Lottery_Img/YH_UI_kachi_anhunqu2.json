@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_kachi_anhunqu2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/Lottery_Img/YH_UI_kachi_anhunqu2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 468,
+        "Y": 704
+      },
+      "LightingGuid": "3D7246E2-494BBE61-2AED9194-81032D07",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 468,
+    "SizeY": 704,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 329472,
+          "SizeOnDisk": 329472,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 468,
+        "SizeY": 704,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SignInMainForm_hupan",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/SignIn/YH_UI_SignInMainForm_hupan",
+    "Properties": {
+      "ImportedSize": {
+        "X": 256,
+        "Y": 244
+      },
+      "LightingGuid": "2AB4129B-44CC7509-770E0E81-52E71C06",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 256,
+    "SizeY": 244,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 62464,
+          "SizeOnDisk": 62464,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 256,
+        "SizeY": 244,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

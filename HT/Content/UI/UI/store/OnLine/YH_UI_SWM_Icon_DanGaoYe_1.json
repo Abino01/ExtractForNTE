@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SWM_Icon_DanGaoYe_1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/OnLine/YH_UI_SWM_Icon_DanGaoYe_1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 168,
+        "Y": 112
+      },
+      "LightingGuid": "D59B5BBD-40A767C5-C20B6486-DEC24CDE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 168,
+    "SizeY": 112,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 18816,
+          "SizeOnDisk": 18816,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 168,
+        "SizeY": 112,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

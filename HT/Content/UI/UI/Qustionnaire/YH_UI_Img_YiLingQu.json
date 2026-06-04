@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Img_YiLingQu",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Qustionnaire/YH_UI_Img_YiLingQu",
+    "Properties": {
+      "ImportedSize": {
+        "X": 632,
+        "Y": 132
+      },
+      "LightingGuid": "221BCFD7-44712644-64BC6EB6-61EF71A8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 632,
+    "SizeY": 132,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 83424,
+          "SizeOnDisk": 83424,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 632,
+        "SizeY": 132,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

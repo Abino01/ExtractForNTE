@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DiTuPop_DiDian02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/minimapUIAssets/PopupWindow/YH_UI_DiTuPop_DiDian02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 536,
+        "Y": 80
+      },
+      "LightingGuid": "374C4266-4FE9A110-6548AC9C-83465209",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 536,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 42880,
+          "SizeOnDisk": 42880,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 536,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

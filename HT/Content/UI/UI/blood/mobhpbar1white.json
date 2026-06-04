@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "mobhpbar1white",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/blood/mobhpbar1white",
+    "Properties": {
+      "ImportedSize": {
+        "X": 152,
+        "Y": 12
+      },
+      "LightingGuid": "A10F3F17-4E966A99-7EC5CF8A-B2189D94",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 152,
+    "SizeY": 12,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1824,
+          "SizeOnDisk": 1824,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 152,
+        "SizeY": 12,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

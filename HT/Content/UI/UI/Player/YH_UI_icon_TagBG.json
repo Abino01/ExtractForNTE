@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_icon_TagBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/YH_UI_icon_TagBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 314,
+        "Y": 72
+      },
+      "LightingGuid": "C15E7972-420D52C0-C5E85C8B-A6E29B9E",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 314,
+    "SizeY": 72,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 90432,
+          "SizeOnDisk": 90432,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 314,
+        "SizeY": 72,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

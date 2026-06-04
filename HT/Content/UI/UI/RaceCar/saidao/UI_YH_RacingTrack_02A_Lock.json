@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_RacingTrack_02A_Lock",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/saidao/UI_YH_RacingTrack_02A_Lock",
+    "Properties": {
+      "ImportedSize": {
+        "X": 360,
+        "Y": 604
+      },
+      "LightingGuid": "B3C4E9CD-4F04BC74-E7B0BE8F-A973B91E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 360,
+    "SizeY": 604,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 217440,
+          "SizeOnDisk": 217440,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 360,
+        "SizeY": 604,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_delete_BtnIcon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Team/UI_YH_Us_delete_BtnIcon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 44,
+        "Y": 44
+      },
+      "LightingGuid": "C74FD251-474F156B-88A3FB89-0931B48C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 44,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1936,
+          "SizeOnDisk": 1936,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 44,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

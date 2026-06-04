@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_weipai_IPpoint_05",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/DelegateMission/YH_UI_weipai_IPpoint_05",
+    "Properties": {
+      "ImportedSize": {
+        "X": 420,
+        "Y": 368
+      },
+      "LightingGuid": "E287365A-48AB0A1C-CB364781-38BF617B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 420,
+    "SizeY": 368,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 618240,
+          "SizeOnDisk": 618240,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 420,
+        "SizeY": 368,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

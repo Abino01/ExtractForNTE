@@ -1,0 +1,189 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_M_Wanshi_17",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/UI_M_Wanshi_17",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'UI_Mat_Dissolve_Chapter'",
+        "ObjectPath": "/Game/UI/UI_Effect/UIMaterial/Chapter/UI_Mat_Dissolve_Chapter.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UTiling (M)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "6B2C1DBC-4E7EF9E6-4451EA96-D2946FB0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VTiling (M)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.1,
+          "ExpressionGUID": "85113BA0-43C72CCF-28EE759E-643F9AC2"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "USpeed (M)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "6C563C4B-4F0125BC-BA01009C-A5088BA0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VSpeed (M)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.2,
+          "ExpressionGUID": "DF9211BD-4862E9B2-D38D8692-8070EECC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "USkewing (M)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "A6635DFD-43DE17DF-2FB2DF84-B2FEEC70"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VSkewingM)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "A921E806-4FDDD778-E67A5F9B-E2EEBB6A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorAngle (M)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 90.0,
+          "ExpressionGUID": "C675E360-4494505E-1D86518E-3ADF9CCE"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "DissolveValue",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "63843AC6-4B2F6189-D88C90A5-BBC2B0E0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "LightValue",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "4513FAD2-43B528E8-9697318F-F00F51CF"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UTiling (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "094E56C0-4ACEBDF2-0C0D4AB3-820DAC6A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VTiling (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "E362EC03-47EAACFC-5B2E43BF-24107B19"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "USpeed (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "014076FD-4676DFCD-4228F68B-35EC5EE1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VSpeed (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "EBDD5A10-4AB1E31F-A8BAE5AD-871F8382"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorSpeed (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "7A4EBD2F-4C298E01-BB3FDBA4-23C3BDA8"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Mask_TEX",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Noise_13'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Noise/UI_T_Noise_13.0"
+          },
+          "ExpressionGUID": "4171FBDC-42F6DE92-446248BC-13F19740"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_wanshiban_SaiChe9'",
+            "ObjectPath": "/Game/UI/UI/CityLive/wanshi/YH_wanshiban_SaiChe9.0"
+          },
+          "ExpressionGUID": "F3AA9609-43EFFCA8-6958EFA8-F77ED24E"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

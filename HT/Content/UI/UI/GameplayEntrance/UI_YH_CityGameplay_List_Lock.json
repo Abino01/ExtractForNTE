@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_CityGameplay_List_Lock",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/GameplayEntrance/UI_YH_CityGameplay_List_Lock",
+    "Properties": {
+      "ImportedSize": {
+        "X": 432,
+        "Y": 269
+      },
+      "LightingGuid": "3A3764E1-46E8A87F-F3C377B1-A8ABC706",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 432,
+    "SizeY": 269,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 464832,
+          "SizeOnDisk": 464832,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 432,
+        "SizeY": 269,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

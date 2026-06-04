@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_ItemAcquisition_Icon_03",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Awards/UI_YH_ItemAcquisition_Icon_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 477,
+        "Y": 477
+      },
+      "LightingGuid": "3CC7FE7B-4225D7C3-2566CC8C-F9604CFC",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 477,
+    "SizeY": 477,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 910116,
+          "SizeOnDisk": 910116,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 477,
+        "SizeY": 477,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

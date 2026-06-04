@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_wanshiban_kaiye7",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/YH_UI_wanshiban_kaiye7",
+    "Properties": {
+      "ImportedSize": {
+        "X": 320,
+        "Y": 108
+      },
+      "LightingGuid": "B87BB00B-4574364F-C8FDEC84-6B5462B6",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 320,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 138240,
+          "SizeOnDisk": 138240,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 320,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

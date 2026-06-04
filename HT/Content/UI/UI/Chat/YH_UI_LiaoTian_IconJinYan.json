@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LiaoTian_IconJinYan",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Chat/YH_UI_LiaoTian_IconJinYan",
+    "Properties": {
+      "ImportedSize": {
+        "X": 28,
+        "Y": 28
+      },
+      "LightingGuid": "ABA1C170-4A1810EE-5EC9A798-58D094BF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 28,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 784,
+          "SizeOnDisk": 784,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 28,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

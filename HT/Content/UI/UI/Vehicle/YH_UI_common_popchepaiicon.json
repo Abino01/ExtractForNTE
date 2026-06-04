@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_common_popchepaiicon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/YH_UI_common_popchepaiicon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 138,
+        "Y": 80
+      },
+      "LightingGuid": "9283EFB1-46C50640-16B42CAE-37321BF2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 138,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 44160,
+          "SizeOnDisk": 44160,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 138,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

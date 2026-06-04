@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_gonggang_di02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Notice/YH_UI_gonggang_di02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1128,
+        "Y": 673
+      },
+      "LightingGuid": "98A65BD3-4907B404-1E2B4B8F-BF9AD0D5",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1128,
+    "SizeY": 673,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3036576,
+          "SizeOnDisk": 3036576,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1128,
+        "SizeY": 673,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_listbg_45",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/YH_UI_shangpu_listbg_45",
+    "Properties": {
+      "ImportedSize": {
+        "X": 116,
+        "Y": 58
+      },
+      "LightingGuid": "F27CABC3-477AB63C-97F74681-4F7982DE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 116,
+    "SizeY": 58,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 26912,
+          "SizeOnDisk": 26912,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 116,
+        "SizeY": 58,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

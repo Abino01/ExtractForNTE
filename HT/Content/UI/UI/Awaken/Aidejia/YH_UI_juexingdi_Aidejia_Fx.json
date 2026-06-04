@@ -1,0 +1,39 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_juexingdi_Aidejia_Fx",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Awaken/Aidejia/YH_UI_juexingdi_Aidejia_Fx",
+    "Properties": {
+      "AddressX": "TextureAddress::TA_Clamp",
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 1212,
+        "Y": 948
+      },
+      "LightingGuid": "3400170E-4E255442-D3F73B9B-A3FB448E",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1212,
+    "SizeY": 948,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4595904,
+          "SizeOnDisk": 4595904,
+          "OffsetInFile": "0x7D"
+        },
+        "SizeX": 1212,
+        "SizeY": 948,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "Inst_Button",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/main/Inst_Button",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'UI_Main_01'",
+        "ObjectPath": "/Game/UI/UI/UI_Main_01.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Hover_Animate",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "D6B0DCE3-449EAB26-E7CB5C8C-F85FFFAF"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Flashing Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "B1A1BCDD-4198DC9A-11836BA5-7F719EA6"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex_01",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_YH_Common_Button03_Normal'",
+            "ObjectPath": "/Game/UI/UI/common/Butten/UI_YH_Common_Button03_Normal.0"
+          },
+          "ExpressionGUID": "78F03A28-468DDB8E-40FB98A8-8C19FA2E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex_02",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_YH_Common_Button03_Normal'",
+            "ObjectPath": "/Game/UI/UI/common/Butten/UI_YH_Common_Button03_Normal.0"
+          },
+          "ExpressionGUID": "FF6107EB-4F26EFA4-6500A686-14BAEFC1"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Flashing switch",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "CCBAD7E6-49CF30D2-8F94DD8D-36A91FC0"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "HoverFlashingOnly",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "A8FC5B90-4DFF3212-9C668EA0-5691E288"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

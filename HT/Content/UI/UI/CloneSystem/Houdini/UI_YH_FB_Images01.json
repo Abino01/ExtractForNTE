@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_FB_Images01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Houdini/UI_YH_FB_Images01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 260,
+        "Y": 92
+      },
+      "LightingGuid": "AC2A6CEC-4F00FBBB-925B55B1-6B7E41FC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 260,
+    "SizeY": 92,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 23920,
+          "SizeOnDisk": 23920,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 260,
+        "SizeY": 92,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

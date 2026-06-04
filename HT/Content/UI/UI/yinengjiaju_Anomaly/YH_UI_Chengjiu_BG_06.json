@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Chengjiu_BG_06",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/yinengjiaju_Anomaly/YH_UI_Chengjiu_BG_06",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1280,
+        "Y": 140
+      },
+      "LightingGuid": "BED26CE2-4459CC6F-608DED90-10C87378",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1280,
+    "SizeY": 140,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 716800,
+          "SizeOnDisk": 716800,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1280,
+        "SizeY": 140,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

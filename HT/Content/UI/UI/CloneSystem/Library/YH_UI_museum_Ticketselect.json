@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_museum_Ticketselect",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Library/YH_UI_museum_Ticketselect",
+    "Properties": {
+      "ImportedSize": {
+        "X": 416,
+        "Y": 164
+      },
+      "LightingGuid": "E8BA3C00-4CC638AD-A49119A8-98C7E1C4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 416,
+    "SizeY": 164,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 68224,
+          "SizeOnDisk": 68224,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 416,
+        "SizeY": 164,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

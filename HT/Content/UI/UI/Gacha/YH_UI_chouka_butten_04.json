@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_chouka_butten_04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_chouka_butten_04",
+    "Properties": {
+      "ImportedSize": {
+        "X": 440,
+        "Y": 82
+      },
+      "LightingGuid": "CBF97E49-4701FC86-C7E4E890-D7D0E370",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 440,
+    "SizeY": 82,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 144320,
+          "SizeOnDisk": 144320,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 440,
+        "SizeY": 82,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

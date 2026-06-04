@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_mask_title_unlock",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PlayerInfo/TitleSystem/YH_UI_mask_title_unlock",
+    "Properties": {
+      "ImportedSize": {
+        "X": 468,
+        "Y": 172
+      },
+      "LightingGuid": "E562F1F6-49A65D38-0C99358A-DBCFB49E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 468,
+    "SizeY": 172,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 80496,
+          "SizeOnDisk": 80496,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 468,
+        "SizeY": 172,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

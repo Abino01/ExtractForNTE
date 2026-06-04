@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_lianjieyoujian_hover",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mail/YH_UI_lianjieyoujian_hover",
+    "Properties": {
+      "ImportedSize": {
+        "X": 154,
+        "Y": 48
+      },
+      "LightingGuid": "38BF5CD2-4EF57F19-82EF58A6-9D9407DB",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 154,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 29568,
+          "SizeOnDisk": 29568,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 154,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

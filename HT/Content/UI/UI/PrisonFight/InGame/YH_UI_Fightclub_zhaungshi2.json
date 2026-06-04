@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Fightclub_zhaungshi2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PrisonFight/InGame/YH_UI_Fightclub_zhaungshi2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1296,
+        "Y": 308
+      },
+      "LightingGuid": "11DE776E-44EE30CA-144580AC-9FC8A14F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1296,
+    "SizeY": 308,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 399168,
+          "SizeOnDisk": 399168,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1296,
+        "SizeY": 308,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

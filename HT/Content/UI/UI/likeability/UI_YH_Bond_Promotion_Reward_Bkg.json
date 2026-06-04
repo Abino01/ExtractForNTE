@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Promotion_Reward_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/UI_YH_Bond_Promotion_Reward_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 512,
+        "Y": 164
+      },
+      "LightingGuid": "5AE9F526-498B60C4-293CBB93-E98C860E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 512,
+    "SizeY": 164,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 83968,
+          "SizeOnDisk": 83968,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 512,
+        "SizeY": 164,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

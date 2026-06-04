@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_FB_TimeBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/UI_YH_FB_TimeBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 178,
+        "Y": 54
+      },
+      "LightingGuid": "AB8045AE-48C6AF36-A2628B99-41BC5A08",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 178,
+    "SizeY": 54,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 38448,
+          "SizeOnDisk": 38448,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 178,
+        "SizeY": 54,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

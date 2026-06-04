@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "show",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/realestateslist/show",
+    "Properties": {
+      "ImportedSize": {
+        "X": 92,
+        "Y": 40
+      },
+      "LightingGuid": "317E3960-47A0A265-533C6B98-399079C4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 92,
+    "SizeY": 40,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3680,
+          "SizeOnDisk": 3680,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 92,
+        "SizeY": 40,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

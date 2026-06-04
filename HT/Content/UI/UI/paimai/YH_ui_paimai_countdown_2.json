@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_ui_paimai_countdown_2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/paimai/YH_ui_paimai_countdown_2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 168,
+        "Y": 200
+      },
+      "LightingGuid": "7CFCB8D3-4186CC76-2A142497-CBC816C0",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 168,
+    "SizeY": 200,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 134400,
+          "SizeOnDisk": 134400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 168,
+        "SizeY": 200,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

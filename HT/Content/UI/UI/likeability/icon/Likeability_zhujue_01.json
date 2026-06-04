@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Likeability_zhujue_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/Icon/Likeability_zhujue_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 480,
+        "Y": 480
+      },
+      "LightingGuid": "7EDBCBAE-4AFFADF8-8CC454B4-658F4529",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 480,
+    "SizeY": 480,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 230400,
+          "SizeOnDisk": 230400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 480,
+        "SizeY": 480,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

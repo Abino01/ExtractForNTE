@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_equipment_qieye01_d_anti",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Equip/YH_UI_equipment_qieye01_d_anti",
+    "Properties": {
+      "ImportedSize": {
+        "X": 118,
+        "Y": 66
+      },
+      "LightingGuid": "8C7E8868-4CD35572-A4BCE489-863AB3C4",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 118,
+    "SizeY": 66,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 31152,
+          "SizeOnDisk": 31152,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 118,
+        "SizeY": 66,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

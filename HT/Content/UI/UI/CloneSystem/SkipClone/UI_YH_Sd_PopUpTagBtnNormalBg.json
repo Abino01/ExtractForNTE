@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Sd_PopUpTagBtnNormalBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/SkipClone/UI_YH_Sd_PopUpTagBtnNormalBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 302,
+        "Y": 162
+      },
+      "LightingGuid": "D9F12B8C-4A7BDF79-AEFE3BAF-98E2E1EF",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 302,
+    "SizeY": 162,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 195696,
+          "SizeOnDisk": 195696,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 302,
+        "SizeY": 162,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_auto_zuche_tiezhi04",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/YH_UI_auto_zuche_tiezhi04",
+    "Properties": {
+      "ImportedSize": {
+        "X": 184,
+        "Y": 88
+      },
+      "LightingGuid": "753F4ADF-41A36706-7C4E588F-E0B3CC31",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 184,
+    "SizeY": 88,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 16192,
+          "SizeOnDisk": 16192,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 184,
+        "SizeY": 88,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

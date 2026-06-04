@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_PhoneDecoration_List_Lock",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mobile/UI_YH_PhoneDecoration_List_Lock",
+    "Properties": {
+      "ImportedSize": {
+        "X": 208,
+        "Y": 292
+      },
+      "LightingGuid": "6A748554-48844D73-E932AEA4-9C392EF9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 208,
+    "SizeY": 292,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 60736,
+          "SizeOnDisk": 60736,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 208,
+        "SizeY": 292,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

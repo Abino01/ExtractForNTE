@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_chongneng_hasuoer_pic_ym_04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/chongneng/YH_UI_chongneng_hasuoer_pic_ym_04",
+    "Properties": {
+      "ImportedSize": {
+        "X": 24,
+        "Y": 52
+      },
+      "LightingGuid": "5009EC74-410A0F72-6501DDAC-293C5E02",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 24,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1248,
+          "SizeOnDisk": 1248,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 24,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

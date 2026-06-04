@@ -1,0 +1,140 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_CPBar_Camera_Inst",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/Activity/Companion/MI_CPBar_Camera_Inst",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "MaterialInstanceConstant'MI_CPBar_Camera'",
+        "ObjectPath": "/Game/UI/UI_Material/CircularProgressBar/MI_CPBar_Camera.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "MaxProgress",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "17105364-47AF1756-EFEBF598-F32B2896"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Progress",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.757757,
+          "ExpressionGUID": "1047D0FA-4C0601A0-AD859D8A-78ABF99B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Size",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.99,
+          "ExpressionGUID": "666886B6-496424EE-9F1AED9F-40C1DCA9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "StartPos",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "125E8834-48E582E2-6EED249E-1D700C4F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Thickness",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.07,
+          "ExpressionGUID": "0F2D7A64-481906C3-6B1C5D99-30FAD32D"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_Companion_loading_img'",
+            "ObjectPath": "/Game/UI/UI/Activity/Companion/YH_UI_Companion_loading_img.0"
+          },
+          "ExpressionGUID": "3C932DA4-4FCB0E44-837642B9-A581B43B"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "EnableFading",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "C0126643-4A20B3BB-09FA8A82-6A4BD800"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Invert",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "3A828C99-47C8110F-D5327DBF-D69F529F"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseCircleHead",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "0C3AF2C7-4772268E-9857679A-AEA760F6"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseTex",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "8B831A78-49F87939-A8298BAF-84DE3E57"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

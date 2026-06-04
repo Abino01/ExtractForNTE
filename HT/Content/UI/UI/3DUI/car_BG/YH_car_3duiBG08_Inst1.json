@@ -1,0 +1,67 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "YH_car_3duiBG08_Inst1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/3DUI/car_BG/YH_car_3duiBG08_Inst1",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'YH_car_3duiBG08'",
+        "ObjectPath": "/Game/UI/UI/3DUI/car_BG/YH_car_3duiBG08.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UVTilingSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 0.05,
+            "A": 0.0,
+            "Hex": "FFFF3F"
+          },
+          "ExpressionGUID": "9AAC7792-47B60EF2-6EEFDAB9-5C470A79"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_car_tex'",
+            "ObjectPath": "/Game/UI/UI/3DUI/car_BG/YH_UI_car_tex.0"
+          },
+          "ExpressionGUID": "D13AFD3B-40A1ADB5-BCDCD0B2-0A7E4EE8"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

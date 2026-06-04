@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_HPSC_TimeBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ForkShop/YH_HPSC_TimeBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 320,
+        "Y": 48
+      },
+      "LightingGuid": "204FFDDC-496DEF1D-35E34096-D7825A05",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 320,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 15360,
+          "SizeOnDisk": 15360,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 320,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_XYC_IconBG01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/WishingFountain/YH_UI_XYC_IconBG01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 268,
+        "Y": 268
+      },
+      "LightingGuid": "23DD1BBD-46421720-7FB4AC94-C0688C0B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 268,
+    "SizeY": 268,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 71824,
+          "SizeOnDisk": 71824,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 268,
+        "SizeY": 268,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

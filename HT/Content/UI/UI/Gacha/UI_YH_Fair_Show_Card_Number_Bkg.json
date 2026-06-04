@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Fair_Show_Card_Number_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/UI_YH_Fair_Show_Card_Number_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 36
+      },
+      "LightingGuid": "21CF6EBD-4667B225-4A27B2A1-09F3DC37",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3600,
+          "SizeOnDisk": 3600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 100,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

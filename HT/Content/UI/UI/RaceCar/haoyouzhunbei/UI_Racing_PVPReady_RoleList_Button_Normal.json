@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_Racing_PVPReady_RoleList_Button_Normal",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/haoyouzhunbei/UI_Racing_PVPReady_RoleList_Button_Normal",
+    "Properties": {
+      "ImportedSize": {
+        "X": 82,
+        "Y": 82
+      },
+      "LightingGuid": "EE377857-49CB3FBC-22317E9A-60349A2D",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 82,
+    "SizeY": 82,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 26896,
+          "SizeOnDisk": 26896,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 82,
+        "SizeY": 82,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

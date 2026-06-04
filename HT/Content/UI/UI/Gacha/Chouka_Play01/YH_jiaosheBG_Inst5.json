@@ -1,0 +1,130 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "YH_jiaosheBG_Inst5",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/Gacha/Chouka_Play01/YH_jiaosheBG_Inst5",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'YH_car_3duiBG08'",
+        "ObjectPath": "/Game/UI/UI/3DUI/car_BG/YH_car_3duiBG08.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Brighness",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.5,
+          "ExpressionGUID": "189B0145-4124DF2A-FCE8C7B0-45A01502"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Saturation",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.8,
+          "ExpressionGUID": "913283A2-4F911320-7625388A-630CE28E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "LineStrength",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "E570E55D-43CB7B8C-CD2D36B1-27FCCFF0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "YH_MF_SquareMaskMul",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 15.0,
+          "ExpressionGUID": "EDA9EFD8-45A25E9C-5E20729F-68A6B5EF"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "YH_MF_SquareMaskPower",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "DEECF86F-4D6C726A-95FEE2AB-AECAEB45"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "YH_MF_SquareMask(Left&Right)(0_1)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "8CBB0237-49BBD7BB-4845F9AC-2875909B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "YH_MF_SquareMask(Up&Down)(0_1)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "163725E4-42EA40EE-E9B9F2BF-92A937D5"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UVTilingSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 0.03,
+            "A": 0.0,
+            "Hex": "FFFF30"
+          },
+          "ExpressionGUID": "9AAC7792-47B60EF2-6EEFDAB9-5C470A79"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_3DjiaoseBG_wenzi03'",
+            "ObjectPath": "/Game/UI/UI/Gacha/Chouka_Play01/YH_UI_3DjiaoseBG_wenzi03.0"
+          },
+          "ExpressionGUID": "D13AFD3B-40A1ADB5-BCDCD0B2-0A7E4EE8"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

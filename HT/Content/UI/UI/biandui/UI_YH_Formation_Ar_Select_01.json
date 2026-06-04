@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Formation_Ar_Select_01",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/biandui/UI_YH_Formation_Ar_Select_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 211
+      },
+      "LightingGuid": "5E564D35-496467BB-231BA28A-F30960A2",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 211,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 84400,
+          "SizeOnDisk": 84400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 100,
+        "SizeY": 211,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shijieboss_Boss_Bkg_008",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/AdventureManual/YH_UI_shijieboss_Boss_Bkg_008",
+    "Properties": {
+      "ImportedSize": {
+        "X": 448,
+        "Y": 136
+      },
+      "LightingGuid": "C2004113-416245C0-F2BEC7B9-EC287072",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 448,
+    "SizeY": 136,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 60928,
+          "SizeOnDisk": 60928,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 448,
+        "SizeY": 136,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

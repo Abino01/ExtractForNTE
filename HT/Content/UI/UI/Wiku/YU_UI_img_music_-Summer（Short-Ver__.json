@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YU_UI_img_music_-Summer（Short-Ver__",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YU_UI_img_music_-Summer（Short-Ver__",
+    "Properties": {
+      "ImportedSize": {
+        "X": 648,
+        "Y": 648
+      },
+      "LightingGuid": "0E9D7643-471ABF4D-E84215BE-412C73AA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 648,
+    "SizeY": 648,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 419904,
+          "SizeOnDisk": 419904,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 648,
+        "SizeY": 648,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

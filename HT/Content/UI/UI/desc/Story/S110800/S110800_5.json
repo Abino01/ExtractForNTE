@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "S110800_5",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/desc/Story/S110800/S110800_5",
+    "Properties": {
+      "ImportedSize": {
+        "X": 5000,
+        "Y": 2736
+      },
+      "LightingGuid": "531CF696-4ABC5F99-9489E89D-E71EB2B5",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 5000,
+    "SizeY": 2736,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 54720000,
+          "SizeOnDisk": 54720000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 5000,
+        "SizeY": 2736,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

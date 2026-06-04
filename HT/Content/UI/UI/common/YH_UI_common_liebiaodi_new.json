@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_common_liebiaodi_new",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/YH_UI_common_liebiaodi_new",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 56
+      },
+      "LightingGuid": "0A5002AE-495BE896-15E318A0-ABD95A40",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5600,
+          "SizeOnDisk": 5600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 100,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

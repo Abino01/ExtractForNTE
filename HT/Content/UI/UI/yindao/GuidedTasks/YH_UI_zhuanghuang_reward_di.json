@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_zhuanghuang_reward_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/yindao/GuidedTasks/YH_UI_zhuanghuang_reward_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 476,
+        "Y": 344
+      },
+      "LightingGuid": "8A9A73B5-44BCAF5F-7AA6F4AB-BB18DB44",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 476,
+    "SizeY": 344,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 163744,
+          "SizeOnDisk": 163744,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 476,
+        "SizeY": 344,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

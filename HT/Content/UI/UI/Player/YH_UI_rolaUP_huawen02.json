@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_rolaUP_huawen02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/YH_UI_rolaUP_huawen02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 756,
+        "Y": 264
+      },
+      "LightingGuid": "D412E727-44F757F3-825D6C9C-5B594F79",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 756,
+    "SizeY": 264,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 199584,
+          "SizeOnDisk": 199584,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 756,
+        "SizeY": 264,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

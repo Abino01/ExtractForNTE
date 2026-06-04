@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_RecordBg_Hover",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/ADVVision/YH_UI_RecordBg_Hover",
+    "Properties": {
+      "ImportedSize": {
+        "X": 148,
+        "Y": 148
+      },
+      "LightingGuid": "877B4D27-45B6E52F-DD1D30A1-FA87DFDF",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 148,
+    "SizeY": 148,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 87616,
+          "SizeOnDisk": 87616,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 148,
+        "SizeY": 148,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

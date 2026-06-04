@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "bufficon_sagiri_CD1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/WishingFountain/Buff/Player/bufficon_sagiri_CD1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 28,
+        "Y": 28
+      },
+      "LightingGuid": "E06EC1EA-46B061B1-BBBC34A1-434CAD63",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 28,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 784,
+          "SizeOnDisk": 784,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 28,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

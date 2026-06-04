@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_Promptriichi_oversea",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_Mahjong_Promptriichi_oversea",
+    "Properties": {
+      "ImportedSize": {
+        "X": 248,
+        "Y": 108
+      },
+      "LightingGuid": "AE2AA968-45283949-D54B0785-D7F60528",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 248,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 26784,
+          "SizeOnDisk": 26784,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 248,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_heimu_fadiya_etd_5",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Video/YH_UI_heimu_fadiya_etd_5",
+    "Properties": {
+      "ImportedSize": {
+        "X": 224,
+        "Y": 84
+      },
+      "LightingGuid": "0C9F7D09-4ED55A4B-C2F11187-4A5B4153",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 224,
+    "SizeY": 84,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 18816,
+          "SizeOnDisk": 18816,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 224,
+        "SizeY": 84,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

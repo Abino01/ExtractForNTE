@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_siwang_zhuangshi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CharacterRelive/YH_UI_siwang_zhuangshi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 972,
+        "Y": 123
+      },
+      "LightingGuid": "86344339-466C19D7-3CF351B7-2E35D2D5",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 972,
+    "SizeY": 123,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 478224,
+          "SizeOnDisk": 478224,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 972,
+        "SizeY": 123,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

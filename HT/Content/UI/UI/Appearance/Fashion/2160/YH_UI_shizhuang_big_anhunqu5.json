@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shizhuang_big_anhunqu5",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_anhunqu5",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2160,
+        "Y": 2560
+      },
+      "LightingGuid": "6CB13F33-4D9E87B6-49873C88-610BB706",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 2160,
+    "SizeY": 2560,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 22118400,
+          "SizeOnDisk": 22118400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 2160,
+        "SizeY": 2560,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

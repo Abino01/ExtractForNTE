@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DiaoYu_RuZhang_Img1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Fishing/YH_UI_DiaoYu_RuZhang_Img1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 102,
+        "Y": 102
+      },
+      "LightingGuid": "1015D9E1-45F4985C-B2B35493-F428F7EA",
+      "CompressionSettings": "TextureCompressionSettings::TC_Normalmap",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "SRGB": false,
+      "NeverStream": true
+    },
+    "SizeX": 102,
+    "SizeY": 102,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 41616,
+          "SizeOnDisk": 41616,
+          "OffsetInFile": "0x7E"
+        },
+        "SizeX": 102,
+        "SizeY": 102,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

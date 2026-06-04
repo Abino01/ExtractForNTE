@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_ditu_zhezhao03",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/bigworldmap_assets/YH_ditu_zhezhao03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 205,
+        "Y": 252
+      },
+      "LightingGuid": "5AA9AFF9-49EF22D3-E737FBAB-5AE1C5A7",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 205,
+    "SizeY": 252,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 206640,
+          "SizeOnDisk": 206640,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 205,
+        "SizeY": 252,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DiTu_TSD_Icon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/YH_UI_DiTu_TSD_Icon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 72,
+        "Y": 72
+      },
+      "LightingGuid": "9BA3FA2E-41D370DA-3E4DD991-B5587307",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 72,
+    "SizeY": 72,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5184,
+          "SizeOnDisk": 5184,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 72,
+        "SizeY": 72,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

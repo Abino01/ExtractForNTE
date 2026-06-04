@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_zudui_shaixuan_05",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/biandui/YH_UI_zudui_shaixuan_05",
+    "Properties": {
+      "ImportedSize": {
+        "X": 224,
+        "Y": 420
+      },
+      "LightingGuid": "D17E6237-48F3A043-928ACC98-1133A0AA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 224,
+    "SizeY": 420,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 94080,
+          "SizeOnDisk": 94080,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 224,
+        "SizeY": 420,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Anhun_H_0",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/font/tiaozi1/Anhun_H_0",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 108
+      },
+      "LightingGuid": "6A8B3482-46A8869B-0BA2CB9B-B7BCA0EA",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 43200,
+          "SizeOnDisk": 43200,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 100,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

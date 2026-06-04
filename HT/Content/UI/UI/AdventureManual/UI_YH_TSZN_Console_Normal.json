@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_TSZN_Console_Normal",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/AdventureManual/UI_YH_TSZN_Console_Normal",
+    "Properties": {
+      "ImportedSize": {
+        "X": 132,
+        "Y": 132
+      },
+      "LightingGuid": "B866ADE4-498E56BE-D2AB28BE-CF7C60CE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 132,
+    "SizeY": 132,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 17424,
+          "SizeOnDisk": 17424,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 132,
+        "SizeY": 132,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

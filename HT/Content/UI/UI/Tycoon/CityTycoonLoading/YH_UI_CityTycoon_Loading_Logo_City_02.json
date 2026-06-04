@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_CityTycoon_Loading_Logo_City_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/CityTycoonLoading/YH_UI_CityTycoon_Loading_Logo_City_02",
+    "Properties": {
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 208,
+        "Y": 136
+      },
+      "LightingGuid": "9815B228-4CEEAED6-863379AB-69CC9F0B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 208,
+    "SizeY": 136,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 113152,
+          "SizeOnDisk": 113152,
+          "OffsetInFile": "0x7C"
+        },
+        "SizeX": 208,
+        "SizeY": 136,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

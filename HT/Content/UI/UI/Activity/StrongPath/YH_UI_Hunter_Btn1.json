@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Hunter_Btn1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/StrongPath/YH_UI_Hunter_Btn1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 190,
+        "Y": 58
+      },
+      "LightingGuid": "F900E956-40EF00B6-F95931A5-743D902B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 190,
+    "SizeY": 58,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 44080,
+          "SizeOnDisk": 44080,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 190,
+        "SizeY": 58,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

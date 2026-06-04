@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_juexingdi_Xun",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Awaken/Xun/YH_UI_juexingdi_Xun",
+    "Properties": {
+      "AddressX": "TextureAddress::TA_Clamp",
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 2380,
+        "Y": 1804
+      },
+      "LightingGuid": "EB5A0F29-4E8E047D-6C9D89B3-C15149B0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 2380,
+    "SizeY": 1804,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4293520,
+          "SizeOnDisk": 4293520,
+          "OffsetInFile": "0x76"
+        },
+        "SizeX": 2380,
+        "SizeY": 1804,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

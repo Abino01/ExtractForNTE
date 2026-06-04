@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_HPSC_Pop_BtnSelect",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ForkShop/YH_HPSC_Pop_BtnSelect",
+    "Properties": {
+      "ImportedSize": {
+        "X": 148,
+        "Y": 80
+      },
+      "LightingGuid": "31E3BDA6-4CBD33E7-374C2CA5-9FDE6118",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 148,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 11840,
+          "SizeOnDisk": 11840,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 148,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

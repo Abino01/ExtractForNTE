@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Buff_BtnBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Main/UI_YH_Us_Buff_BtnBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 66,
+        "Y": 68
+      },
+      "LightingGuid": "BA974301-4084FAE9-79BA1EA2-2E50FB69",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 66,
+    "SizeY": 68,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 17952,
+          "SizeOnDisk": 17952,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 66,
+        "SizeY": 68,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

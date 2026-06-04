@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DiTuPop_Btn_Icon_Guanbi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/minimapUIAssets/PopupWindow/YH_UI_DiTuPop_Btn_Icon_Guanbi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 516,
+        "Y": 80
+      },
+      "LightingGuid": "0FDAC02D-4F274B8C-07A08AA5-BF7230E0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 516,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 41280,
+          "SizeOnDisk": 41280,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 516,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

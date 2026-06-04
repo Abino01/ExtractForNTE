@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mall_Bg_Text_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/YH_UI_Mall_Bg_Text_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1608,
+        "Y": 140
+      },
+      "LightingGuid": "C6863915-41219B96-47BEAA9D-39F49AE3",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "SRGB": false,
+      "NeverStream": true
+    },
+    "SizeX": 1608,
+    "SizeY": 140,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 900480,
+          "SizeOnDisk": 900480,
+          "OffsetInFile": "0x7E"
+        },
+        "SizeX": 1608,
+        "SizeY": 140,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_IncomeBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RobBank/YH_UI_IncomeBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1536,
+        "Y": 104
+      },
+      "LightingGuid": "B12ABA1F-46BA24AC-220AA794-AAB0BA80",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1536,
+    "SizeY": 104,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 159744,
+          "SizeOnDisk": 159744,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1536,
+        "SizeY": 104,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

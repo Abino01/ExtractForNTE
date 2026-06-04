@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_fork_obtain_arrow_gold",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ForkAcquire/YH_UI_fork_obtain_arrow_gold",
+    "Properties": {
+      "AddressX": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 844,
+        "Y": 676
+      },
+      "LightingGuid": "70F113BA-42475B8E-D28A37A7-F70D1E86",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 844,
+    "SizeY": 676,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2282176,
+          "SizeOnDisk": 2282176,
+          "OffsetInFile": "0x7E"
+        },
+        "SizeX": 844,
+        "SizeY": 676,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

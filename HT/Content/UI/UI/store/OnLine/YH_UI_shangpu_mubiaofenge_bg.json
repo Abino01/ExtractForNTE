@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_mubiaofenge_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/OnLine/YH_UI_shangpu_mubiaofenge_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 60
+      },
+      "LightingGuid": "28861A67-4F55BBE7-95C677B5-BBBE1D5F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6000,
+          "SizeOnDisk": 6000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 100,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

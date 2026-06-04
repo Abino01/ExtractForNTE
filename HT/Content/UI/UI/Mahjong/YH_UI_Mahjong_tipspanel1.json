@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_tipspanel1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/YH_UI_Mahjong_tipspanel1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 72,
+        "Y": 276
+      },
+      "LightingGuid": "9AFFBBBE-447CA94B-27765889-7857E7D3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 72,
+    "SizeY": 276,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 19872,
+          "SizeOnDisk": 19872,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 72,
+        "SizeY": 276,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

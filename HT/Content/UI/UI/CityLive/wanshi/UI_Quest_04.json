@@ -1,0 +1,197 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_Quest_04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/UI_Quest_04",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'UI_Mat_UVOffest'",
+        "ObjectPath": "/Game/UI/UI_Effect/UIMaterial/Base/UI_Mat_UVOffest.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "AlphaValue",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "A2081679-411E18B4-22266E96-DA23B91C"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "BrightValue",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "C76BE389-43AD4E3C-677F3896-F03C4A46"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UVOffestAngle",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.41,
+          "ExpressionGUID": "D0AD6ECD-49A03E39-A534F38F-7E07508A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "953826E5-45A79805-9D58F1A2-E01C8896"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UVOffestTranslation",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.824,
+            "G": -0.2,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "EB0000"
+          },
+          "ExpressionGUID": "426542B9-41E4AC6E-6D3D3F8E-CC4D4E09"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UVOffsetScale",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": -1.37275,
+            "G": -1.936498,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "ExpressionGUID": "7975F80F-4754DE96-360255AF-60AC9144"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Value",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "ExpressionGUID": "1E5804F4-47E55E4A-D7FA4788-EC870F78"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "BaseColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_bg_accio_caizhi'",
+            "ObjectPath": "/Game/UI/UI/CityLive/wanshi/YH_UI_bg_accio_caizhi.0"
+          },
+          "ExpressionGUID": "559A1E6E-45412EC7-AF913D8D-CDD94C05"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Mask_1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Mask_wanshi'",
+            "ObjectPath": "/Game/UI/UI/CityLive/wanshi/UI_T_Mask_wanshi.0"
+          },
+          "ExpressionGUID": "7AD29C33-42FAF294-36ADC6B9-D9B17243"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_Additive",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Effect",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "402BE5BE-4E276F52-8F45C8AC-414B2F1D"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "LightSweepORSpread",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "EDA9ABC4-40F52536-D07FEE97-89CC6AA6"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "MulOpacity",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "86FCFF6D-4C4D76AA-61A84593-6B8AD990"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "OpenColor_Mask1",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "834E606A-4683CC64-D59DB1B7-F800E256"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

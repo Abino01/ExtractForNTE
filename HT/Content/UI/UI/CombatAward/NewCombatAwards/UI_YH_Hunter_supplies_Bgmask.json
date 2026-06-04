@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Hunter_supplies_Bgmask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CombatAward/NewCombatAwards/UI_YH_Hunter_supplies_Bgmask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 960,
+        "Y": 540
+      },
+      "LightingGuid": "7387194E-416416BE-F574D582-23591C89",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 960,
+    "SizeY": 540,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 518400,
+          "SizeOnDisk": 518400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 960,
+        "SizeY": 540,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

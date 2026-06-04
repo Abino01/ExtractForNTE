@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_HY_kongmutips_09",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Equip/TipsIcon/UI_HY_kongmutips_09",
+    "Properties": {
+      "ImportedSize": {
+        "X": 112,
+        "Y": 60
+      },
+      "LightingGuid": "02CB2AAE-4F7FDB99-7A3E73B9-A4926FA1",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 112,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6720,
+          "SizeOnDisk": 6720,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 112,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_VIP_mid",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/cityshop/VIP_CityShop/YH_UI_VIP_mid",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1033,
+        "Y": 121
+      },
+      "LightingGuid": "C542183A-4447E695-19E3A981-45E2C8A8",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1033,
+    "SizeY": 121,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 499972,
+          "SizeOnDisk": 499972,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1033,
+        "SizeY": 121,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

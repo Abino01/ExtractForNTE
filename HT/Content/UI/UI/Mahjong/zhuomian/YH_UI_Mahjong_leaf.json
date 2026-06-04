@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_leaf",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_Mahjong_leaf",
+    "Properties": {
+      "ImportedSize": {
+        "X": 600,
+        "Y": 1000
+      },
+      "LightingGuid": "C76B3397-47089106-A2895580-E14F8A29",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 600,
+    "SizeY": 1000,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2400000,
+          "SizeOnDisk": 2400000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 600,
+        "SizeY": 1000,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

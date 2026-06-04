@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Cultivation_icon2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/Butten/YH_UI_Cultivation_icon2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 276,
+        "Y": 88
+      },
+      "LightingGuid": "BA342004-4F9AF816-58E96C95-469DE1A1",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 276,
+    "SizeY": 88,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 24288,
+          "SizeOnDisk": 24288,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 276,
+        "SizeY": 88,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

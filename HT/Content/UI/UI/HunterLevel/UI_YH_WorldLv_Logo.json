@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_WorldLv_Logo",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/HunterLevel/UI_YH_WorldLv_Logo",
+    "Properties": {
+      "ImportedSize": {
+        "X": 322,
+        "Y": 350
+      },
+      "LightingGuid": "13C1A342-48FDEBE5-8F6BE1A8-35864998",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "Filter": "TextureFilter::TF_Nearest",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 322,
+    "SizeY": 350,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 450800,
+          "SizeOnDisk": 450800,
+          "OffsetInFile": "0x7C"
+        },
+        "SizeX": 322,
+        "SizeY": 350,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Gift_Item_Bkg_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/UI_YH_Bond_Gift_Item_Bkg_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 403,
+        "Y": 550
+      },
+      "LightingGuid": "8B2437F2-437633AD-FBC59B92-5B4433B0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 403,
+    "SizeY": 550,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 886600,
+          "SizeOnDisk": 886600,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 403,
+        "SizeY": 550,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

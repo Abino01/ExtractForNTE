@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Boss8",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/ADVVision/ADVBoss/YH_UI_Boss8",
+    "Properties": {
+      "ImportedSize": {
+        "X": 500,
+        "Y": 136
+      },
+      "LightingGuid": "81969831-4CDB609D-B793F1BC-D8056461",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 500,
+    "SizeY": 136,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 68000,
+          "SizeOnDisk": 68000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 500,
+        "SizeY": 136,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

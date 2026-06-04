@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Fleet_Fold_On",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVEAward/UI_YH_Racing_Fleet_Fold_On",
+    "Properties": {
+      "ImportedSize": {
+        "X": 116,
+        "Y": 700
+      },
+      "LightingGuid": "625665A7-493CAD0A-532CE48E-5078AEAA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 116,
+    "SizeY": 700,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 81200,
+          "SizeOnDisk": 81200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 116,
+        "SizeY": 700,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

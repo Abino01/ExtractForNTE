@@ -1,0 +1,39 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Activity_BlindBox_Tear_Fx_Gold_Glow_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/GashaponLottery/UI_YH_Activity_BlindBox_Tear_Fx_Gold_Glow_01",
+    "Properties": {
+      "AddressX": "TextureAddress::TA_Clamp",
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 1480,
+        "Y": 368
+      },
+      "LightingGuid": "CCE5BEE5-430AEF8A-5AE18E8A-6B2B9506",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1480,
+    "SizeY": 368,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2178560,
+          "SizeOnDisk": 2178560,
+          "OffsetInFile": "0x7D"
+        },
+        "SizeX": 1480,
+        "SizeY": 368,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

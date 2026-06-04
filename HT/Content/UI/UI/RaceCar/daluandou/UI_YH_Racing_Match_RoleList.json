@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Match_RoleList",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/daluandou/UI_YH_Racing_Match_RoleList",
+    "Properties": {
+      "ImportedSize": {
+        "X": 264,
+        "Y": 352
+      },
+      "LightingGuid": "68EC9286-4EEFBCBA-172D82A8-42D5E3A3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 264,
+    "SizeY": 352,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 92928,
+          "SizeOnDisk": 92928,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 264,
+        "SizeY": 352,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

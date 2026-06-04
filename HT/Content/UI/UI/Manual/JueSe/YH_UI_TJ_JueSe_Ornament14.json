@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TJ_JueSe_Ornament14",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Manual/JueSe/YH_UI_TJ_JueSe_Ornament14",
+    "Properties": {
+      "ImportedSize": {
+        "X": 696,
+        "Y": 156
+      },
+      "LightingGuid": "B1E481D4-449CD410-830E9EAA-E41316D4",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 696,
+    "SizeY": 156,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 434304,
+          "SizeOnDisk": 434304,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 696,
+        "SizeY": 156,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

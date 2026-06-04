@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_divination_in_04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Divination/YH_UI_divination_in_04",
+    "Properties": {
+      "ImportedSize": {
+        "X": 280,
+        "Y": 456
+      },
+      "LightingGuid": "7C80EA5C-4C32F3AF-955703BA-B91CC19D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 280,
+    "SizeY": 456,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 127680,
+          "SizeOnDisk": 127680,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 280,
+        "SizeY": 456,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

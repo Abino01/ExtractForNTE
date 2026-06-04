@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LiaoTian_RightBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Chat/YH_UI_LiaoTian_RightBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 124,
+        "Y": 128
+      },
+      "LightingGuid": "B2A563E8-4BFAF66F-4D2BADB5-6E937E1D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 124,
+    "SizeY": 128,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 15872,
+          "SizeOnDisk": 15872,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 124,
+        "SizeY": 128,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

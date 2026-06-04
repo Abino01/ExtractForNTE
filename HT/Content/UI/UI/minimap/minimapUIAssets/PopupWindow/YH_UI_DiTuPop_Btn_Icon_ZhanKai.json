@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DiTuPop_Btn_Icon_ZhanKai",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/minimapUIAssets/PopupWindow/YH_UI_DiTuPop_Btn_Icon_ZhanKai",
+    "Properties": {
+      "ImportedSize": {
+        "X": 516,
+        "Y": 80
+      },
+      "LightingGuid": "77F9F49F-462833B9-F12BA299-232AC4BC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 516,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 41280,
+          "SizeOnDisk": 41280,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 516,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "58",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/MonsterManual/MonsterHeadIcon/LacrimosaCollection/58",
+    "Properties": {
+      "ImportedSize": {
+        "X": 384,
+        "Y": 320
+      },
+      "LightingGuid": "B2489279-4959CC14-F4A2F7A8-FFEF8BA2",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 384,
+    "SizeY": 320,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 491520,
+          "SizeOnDisk": 491520,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 384,
+        "SizeY": 320,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_xiangkuang2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_selfie_xiangkuang2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 684,
+        "Y": 1296
+      },
+      "LightingGuid": "0DE99709-4DB64581-116A85B4-474B18E7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 684,
+    "SizeY": 1296,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 886464,
+          "SizeOnDisk": 886464,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 684,
+        "SizeY": 1296,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

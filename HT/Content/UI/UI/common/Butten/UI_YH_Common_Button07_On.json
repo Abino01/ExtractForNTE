@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Common_Button07_On",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/Butten/UI_YH_Common_Button07_On",
+    "Properties": {
+      "ImportedSize": {
+        "X": 46,
+        "Y": 46
+      },
+      "LightingGuid": "3B33C284-4CCC56C7-C625F08F-F337FBB8",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 46,
+    "SizeY": 46,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8464,
+          "SizeOnDisk": 8464,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 46,
+        "SizeY": 46,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

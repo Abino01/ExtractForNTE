@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "LateSunSet",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/Filter/LateSunSet",
+    "Properties": {
+      "ImportedSize": {
+        "X": 240,
+        "Y": 224
+      },
+      "LightingGuid": "78E02DA4-41FBA7C9-54A29882-FF81C3B4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 240,
+    "SizeY": 224,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 53760,
+          "SizeOnDisk": 53760,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 240,
+        "SizeY": 224,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yun_zhuangshi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/YH_UI_yun_zhuangshi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 628,
+        "Y": 4
+      },
+      "LightingGuid": "B6E6E68C-4E7945AF-0EFA6986-D3B6074E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 628,
+    "SizeY": 4,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2512,
+          "SizeOnDisk": 2512,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 628,
+        "SizeY": 4,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

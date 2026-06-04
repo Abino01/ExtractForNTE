@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_weituo_time_Bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/TakeOrders/YH_UI_weituo_time_Bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 134,
+        "Y": 39
+      },
+      "LightingGuid": "12F8C376-475F56B4-B08084BC-97B7A76E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 134,
+    "SizeY": 39,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 20904,
+          "SizeOnDisk": 20904,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 134,
+        "SizeY": 39,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

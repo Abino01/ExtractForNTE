@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "TJD_IDCard",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/desc/Story/S110800/TJD_IDCard",
+    "Properties": {
+      "ImportedSize": {
+        "X": 828,
+        "Y": 548
+      },
+      "LightingGuid": "578C5D25-4688DAE9-D70F8C9E-BB32DDA8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 828,
+    "SizeY": 548,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 453744,
+          "SizeOnDisk": 453744,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 828,
+        "SizeY": 548,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

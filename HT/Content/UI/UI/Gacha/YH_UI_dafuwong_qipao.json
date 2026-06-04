@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_dafuwong_qipao",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_dafuwong_qipao",
+    "Properties": {
+      "ImportedSize": {
+        "X": 104,
+        "Y": 80
+      },
+      "LightingGuid": "92B4C45A-4EC33D9B-E69CCD81-34D07D5C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 104,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8320,
+          "SizeOnDisk": 8320,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 104,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

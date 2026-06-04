@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_beiguo_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/bagel/YH_UI_beiguo_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 192,
+        "Y": 108
+      },
+      "LightingGuid": "9D14610B-464DEE6C-2161C989-BDBF4B70",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 192,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10368,
+          "SizeOnDisk": 10368,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 192,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Gacha_gachaBtn_TenGrayArrow",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gashapon/UI_YH_Gacha_gachaBtn_TenGrayArrow",
+    "Properties": {
+      "ImportedSize": {
+        "X": 180,
+        "Y": 180
+      },
+      "LightingGuid": "98DBC1A8-44E519C2-D83687B2-FE51F1A7",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 180,
+    "SizeY": 180,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 129600,
+          "SizeOnDisk": 129600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 180,
+        "SizeY": 180,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

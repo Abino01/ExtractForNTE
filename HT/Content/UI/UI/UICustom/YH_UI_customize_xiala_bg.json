@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_customize_xiala_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/UICustom/YH_UI_customize_xiala_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 88,
+        "Y": 64
+      },
+      "LightingGuid": "C78511CB-41F0C981-920B05B3-5CB97E6D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 88,
+    "SizeY": 64,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5632,
+          "SizeOnDisk": 5632,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 88,
+        "SizeY": 64,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

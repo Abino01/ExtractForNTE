@@ -1,0 +1,68 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "Bubb_Emoji_Mat_sly_Inst1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/main/zhujiemian_1/BUBB/Bubb_Emoji_Mat_sly_Inst1",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'Bubb_Emoji_Mat_sly'",
+        "ObjectPath": "/Game/UI/UI/main/zhujiemian_1/Bubb_Emoji_Mat_sly.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "BeginAngle",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -5.0,
+          "ExpressionGUID": "4A507D8B-411D9AD1-D6DAB68B-C015B72D"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "EndAngle",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 5.0,
+          "ExpressionGUID": "83BABA61-46B369BA-8D22E28B-13DDBF03"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_YH_Bubble_YellowDog_Bkg_04'",
+            "ObjectPath": "/Game/UI/UI/main/zhujiemian_1/BUBB/UI_YH_Bubble_YellowDog_Bkg_04.0"
+          },
+          "ExpressionGUID": "6892885B-4F049B56-DE2CD590-CB2BA63C"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

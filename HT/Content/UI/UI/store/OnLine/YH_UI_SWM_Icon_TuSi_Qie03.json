@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SWM_Icon_TuSi_Qie03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/OnLine/YH_UI_SWM_Icon_TuSi_Qie03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 236,
+        "Y": 84
+      },
+      "LightingGuid": "D8BDEAD5-4F21EB1A-EDD1F296-BD229BD8",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 236,
+    "SizeY": 84,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 79296,
+          "SizeOnDisk": 79296,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 236,
+        "SizeY": 84,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_MainUI_Follow02_Normal",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/UI_YH_Bond_MainUI_Follow02_Normal",
+    "Properties": {
+      "ImportedSize": {
+        "X": 72,
+        "Y": 72
+      },
+      "LightingGuid": "D15E328E-45028529-24A4C9A3-56665604",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 72,
+    "SizeY": 72,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5184,
+          "SizeOnDisk": 5184,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 72,
+        "SizeY": 72,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

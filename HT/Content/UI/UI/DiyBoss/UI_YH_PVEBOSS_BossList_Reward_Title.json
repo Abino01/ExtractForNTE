@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_PVEBOSS_BossList_Reward_Title",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/DiyBoss/UI_YH_PVEBOSS_BossList_Reward_Title",
+    "Properties": {
+      "ImportedSize": {
+        "X": 672,
+        "Y": 52
+      },
+      "LightingGuid": "01C0D73E-4FA0896A-3205DAA2-EEDAD67B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 672,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 34944,
+          "SizeOnDisk": 34944,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 672,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_OpActBondResonance_Text_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/Companion/YH_UI_OpActBondResonance_Text_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1216,
+        "Y": 240
+      },
+      "LightingGuid": "139A934F-4B5EEDB6-751A459B-500BA1BD",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1216,
+    "SizeY": 240,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1167360,
+          "SizeOnDisk": 1167360,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1216,
+        "SizeY": 240,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

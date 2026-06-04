@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Youjian_YiDuYiLingQu1_common",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mail/YH_UI_Youjian_YiDuYiLingQu1_common",
+    "Properties": {
+      "ImportedSize": {
+        "X": 672,
+        "Y": 126
+      },
+      "LightingGuid": "27F58B8F-413CFA4E-0F069F89-A916AE09",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 672,
+    "SizeY": 126,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 338688,
+          "SizeOnDisk": 338688,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 672,
+        "SizeY": 126,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_rola_huawen",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/UI_rola_huawen",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1960,
+        "Y": 1960
+      },
+      "LightingGuid": "81A98AB7-4220B7EA-ECC075B7-D859A630",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1960,
+    "SizeY": 1960,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3841600,
+          "SizeOnDisk": 3841600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1960,
+        "SizeY": 1960,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

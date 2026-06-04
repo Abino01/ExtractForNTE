@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_tab_game_difficulty_1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/EquipmentLottery/YH_UI_tab_game_difficulty_1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 96,
+        "Y": 64
+      },
+      "LightingGuid": "2C178139-43A14C18-F4D526A1-07AF5352",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 96,
+    "SizeY": 64,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6144,
+          "SizeOnDisk": 6144,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 96,
+        "SizeY": 64,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

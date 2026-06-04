@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Settlement_Bkg_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/Camer_End/UI_YH_Racing_Settlement_Bkg_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1180,
+        "Y": 112
+      },
+      "LightingGuid": "91FD17EC-41B5AD27-CD761E8F-F76D5ED5",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1180,
+    "SizeY": 112,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 132160,
+          "SizeOnDisk": 132160,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1180,
+        "SizeY": 112,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

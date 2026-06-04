@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_BG_Real",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/realestateslist/YH_UI_BG_Real",
+    "Properties": {
+      "ImportedSize": {
+        "X": 72,
+        "Y": 28
+      },
+      "LightingGuid": "B65BF10C-48B0F06E-59AA95B4-8C71400C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 72,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2016,
+          "SizeOnDisk": 2016,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 72,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

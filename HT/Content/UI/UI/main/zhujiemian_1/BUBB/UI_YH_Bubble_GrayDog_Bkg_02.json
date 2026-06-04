@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bubble_GrayDog_Bkg_02",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/zhujiemian_1/BUBB/UI_YH_Bubble_GrayDog_Bkg_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 115,
+        "Y": 92
+      },
+      "LightingGuid": "C10F495A-48D05DFE-4E7EA588-3C87A2EF",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 115,
+    "SizeY": 92,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 42320,
+          "SizeOnDisk": 42320,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 115,
+        "SizeY": 92,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

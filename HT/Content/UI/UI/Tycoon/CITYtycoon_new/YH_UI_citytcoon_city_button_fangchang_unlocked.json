@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_citytcoon_city_button_fangchang_unlocked",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/CITYtycoon_new/YH_UI_citytcoon_city_button_fangchang_unlocked",
+    "Properties": {
+      "ImportedSize": {
+        "X": 404,
+        "Y": 186
+      },
+      "LightingGuid": "E3504FC8-46E60475-12FC8197-7C5B11CD",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 404,
+    "SizeY": 186,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 300576,
+          "SizeOnDisk": 300576,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 404,
+        "SizeY": 186,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

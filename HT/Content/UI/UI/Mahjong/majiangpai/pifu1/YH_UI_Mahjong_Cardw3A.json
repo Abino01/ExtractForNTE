@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_Cardw3A",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/majiangpai/pifu1/YH_UI_Mahjong_Cardw3A",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 156
+      },
+      "LightingGuid": "93B5E025-45EB39AD-6BFF24B9-00013224",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 156,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 15600,
+          "SizeOnDisk": 15600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 100,
+        "SizeY": 156,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

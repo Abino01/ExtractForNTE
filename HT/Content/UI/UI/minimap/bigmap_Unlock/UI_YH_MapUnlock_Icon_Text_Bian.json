@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_MapUnlock_Icon_Text_Bian",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/bigmap_Unlock/UI_YH_MapUnlock_Icon_Text_Bian",
+    "Properties": {
+      "ImportedSize": {
+        "X": 696,
+        "Y": 86
+      },
+      "LightingGuid": "ED6617EF-4D2186D4-6FA2CDBC-3CB9893A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 696,
+    "SizeY": 86,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 239424,
+          "SizeOnDisk": 239424,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 696,
+        "SizeY": 86,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

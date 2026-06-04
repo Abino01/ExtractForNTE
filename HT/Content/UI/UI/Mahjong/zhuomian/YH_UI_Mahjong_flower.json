@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_flower",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_Mahjong_flower",
+    "Properties": {
+      "ImportedSize": {
+        "X": 720,
+        "Y": 720
+      },
+      "LightingGuid": "B0A35F7E-4F22A02A-62AC73BB-104F996C",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 720,
+    "SizeY": 720,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2073600,
+          "SizeOnDisk": 2073600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 720,
+        "SizeY": 720,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Fightclub_win1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PrisonFight/InGame/YH_UI_Fightclub_win1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 572,
+        "Y": 176
+      },
+      "LightingGuid": "EBC00D60-471AAC74-A816DAA5-8F144323",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 572,
+    "SizeY": 176,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 100672,
+          "SizeOnDisk": 100672,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 572,
+        "SizeY": 176,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

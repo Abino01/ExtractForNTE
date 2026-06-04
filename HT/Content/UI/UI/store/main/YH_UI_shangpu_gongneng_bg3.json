@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_gongneng_bg3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/main/YH_UI_shangpu_gongneng_bg3",
+    "Properties": {
+      "ImportedSize": {
+        "X": 280,
+        "Y": 172
+      },
+      "LightingGuid": "5281FB38-414FF896-5BBD39B0-2AC67925",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 280,
+    "SizeY": 172,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 24080,
+          "SizeOnDisk": 24080,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 280,
+        "SizeY": 172,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_goumai_bg02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/YH_UI_shangpu_goumai_bg02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 516,
+        "Y": 616
+      },
+      "LightingGuid": "299771C6-4B891A47-56DA1390-1F729343",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 516,
+    "SizeY": 616,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 317856,
+          "SizeOnDisk": 317856,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 516,
+        "SizeY": 616,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

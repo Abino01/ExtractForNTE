@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_QTE_ShiBai",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/QTE/YH_UI_QTE_ShiBai",
+    "Properties": {
+      "ImportedSize": {
+        "X": 120,
+        "Y": 120
+      },
+      "LightingGuid": "95958E0F-4B0F116E-8AFB19A2-E8B0146B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 120,
+    "SizeY": 120,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 14400,
+          "SizeOnDisk": 14400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 120,
+        "SizeY": 120,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

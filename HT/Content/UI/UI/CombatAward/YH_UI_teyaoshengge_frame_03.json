@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_teyaoshengge_frame_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CombatAward/YH_UI_teyaoshengge_frame_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 368,
+        "Y": 218
+      },
+      "LightingGuid": "57A16B43-460D8779-63519B91-433A894D",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 368,
+    "SizeY": 218,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 320896,
+          "SizeOnDisk": 320896,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 368,
+        "SizeY": 218,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

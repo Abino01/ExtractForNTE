@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TJ_MingCi_Unselected",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Manual/MingCi/YH_UI_TJ_MingCi_Unselected",
+    "Properties": {
+      "ImportedSize": {
+        "X": 476,
+        "Y": 526
+      },
+      "LightingGuid": "588C2CAC-4C139240-C65A25B1-A8075572",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 476,
+    "SizeY": 526,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1001504,
+          "SizeOnDisk": 1001504,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 476,
+        "SizeY": 526,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

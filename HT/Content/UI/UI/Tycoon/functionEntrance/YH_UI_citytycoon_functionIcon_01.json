@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_citytycoon_functionIcon_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/functionEntrance/YH_UI_citytycoon_functionIcon_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 78,
+        "Y": 78
+      },
+      "LightingGuid": "D72E915A-4444639F-9463BB99-F87B51CA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 78,
+    "SizeY": 78,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 24336,
+          "SizeOnDisk": 24336,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 78,
+        "SizeY": 78,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

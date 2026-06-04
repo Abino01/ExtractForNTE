@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Menuinfo_frame01",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/EditPLayerInfo/YH_UI_Menuinfo_frame01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 300,
+        "Y": 60
+      },
+      "LightingGuid": "63F4374A-468FFDA7-5654D6AE-31EDA070",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 300,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 18000,
+          "SizeOnDisk": 18000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 300,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

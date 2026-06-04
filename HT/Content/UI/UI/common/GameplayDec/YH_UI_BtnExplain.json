@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_BtnExplain",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/GameplayDec/YH_UI_BtnExplain",
+    "Properties": {
+      "ImportedSize": {
+        "X": 68,
+        "Y": 68
+      },
+      "LightingGuid": "F994A470-4A768147-B47ADF94-B986C2C1",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 68,
+    "SizeY": 68,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 18496,
+          "SizeOnDisk": 18496,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 68,
+        "SizeY": 68,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

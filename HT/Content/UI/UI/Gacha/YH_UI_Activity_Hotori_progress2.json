@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Activity_Hotori_progress2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_Activity_Hotori_progress2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 60,
+        "Y": 24
+      },
+      "LightingGuid": "40497D4C-467A3BEF-2C8467A1-DF86E45E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 60,
+    "SizeY": 24,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1440,
+          "SizeOnDisk": 1440,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 60,
+        "SizeY": 24,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_car_tongcheng_bt_1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/YH_UI_car_tongcheng_bt_1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 120,
+        "Y": 52
+      },
+      "LightingGuid": "1682A81C-4BDE3966-7ED46E96-7FA45FC6",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 120,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6240,
+          "SizeOnDisk": 6240,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 120,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

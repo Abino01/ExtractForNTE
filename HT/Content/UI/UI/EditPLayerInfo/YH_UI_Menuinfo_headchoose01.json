@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Menuinfo_headchoose01",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/EditPLayerInfo/YH_UI_Menuinfo_headchoose01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 24,
+        "Y": 32
+      },
+      "LightingGuid": "A1796EFD-490A61AD-DBC151A8-7845D13E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 24,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 768,
+          "SizeOnDisk": 768,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 24,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

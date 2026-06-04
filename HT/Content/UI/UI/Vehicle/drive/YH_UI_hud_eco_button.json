@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_hud_eco_button",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/drive/YH_UI_hud_eco_button",
+    "Properties": {
+      "ImportedSize": {
+        "X": 80,
+        "Y": 80
+      },
+      "LightingGuid": "42D7BB12-4F37E48B-410E15A0-AF73496B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 80,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 25600,
+          "SizeOnDisk": 25600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 80,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

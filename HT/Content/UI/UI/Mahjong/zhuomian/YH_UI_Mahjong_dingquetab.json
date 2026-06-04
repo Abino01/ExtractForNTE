@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_dingquetab",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_Mahjong_dingquetab",
+    "Properties": {
+      "ImportedSize": {
+        "X": 208,
+        "Y": 60
+      },
+      "LightingGuid": "84567658-49FB1380-FC4BBDB5-70D0CA11",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 208,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 12480,
+          "SizeOnDisk": 12480,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 208,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Select_Btn",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Shop/UI_YH_Us_Select_Btn",
+    "Properties": {
+      "ImportedSize": {
+        "X": 244,
+        "Y": 83
+      },
+      "LightingGuid": "F0495EDE-419C0A6A-2AB0C286-C6EFB946",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 244,
+    "SizeY": 83,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 81008,
+          "SizeOnDisk": 81008,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 244,
+        "SizeY": 83,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

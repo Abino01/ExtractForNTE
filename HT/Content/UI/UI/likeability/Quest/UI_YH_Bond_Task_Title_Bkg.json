@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Task_Title_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/Quest/UI_YH_Bond_Task_Title_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1212,
+        "Y": 64
+      },
+      "LightingGuid": "17FA97CF-41B6458F-F04C2FA8-31DF56D7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1212,
+    "SizeY": 64,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 77568,
+          "SizeOnDisk": 77568,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1212,
+        "SizeY": 64,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

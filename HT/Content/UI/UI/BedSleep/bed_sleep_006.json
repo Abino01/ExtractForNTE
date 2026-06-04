@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "bed_sleep_006",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/BedSleep/bed_sleep_006",
+    "Properties": {
+      "ImportedSize": {
+        "X": 780,
+        "Y": 995
+      },
+      "LightingGuid": "AEBE74EC-46D38EF1-1A507F80-A9EB5089",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 780,
+    "SizeY": 995,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3104400,
+          "SizeOnDisk": 3104400,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 780,
+        "SizeY": 995,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

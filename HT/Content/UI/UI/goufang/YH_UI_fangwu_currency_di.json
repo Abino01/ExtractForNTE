@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_fangwu_currency_di",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/YH_UI_fangwu_currency_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 720,
+        "Y": 76
+      },
+      "LightingGuid": "005D1A82-4B00E045-73D98EBC-431B9483",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 720,
+    "SizeY": 76,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 54720,
+          "SizeOnDisk": 54720,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 720,
+        "SizeY": 76,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

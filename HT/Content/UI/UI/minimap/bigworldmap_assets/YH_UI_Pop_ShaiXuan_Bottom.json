@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Pop_ShaiXuan_Bottom",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/bigworldmap_assets/YH_UI_Pop_ShaiXuan_Bottom",
+    "Properties": {
+      "ImportedSize": {
+        "X": 104,
+        "Y": 240
+      },
+      "LightingGuid": "97A1CE02-4841B8CB-DDA4DCB2-A32F6147",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 104,
+    "SizeY": 240,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 99840,
+          "SizeOnDisk": 99840,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 104,
+        "SizeY": 240,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

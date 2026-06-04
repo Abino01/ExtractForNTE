@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_tiezhi_shanchu",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_selfie_tiezhi_shanchu",
+    "Properties": {
+      "ImportedSize": {
+        "X": 79,
+        "Y": 79
+      },
+      "LightingGuid": "63E5949E-4B1B997E-6D41BC9D-FA4FBDBA",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 79,
+    "SizeY": 79,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 24964,
+          "SizeOnDisk": 24964,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 79,
+        "SizeY": 79,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SWM_Icon_CaiBan_Left",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/OnLine/YH_UI_SWM_Icon_CaiBan_Left",
+    "Properties": {
+      "ImportedSize": {
+        "X": 336,
+        "Y": 144
+      },
+      "LightingGuid": "7008B1EE-40A86635-D9CEA59A-FD079DA2",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 336,
+    "SizeY": 144,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 193536,
+          "SizeOnDisk": 193536,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 336,
+        "SizeY": 144,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Reconnection1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Updater/YH_UI_Reconnection1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1152,
+        "Y": 384
+      },
+      "LightingGuid": "DFB020DA-4D26DBF4-E0B3E5AF-8DBEE62F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1152,
+    "SizeY": 384,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 442368,
+          "SizeOnDisk": 442368,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1152,
+        "SizeY": 384,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

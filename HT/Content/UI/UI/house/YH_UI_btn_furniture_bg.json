@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_btn_furniture_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/YH_UI_btn_furniture_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 72,
+        "Y": 72
+      },
+      "LightingGuid": "B47C7E6C-48ED886E-CED90B8C-7E55E30F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 72,
+    "SizeY": 72,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5184,
+          "SizeOnDisk": 5184,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 72,
+        "SizeY": 72,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

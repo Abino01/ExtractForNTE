@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_bg_dingzhehao",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/bag/UI_bg_dingzhehao",
+    "Properties": {
+      "ImportedSize": {
+        "X": 50,
+        "Y": 350
+      },
+      "LightingGuid": "E5A256DB-41EE752A-13E54AB4-45EAD702",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 50,
+    "SizeY": 350,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 70000,
+          "SizeOnDisk": 70000,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 50,
+        "SizeY": 350,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

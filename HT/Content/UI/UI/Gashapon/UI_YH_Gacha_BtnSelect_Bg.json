@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Gacha_BtnSelect_Bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gashapon/UI_YH_Gacha_BtnSelect_Bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 125,
+        "Y": 124
+      },
+      "LightingGuid": "9F1CF9C8-422617D9-7A4EA08E-BAA5BBFC",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 125,
+    "SizeY": 124,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 62000,
+          "SizeOnDisk": 62000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 125,
+        "SizeY": 124,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

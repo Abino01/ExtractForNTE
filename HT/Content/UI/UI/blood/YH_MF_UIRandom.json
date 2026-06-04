@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "MaterialFunction",
+    "Name": "YH_MF_UIRandom",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialFunction'",
+    "Package": "/Game/UI/UI/blood/YH_MF_UIRandom",
+    "Properties": {
+      "bExposeToLibrary": true,
+      "StateId": "92E76743-4DCC6C55-27F32AAC-31D6587E"
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_quest_prologue_wzy",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/DT_quest_prologue_wzy",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'QuestData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "q110039": {
+        "QuestId": "q110039",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_Mainquest_prologue.ST_Mainquest_prologue",
+          "Key": "q110039_QuestName",
+          "SourceString": "初至桥间地",
+          "LocalizedString": "初至桥间地"
+        },
+        "ChapterID": "MP02",
+        "ChapterProgress": 1.0,
+        "DisplayMapName": "QiaoJianDi",
+        "TrackMapName": "XL_map_bigworld_test",
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "ObjectivesInfo": [
+          {
+            "bMainQuestAutoSpeak": true,
+            "SpecialDialog": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_001/BP_NPC_001_q110040.BP_NPC_001_q110040_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/ST_Mainquest_prologue.ST_Mainquest_prologue",
+              "Key": "q110039_ObjDes_1",
+              "SourceString": "与<blue>薄荷</>对话",
+              "LocalizedString": "与<blue>薄荷</>对话"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": -77461.0,
+                "Y": 159501.0,
+                "Z": 3250.506
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "XL_map_bigworld_test",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "BuffInfo": {
+              "AddBuffList": [
+                {
+                  "AssetPathName": "/Game/Blueprints/Abilities/Buff/Common/Buff_HpReplyMaxTeam.Buff_HpReplyMaxTeam_C",
+                  "SubPathString": ""
+                }
+              ]
+            },
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_MAIN",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": true,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "TableId": "/Game/Text/ST_Mainquest_prologue.ST_Mainquest_prologue",
+          "Key": "q110039_QuestPanel",
+          "SourceString": "从异象管理局离开后不久便到了目的地，跟薄荷聊一下吧。",
+          "LocalizedString": "从异象管理局离开后不久便到了目的地，跟薄荷聊一下吧。"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": {
+          "AddBuffList": [
+            {
+              "AssetPathName": "/Game/Blueprints/Abilities/Buff/Common/Buff_HpReplyMaxTeam.Buff_HpReplyMaxTeam_C",
+              "SubPathString": ""
+            }
+          ]
+        },
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "q110027",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "q110040"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": {
+          "AwardGroupID": "drop_mainquest_q110039",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false,
+          "bShowInPanel": true
+        },
+        "QuestTimeLock": {
+          "LockTime": 900.0,
+          "TransitionSpeed": -1.0,
+          "ProtectTimeSeconds": 600.0
+        },
+        "QuestWeatherLock": {
+          "LockWeatherIndex": "EWeatherIndex::Weather_Sunny",
+          "ProtectTimeSeconds": 600.0
+        },
+        "ReloadLocation": {
+          "LevelName": "XL_map_bigworld_test",
+          "Location": {
+            "X": -77111.0,
+            "Y": 160022.0,
+            "Z": 3121.0
+          },
+          "Rotator": {
+            "Pitch": 0.0,
+            "Yaw": 185.625,
+            "Roll": 0.0
+          }
+        },
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "ActivateFogID": "None",
+        "bChangeTrackAnim": false
+      }
+    }
+  }
+]

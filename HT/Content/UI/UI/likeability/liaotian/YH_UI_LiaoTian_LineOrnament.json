@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LiaoTian_LineOrnament",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/liaotian/YH_UI_LiaoTian_LineOrnament",
+    "Properties": {
+      "ImportedSize": {
+        "X": 76,
+        "Y": 8
+      },
+      "LightingGuid": "2D6FF7DB-49F476C3-0B237996-2DABF7C3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 76,
+    "SizeY": 8,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 608,
+          "SizeOnDisk": 608,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 76,
+        "SizeY": 8,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

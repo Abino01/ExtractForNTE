@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "bufficon_common_dmgup_melee",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/WishingFountain/Buff/Common/bufficon_common_dmgup_melee",
+    "Properties": {
+      "ImportedSize": {
+        "X": 28,
+        "Y": 28
+      },
+      "LightingGuid": "3B198EDC-4A0474C8-8C8D5986-86B19809",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 28,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 784,
+          "SizeOnDisk": 784,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 28,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

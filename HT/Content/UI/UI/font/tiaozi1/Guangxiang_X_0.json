@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Guangxiang_X_0",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/font/tiaozi1/Guangxiang_X_0",
+    "Properties": {
+      "ImportedSize": {
+        "X": 86,
+        "Y": 108
+      },
+      "LightingGuid": "2B2F57B3-4520B304-3E85CE8A-5F2449D0",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 86,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 37152,
+          "SizeOnDisk": 37152,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 86,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

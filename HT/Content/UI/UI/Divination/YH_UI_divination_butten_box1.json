@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_divination_butten_box1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Divination/YH_UI_divination_butten_box1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 332,
+        "Y": 92
+      },
+      "LightingGuid": "9853BCE2-4D5FF21F-9995379E-AB173234",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 332,
+    "SizeY": 92,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 30544,
+          "SizeOnDisk": 30544,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 332,
+        "SizeY": 92,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

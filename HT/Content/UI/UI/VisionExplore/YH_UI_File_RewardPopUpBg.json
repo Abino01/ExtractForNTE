@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_File_RewardPopUpBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/YH_UI_File_RewardPopUpBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 226,
+        "Y": 205
+      },
+      "LightingGuid": "4461A769-45FD939F-DFD2FB85-FC28656C",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 226,
+    "SizeY": 205,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 185320,
+          "SizeOnDisk": 185320,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 226,
+        "SizeY": 205,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

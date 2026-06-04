@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_fork_obtain_jieshao_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ForkAcquire/YH_UI_fork_obtain_jieshao_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 824,
+        "Y": 504
+      },
+      "LightingGuid": "7FF69984-4253944B-6CFF39AA-0E0CD740",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 824,
+    "SizeY": 504,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 415296,
+          "SizeOnDisk": 415296,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 824,
+        "SizeY": 504,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

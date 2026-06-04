@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Pop_Operate_PB",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/FurnitureList/UI_YH_Pop_Operate_PB",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1170,
+        "Y": 32
+      },
+      "LightingGuid": "14C49484-4657B818-7C5A308F-2A80A57A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1170,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 149760,
+          "SizeOnDisk": 149760,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 1170,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

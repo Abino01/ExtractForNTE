@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_containment_line",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/yixiangxiaochu/YH_UI_containment_line",
+    "Properties": {
+      "ImportedSize": {
+        "X": 24,
+        "Y": 4
+      },
+      "LightingGuid": "B171A701-4715BE40-2F97598B-2DB3DC95",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 24,
+    "SizeY": 4,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 96,
+          "SizeOnDisk": 96,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 24,
+        "SizeY": 4,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

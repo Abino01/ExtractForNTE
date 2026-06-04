@@ -1,0 +1,883 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_TrialCharacterDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/Character/Trial/DT_TrialCharacterDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'TrialCharacterDataTable'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "Trial01": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1051",
+            "CharacterLevel": 80,
+            "BreakthroughLevel": 6,
+            "AwakenLevel": 6,
+            "TrialForkID": "TrialFork_wushoutieyu",
+            "TrialEquipmentSlotsID": "TrialEquipmentSlots_Female",
+            "TrialEquipmentCoreID": "Cosmos_orange_Trial01_1009",
+            "TrialAwakenID": "TrialAwaken1009",
+            "TrialSkillID": "1009",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1051",
+            "CharacterLevel": 80,
+            "BreakthroughLevel": 6,
+            "AwakenLevel": 6,
+            "TrialForkID": "TrialFork_wushoutieyu",
+            "TrialEquipmentSlotsID": "TrialEquipmentSlots_Female",
+            "TrialEquipmentCoreID": "Cosmos_orange_Trial01_1009",
+            "TrialAwakenID": "TrialAwaken1009",
+            "TrialSkillID": "1009",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1019",
+            "CharacterLevel": 80,
+            "BreakthroughLevel": 6,
+            "AwakenLevel": 6,
+            "TrialForkID": "TrialFork_jingmotingyuan",
+            "TrialEquipmentSlotsID": "TrialEquipmentSlots_Mint",
+            "TrialEquipmentCoreID": "Nature_orange_Trial01_1019",
+            "TrialAwakenID": "TrialAwaken1019",
+            "TrialSkillID": "1019",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1010",
+            "CharacterLevel": 80,
+            "BreakthroughLevel": 6,
+            "AwakenLevel": 6,
+            "TrialForkID": "TrialFork_rishi",
+            "TrialEquipmentSlotsID": "TrialEquipmentSlots_Nanally",
+            "TrialEquipmentCoreID": "Nature_orange_Trial01_1010",
+            "TrialAwakenID": "TrialAwaken1010",
+            "TrialSkillID": "1010",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "测试"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_Inherit",
+        "bPlayChangeAvatarEffect": true,
+        "bShowEquipTrialCharacterTips": true,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "test_1": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1004",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "测试"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_Inherit",
+        "bPlayChangeAvatarEffect": true,
+        "bShowEquipTrialCharacterTips": true,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "level_1": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1056",
+            "CharacterLevel": 50,
+            "BreakthroughLevel": 4,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "测试"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_ClearAll",
+        "bPlayChangeAvatarEffect": true,
+        "bShowEquipTrialCharacterTips": true,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "Trial02_test": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1051",
+            "CharacterLevel": 80,
+            "BreakthroughLevel": 6,
+            "AwakenLevel": 6,
+            "TrialForkID": "TrialFork_wushoutieyu",
+            "TrialEquipmentSlotsID": "TrialEquipmentSlots_Female",
+            "TrialEquipmentCoreID": "Cosmos_orange_Trial01_1009",
+            "TrialAwakenID": "TrialAwaken1009",
+            "TrialSkillID": "1009",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1004",
+            "CharacterLevel": 80,
+            "BreakthroughLevel": 6,
+            "AwakenLevel": 6,
+            "TrialForkID": "TrialFork_mofeikesi",
+            "TrialEquipmentSlotsID": "TrialEquipmentSlots_lacrimosa",
+            "TrialEquipmentCoreID": "Chaos_orange_Trial01_1004",
+            "TrialAwakenID": "TrialAwaken1004",
+            "TrialSkillID": "1004",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "测试"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_ClearAll",
+        "bPlayChangeAvatarEffect": true,
+        "bShowEquipTrialCharacterTips": true,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "Trial01_Boss06": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1051",
+            "CharacterLevel": 15,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "0",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "TrialAwaken1051",
+            "TrialSkillID": "1051_noPassive:1046_noPassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1003",
+            "CharacterLevel": 15,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "0",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "TrialAwaken1003",
+            "TrialSkillID": "1003_noPassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1010",
+            "CharacterLevel": 15,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "0",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "TrialAwaken1010",
+            "TrialSkillID": "1010_noPassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1033",
+            "CharacterLevel": 15,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "0",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "TrialAwaken1033",
+            "TrialSkillID": "1033_noPassive",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "主线-胶卷Boss战"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_ClearAll",
+        "bPlayChangeAvatarEffect": true,
+        "bShowEquipTrialCharacterTips": false,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "Trial02_Boss07": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1051",
+            "CharacterLevel": 40,
+            "BreakthroughLevel": 3,
+            "AwakenLevel": 0,
+            "TrialForkID": "TrialFork_model2_1051",
+            "TrialEquipmentSlotsID": "TrialEquipmentSlots_model2_1051",
+            "TrialEquipmentCoreID": "Cosmos_purple_model2_1051",
+            "TrialAwakenID": "TrialAwaken1051",
+            "TrialSkillID": "1051_OnePassive:1046_OnePassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1008",
+            "CharacterLevel": 40,
+            "BreakthroughLevel": 3,
+            "AwakenLevel": 0,
+            "TrialForkID": "TrialFork_Kite_40",
+            "TrialEquipmentSlotsID": "Trial02_Boss07_EquipmentSlots_1008",
+            "TrialEquipmentCoreID": "Lakshana_orange_Trial02_Boss07_1008",
+            "TrialAwakenID": "TrialAwaken1008",
+            "TrialSkillID": "1008_OnePassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1023",
+            "CharacterLevel": 40,
+            "BreakthroughLevel": 3,
+            "AwakenLevel": 0,
+            "TrialForkID": "TrialFork_jingmotingyuan_40",
+            "TrialEquipmentSlotsID": "Trial02_Boss07_EquipmentSlots_1023",
+            "TrialEquipmentCoreID": "Incantation_orange_Trial02_Boss07_1023",
+            "TrialAwakenID": "TrialAwaken1023",
+            "TrialSkillID": "1023_OnePassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "主线-花房Boss战"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_ClearAll",
+        "bPlayChangeAvatarEffect": true,
+        "bShowEquipTrialCharacterTips": false,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "Trial03_Boss18": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1051",
+            "CharacterLevel": 50,
+            "BreakthroughLevel": 4,
+            "AwakenLevel": 0,
+            "TrialForkID": "TrialFork_model3_1051",
+            "TrialEquipmentSlotsID": "TrialEquipmentSlots_model3_1051",
+            "TrialEquipmentCoreID": "Cosmos_purple_model3_1051",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1051_model4:1046__model4",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1004",
+            "CharacterLevel": 50,
+            "BreakthroughLevel": 4,
+            "AwakenLevel": 0,
+            "TrialForkID": "TrialFork_jiaojuan_50",
+            "TrialEquipmentSlotsID": "Trial03_Boss18_EquipmentSlots_1004",
+            "TrialEquipmentCoreID": "Chaos_orange_Trial03_Boss18_1004",
+            "TrialAwakenID": "TrialAwaken1004",
+            "TrialSkillID": "1004_TwoPassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1019",
+            "CharacterLevel": 50,
+            "BreakthroughLevel": 4,
+            "AwakenLevel": 0,
+            "TrialForkID": "TrialFork_model3_1019",
+            "TrialEquipmentSlotsID": "TrialEquipmentSlots_model3_1019",
+            "TrialEquipmentCoreID": "Nature_purple_model3_1019",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1019_TwoPassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "支线-番茄酱恶魔Boss战"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_ClearAll",
+        "bPlayChangeAvatarEffect": true,
+        "bShowEquipTrialCharacterTips": false,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "Trial04_Boss10": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1051",
+            "CharacterLevel": 50,
+            "BreakthroughLevel": 4,
+            "AwakenLevel": 0,
+            "TrialForkID": "TrialFork_model3_1051",
+            "TrialEquipmentSlotsID": "TrialEquipmentSlots_model3_1051",
+            "TrialEquipmentCoreID": "Cosmos_purple_model3_1051",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1051_model4:1046__model4",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1025",
+            "CharacterLevel": 50,
+            "BreakthroughLevel": 4,
+            "AwakenLevel": 0,
+            "TrialForkID": "TrialFork_wushoutieyu_50",
+            "TrialEquipmentSlotsID": "Trial03_Boss18_EquipmentSlots_1025",
+            "TrialEquipmentCoreID": "Lakshana_orange_Trial03_Boss18_1025",
+            "TrialAwakenID": "TrialAwaken1025",
+            "TrialSkillID": "1025_TwoPassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1020",
+            "CharacterLevel": 50,
+            "BreakthroughLevel": 4,
+            "AwakenLevel": 0,
+            "TrialForkID": "TrialFork_BitGame_50",
+            "TrialEquipmentSlotsID": "TrialEquipmentSlots_Team60_1020",
+            "TrialEquipmentCoreID": "GetEfficiency_orange_team60_1020",
+            "TrialAwakenID": "TrialAwaken1020",
+            "TrialSkillID": "1020_TwoPassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1055",
+            "CharacterLevel": 50,
+            "BreakthroughLevel": 4,
+            "AwakenLevel": 0,
+            "TrialForkID": "TrialFork_Butterfly_50",
+            "TrialEquipmentSlotsID": "TrialEquipmentSlots_Team60_1055",
+            "TrialEquipmentCoreID": "Nature_orange_team60_1055",
+            "TrialAwakenID": "TrialAwaken1055",
+            "TrialSkillID": "1055_TwoPassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1020",
+            "CharacterLevel": 50,
+            "BreakthroughLevel": 4,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "TrialAwaken1020",
+            "TrialSkillID": "1020_TwoPassive",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "主线-舞衣Boss战"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_ClearAll",
+        "bPlayChangeAvatarEffect": false,
+        "bShowEquipTrialCharacterTips": true,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "Trial00_Fadia": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1039",
+            "CharacterLevel": 50,
+            "BreakthroughLevel": 4,
+            "AwakenLevel": 6,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "TrialAwaken1039",
+            "TrialSkillID": "1039_TwoPassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "创角-法帝娅"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_ClearAll",
+        "bPlayChangeAvatarEffect": false,
+        "bShowEquipTrialCharacterTips": true,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "Trial00_Lacrimosa": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1004",
+            "CharacterLevel": 50,
+            "BreakthroughLevel": 4,
+            "AwakenLevel": 6,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "TrialAwaken1004",
+            "TrialSkillID": "1004_TwoPassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "创角-安魂曲"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_ClearAll",
+        "bPlayChangeAvatarEffect": false,
+        "bShowEquipTrialCharacterTips": true,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "Trial00_Skia": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1008",
+            "CharacterLevel": 50,
+            "BreakthroughLevel": 4,
+            "AwakenLevel": 6,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "TrialAwaken1008",
+            "TrialSkillID": "1008_TwoPassive",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "None",
+            "CharacterLevel": 0,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "None",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "创角-翳"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_ClearAll",
+        "bPlayChangeAvatarEffect": false,
+        "bShowEquipTrialCharacterTips": true,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "Lottery_Nanali": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1010",
+            "CharacterLevel": 1,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1010",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1021",
+            "CharacterLevel": 1,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1008",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1033",
+            "CharacterLevel": 1,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1033",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1019",
+            "CharacterLevel": 1,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1019",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "抽卡-娜娜莉"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_ClearAll",
+        "bPlayChangeAvatarEffect": true,
+        "bShowEquipTrialCharacterTips": true,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "Lottery_Xun": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1052",
+            "CharacterLevel": 1,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1052",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1008",
+            "CharacterLevel": 1,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1008",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1033",
+            "CharacterLevel": 1,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1033",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1019",
+            "CharacterLevel": 1,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1019",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "抽卡-浔"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_ClearAll",
+        "bPlayChangeAvatarEffect": true,
+        "bShowEquipTrialCharacterTips": true,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      },
+      "Lottery_Permanent": {
+        "TrialCharacterList": [
+          {
+            "CharacterID": "1003",
+            "CharacterLevel": 1,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1003",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1023",
+            "CharacterLevel": 1,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1023",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1025",
+            "CharacterLevel": 1,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1025",
+            "FashionID": "None"
+          },
+          {
+            "CharacterID": "1039",
+            "CharacterLevel": 1,
+            "BreakthroughLevel": 0,
+            "AwakenLevel": 0,
+            "TrialForkID": "None",
+            "TrialEquipmentSlotsID": "None",
+            "TrialEquipmentCoreID": "None",
+            "TrialAwakenID": "None",
+            "TrialSkillID": "1039",
+            "FashionID": "None"
+          }
+        ],
+        "Comment": {
+          "CultureInvariantString": "抽卡-常驻"
+        },
+        "TrialCharacterTeamType": "ETrialCharacterTeamType::TrialCharacterTeam_ClearAll",
+        "bPlayChangeAvatarEffect": true,
+        "bShowEquipTrialCharacterTips": true,
+        "bTrackingQuest": false,
+        "bClientControll": false,
+        "BeginQuestID": "None"
+      }
+    }
+  }
+]

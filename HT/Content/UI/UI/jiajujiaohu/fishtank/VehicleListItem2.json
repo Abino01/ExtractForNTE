@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "VehicleListItem2",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/jiajujiaohu/fishtank/VehicleListItem2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 232,
+        "Y": 288
+      },
+      "LightingGuid": "B1A93808-48132A27-8C2157B7-CEC0EC98",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 232,
+    "SizeY": 288,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 66816,
+          "SizeOnDisk": 66816,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 232,
+        "SizeY": 288,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

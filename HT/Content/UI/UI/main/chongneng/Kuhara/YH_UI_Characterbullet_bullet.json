@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Characterbullet_bullet",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/chongneng/Kuhara/YH_UI_Characterbullet_bullet",
+    "Properties": {
+      "ImportedSize": {
+        "X": 16,
+        "Y": 16
+      },
+      "LightingGuid": "095FE793-46B5463E-9C9A45B6-07641A23",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI"
+    },
+    "SizeX": 16,
+    "SizeY": 16,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 256,
+          "SizeOnDisk": 256,
+          "OffsetInFile": "0x71"
+        },
+        "SizeX": 16,
+        "SizeY": 16,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

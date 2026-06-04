@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_Button_PromptpongZ_oversea",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_Mahjong_Button_PromptpongZ_oversea",
+    "Properties": {
+      "ImportedSize": {
+        "X": 156,
+        "Y": 76
+      },
+      "LightingGuid": "AC8C0AEC-411B9111-C28BC3BC-2251C94E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 156,
+    "SizeY": 76,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 11856,
+          "SizeOnDisk": 11856,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 156,
+        "SizeY": 76,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

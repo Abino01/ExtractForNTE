@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_WHT_Btn_XiaYiMu",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Kaleidoscope/YH_UI_WHT_Btn_XiaYiMu",
+    "Properties": {
+      "ImportedSize": {
+        "X": 108,
+        "Y": 116
+      },
+      "LightingGuid": "57FFCC4D-41B1EA88-96FEA894-17108313",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 108,
+    "SizeY": 116,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 12528,
+          "SizeOnDisk": 12528,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 108,
+        "SizeY": 116,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

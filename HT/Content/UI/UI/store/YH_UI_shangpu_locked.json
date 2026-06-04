@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_locked",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/YH_UI_shangpu_locked",
+    "Properties": {
+      "ImportedSize": {
+        "X": 82,
+        "Y": 28
+      },
+      "LightingGuid": "34F08135-4B8CA771-248B4683-41A62414",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 82,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9184,
+          "SizeOnDisk": 9184,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 82,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

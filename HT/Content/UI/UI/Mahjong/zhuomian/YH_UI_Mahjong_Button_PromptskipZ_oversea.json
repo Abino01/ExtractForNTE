@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_Button_PromptskipZ_oversea",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_Mahjong_Button_PromptskipZ_oversea",
+    "Properties": {
+      "ImportedSize": {
+        "X": 200,
+        "Y": 76
+      },
+      "LightingGuid": "F6C578C4-435F60B5-7E219897-E1D9568F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 200,
+    "SizeY": 76,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 15200,
+          "SizeOnDisk": 15200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 200,
+        "SizeY": 76,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

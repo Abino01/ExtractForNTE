@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_btn_car_music_order",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/jiajujiaohu/changpianji/YH_UI_btn_car_music_order",
+    "Properties": {
+      "ImportedSize": {
+        "X": 80,
+        "Y": 80
+      },
+      "LightingGuid": "E5D0C5D7-49FB77E7-130BAEB5-C1C24298",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 80,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6400,
+          "SizeOnDisk": 6400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 80,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

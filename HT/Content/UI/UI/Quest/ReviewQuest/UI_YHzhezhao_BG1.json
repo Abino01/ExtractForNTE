@@ -1,0 +1,43 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YHzhezhao_BG1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Quest/ReviewQuest/UI_YHzhezhao_BG1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 335,
+        "Y": 800
+      },
+      "LightingGuid": "D60BED72-4D8EB30A-EB22A3AE-6D165E3C",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "Downscale": {
+        "bCooked": true,
+        "Default": 0.0,
+        "PerPlatform": null,
+        "Value": 0.0
+      },
+      "NeverStream": true
+    },
+    "SizeX": 335,
+    "SizeY": 800,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1072000,
+          "SizeOnDisk": 1072000,
+          "OffsetInFile": "0x83"
+        },
+        "SizeX": 335,
+        "SizeY": 800,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

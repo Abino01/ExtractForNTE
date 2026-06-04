@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_HPSC_Ornament",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ForkShop/YH_HPSC_Ornament",
+    "Properties": {
+      "ImportedSize": {
+        "X": 148,
+        "Y": 8
+      },
+      "LightingGuid": "BCF0FCBC-47C72F18-E56B83A1-9C75715A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 148,
+    "SizeY": 8,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1184,
+          "SizeOnDisk": 1184,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 148,
+        "SizeY": 8,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

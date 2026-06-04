@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MatchConfig",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/Matchmaking/DT_MatchConfig",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'MatchConfigData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "DefaultLoadKey": {
+        "MapName": "DLC_Hockshop_week",
+        "MatchMode": "EMatchMode::Default",
+        "RoomMode": "ERoomMode::Default",
+        "CloneType": "EMatchCloneType::Common",
+        "EnableIncreaseFPS": false,
+        "SwitchType": "ESwitchType::None",
+        "FunctionName": "None",
+        "ActivityId": "None",
+        "MinEnterLevel": 1,
+        "MaxEnterLevel": 100,
+        "MaxEntryNum": 0,
+        "MaxLifetime": -1,
+        "SpawnBronPoints": [],
+        "RandomMapNames": [],
+        "EnableAutoTravel": true,
+        "EnableSupplement": false,
+        "AutoTravelTimeOut": 30,
+        "EnableAutoReconnect": false,
+        "EnableRoomOwner": false,
+        "AutoTravelTime": 0.011787415,
+        "MatchTimeOut": 0,
+        "LadderMatchRule": [],
+        "EnableDistinguishPlatform": false,
+        "OnlineEffectID": "None",
+        "bSceneResetBufferData": false
+      }
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Formation_Status_BarBg",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/Contest/UI_YH_Formation_Status_BarBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 56,
+        "Y": 56
+      },
+      "LightingGuid": "520DBC60-4EE5FC69-FBE6D580-17A834BD",
+      "NeverStream": true
+    },
+    "SizeX": 56,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3136,
+          "SizeOnDisk": 3136,
+          "OffsetInFile": "0x71"
+        },
+        "SizeX": 56,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

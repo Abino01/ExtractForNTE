@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_xuanzhong",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/YH_UI_shangpu_xuanzhong",
+    "Properties": {
+      "ImportedSize": {
+        "X": 66,
+        "Y": 66
+      },
+      "LightingGuid": "70B6DEA0-4546CFD1-36FEDB8C-C646F342",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 66,
+    "SizeY": 66,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 17424,
+          "SizeOnDisk": 17424,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 66,
+        "SizeY": 66,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

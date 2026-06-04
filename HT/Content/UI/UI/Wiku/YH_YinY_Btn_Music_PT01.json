@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_YinY_Btn_Music_PT01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YH_YinY_Btn_Music_PT01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 812,
+        "Y": 160
+      },
+      "LightingGuid": "8F722783-4908DB8F-475B1D88-2E7459BB",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 812,
+    "SizeY": 160,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 519680,
+          "SizeOnDisk": 519680,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 812,
+        "SizeY": 160,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

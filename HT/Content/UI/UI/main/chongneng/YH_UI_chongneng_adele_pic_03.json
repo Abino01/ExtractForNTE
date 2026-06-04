@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_chongneng_adele_pic_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/chongneng/YH_UI_chongneng_adele_pic_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 228,
+        "Y": 100
+      },
+      "LightingGuid": "82B0B8F9-403B56C0-ED84F19E-B190064F",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 228,
+    "SizeY": 100,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 91200,
+          "SizeOnDisk": 91200,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 228,
+        "SizeY": 100,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

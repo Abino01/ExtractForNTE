@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shizhuang_xuanzhong_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Appearance/YH_UI_shizhuang_xuanzhong_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 260,
+        "Y": 586
+      },
+      "LightingGuid": "DF03B9A9-4A00E3DB-B0A8D3B9-00F0AA08",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 260,
+    "SizeY": 586,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 609440,
+          "SizeOnDisk": 609440,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 260,
+        "SizeY": 586,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI__tetrominoes_Countdown2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tetris/UI__tetrominoes_Countdown2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 92,
+        "Y": 112
+      },
+      "LightingGuid": "98D912F1-402BEEFF-2A81E49A-4ACDE5BA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 92,
+    "SizeY": 112,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10304,
+          "SizeOnDisk": 10304,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 92,
+        "SizeY": 112,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

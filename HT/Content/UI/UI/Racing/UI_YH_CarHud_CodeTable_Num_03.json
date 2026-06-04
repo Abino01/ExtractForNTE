@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_CarHud_CodeTable_Num_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/racing/UI_YH_CarHud_CodeTable_Num_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 40,
+        "Y": 58
+      },
+      "LightingGuid": "7E75047F-4567C2E4-77BA738B-D35C59B2",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 40,
+    "SizeY": 58,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9280,
+          "SizeOnDisk": 9280,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 40,
+        "SizeY": 58,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

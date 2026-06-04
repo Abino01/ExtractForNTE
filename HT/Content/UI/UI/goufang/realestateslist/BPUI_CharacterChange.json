@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "BPUI_CharacterChange",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/goufang/realestateslist/BPUI_CharacterChange",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "MaterialInstanceConstant'UI_Mask_05_juesetouxiang'",
+        "ObjectPath": "/Game/UI/UI_Effect/UIMaterial/Quest/UI_Mask_05_juesetouxiang.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_Scale",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.1,
+          "ExpressionGUID": "3DBC8F9E-4D3A519A-A4E50698-BD6C770F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_U",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.05,
+          "ExpressionGUID": "C77ACABE-4731D775-0970CAA7-976EEB35"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_V",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "12A0367C-45E0DB89-DA82B3B2-FB10F8C6"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex_Base",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Mask_12'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask_12.0"
+          },
+          "ExpressionGUID": "39C0C6AB-4D1F6128-FF23DB95-62801E63"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'player_104_2'",
+            "ObjectPath": "/Game/UI/UI_Icon/AvatarImage/200/player_104_2.0"
+          },
+          "ExpressionGUID": "517BC9BF-433E35C3-E738238C-0791A517"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

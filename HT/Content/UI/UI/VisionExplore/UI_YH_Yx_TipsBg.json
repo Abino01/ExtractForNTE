@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Yx_TipsBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/UI_YH_Yx_TipsBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 216,
+        "Y": 86
+      },
+      "LightingGuid": "DBA1A691-463DD6EF-36707DB7-D04C5D8D",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 216,
+    "SizeY": 86,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 74304,
+          "SizeOnDisk": 74304,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 216,
+        "SizeY": 86,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

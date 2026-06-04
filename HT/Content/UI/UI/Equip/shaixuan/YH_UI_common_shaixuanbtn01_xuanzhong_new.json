@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_common_shaixuanbtn01_xuanzhong_new",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Equip/shaixuan/YH_UI_common_shaixuanbtn01_xuanzhong_new",
+    "Properties": {
+      "ImportedSize": {
+        "X": 108,
+        "Y": 70
+      },
+      "LightingGuid": "6F7BC4F1-4B004020-FC553DA7-2E4723C0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 108,
+    "SizeY": 70,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 30240,
+          "SizeOnDisk": 30240,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 108,
+        "SizeY": 70,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

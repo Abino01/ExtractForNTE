@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_time_ICON_jiaju_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/yixiangjiaju/YH_UI_time_ICON_jiaju_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 271,
+        "Y": 28
+      },
+      "LightingGuid": "B7CC3C2E-46C66ADB-65EE3C89-7CF16044",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 271,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 30352,
+          "SizeOnDisk": 30352,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 271,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LiaoTian_Title",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/liaotian/YH_UI_LiaoTian_Title",
+    "Properties": {
+      "ImportedSize": {
+        "X": 560,
+        "Y": 56
+      },
+      "LightingGuid": "CE1F928D-401EF0FF-5EC58E8F-F8DAD01B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 560,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 31360,
+          "SizeOnDisk": 31360,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 560,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

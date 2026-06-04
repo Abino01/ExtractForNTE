@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Common_Button03_Repair_Normal",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/yixiangjiaju/xiuligong/UI_YH_Common_Button03_Repair_Normal",
+    "Properties": {
+      "ImportedSize": {
+        "X": 160,
+        "Y": 74
+      },
+      "LightingGuid": "2539E39C-4C5E37B3-3816EFA1-281F2F07",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 160,
+    "SizeY": 74,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 47360,
+          "SizeOnDisk": 47360,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 160,
+        "SizeY": 74,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

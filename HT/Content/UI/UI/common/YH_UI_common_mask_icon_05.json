@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_common_mask_icon_05",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/YH_UI_common_mask_icon_05",
+    "Properties": {
+      "ImportedSize": {
+        "X": 360,
+        "Y": 360
+      },
+      "LightingGuid": "BD5A8B26-40572DCC-2DA00F86-F04A2C64",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 360,
+    "SizeY": 360,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 129600,
+          "SizeOnDisk": 129600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 360,
+        "SizeY": 360,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

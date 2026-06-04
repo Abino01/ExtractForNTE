@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_UI_PlayBG03_Inst",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/3DUI/Background/DynamicBackground/MI_UI_PlayBG03_Inst",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'MM_UI_DynamicBackground'",
+        "ObjectPath": "/Game/UI/UI/3DUI/Background/DynamicBackground/MM_UI_DynamicBackground.0"
+      },
+      "NaniteOverrideMaterial": {
+        "OverrideMaterialRef": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "bEnableOverride": false,
+        "OverrideMaterial": null
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "EmissiveIntensity",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.4,
+          "ExpressionGUID": "E525C704-4C138A61-F3AC69BE-1FA7D0D9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "FadeDistance",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 6000.0,
+          "ExpressionGUID": "9E209D34-482CA83B-5FDA2786-4FF1D7F5"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.00416,
+          "ExpressionGUID": "4824E3AF-4C01A465-85AE6E81-E807375A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.025,
+          "ExpressionGUID": "34FF4827-4DDE9E9A-82D42883-6E480C43"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed3",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.025,
+          "ExpressionGUID": "6B4C0F33-4A4DD852-EEDF13AB-1DA2F1C6"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed4",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.008333,
+          "ExpressionGUID": "0E9DE146-471CBBA1-6E73BEAB-93917FF5"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed5",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.008333,
+          "ExpressionGUID": "5E9B3B8F-4CD79C6D-52BA9D9B-A782F72B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed6",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.008333,
+          "ExpressionGUID": "75E5999C-49E58292-809E9D99-E131E4AA"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed_X",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.1,
+          "ExpressionGUID": "547DEBD8-41793763-E86B9994-6FFB3F10"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed_Y",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.1,
+          "ExpressionGUID": "9D351238-43ECCE8B-613560B5-41149D38"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "LineStrength",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 10.0,
+          "ExpressionGUID": "34F4823A-49D47D1E-B758039D-3F433431"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UV_Scale_Offset",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.1,
+            "G": 0.1,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "595900"
+          },
+          "ExpressionGUID": "458DAAF9-48485B3B-DEA0419F-4858218C"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_palyTx_BGmax'",
+            "ObjectPath": "/Game/UI/UI/3DUI/Background/YH_playBG/YH_UI_palyTx_BGmax.0"
+          },
+          "ExpressionGUID": "D823C49A-427B7DF5-2B3AC3B1-DF30E83E"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

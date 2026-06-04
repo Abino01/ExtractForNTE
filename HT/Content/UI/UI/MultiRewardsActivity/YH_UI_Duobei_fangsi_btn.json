@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Duobei_fangsi_btn",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/MultiRewardsActivity/YH_UI_Duobei_fangsi_btn",
+    "Properties": {
+      "ImportedSize": {
+        "X": 508,
+        "Y": 124
+      },
+      "LightingGuid": "9896C432-4490436F-8AE854BB-C8050AB0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 508,
+    "SizeY": 124,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 62992,
+          "SizeOnDisk": 62992,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 508,
+        "SizeY": 124,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

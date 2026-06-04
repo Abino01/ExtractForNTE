@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bagel_textpicture_04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/NoteBook/NoteImage/YH_UI_bagel_textpicture_04",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1080,
+        "Y": 1920
+      },
+      "LightingGuid": "56CAB663-4C418F95-A12CF585-8559E454",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "Downscale": {
+        "bCooked": true,
+        "Default": 0.0,
+        "PerPlatform": null,
+        "Value": 0.0
+      },
+      "NeverStream": true
+    },
+    "SizeX": 1080,
+    "SizeY": 1920,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2073600,
+          "SizeOnDisk": 2073600,
+          "OffsetInFile": "0x7C"
+        },
+        "SizeX": 1080,
+        "SizeY": 1920,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

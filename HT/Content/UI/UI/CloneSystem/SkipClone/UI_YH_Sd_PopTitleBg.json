@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Sd_PopTitleBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/SkipClone/UI_YH_Sd_PopTitleBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 198,
+        "Y": 78
+      },
+      "LightingGuid": "A8E7492E-472D5A1F-22B3E4B1-E04A74D9",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 198,
+    "SizeY": 78,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 61776,
+          "SizeOnDisk": 61776,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 198,
+        "SizeY": 78,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

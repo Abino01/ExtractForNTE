@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_listbiaotidi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/YH_UI_shangpu_listbiaotidi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 40,
+        "Y": 30
+      },
+      "LightingGuid": "91302D24-4088309E-324EA895-22D1564A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 40,
+    "SizeY": 30,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4800,
+          "SizeOnDisk": 4800,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 40,
+        "SizeY": 30,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

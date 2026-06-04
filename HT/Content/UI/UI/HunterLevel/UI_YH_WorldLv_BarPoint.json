@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_WorldLv_BarPoint",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/HunterLevel/UI_YH_WorldLv_BarPoint",
+    "Properties": {
+      "ImportedSize": {
+        "X": 60,
+        "Y": 61
+      },
+      "LightingGuid": "21CACBC9-4A51DDDC-59275587-35F10EE5",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 60,
+    "SizeY": 61,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 14640,
+          "SizeOnDisk": 14640,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 60,
+        "SizeY": 61,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

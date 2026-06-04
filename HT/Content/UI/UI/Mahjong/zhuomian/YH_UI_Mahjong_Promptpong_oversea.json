@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_Promptpong_oversea",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_Mahjong_Promptpong_oversea",
+    "Properties": {
+      "ImportedSize": {
+        "X": 172,
+        "Y": 108
+      },
+      "LightingGuid": "FDA8EFA2-404386D4-39D8DEB6-FAE2ED93",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 172,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 18576,
+          "SizeOnDisk": 18576,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 172,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

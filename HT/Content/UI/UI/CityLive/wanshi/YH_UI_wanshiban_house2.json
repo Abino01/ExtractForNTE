@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_wanshiban_house2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/YH_UI_wanshiban_house2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 456,
+        "Y": 100
+      },
+      "LightingGuid": "BD338950-458FCF18-A1DF8BA1-926F92B3",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 456,
+    "SizeY": 100,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 182400,
+          "SizeOnDisk": 182400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 456,
+        "SizeY": 100,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

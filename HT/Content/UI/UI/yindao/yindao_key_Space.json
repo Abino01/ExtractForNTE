@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "yindao_key_Space",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/yindao/yindao_key_Space",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 40
+      },
+      "LightingGuid": "FE3EDAB4-4C48CDA7-79E5D6BA-114E188A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 40,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4000,
+          "SizeOnDisk": 4000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 100,
+        "SizeY": 40,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

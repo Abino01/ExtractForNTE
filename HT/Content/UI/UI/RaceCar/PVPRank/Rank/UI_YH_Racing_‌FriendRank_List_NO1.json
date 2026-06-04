@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_‌FriendRank_List_NO1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVPRank/Rank/UI_YH_Racing_‌FriendRank_List_NO1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 56,
+        "Y": 36
+      },
+      "LightingGuid": "58DA2475-494E91F3-ACC1118F-326D0F3E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 56,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2016,
+          "SizeOnDisk": 2016,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 56,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

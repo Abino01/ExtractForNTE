@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Guide_Eluosifangkuai_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/teachguide/image/SCNEW/UI_YH_Guide_Eluosifangkuai_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 832,
+        "Y": 424
+      },
+      "LightingGuid": "18761DE2-426A52F4-9CF0359C-851A68C2",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 832,
+    "SizeY": 424,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1411072,
+          "SizeOnDisk": 1411072,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 832,
+        "SizeY": 424,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

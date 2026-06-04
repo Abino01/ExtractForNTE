@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_AbyssRewards_Bgtx2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Activity/YH_UI_AbyssRewards_Bgtx2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1616,
+        "Y": 1616
+      },
+      "LightingGuid": "B30F4B49-4A70972C-F9FD1BBD-F08ED583",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1616,
+    "SizeY": 1616,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2611456,
+          "SizeOnDisk": 2611456,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1616,
+        "SizeY": 1616,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

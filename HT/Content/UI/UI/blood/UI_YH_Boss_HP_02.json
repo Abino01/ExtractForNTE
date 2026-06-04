@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Boss_HP_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/blood/UI_YH_Boss_HP_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2,
+        "Y": 54
+      },
+      "LightingGuid": "BE95B321-46385242-DF86FDB8-234E133B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 2,
+    "SizeY": 54,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 432,
+          "SizeOnDisk": 432,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 2,
+        "SizeY": 54,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

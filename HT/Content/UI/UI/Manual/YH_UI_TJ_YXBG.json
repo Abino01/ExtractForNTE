@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TJ_YXBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Manual/YH_UI_TJ_YXBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 380,
+        "Y": 438
+      },
+      "LightingGuid": "D9A04A0B-4E038B0E-C6C84BB7-0A7E0C44",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 380,
+    "SizeY": 438,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 665760,
+          "SizeOnDisk": 665760,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 380,
+        "SizeY": 438,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_QiYu_ICON",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Divination/YH_UI_QiYu_ICON",
+    "Properties": {
+      "ImportedSize": {
+        "X": 184,
+        "Y": 184
+      },
+      "LightingGuid": "A4399490-49CF8E06-7C2B908A-8243CB20",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 184,
+    "SizeY": 184,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 33856,
+          "SizeOnDisk": 33856,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 184,
+        "SizeY": 184,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

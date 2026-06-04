@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Hospital_TVBg1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Hospital/YH_UI_Hospital_TVBg1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 512,
+        "Y": 914
+      },
+      "LightingGuid": "C8490201-4D031C95-5A10A483-F17389A2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 512,
+    "SizeY": 914,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1871872,
+          "SizeOnDisk": 1871872,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 512,
+        "SizeY": 914,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

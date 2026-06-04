@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_BG_visio_industry",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/realestateslist/YH_UI_BG_visio_industry",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1566,
+        "Y": 760
+      },
+      "LightingGuid": "95832675-4D422A0E-345848B8-A11AA198",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1566,
+    "SizeY": 760,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4760640,
+          "SizeOnDisk": 4760640,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1566,
+        "SizeY": 760,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

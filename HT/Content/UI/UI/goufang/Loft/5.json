@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "5",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/Loft/5",
+    "Properties": {
+      "ImportedSize": {
+        "X": 264,
+        "Y": 264
+      },
+      "LightingGuid": "55951842-45DA8C2F-C6ED1EB6-E18F06CE",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 264,
+    "SizeY": 264,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 278784,
+          "SizeOnDisk": 278784,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 264,
+        "SizeY": 264,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

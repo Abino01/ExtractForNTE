@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_mask_sleep",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/BedSleep/YH_UI_mask_sleep",
+    "Properties": {
+      "ImportedSize": {
+        "X": 276,
+        "Y": 276
+      },
+      "LightingGuid": "FDA56266-491E48CD-741FEA8E-DF48C463",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 276,
+    "SizeY": 276,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 38088,
+          "SizeOnDisk": 38088,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 276,
+        "SizeY": 276,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

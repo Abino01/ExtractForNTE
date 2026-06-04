@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_img_combo_text_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Bit/YH_UI_img_combo_text_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 388,
+        "Y": 144
+      },
+      "LightingGuid": "84229A63-4A244A85-E9BF6284-57C34299",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 388,
+    "SizeY": 144,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 55872,
+          "SizeOnDisk": 55872,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 388,
+        "SizeY": 144,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

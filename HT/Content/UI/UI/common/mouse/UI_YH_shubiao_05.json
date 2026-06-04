@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_shubiao_05",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/mouse/UI_YH_shubiao_05",
+    "Properties": {
+      "ImportedSize": {
+        "X": 84,
+        "Y": 132
+      },
+      "LightingGuid": "3C1758C2-43BC0D45-8D4184A8-25D9B0B9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 84,
+    "SizeY": 132,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 11088,
+          "SizeOnDisk": 11088,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 84,
+        "SizeY": 132,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

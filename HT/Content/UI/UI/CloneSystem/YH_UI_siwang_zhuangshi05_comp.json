@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_siwang_zhuangshi05_comp",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/YH_UI_siwang_zhuangshi05_comp",
+    "Properties": {
+      "ImportedSize": {
+        "X": 448,
+        "Y": 98
+      },
+      "LightingGuid": "26127D70-47975C29-3CAD999A-03B88288",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 448,
+    "SizeY": 98,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 175616,
+          "SizeOnDisk": 175616,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 448,
+        "SizeY": 98,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

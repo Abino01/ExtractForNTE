@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BigWorldYaHaHaConfig",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/YaHaHa/DT_BigWorldYaHaHaConfig",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'YaHaHaData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "YahahaTest_01": {
+        "Index": 0,
+        "YaHahaID": "YahahaTest_01",
+        "TableName": "BigWorld",
+        "Type": "Test",
+        "CD": 0,
+        "Location": {
+          "X": 201596.0,
+          "Y": -18201.0,
+          "Z": -3889.0
+        },
+        "Range": 1000.0,
+        "ZRange": 0.0,
+        "DropID": "Vision_MagicBox_Cube_01_21561343",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": []
+      },
+      "Abyss_200284543": {}
+    }
+  }
+]

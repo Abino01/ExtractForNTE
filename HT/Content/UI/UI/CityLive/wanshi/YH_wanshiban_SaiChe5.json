@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_wanshiban_SaiChe5",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/YH_wanshiban_SaiChe5",
+    "Properties": {
+      "ImportedSize": {
+        "X": 436,
+        "Y": 132
+      },
+      "LightingGuid": "9C1EDB77-4E5C6B03-EE91309E-859A9121",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 436,
+    "SizeY": 132,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 28776,
+          "SizeOnDisk": 28776,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 436,
+        "SizeY": 132,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

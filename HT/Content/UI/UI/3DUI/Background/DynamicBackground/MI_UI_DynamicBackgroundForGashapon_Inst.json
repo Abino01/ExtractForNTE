@@ -1,0 +1,101 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_UI_DynamicBackgroundForGashapon_Inst",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/3DUI/Background/DynamicBackground/MI_UI_DynamicBackgroundForGashapon_Inst",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'MM_UI_DynamicBackgroundForGashapon'",
+        "ObjectPath": "/Game/UI/UI/3DUI/Background/DynamicBackground/MM_UI_DynamicBackgroundForGashapon.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "EmissiveIntensity",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.4,
+          "ExpressionGUID": "E525C704-4C138A61-F3AC69BE-1FA7D0D9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Lightness",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.006,
+          "ExpressionGUID": "5C100D04-44C26A00-DDBB4691-53D7D74B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed_X",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.1,
+          "ExpressionGUID": "547DEBD8-41793763-E86B9994-6FFB3F10"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed_Y",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.1,
+          "ExpressionGUID": "9D351238-43ECCE8B-613560B5-41149D38"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UV_Scale_Offset",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.1,
+            "G": 0.1,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "595900"
+          },
+          "ExpressionGUID": "458DAAF9-48485B3B-DEA0419F-4858218C"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_YH_Gacha_BgDesign'",
+            "ObjectPath": "/Game/UI/UI/Gashapon/UI_YH_Gacha_BgDesign.0"
+          },
+          "ExpressionGUID": "D823C49A-427B7DF5-2B3AC3B1-DF30E83E"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

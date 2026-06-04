@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Level_Logo_08",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Level_Logo_08",
+    "Properties": {
+      "ImportedSize": {
+        "X": 316,
+        "Y": 232
+      },
+      "LightingGuid": "9EABAAE3-4ED76BB7-E367A0B6-6C135E77",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 316,
+    "SizeY": 232,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 73312,
+          "SizeOnDisk": 73312,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 316,
+        "SizeY": 232,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

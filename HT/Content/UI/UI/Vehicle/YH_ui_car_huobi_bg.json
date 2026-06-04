@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_ui_car_huobi_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/YH_ui_car_huobi_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 256,
+        "Y": 36
+      },
+      "LightingGuid": "8320DDC5-4F6CD128-82057EAE-CA32B62D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 256,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9216,
+          "SizeOnDisk": 9216,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 256,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

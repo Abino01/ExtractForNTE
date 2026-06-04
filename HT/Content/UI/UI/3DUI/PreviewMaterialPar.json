@@ -1,0 +1,19 @@
+[
+  {
+    "Type": "MaterialParameterCollection",
+    "Name": "PreviewMaterialPar",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialParameterCollection'",
+    "Package": "/Game/UI/UI/3DUI/PreviewMaterialPar",
+    "Properties": {
+      "StateId": "DEA5F712-4FE30354-4B557EB4-133C59DF",
+      "ScalarParameters": [
+        {
+          "DefaultValue": 0.0,
+          "ParameterName": "Opacity",
+          "ID": "64E5B11E-49BDD143-4890A392-02AFDC3A"
+        }
+      ]
+    }
+  }
+]

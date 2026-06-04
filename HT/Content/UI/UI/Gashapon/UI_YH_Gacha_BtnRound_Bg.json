@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Gacha_BtnRound_Bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gashapon/UI_YH_Gacha_BtnRound_Bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 125,
+        "Y": 124
+      },
+      "LightingGuid": "E8798B85-46CCA669-B0456DA0-EC08ADAE",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 125,
+    "SizeY": 124,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 62000,
+          "SizeOnDisk": 62000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 125,
+        "SizeY": 124,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

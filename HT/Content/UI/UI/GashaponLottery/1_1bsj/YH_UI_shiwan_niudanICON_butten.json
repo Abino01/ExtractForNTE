@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shiwan_niudanICON_butten",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/GashaponLottery/1_1bsj/YH_UI_shiwan_niudanICON_butten",
+    "Properties": {
+      "ImportedSize": {
+        "X": 135,
+        "Y": 134
+      },
+      "LightingGuid": "0F9CBEEA-489CF306-F30087B4-16FE405B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 135,
+    "SizeY": 134,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 72360,
+          "SizeOnDisk": 72360,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 135,
+        "SizeY": 134,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

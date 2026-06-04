@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_chouka_juesejilu_bg_glow",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_chouka_juesejilu_bg_glow",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1092,
+        "Y": 630
+      },
+      "LightingGuid": "0798F298-4FD10609-56A7EEA5-49C3E9D3",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1092,
+    "SizeY": 630,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2751840,
+          "SizeOnDisk": 2751840,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1092,
+        "SizeY": 630,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

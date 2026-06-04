@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_CircuitSettings_Weather_Normal",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/haoyoushezhi/UI_YH_Racing_CircuitSettings_Weather_Normal",
+    "Properties": {
+      "ImportedSize": {
+        "X": 208,
+        "Y": 116
+      },
+      "LightingGuid": "058E2F66-46DDCDCE-B2090B9E-626BC8D0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 208,
+    "SizeY": 116,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 24128,
+          "SizeOnDisk": 24128,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 208,
+        "SizeY": 116,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

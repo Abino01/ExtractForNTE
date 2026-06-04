@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_Icon_Clone_HuangFeiHuNiDi_01",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/UI_CloneIcon/UI_Icon_Clone_HuangFeiHuNiDi_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 260,
+        "Y": 92
+      },
+      "LightingGuid": "79CF0526-42F38D7B-040D9F82-6D0D2193",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 260,
+    "SizeY": 92,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 11960,
+          "SizeOnDisk": 11960,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 260,
+        "SizeY": 92,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

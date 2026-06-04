@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_File_BtnBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/dangan/YH_UI_File_BtnBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 564,
+        "Y": 84
+      },
+      "LightingGuid": "4587D69D-4E7F36D8-EBD64AB0-C553AB5E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 564,
+    "SizeY": 84,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 47376,
+          "SizeOnDisk": 47376,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 564,
+        "SizeY": 84,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Fair_Show_Card_Tape",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/UI_YH_Fair_Show_Card_Tape",
+    "Properties": {
+      "ImportedSize": {
+        "X": 328,
+        "Y": 504
+      },
+      "LightingGuid": "54E73514-4AC01C67-DE07FC8D-E67C0198",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 328,
+    "SizeY": 504,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 165312,
+          "SizeOnDisk": 165312,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 328,
+        "SizeY": 504,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

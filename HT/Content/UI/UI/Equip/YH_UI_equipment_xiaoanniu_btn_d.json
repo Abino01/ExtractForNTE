@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_equipment_xiaoanniu_btn_d",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Equip/YH_UI_equipment_xiaoanniu_btn_d",
+    "Properties": {
+      "ImportedSize": {
+        "X": 60,
+        "Y": 44
+      },
+      "LightingGuid": "7CB70CC1-4D376DF3-D7E01484-AB56E91F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 60,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2640,
+          "SizeOnDisk": 2640,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 60,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

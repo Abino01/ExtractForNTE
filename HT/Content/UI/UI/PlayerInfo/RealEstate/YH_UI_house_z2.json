@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_house_z2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PlayerInfo/Realestate/YH_UI_house_z2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 277,
+        "Y": 278
+      },
+      "LightingGuid": "AB7AB2C1-490FA8D9-CFA33182-647C74C2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 277,
+    "SizeY": 278,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 308024,
+          "SizeOnDisk": 308024,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 277,
+        "SizeY": 278,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

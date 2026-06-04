@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yinengjiaju_kuang01",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/tanchuang/YH_UI_yinengjiaju_kuang01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 196,
+        "Y": 272
+      },
+      "LightingGuid": "E202E8B7-48F2424B-7E6BFA9E-D17E835B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 196,
+    "SizeY": 272,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 53312,
+          "SizeOnDisk": 53312,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 196,
+        "SizeY": 272,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

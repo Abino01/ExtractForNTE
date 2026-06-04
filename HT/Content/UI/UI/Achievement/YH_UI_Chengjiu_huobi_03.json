@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Chengjiu_huobi_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Achievement/YH_UI_Chengjiu_huobi_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 125,
+        "Y": 53
+      },
+      "LightingGuid": "8C2D0D4D-4AB3BE22-708D89B9-201660F6",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 125,
+    "SizeY": 53,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 26500,
+          "SizeOnDisk": 26500,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 125,
+        "SizeY": 53,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

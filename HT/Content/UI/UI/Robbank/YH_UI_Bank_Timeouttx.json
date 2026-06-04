@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Bank_Timeouttx",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RobBank/YH_UI_Bank_Timeouttx",
+    "Properties": {
+      "ImportedSize": {
+        "X": 708,
+        "Y": 176
+      },
+      "LightingGuid": "87A7C7E9-4E1FD9B8-BFD039AC-A734223E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 708,
+    "SizeY": 176,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 124608,
+          "SizeOnDisk": 124608,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 708,
+        "SizeY": 176,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

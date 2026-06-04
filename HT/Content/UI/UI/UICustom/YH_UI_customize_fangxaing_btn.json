@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_customize_fangxaing_btn",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/UICustom/YH_UI_customize_fangxaing_btn",
+    "Properties": {
+      "ImportedSize": {
+        "X": 76,
+        "Y": 64
+      },
+      "LightingGuid": "F7EE3C85-454224E4-CF9849A7-6050B29F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 76,
+    "SizeY": 64,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4864,
+          "SizeOnDisk": 4864,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 76,
+        "SizeY": 64,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

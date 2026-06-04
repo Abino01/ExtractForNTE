@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_CommissionUnlockedPanel_Unlocked_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/ADVVision/YH_UI_CommissionUnlockedPanel_Unlocked_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 220,
+        "Y": 60
+      },
+      "LightingGuid": "F2B3C565-47E13C17-6BCED290-BC633494",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 220,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 52800,
+          "SizeOnDisk": 52800,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 220,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

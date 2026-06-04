@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Unlock_Bkg01_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/AwardTip/UI_YH_Bond_Unlock_Bkg01_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 160,
+        "Y": 332
+      },
+      "LightingGuid": "49AA6795-49BF75D2-7E412391-385222F1",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 160,
+    "SizeY": 332,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 212480,
+          "SizeOnDisk": 212480,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 160,
+        "SizeY": 332,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

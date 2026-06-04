@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_btn_dcff_next_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/jiajujiaohu/shoubangui/YH_UI_btn_dcff_next_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 84,
+        "Y": 84
+      },
+      "LightingGuid": "078B5635-4969D0C3-BCBB2D8F-C6215DB9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 84,
+    "SizeY": 84,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7056,
+          "SizeOnDisk": 7056,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 84,
+        "SizeY": 84,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

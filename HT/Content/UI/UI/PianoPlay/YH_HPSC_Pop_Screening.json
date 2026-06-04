@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_HPSC_Pop_Screening",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PianoPlay/YH_HPSC_Pop_Screening",
+    "Properties": {
+      "ImportedSize": {
+        "X": 84,
+        "Y": 56
+      },
+      "LightingGuid": "F78C9706-480A963A-57C582B6-DE922EC8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 84,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4704,
+          "SizeOnDisk": 4704,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 84,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

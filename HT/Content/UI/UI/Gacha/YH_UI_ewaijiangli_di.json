@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_ewaijiangli_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_ewaijiangli_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 450,
+        "Y": 88
+      },
+      "LightingGuid": "F713E383-44924357-6C77D2BD-A830FBA2",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 450,
+    "SizeY": 88,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 158400,
+          "SizeOnDisk": 158400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 450,
+        "SizeY": 88,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

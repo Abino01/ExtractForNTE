@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_FSSC_Ornament04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/Fons/YH_UI_FSSC_Ornament04",
+    "Properties": {
+      "ImportedSize": {
+        "X": 308,
+        "Y": 28
+      },
+      "LightingGuid": "FD031440-4A0431FA-46EAA2B2-72D4AE3C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 308,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8624,
+          "SizeOnDisk": 8624,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 308,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

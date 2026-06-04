@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_line11_common",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/line/YH_UI_line11_common",
+    "Properties": {
+      "ImportedSize": {
+        "X": 104,
+        "Y": 12
+      },
+      "LightingGuid": "68FF1552-417C429E-12402C8F-D780FC8B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 104,
+    "SizeY": 12,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4992,
+          "SizeOnDisk": 4992,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 104,
+        "SizeY": 12,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

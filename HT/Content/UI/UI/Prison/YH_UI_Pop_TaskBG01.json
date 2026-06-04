@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Pop_TaskBG01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Prison/YH_UI_Pop_TaskBG01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 500,
+        "Y": 150
+      },
+      "LightingGuid": "BAB8F25E-4A2700F4-F1EA1080-1EA35680",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 500,
+    "SizeY": 150,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 300000,
+          "SizeOnDisk": 300000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 500,
+        "SizeY": 150,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

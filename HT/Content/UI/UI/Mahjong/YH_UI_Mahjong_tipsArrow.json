@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_tipsArrow",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/YH_UI_Mahjong_tipsArrow",
+    "Properties": {
+      "ImportedSize": {
+        "X": 28,
+        "Y": 52
+      },
+      "LightingGuid": "B323CFA7-4388CB4D-0398EFAA-BD805D92",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 28,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1456,
+          "SizeOnDisk": 1456,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 28,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

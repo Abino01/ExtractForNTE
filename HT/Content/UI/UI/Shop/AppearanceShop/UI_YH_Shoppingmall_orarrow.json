@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Shoppingmall_orarrow",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/AppearanceShop/UI_YH_Shoppingmall_orarrow",
+    "Properties": {
+      "ImportedSize": {
+        "X": 36,
+        "Y": 76
+      },
+      "LightingGuid": "C45EB58C-40F89B81-2697108B-FBAECF1D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 36,
+    "SizeY": 76,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2736,
+          "SizeOnDisk": 2736,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 36,
+        "SizeY": 76,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

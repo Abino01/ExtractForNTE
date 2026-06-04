@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_PromptButton_Down1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/ADVVision/UI_YH_PromptButton_Down1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 168,
+        "Y": 74
+      },
+      "LightingGuid": "6B7CB42C-44053B09-32F23B86-B75C26AE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 168,
+    "SizeY": 74,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 49728,
+          "SizeOnDisk": 49728,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 168,
+        "SizeY": 74,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Fj_ItemTipsBg_1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/compose/UI_YH_Fj_ItemTipsBg_1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 524,
+        "Y": 782
+      },
+      "LightingGuid": "8F881DE6-4DBA4BA8-93EF9099-FA5A4B2F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 524,
+    "SizeY": 782,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1639072,
+          "SizeOnDisk": 1639072,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 524,
+        "SizeY": 782,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

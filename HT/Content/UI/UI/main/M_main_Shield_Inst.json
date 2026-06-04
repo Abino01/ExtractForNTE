@@ -1,0 +1,85 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "M_main_Shield_Inst",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/main/M_main_Shield_Inst",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_main_Shield'",
+        "ObjectPath": "/Game/UI/UI/main/M_main_Shield.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Offset",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.48,
+          "ExpressionGUID": "49C26532-4BD368D1-CF00E2B5-85367009"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ShieldHealthValue",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "0E87D82A-49B0B369-DE7BBFA6-F5126DB1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "ShieldHealthColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 5.9604645E-08,
+            "G": 0.8565898,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "00EFFF"
+          },
+          "ExpressionGUID": "1B89AA05-48AB43F2-F73F7D81-AA3892C0"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_zjm_energy10'",
+            "ObjectPath": "/Game/UI/UI/main/zhujiemian_1/UI_zjm_energy10.0"
+          },
+          "ExpressionGUID": "5DAA130E-4FE7BD1F-F4D4659E-62597AA8"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Map_Line01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/bigworldmap_assets/tanban/YH_UI_Map_Line01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 468,
+        "Y": 44
+      },
+      "LightingGuid": "6A771307-43E0DBBD-5495879B-B613D8C0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 468,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 20592,
+          "SizeOnDisk": 20592,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 468,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

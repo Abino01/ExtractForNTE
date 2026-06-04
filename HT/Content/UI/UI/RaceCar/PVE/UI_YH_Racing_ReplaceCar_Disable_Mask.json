@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_ReplaceCar_Disable_Mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVE/UI_YH_Racing_ReplaceCar_Disable_Mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 384,
+        "Y": 220
+      },
+      "LightingGuid": "E4BBD39C-421B809B-17714DB7-DAD06A7C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 384,
+    "SizeY": 220,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 84480,
+          "SizeOnDisk": 84480,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 384,
+        "SizeY": 220,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "Type": "Material",
+    "Name": "MM_UI_DynamicBackgroundForGashapon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Material'",
+    "Package": "/Game/UI/UI/3DUI/Background/DynamicBackground/MM_UI_DynamicBackgroundForGashapon",
+    "Properties": {
+      "TranslucencyLightingMode": "ETranslucencyLightingMode::TLM_SurfacePerPixelLighting",
+      "bCanMaskedBeAssumedOpaque": true,
+      "PixelDepthOffsetMode": "EPixelDepthOffsetMode::PDOM_Legacy",
+      "StateId": "4B5B99C6-4C8BA0A4-ACC9618B-BCB6BB2C",
+      "TextureStreamingData": [
+        {
+          "SamplingScale": 1.0,
+          "UVChannelIndex": 0,
+          "TextureName": "01"
+        }
+      ],
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedExpressionData": {
+      "RuntimeEntries": {
+        "ParameterInfoSet": [
+          {
+            "Name": "Lightness",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "EmissiveIntensity",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Speed_X",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Speed_Y",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "FadeDistance",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "LineTilling",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "LineStrength",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Speed1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Speed2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Speed3",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Speed4",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[1]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "UV_Scale_Offset",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[2]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[3]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "T_Lines",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[4]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[5]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[6]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[7]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[8]": {
+        "ParameterInfoSet": []
+      },
+      "ScalarPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "VectorPrimitiveDataIndexValues": [
+        -1
+      ],
+      "ScalarValues": [
+        0.0,
+        1.0,
+        0.1,
+        0.0,
+        1000.0,
+        0.8,
+        0.0,
+        0.1,
+        -0.2,
+        0.3,
+        -0.4
+      ],
+      "StaticSwitchValues": [],
+      "DynamicSwitchValues": [],
+      "VectorValues": [
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "FFFF00"
+        }
+      ],
+      "DoubleVectorValues": [],
+      "TextureValues": [
+        {
+          "AssetPathName": "/Game/Environment/Building/Interior/Antiquestore/Build_Yiboen/Textures/01.01",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/UI/UI/3DUI/car_BG/T_lines.T_lines",
+          "SubPathString": ""
+        }
+      ],
+      "TextureCollectionValues": [],
+      "FontValues": [],
+      "FontPageValues": [],
+      "RuntimeVirtualTextureValues": [],
+      "SparseVolumeTextureValues": [],
+      "ReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'YH_UI_palyTx_BGmax'",
+          "ObjectPath": "/Game/UI/UI/3DUI/Background/YH_playBG/YH_UI_palyTx_BGmax.0"
+        },
+        {
+          "ObjectName": "Texture2D'01'",
+          "ObjectPath": "/Game/Environment/Building/Interior/Antiquestore/Build_Yiboen/Textures/01.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_lines'",
+          "ObjectPath": "/Game/UI/UI/3DUI/car_BG/T_lines.0"
+        }
+      ],
+      "ReferencedTextureCollections": [],
+      "ReferencedExternalCodeExpressionClasses": [
+        {
+          "ObjectName": "Class'MaterialExpressionScreenPosition'",
+          "ObjectPath": "/Script/Engine"
+        }
+      ],
+      "FunctionInfos": [
+        {
+          "StateId": "3161742E-4800C603-B145E1AF-56D3BE63",
+          "Function": {
+            "ObjectName": "MaterialFunction'TimeWithSpeedVariable'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.0"
+          }
+        },
+        {
+          "StateId": "4CD7375F-4A491770-9089F3BE-055B9C8D",
+          "Function": {
+            "ObjectName": "MaterialFunction'Lerp_Multiple_Float4'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Lerp_Multiple_Float4.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        }
+      ],
+      "FunctionInfosStateCRC": 3557787883,
+      "ParameterCollectionInfos": [],
+      "GrassTypes": [],
+      "MaterialLayers": {
+        "Layers": [],
+        "Blends": [],
+        "tree": {
+          "Nodes": [],
+          "Payloads": [],
+          "Root": -1
+        }
+      },
+      "DynamicParameterNames": [],
+      "QualityLevelsUsed": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "bHasMaterialLayers": false,
+      "bHasRuntimeVirtualTextureOutput": false,
+      "bHasFirstPersonOutput": false,
+      "bHasMaterialCacheOutput": false,
+      "bMaterialCacheHasNonUVDerivedExpression": false,
+      "bHasSceneColor": false,
+      "bHasPerInstanceCustomData": false,
+      "bHasPerInstanceRandom": false,
+      "bHasVertexInterpolator": false,
+      "bHasCustomizedUVs": false,
+      "bHasMeshPaintTexture": false,
+      "bHasWorldPosition": false,
+      "PropertyConnectedMask": 33
+    },
+    "ReferencedTextures": [
+      {
+        "ObjectName": "Texture2D'01'",
+        "ObjectPath": "/Game/Environment/Building/Interior/Antiquestore/Build_Yiboen/Textures/01.0"
+      },
+      {
+        "ObjectName": "Texture2D'YH_UI_palyTx_BGmax'",
+        "ObjectPath": "/Game/UI/UI/3DUI/Background/YH_playBG/YH_UI_palyTx_BGmax.0"
+      },
+      {
+        "ObjectName": "Texture2D'T_lines'",
+        "ObjectPath": "/Game/UI/UI/3DUI/car_BG/T_lines.0"
+      }
+    ]
+  }
+]

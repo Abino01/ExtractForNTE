@@ -1,0 +1,158 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_M_MainUI_SkillBkg_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/main/zhujiemian_1/Attribute/UI_M_MainUI_SkillBkg_01",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_UI_001'",
+        "ObjectPath": "/Game/FX/Mat/UI/M_UI_001.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Gamma",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "F3D57168-4EA4ACE4-7AE4D592-09A08AAC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UTiling (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "90F0E011-44641A35-485143BA-54A13339"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VTiling (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "EE6C6B93-462AAD0C-50EF22B7-5526922E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "USpeed (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "A5F2F2CF-4E9E4E88-F910DB81-30EF9A58"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VSpeed (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "BC5A4510-409D20B6-AC75D489-642C3E59"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorSpeed (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.1,
+          "ExpressionGUID": "E5C24D40-49A6CB77-9F7B409E-29D56991"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorAngle (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "BDB5EC8A-42FCEC17-604A2C96-5C111352"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Opacity",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "45C8351F-4969BA0D-2FC5C8A0-338B48A0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_YH_MainUI_SkillBkg_11'",
+            "ObjectPath": "/Game/UI/UI/main/zhujiemian_1/Attribute/UI_YH_MainUI_SkillBkg_11.0"
+          },
+          "ExpressionGUID": "050E04FC-44870C34-1581EE91-85FF43F8"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "Use_Flipbook",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "42A9EA74-4F8DD8D0-CB9C05BB-66489418"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "UseMaskOpacity",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "C64F13CB-42E43460-9661AAA2-A1EAB9F3"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "Wrap&Clamp",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "9A092EB6-4FCB65F8-DDCBE397-ABC62D6E"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

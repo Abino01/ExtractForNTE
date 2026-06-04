@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_icon_cqyj",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/shangcheng/YH_UI_icon_cqyj",
+    "Properties": {
+      "ImportedSize": {
+        "X": 98,
+        "Y": 98
+      },
+      "LightingGuid": "FB76AE60-466992CF-54E46793-9041968F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 98,
+    "SizeY": 98,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 38416,
+          "SizeOnDisk": 38416,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 98,
+        "SizeY": 98,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

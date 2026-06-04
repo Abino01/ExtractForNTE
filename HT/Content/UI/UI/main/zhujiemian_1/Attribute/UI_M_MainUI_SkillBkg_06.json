@@ -1,0 +1,223 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_M_MainUI_SkillBkg_06",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/main/zhujiemian_1/Attribute/UI_M_MainUI_SkillBkg_06",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_Skill_01'",
+        "ObjectPath": "/Game/UI/UI_Effect/UIMaterial/Skill/M_Skill_01.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UTiling (D)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.37,
+          "ExpressionGUID": "DB96D0D4-484625CA-760539AB-E6D802CE"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VTiling (D)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "21892A0A-481396FE-3F01DE96-823BA3AD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "USpeed (D)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "F6FC0966-4FA38ECA-46DA7384-43FB47BA"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VSpeed (D)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "BC32BD3B-44F0C5B1-46B5AA8C-7C8310CB"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "USkewing (D)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.03,
+          "ExpressionGUID": "990B7E2B-4F6B5998-28051B84-9642F7C2"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VSkewing(D)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "C89294C0-4A141858-0C2AABB3-212E5C97"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorAngle (D)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "8591735B-4B3C2312-D67CC084-4CED9B2D"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "DissolveValue",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "CFB68FBA-4B287FF3-CE9B5D8A-E9B32AB0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "LightValue",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "3C69C698-48BEB114-C7048385-DD729B30"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UTiling",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "7C00C089-486B2909-7A0E2284-CBAC8BA7"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VTiling",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "98770631-40305FF5-85AD46B7-7DF442BF"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "USpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "8E8A2EFC-44FD5302-E66A06AB-D1DC267B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "VSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "04DBAE97-4FFE912A-3A27F2A1-A60355E9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "6ED572A7-4289A68C-F6212181-A7DB8C1A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorAngle",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "508C128D-4B6C2CA0-774F2D95-1DE76F6F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Mask_TEX",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Noise_15'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Noise/UI_T_Noise_15.0"
+          },
+          "ExpressionGUID": "C3A0E28B-47AA5B69-F1E264A0-9CF14BD2"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_YH_MainUI_SkillBkg_05'",
+            "ObjectPath": "/Game/UI/UI/main/zhujiemian_1/Attribute/UI_YH_MainUI_SkillBkg_05.0"
+          },
+          "ExpressionGUID": "A4809E42-4E7C6C72-CA49B48D-09AAD600"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Dissolve",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "DC6AAE29-414F8C28-361175A6-07309A93"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "UseDissolveMask",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "5887AFEB-417DD7E2-FE76A99A-A8EAB2A6"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

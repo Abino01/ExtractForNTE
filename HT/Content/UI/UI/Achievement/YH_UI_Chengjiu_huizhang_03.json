@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Chengjiu_huizhang_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Achievement/YH_UI_Chengjiu_huizhang_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 134,
+        "Y": 134
+      },
+      "LightingGuid": "5DBBAEFA-4139E45B-8F7B13B5-E72F8CBC",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 134,
+    "SizeY": 134,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 71824,
+          "SizeOnDisk": 71824,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 134,
+        "SizeY": 134,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DiTuPop_LeftBtn_Select",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/minimapUIAssets/PopupWindow/YH_UI_DiTuPop_LeftBtn_Select",
+    "Properties": {
+      "ImportedSize": {
+        "X": 240,
+        "Y": 76
+      },
+      "LightingGuid": "D66816F9-41DBAE72-84ED5BAC-CBDE4DFC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 240,
+    "SizeY": 76,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 18240,
+          "SizeOnDisk": 18240,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 240,
+        "SizeY": 76,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Development_jindu02_img",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Cultivation/YH_UI_Development_jindu02_img",
+    "Properties": {
+      "ImportedSize": {
+        "X": 86,
+        "Y": 86
+      },
+      "LightingGuid": "636CF8EE-42B8B263-9B5EF9B0-25187ACC",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 86,
+    "SizeY": 86,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 29584,
+          "SizeOnDisk": 29584,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 86,
+        "SizeY": 86,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

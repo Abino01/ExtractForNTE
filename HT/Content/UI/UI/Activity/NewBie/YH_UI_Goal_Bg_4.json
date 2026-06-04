@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Goal_Bg_4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/NewBie/YH_UI_Goal_Bg_4",
+    "Properties": {
+      "ImportedSize": {
+        "X": 92,
+        "Y": 1024
+      },
+      "LightingGuid": "9BCC467D-424DEE9E-FD036389-7FFAC256",
+      "CompressionSettings": "TextureCompressionSettings::TC_BC7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "SRGB": false,
+      "NeverStream": true
+    },
+    "SizeX": 92,
+    "SizeY": 1024,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 94208,
+          "SizeOnDisk": 94208,
+          "OffsetInFile": "0x79"
+        },
+        "SizeX": 92,
+        "SizeY": 1024,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

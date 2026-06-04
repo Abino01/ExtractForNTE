@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_music_Instructions",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PianoPlay/YH_UI_bg_music_Instructions",
+    "Properties": {
+      "ImportedSize": {
+        "X": 60,
+        "Y": 36
+      },
+      "LightingGuid": "34816E83-42F64DB2-6995D8AF-87B0F8EB",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 60,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2160,
+          "SizeOnDisk": 2160,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 60,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Development_mokuai_bg02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Cultivation/YH_UI_Development_mokuai_bg02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 82,
+        "Y": 82
+      },
+      "LightingGuid": "7631E2F3-4FA030BD-6E84448B-530F0FAC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 82,
+    "SizeY": 82,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 26896,
+          "SizeOnDisk": 26896,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 82,
+        "SizeY": 82,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

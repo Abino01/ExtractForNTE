@@ -1,0 +1,43 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_huawen_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/UI_huawen_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1024,
+        "Y": 437
+      },
+      "LightingGuid": "540E605B-4E328227-93BD2B99-4980CFE6",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "Downscale": {
+        "bCooked": true,
+        "Default": 0.0,
+        "PerPlatform": null,
+        "Value": 0.0
+      },
+      "NeverStream": true
+    },
+    "SizeX": 1024,
+    "SizeY": 437,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1789952,
+          "SizeOnDisk": 1789952,
+          "OffsetInFile": "0x83"
+        },
+        "SizeX": 1024,
+        "SizeY": 437,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Awaken_Fadiya_Bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Awaken/Fadiya/YH_UI_Awaken_Fadiya_Bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1384,
+        "Y": 830
+      },
+      "LightingGuid": "9B19CB39-446D6B24-22EA38A5-5D419B74",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1384,
+    "SizeY": 830,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4594880,
+          "SizeOnDisk": 4594880,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 1384,
+        "SizeY": 830,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

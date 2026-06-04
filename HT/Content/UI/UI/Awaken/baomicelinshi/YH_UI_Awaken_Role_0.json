@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Awaken_Role_0",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Awaken/baomicelinshi/YH_UI_Awaken_Role_0",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1384,
+        "Y": 830
+      },
+      "LightingGuid": "B4D48201-45049CE3-337C9394-BA2A70F5",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1384,
+    "SizeY": 830,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4594880,
+          "SizeOnDisk": 4594880,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 1384,
+        "SizeY": 830,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

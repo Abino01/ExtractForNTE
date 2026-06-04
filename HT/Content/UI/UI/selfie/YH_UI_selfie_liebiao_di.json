@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_liebiao_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_selfie_liebiao_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 160,
+        "Y": 184
+      },
+      "LightingGuid": "8CC3D291-4783BCE2-2DFCC6B7-6BB09D54",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 160,
+    "SizeY": 184,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 29440,
+          "SizeOnDisk": 29440,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 160,
+        "SizeY": 184,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

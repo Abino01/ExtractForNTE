@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Home_LevelInfoBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/FurnitureList/UI_YH_Home_LevelInfoBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 201,
+        "Y": 106
+      },
+      "LightingGuid": "BC616969-4DBC8278-1A164889-2C03654D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 201,
+    "SizeY": 106,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 85224,
+          "SizeOnDisk": 85224,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 201,
+        "SizeY": 106,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

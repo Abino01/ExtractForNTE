@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_LvReward_Bkg_03_SPFPC",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/UI_YH_Bond_LvReward_Bkg_03_SPFPC",
+    "Properties": {
+      "ImportedSize": {
+        "X": 8,
+        "Y": 764
+      },
+      "LightingGuid": "4CA5A125-41C01C98-899E08AA-0641B529",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 8,
+    "SizeY": 764,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6112,
+          "SizeOnDisk": 6112,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 8,
+        "SizeY": 764,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_NpcShop_ListBkg_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/npcshop/UI_YH_NpcShop_ListBkg_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 216,
+        "Y": 264
+      },
+      "LightingGuid": "F84BD2D5-4C537C15-CB8446B2-A2DD7433",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 216,
+    "SizeY": 264,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 57024,
+          "SizeOnDisk": 57024,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 216,
+        "SizeY": 264,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

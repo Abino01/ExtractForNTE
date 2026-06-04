@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Hospital_linsh1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Hospital/YH_UI_Hospital_linsh1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 195,
+        "Y": 145
+      },
+      "LightingGuid": "3540DB73-468B2CCC-9A1B8385-39AFD330",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 195,
+    "SizeY": 145,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 113100,
+          "SizeOnDisk": 113100,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 195,
+        "SizeY": 145,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

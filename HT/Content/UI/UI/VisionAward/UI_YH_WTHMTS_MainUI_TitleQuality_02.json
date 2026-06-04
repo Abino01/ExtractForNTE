@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_WTHMTS_MainUI_TitleQuality_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionAward/UI_YH_WTHMTS_MainUI_TitleQuality_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 428,
+        "Y": 92
+      },
+      "LightingGuid": "8416AC38-468DD9D7-B915EFA7-2ACA17FC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 428,
+    "SizeY": 92,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 39376,
+          "SizeOnDisk": 39376,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 428,
+        "SizeY": 92,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

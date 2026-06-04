@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_CircuitSettings_Option_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/haoyoushezhi/UI_YH_Racing_CircuitSettings_Option_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 456,
+        "Y": 564
+      },
+      "LightingGuid": "34F015DD-4DAD8A20-320E6C92-F93331A7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 456,
+    "SizeY": 564,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 257184,
+          "SizeOnDisk": 257184,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 456,
+        "SizeY": 564,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

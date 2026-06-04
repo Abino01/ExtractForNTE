@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_chouka_buttenICON_jilu",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_chouka_buttenICON_jilu",
+    "Properties": {
+      "ImportedSize": {
+        "X": 120,
+        "Y": 120
+      },
+      "LightingGuid": "2CE3B142-4973A2D8-6DC7E4B2-EEC2B271",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 120,
+    "SizeY": 120,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 57600,
+          "SizeOnDisk": 57600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 120,
+        "SizeY": 120,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

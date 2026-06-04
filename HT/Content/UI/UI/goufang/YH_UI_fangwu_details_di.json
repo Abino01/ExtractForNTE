@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_fangwu_details_di",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/YH_UI_fangwu_details_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 424,
+        "Y": 74
+      },
+      "LightingGuid": "2058B459-499C495E-502B2E88-35714432",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 424,
+    "SizeY": 74,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 125504,
+          "SizeOnDisk": 125504,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 424,
+        "SizeY": 74,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

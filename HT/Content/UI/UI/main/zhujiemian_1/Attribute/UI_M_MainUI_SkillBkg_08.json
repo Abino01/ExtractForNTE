@@ -1,0 +1,70 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_M_MainUI_SkillBkg_08",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/main/zhujiemian_1/Attribute/UI_M_MainUI_SkillBkg_08",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_Skill_01'",
+        "ObjectPath": "/Game/UI/UI_Effect/UIMaterial/Skill/M_Skill_01.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "B",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.07,
+          "ExpressionGUID": "2F8185DA-4DD79181-7DB0A692-F93EE5D5"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorAngle",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "508C128D-4B6C2CA0-774F2D95-1DE76F6F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_YH_MainUI_SkillBkg_07'",
+            "ObjectPath": "/Game/UI/UI/main/zhujiemian_1/Attribute/UI_YH_MainUI_SkillBkg_07.0"
+          },
+          "ExpressionGUID": "A4809E42-4E7C6C72-CA49B48D-09AAD600"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_Additive",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

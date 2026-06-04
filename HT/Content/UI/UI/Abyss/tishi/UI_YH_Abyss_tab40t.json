@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Abyss_tab40t",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/tishi/UI_YH_Abyss_tab40t",
+    "Properties": {
+      "ImportedSize": {
+        "X": 300,
+        "Y": 56
+      },
+      "LightingGuid": "FB5D5924-447D1941-F711AEAF-0604F1D9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 300,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 16800,
+          "SizeOnDisk": 16800,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 300,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

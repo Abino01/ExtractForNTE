@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Phone_BtnBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/caidan/Menu_Phone/YH_UI_Phone_BtnBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 110,
+        "Y": 110
+      },
+      "LightingGuid": "80CC9CE2-411710B7-D8560E90-484E05C4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 110,
+    "SizeY": 110,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 48400,
+          "SizeOnDisk": 48400,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 110,
+        "SizeY": 110,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

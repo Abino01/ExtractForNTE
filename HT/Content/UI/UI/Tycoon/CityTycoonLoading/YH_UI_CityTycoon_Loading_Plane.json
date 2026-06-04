@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_CityTycoon_Loading_Plane",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/CityTycoonLoading/YH_UI_CityTycoon_Loading_Plane",
+    "Properties": {
+      "ImportedSize": {
+        "X": 280,
+        "Y": 280
+      },
+      "LightingGuid": "6E2DCBA3-4CDF10B9-31EE4B92-6DCAA17A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 280,
+    "SizeY": 280,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 313600,
+          "SizeOnDisk": 313600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 280,
+        "SizeY": 280,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

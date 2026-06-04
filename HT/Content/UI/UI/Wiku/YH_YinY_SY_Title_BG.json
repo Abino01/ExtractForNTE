@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_YinY_SY_Title_BG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YH_YinY_SY_Title_BG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 116,
+        "Y": 40
+      },
+      "LightingGuid": "9734D07C-434CE063-6068B392-0A05628B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 116,
+    "SizeY": 40,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4640,
+          "SizeOnDisk": 4640,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 116,
+        "SizeY": 40,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

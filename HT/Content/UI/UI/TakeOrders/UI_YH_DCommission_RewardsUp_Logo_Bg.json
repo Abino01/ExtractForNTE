@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_DCommission_RewardsUp_Logo_Bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/TakeOrders/UI_YH_DCommission_RewardsUp_Logo_Bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 160,
+        "Y": 160
+      },
+      "LightingGuid": "9320B958-47F50EA1-D10373B6-91E06C25",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 160,
+    "SizeY": 160,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 25600,
+          "SizeOnDisk": 25600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 160,
+        "SizeY": 160,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_PiaoJu_biaoqiandi_common",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/desc/YH_UI_PiaoJu_biaoqiandi_common",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1200,
+        "Y": 680
+      },
+      "LightingGuid": "7A166FA8-4A555048-208EF896-6C430E41",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1200,
+    "SizeY": 680,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 816000,
+          "SizeOnDisk": 816000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1200,
+        "SizeY": 680,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

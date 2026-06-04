@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_citytycoon_Highlevel_butten_Decoration",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/YH_UI_citytycoon_Highlevel_butten_Decoration",
+    "Properties": {
+      "ImportedSize": {
+        "X": 144,
+        "Y": 20
+      },
+      "LightingGuid": "BE02960E-47DEF213-C6DCFAAF-12A1D852",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 144,
+    "SizeY": 20,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2880,
+          "SizeOnDisk": 2880,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 144,
+        "SizeY": 20,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

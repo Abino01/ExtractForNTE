@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TSD_Pic_ZhuCheng",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/AreaImage/YH_UI_TSD_Pic_ZhuCheng",
+    "Properties": {
+      "ImportedSize": {
+        "X": 504,
+        "Y": 244
+      },
+      "LightingGuid": "08AB3662-4410A7E9-B97932B8-EC5E6DF8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 504,
+    "SizeY": 244,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 61488,
+          "SizeOnDisk": 61488,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 504,
+        "SizeY": 244,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_shuodingMiaozhun_00",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/fight/UI_shuodingMiaozhun_00",
+    "Properties": {
+      "ImportedSize": {
+        "X": 200,
+        "Y": 200
+      },
+      "LightingGuid": "5BB9CEED-4C6E1EEA-7B8DBAB9-C62BE471",
+      "NeverStream": true
+    },
+    "SizeX": 200,
+    "SizeY": 200,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 40000,
+          "SizeOnDisk": 40000,
+          "OffsetInFile": "0x71"
+        },
+        "SizeX": 200,
+        "SizeY": 200,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_lihui_fashionshopi_anhunqu1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Appearance/Fashion/1024/YH_lihui_fashionshopi_anhunqu1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1024,
+        "Y": 1024
+      },
+      "LightingGuid": "7C39A45B-4C20F47B-D2FAE491-36656106",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1024,
+    "SizeY": 1024,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4194304,
+          "SizeOnDisk": 4194304,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1024,
+        "SizeY": 1024,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

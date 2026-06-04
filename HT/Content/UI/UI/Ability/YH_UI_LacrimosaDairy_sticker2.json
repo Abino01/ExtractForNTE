@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LacrimosaDairy_sticker2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Ability/YH_UI_LacrimosaDairy_sticker2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 152,
+        "Y": 108
+      },
+      "LightingGuid": "C390441F-48F7CCFD-C0EB2984-77124752",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 152,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 16416,
+          "SizeOnDisk": 16416,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 152,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

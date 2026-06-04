@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Photo_toggle",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_Photo_toggle",
+    "Properties": {
+      "ImportedSize": {
+        "X": 108,
+        "Y": 56
+      },
+      "LightingGuid": "CD5A203C-4A51E28C-FBBB4FB9-241805C7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 108,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6048,
+          "SizeOnDisk": 6048,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 108,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

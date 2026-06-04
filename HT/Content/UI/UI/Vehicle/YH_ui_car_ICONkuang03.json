@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_ui_car_ICONkuang03",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/YH_ui_car_ICONkuang03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 480,
+        "Y": 360
+      },
+      "LightingGuid": "4A7E214B-4950C1BC-5A5B7A8E-156AED85",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 480,
+    "SizeY": 360,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 691200,
+          "SizeOnDisk": 691200,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 480,
+        "SizeY": 360,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

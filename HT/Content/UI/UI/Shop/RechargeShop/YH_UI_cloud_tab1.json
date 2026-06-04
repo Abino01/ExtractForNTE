@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_cloud_tab1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/RechargeShop/YH_UI_cloud_tab1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 200,
+        "Y": 32
+      },
+      "LightingGuid": "83B5C0ED-4D76A08F-3B5B7C9B-E92B1F49",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 200,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6400,
+          "SizeOnDisk": 6400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 200,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

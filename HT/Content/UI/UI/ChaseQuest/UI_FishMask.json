@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_FishMask",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ChaseQuest/UI_FishMask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 440,
+        "Y": 440
+      },
+      "LightingGuid": "1E12DB2F-482AED9E-5EDCBB8C-7C50C75F",
+      "NeverStream": true
+    },
+    "SizeX": 440,
+    "SizeY": 440,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 96800,
+          "SizeOnDisk": 96800,
+          "OffsetInFile": "0x71"
+        },
+        "SizeX": 440,
+        "SizeY": 440,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

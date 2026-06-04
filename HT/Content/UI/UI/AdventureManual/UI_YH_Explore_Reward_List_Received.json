@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Explore_Reward_List_Received",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/AdventureManual/UI_YH_Explore_Reward_List_Received",
+    "Properties": {
+      "ImportedSize": {
+        "X": 956,
+        "Y": 140
+      },
+      "LightingGuid": "E715D382-43FD5138-4057C999-3E07C466",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 956,
+    "SizeY": 140,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 133840,
+          "SizeOnDisk": 133840,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 956,
+        "SizeY": 140,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

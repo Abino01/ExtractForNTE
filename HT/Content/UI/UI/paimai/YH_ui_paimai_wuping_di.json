@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_ui_paimai_wuping_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/paimai/YH_ui_paimai_wuping_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 240,
+        "Y": 320
+      },
+      "LightingGuid": "AE40C244-401D113C-A56D7395-768E135B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 240,
+    "SizeY": 320,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 76800,
+          "SizeOnDisk": 76800,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 240,
+        "SizeY": 320,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

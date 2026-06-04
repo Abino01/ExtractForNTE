@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SignInMainForm_wenzi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/SignIn/YH_UI_SignInMainForm_wenzi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2067,
+        "Y": 561
+      },
+      "LightingGuid": "A59C8A0B-47A75D5A-F14CF99A-0E9F9D07",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 2067,
+    "SizeY": 561,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4638348,
+          "SizeOnDisk": 4638348,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 2067,
+        "SizeY": 561,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

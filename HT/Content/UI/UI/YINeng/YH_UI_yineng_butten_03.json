@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yineng_butten_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_UI_yineng_butten_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 164,
+        "Y": 164
+      },
+      "LightingGuid": "9743991B-4CCA17F9-5F76C29B-3CAC7321",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 164,
+    "SizeY": 164,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 26896,
+          "SizeOnDisk": 26896,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 164,
+        "SizeY": 164,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

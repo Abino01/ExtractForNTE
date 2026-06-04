@@ -1,0 +1,103 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_qiyue_xinzhi1_Mat_Inst_7",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/name/UI_qiyue_xinzhi1_Mat_Inst_7",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'UI_qiyue_xinzhi1_Mat'",
+        "ObjectPath": "/Game/UI/UI/name/UI_qiyue_xinzhi1_Mat.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Disappear(+Index0DY0)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.5,
+          "ExpressionGUID": "D57CAAC0-4187531D-EC6191A0-80205B6C"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "FxHardness",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "F8D555AB-4E7A1FD3-834D2C9A-9EADDA80"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "FxHardnessMax",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.8,
+          "ExpressionGUID": "C2BC74FE-40A12C72-37F7A2A6-C7B38D88"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "FxHardnessMin",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.02,
+          "ExpressionGUID": "7994DC5F-466265D2-ACF01C80-468D246E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 0.002,
+            "B": 0.004,
+            "A": 1.0,
+            "Hex": "FF060C"
+          },
+          "ExpressionGUID": "EB76EA55-41DCDD93-AB42179D-B9F52223"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Base_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_qianm'",
+            "ObjectPath": "/Game/UI/UI/name/YH_qianm.0"
+          },
+          "ExpressionGUID": "A1279384-46E29DB6-A35B07BA-36C14ACB"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_DCommission_BtnSelected",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/TakeOrders/LeftPopup/UI_YH_DCommission_BtnSelected",
+    "Properties": {
+      "ImportedSize": {
+        "X": 420,
+        "Y": 82
+      },
+      "LightingGuid": "CF9E6579-4176D4C9-318C4B97-C66CBF79",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 420,
+    "SizeY": 82,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 137760,
+          "SizeOnDisk": 137760,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 420,
+        "SizeY": 82,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

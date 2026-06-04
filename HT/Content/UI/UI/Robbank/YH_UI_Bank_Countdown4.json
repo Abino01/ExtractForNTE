@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Bank_Countdown4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RobBank/YH_UI_Bank_Countdown4",
+    "Properties": {
+      "ImportedSize": {
+        "X": 200,
+        "Y": 60
+      },
+      "LightingGuid": "D6928F0D-481FD101-120F3EAB-E22FC070",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 200,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 12000,
+          "SizeOnDisk": 12000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 200,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

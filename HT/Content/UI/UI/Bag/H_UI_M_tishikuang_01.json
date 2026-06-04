@@ -1,0 +1,137 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "H_UI_M_tishikuang_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/bag/H_UI_M_tishikuang_01",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'MM_UI_tishikuang'",
+        "ObjectPath": "/Game/UI/Gamepad/Navigation/MM_UI_tishikuang.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "BreathLightSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 4.0,
+          "ExpressionGUID": "959993B2-4C1BF26D-96919FAE-F5ED60EF"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Scale_BackImage",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "EB781683-4EA8F830-C3642BB2-A98FDAA1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Scale_Detail",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "AA66B3B5-491E5CC5-4BC2F3B7-395E628E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "BreathLightColor1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.83,
+            "Hex": "D4FFFFFF"
+          },
+          "ExpressionGUID": "BAA912D7-4953E089-65DFA0A9-5631219C"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "BreathLightColor2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "5DF44471-4CAE0D8E-88F2ECAE-5EB3BE66"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex_01",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_tishikuang_else'",
+            "ObjectPath": "/Game/UI/UI/bag/YH_UI_tishikuang_else.0"
+          },
+          "ExpressionGUID": "FE44C03C-4C971AFB-C388A2B4-1733C6FB"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex_02",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_tishikuang_else'",
+            "ObjectPath": "/Game/UI/UI/bag/YH_UI_tishikuang_else.0"
+          },
+          "ExpressionGUID": "1D172C78-409E5A7A-E96CBAAA-35D24F24"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseBreathLight",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "DB046014-47C61CD0-16EF5383-E8B86811"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

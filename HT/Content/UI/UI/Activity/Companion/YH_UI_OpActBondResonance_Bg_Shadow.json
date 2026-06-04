@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_OpActBondResonance_Bg_Shadow",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/Companion/YH_UI_OpActBondResonance_Bg_Shadow",
+    "Properties": {
+      "ImportedSize": {
+        "X": 960,
+        "Y": 540
+      },
+      "LightingGuid": "2903EDD6-49D5029D-6DB7D084-22818424",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 960,
+    "SizeY": 540,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2073600,
+          "SizeOnDisk": 2073600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 960,
+        "SizeY": 540,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_zixuan_panelL_hover",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_zixuan_panelL_hover",
+    "Properties": {
+      "ImportedSize": {
+        "X": 348,
+        "Y": 572
+      },
+      "LightingGuid": "F3DE1D23-4F85ED12-EE3EF980-D90D30FB",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 348,
+    "SizeY": 572,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 796224,
+          "SizeOnDisk": 796224,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 348,
+        "SizeY": 572,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

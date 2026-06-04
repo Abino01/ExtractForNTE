@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Date_Details_Position_Icon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/Date/MeetingUI/UI_YH_Bond_Date_Details_Position_Icon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 36,
+        "Y": 36
+      },
+      "LightingGuid": "FCA0090B-49DCB424-1351EA98-E03B0D17",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 36,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1296,
+          "SizeOnDisk": 1296,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 36,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

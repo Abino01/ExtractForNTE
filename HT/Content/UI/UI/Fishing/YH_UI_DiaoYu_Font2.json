@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DiaoYu_Font2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Fishing/YH_UI_DiaoYu_Font2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 986,
+        "Y": 114
+      },
+      "LightingGuid": "2F312844-459BE52E-E7D762AE-4FF51A35",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 986,
+    "SizeY": 114,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 449616,
+          "SizeOnDisk": 449616,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 986,
+        "SizeY": 114,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

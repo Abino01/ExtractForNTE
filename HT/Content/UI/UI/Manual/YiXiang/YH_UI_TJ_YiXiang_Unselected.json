@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TJ_YiXiang_Unselected",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Manual/YiXiang/YH_UI_TJ_YiXiang_Unselected",
+    "Properties": {
+      "ImportedSize": {
+        "X": 432,
+        "Y": 580
+      },
+      "LightingGuid": "4AD16E7D-48F47305-C5BD8EB1-83B962FF",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 432,
+    "SizeY": 580,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1002240,
+          "SizeOnDisk": 1002240,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 432,
+        "SizeY": 580,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Common_max",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/Butten/YH_UI_Common_max",
+    "Properties": {
+      "ImportedSize": {
+        "X": 24,
+        "Y": 28
+      },
+      "LightingGuid": "F9763DDB-4A0DCA75-461D2282-07D452CA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 24,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 672,
+          "SizeOnDisk": 672,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 24,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

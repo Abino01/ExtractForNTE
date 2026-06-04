@@ -1,0 +1,180 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_PolishedConcrete_GarageFloor1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/3DUI/car_BG/MI_PolishedConcrete_GarageFloor1",
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "HtPhysicalMaterial'PM_Concrete'",
+        "ObjectPath": "/Game/CoreMaterials/Physics/PM_Concrete.0"
+      },
+      "Parent": {
+        "ObjectName": "Material'MM_Tile_01a'",
+        "ObjectPath": "/Game/Environment/Building/Interior/Interior_Office/OldStyle/Materials/MasterMaterial/MM_Tile_01a.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Normal Intensity",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "8331079F-44DCD3C1-672E70BF-E52C5EB3"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Roughness Multi",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.732,
+          "ExpressionGUID": "1A166DD9-4AF76A1A-A22CAD98-91474C65"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Roughness Power",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 2.0,
+          "ExpressionGUID": "D834C1B1-4B4CAEC4-C709B2AE-05CAE169"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "U Tiling",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 30.0,
+          "ExpressionGUID": "F4886990-44838152-812ECD81-24F5517F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "V Tiling",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 30.0,
+          "ExpressionGUID": "354FF8A2-4FA3926B-3BEFB0AD-D3C0A020"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Color Tint",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.260853,
+            "G": 0.347908,
+            "B": 0.496933,
+            "A": 1.0,
+            "Hex": "8C9FBB"
+          },
+          "ExpressionGUID": "C3DA2383-43D63572-3CB48DA6-BF4C269D"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Base Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_car_bc1'",
+            "ObjectPath": "/Game/UI/UI/3DUI/car_BG/Car_material/T_car_bc1.0"
+          },
+          "ExpressionGUID": "63C5E353-45122A3D-65AB318A-975C1217"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Channel Packed Texture",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_PolishedConcrete_RMA'",
+            "ObjectPath": "/Game/Environment/Building/Interior/Interior_Office/OldStyle/Textures/Tileable/T_PolishedConcrete_RMA.0"
+          },
+          "ExpressionGUID": "38875C5B-47F0E56C-CF4613B9-9F2805D8"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Normal",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_PolishedConcrete_Normal'",
+            "ObjectPath": "/Game/Environment/Building/Interior/Interior_Office/OldStyle/Textures/Tileable/T_PolishedConcrete_Normal.0"
+          },
+          "ExpressionGUID": "79ADDB1C-43842C66-19ED1C81-B9E8F584"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Color Tint?",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "84B691C2-4405A3E4-A08B1A9B-BCFD3290"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Normal Intensity?",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "78392568-47E0687D-E1D965BA-283E574D"
+          }
+        ]
+      },
+      "TextureStreamingData": [
+        {
+          "SamplingScale": 30.0,
+          "UVChannelIndex": 0,
+          "TextureName": "T_car_bc1"
+        },
+        {
+          "SamplingScale": 30.0,
+          "UVChannelIndex": 0,
+          "TextureName": "T_PolishedConcrete_Normal"
+        },
+        {
+          "SamplingScale": 30.0,
+          "UVChannelIndex": 0,
+          "TextureName": "T_PolishedConcrete_RMA"
+        }
+      ],
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

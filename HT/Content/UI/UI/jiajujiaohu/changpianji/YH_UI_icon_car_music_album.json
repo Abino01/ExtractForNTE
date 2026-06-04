@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_icon_car_music_album",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/jiajujiaohu/changpianji/YH_UI_icon_car_music_album",
+    "Properties": {
+      "ImportedSize": {
+        "X": 218,
+        "Y": 68
+      },
+      "LightingGuid": "8B550489-47B997BF-7E962FBA-555A9B64",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 218,
+    "SizeY": 68,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 59296,
+          "SizeOnDisk": 59296,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 218,
+        "SizeY": 68,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

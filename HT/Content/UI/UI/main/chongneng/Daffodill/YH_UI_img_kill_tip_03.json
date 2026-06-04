@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_img_kill_tip_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/chongneng/Daffodill/YH_UI_img_kill_tip_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 99,
+        "Y": 178
+      },
+      "LightingGuid": "3DE9867B-404DD205-3D2E2797-EED3C58E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 99,
+    "SizeY": 178,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 70488,
+          "SizeOnDisk": 70488,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 99,
+        "SizeY": 178,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Common_HeadBox_LvBox",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/UI_YH_Common_HeadBox_LvBox",
+    "Properties": {
+      "ImportedSize": {
+        "X": 179,
+        "Y": 79
+      },
+      "LightingGuid": "83A59361-41BDF2A2-EAD1B6B1-FD20875E",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 179,
+    "SizeY": 79,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 56564,
+          "SizeOnDisk": 56564,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 179,
+        "SizeY": 79,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

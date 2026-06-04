@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Development_haiyue",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Cultivation/Character/YH_UI_Development_haiyue",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1324,
+        "Y": 88
+      },
+      "LightingGuid": "0DE58B5A-460DFF55-5C2DA9A5-4B8106B4",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1324,
+    "SizeY": 88,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 466048,
+          "SizeOnDisk": 466048,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1324,
+        "SizeY": 88,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_FB_Result_RewardsDesign",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/UI_YH_FB_Result_RewardsDesign",
+    "Properties": {
+      "ImportedSize": {
+        "X": 286,
+        "Y": 40
+      },
+      "LightingGuid": "D0EEFF56-415D328B-23E7AB98-C12571AE",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 286,
+    "SizeY": 40,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 45760,
+          "SizeOnDisk": 45760,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 286,
+        "SizeY": 40,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

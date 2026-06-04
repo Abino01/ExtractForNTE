@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Match_PB_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVP/UI_YH_Racing_Match_PB_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 516,
+        "Y": 56
+      },
+      "LightingGuid": "042E3641-436FEE9F-65EE2BB3-E11F1A37",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 516,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 28896,
+          "SizeOnDisk": 28896,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 516,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

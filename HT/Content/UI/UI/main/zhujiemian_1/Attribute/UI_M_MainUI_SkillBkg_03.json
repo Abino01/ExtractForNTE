@@ -1,0 +1,477 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_M_MainUI_SkillBkg_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/main/zhujiemian_1/Attribute/UI_M_MainUI_SkillBkg_03",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'UI_Mat_distort'",
+        "ObjectPath": "/Game/UI/UI_Effect/UIMaterial/Base/UI_Mat_distort.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Switch_OnlyColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "4B3752ED-46066ACD-661893BF-97F094DD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "FxHardness",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "92067DAE-4716109E-31E21493-77CC1F4F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "HardnessMin",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "8709A718-464D2528-A4FBC781-1B1A33DE"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "HardnessMax",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "2C63F817-4FEC74C3-79C1519B-93A4A43E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "TexIntensity",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "CCE27DD0-4BF58571-265EB285-A97E5993"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "U+",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "7B1F00E9-42A14889-A5A052A2-8985EC76"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "V+",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.96,
+          "ExpressionGUID": "B4E284A6-4E5415FB-3DA9D3B3-76DEFB00"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Mul",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "6DEE0B70-4DA1D8F8-5DA66981-79A3BCD4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotatorAngle",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "3A1D975B-4654E269-A3430B95-969DD98B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MultiplyTex_Intensity",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "7AA86237-497A41FE-D8F9D0B5-71E59574"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "EmissonCurveTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 16.0,
+          "ExpressionGUID": "01AE8E58-4CF30C61-5871ACB9-98F89B97"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MaskCurveTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 12.0,
+          "ExpressionGUID": "12EB9DC6-45C94A15-03B01395-FD4AE4C6"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MaskCurveTex_Mask_Rota",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 180.0,
+          "ExpressionGUID": "65C3FB5F-4B974088-3DDCCAB1-E1926AF5"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "TwistIntensity",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "56C49DE7-4927C7E6-57F937AB-AB9ACA66"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UseWaveTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "A9F92326-492D3BDD-2611C798-59FAA8A4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Base_color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "4FC509C9-49E3E0DD-24BE2480-BC991F2E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Base_UV",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 2.0,
+            "B": 0.01,
+            "A": 0.0,
+            "Hex": "FFFF19"
+          },
+          "ExpressionGUID": "86416EF2-4892587B-3ED446B6-FDE1C972"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "BaseTex_Refine",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "D6DF0C78-4E8131BA-3A5FD6BB-9682FF39"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MultiplyTex_UV",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "FFFF00"
+          },
+          "ExpressionGUID": "EFA39D22-42DE0F25-36C8D78A-DD59EB73"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "EmissonCurveTex_Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "9ECDBA9F-498F80E1-49A4429B-C9EE9365"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "EmissonCurveTex_UV",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "FFFF00"
+          },
+          "ExpressionGUID": "6F264E8E-464C5E54-274206B9-FB0EBEDE"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MaskCurve_UV",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "FFFF00"
+          },
+          "ExpressionGUID": "C0878262-4240BB72-803CCD9F-8F1FAF83"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MaskCurveTex_Mask_UV",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "FFFF00"
+          },
+          "ExpressionGUID": "49E15B2B-4DE86312-B8467C84-2F8D2665"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "BaseTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Noise_10'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Noise/UI_T_Noise_10.0"
+          },
+          "ExpressionGUID": "1CA77850-4F1AD9E7-37EB129E-061DAC9E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MultiplyTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'DefaultTexture'",
+            "ObjectPath": "/Engine/EngineResources/DefaultTexture.0"
+          },
+          "ExpressionGUID": "E8741D34-4334BB1D-B2D0A2A4-FC35A89F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MaskCurveTex_Mask",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Mask_20'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask_20.0"
+          },
+          "ExpressionGUID": "0C476223-4F80F247-7B260CA0-4ABA9E5B"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "U_Clamp",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "1F616BDC-49B11C42-B48BCD90-96FAF149"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "V_Clamp",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "9A076A62-4A92820B-3E0BECBD-5490044B"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseRefine",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "67D4A26B-4D6C0D09-E31CB5BA-82ADEE1F"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "UseBaseAlpha",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "4558EDF7-4233CE2E-89ADE1BC-9BC29FA7"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "UseBaseBlend",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "FBA4F4CD-4D4D4054-8E9B7BBC-938DF194"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "UseMultiplyTex",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "56874EE6-465A3BE9-FB4AB8B6-55CE66A3"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseMultiplyTexAlpha",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "D2556C10-4E010BCC-C04F01BC-AF7570C4"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "UseEmissonCurveTex",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "F232966B-4FB1B26F-ADC4F8BC-3053B9F3"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseMaskCurveTex",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "2B87063B-458A1832-DFE8D9B1-F20578F4"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseMaskCurveTex_Mask",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "99DB9914-40417FD1-9B8C2EB2-6A0B8735"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseRadiaToVector",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "0747D228-49A0FCFC-99B65E84-1AF9298D"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UsePolar",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "13D0CE2A-440500A1-7ABC30B1-9B978E41"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseRotateTwist",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "CEDB32AB-45CDA104-44FA578A-2B99C146"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "WaveTex_Radial",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "A13389EE-4CAEDC05-E5AEBA86-584E1CFE"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

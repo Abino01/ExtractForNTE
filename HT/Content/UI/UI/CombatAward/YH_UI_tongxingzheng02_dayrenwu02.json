@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_tongxingzheng02_dayrenwu02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CombatAward/YH_UI_tongxingzheng02_dayrenwu02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 308,
+        "Y": 128
+      },
+      "LightingGuid": "94522DF6-4D6146F9-B347BB8B-689C5307",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 308,
+    "SizeY": 128,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 157696,
+          "SizeOnDisk": 157696,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 308,
+        "SizeY": 128,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

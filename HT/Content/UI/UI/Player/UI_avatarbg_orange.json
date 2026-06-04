@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_avatarbg_orange",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/UI_avatarbg_orange",
+    "Properties": {
+      "ImportedSize": {
+        "X": 295,
+        "Y": 383
+      },
+      "LightingGuid": "2ECDFC54-4AD74B78-7DA5F293-5C58D6F0",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 295,
+    "SizeY": 383,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 451940,
+          "SizeOnDisk": 451940,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 295,
+        "SizeY": 383,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

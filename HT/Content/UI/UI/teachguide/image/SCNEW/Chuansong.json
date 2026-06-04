@@ -1,0 +1,135 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Chuansong",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/teachguide/image/SCNEW/Chuansong",
+    "Properties": {
+      "ImportedSize": {
+        "X": 832,
+        "Y": 424
+      },
+      "LightingGuid": "F8906F06-4C0A77A9-0E8A55AD-A6132B84",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 832,
+    "SizeY": 424,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 352768,
+          "SizeOnDisk": 352768,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 832,
+        "SizeY": 424,
+        "SizeZ": 1
+      },
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 88192,
+          "SizeOnDisk": 88192,
+          "OffsetInFile": "0x56284"
+        },
+        "SizeX": 416,
+        "SizeY": 212,
+        "SizeZ": 1
+      },
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 22464,
+          "SizeOnDisk": 22464,
+          "OffsetInFile": "0x6BB14"
+        },
+        "SizeX": 208,
+        "SizeY": 106,
+        "SizeZ": 1
+      },
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5824,
+          "SizeOnDisk": 5824,
+          "OffsetInFile": "0x712E4"
+        },
+        "SizeX": 104,
+        "SizeY": 53,
+        "SizeZ": 1
+      },
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1456,
+          "SizeOnDisk": 1456,
+          "OffsetInFile": "0x729B4"
+        },
+        "SizeX": 52,
+        "SizeY": 26,
+        "SizeZ": 1
+      },
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 448,
+          "SizeOnDisk": 448,
+          "OffsetInFile": "0x72F74"
+        },
+        "SizeX": 26,
+        "SizeY": 13,
+        "SizeZ": 1
+      },
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 128,
+          "SizeOnDisk": 128,
+          "OffsetInFile": "0x73144"
+        },
+        "SizeX": 13,
+        "SizeY": 6,
+        "SizeZ": 1
+      },
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 32,
+          "SizeOnDisk": 32,
+          "OffsetInFile": "0x731D4"
+        },
+        "SizeX": 6,
+        "SizeY": 3,
+        "SizeZ": 1
+      },
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 16,
+          "SizeOnDisk": 16,
+          "OffsetInFile": "0x73204"
+        },
+        "SizeX": 3,
+        "SizeY": 1,
+        "SizeZ": 1
+      },
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 16,
+          "SizeOnDisk": 16,
+          "OffsetInFile": "0x73224"
+        },
+        "SizeX": 1,
+        "SizeY": 1,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

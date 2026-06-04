@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Common_Tips_Quality_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/itemtips/itemtips_11_11/UI_YH_Common_Tips_Quality_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 528,
+        "Y": 448
+      },
+      "LightingGuid": "AD52FC74-42073758-D2FD688B-BB0E1E0A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 528,
+    "SizeY": 448,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 236544,
+          "SizeOnDisk": 236544,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 528,
+        "SizeY": 448,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_avatar_Drag",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/UI_YH_avatar_Drag",
+    "Properties": {
+      "ImportedSize": {
+        "X": 424,
+        "Y": 424
+      },
+      "LightingGuid": "C82F1CF9-40F4F4F6-C4AD88B5-633F3521",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 424,
+    "SizeY": 424,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 719104,
+          "SizeOnDisk": 719104,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 424,
+        "SizeY": 424,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

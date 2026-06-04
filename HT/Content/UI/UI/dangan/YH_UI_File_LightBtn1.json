@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_File_LightBtn1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/dangan/YH_UI_File_LightBtn1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 564,
+        "Y": 84
+      },
+      "LightingGuid": "7CDBAF76-46F77CC9-C98B00B3-57BC8AFD",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 564,
+    "SizeY": 84,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 189504,
+          "SizeOnDisk": 189504,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 564,
+        "SizeY": 84,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

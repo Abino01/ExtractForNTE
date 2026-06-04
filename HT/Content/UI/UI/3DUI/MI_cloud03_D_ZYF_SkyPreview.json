@@ -1,0 +1,230 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_cloud03_D_ZYF_SkyPreview",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/3DUI/MI_cloud03_D_ZYF_SkyPreview",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'MM_CloudPrimitiveV2'",
+        "ObjectPath": "/Game/CoreMaterials/World/Unique/MM_CloudPrimitiveV2.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Highlight Contrast",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "402CBAFC-4973EAE5-48B63E9B-9DBB4B93"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Highlight Threshold",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.790138,
+          "ExpressionGUID": "44ACFC32-4C693872-348C2D93-7CCAA7B4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Highlight Falloff",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 2.449566,
+          "ExpressionGUID": "493F9133-47FB92FE-4BCBCEB1-C1A86BA6"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "NosieScale1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.001,
+          "ExpressionGUID": "DEAA51AE-4EFD844C-4E4FA696-59569C7B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "NosieScale2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.013,
+          "ExpressionGUID": "8EB148A0-47A0E1D5-AA9F50BE-F3229F19"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "BaseColorContrast",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.224,
+          "ExpressionGUID": "1B9489D6-4BEB5B5D-593D1589-51BB9085"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "FlowOffset",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -1.701175,
+          "ExpressionGUID": "00218443-4B4A2652-70200895-1155316A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotateSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.002,
+          "ExpressionGUID": "E3587166-4D7606FE-237B708C-4A543C90"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotateSpeedRandomize",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "33F6484B-469A9B67-7FC41482-36112405"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tillling_PanSpeed1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 2.351995,
+            "G": 3.143862,
+            "B": 0.24,
+            "A": 0.0,
+            "Hex": "FFFF86"
+          },
+          "ExpressionGUID": "C9992225-44193E41-794961B8-2E4C4C1F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tillling_PanSpeed2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 10.666815,
+            "G": 8.416289,
+            "B": -0.243512,
+            "A": -0.0,
+            "Hex": "FFFF00"
+          },
+          "ExpressionGUID": "C65A65B4-44785CBB-69F60F8B-EFD62AB4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "HighLightColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.53125,
+            "G": 0.53125,
+            "B": 0.53125,
+            "A": 1.0,
+            "Hex": "C1C1C1"
+          },
+          "ExpressionGUID": "41C77FB5-440E3E92-EBB8D990-9A667430"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "T",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_cloud03_D_ZYFV2'",
+            "ObjectPath": "/Game/Environment/Clouds/T_cloud03_D_ZYFV2.0"
+          },
+          "ExpressionGUID": "ECA8E8B9-4D14257B-635DDA8E-234623A2"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "CloseTod",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "F86EA68B-4ED4628A-0C854493-988D89E3"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "EnableDissovle",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "025BA17C-42E6CC06-A81A23B3-22D724B3"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "EnableWPOAndFlow",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "419AC9D6-46919F92-1505CCA1-6514F41B"
+          }
+        ]
+      },
+      "TextureStreamingData": [
+        {
+          "SamplingScale": 1.0,
+          "UVChannelIndex": 0,
+          "TextureName": "Black"
+        },
+        {
+          "SamplingScale": 0.9979248,
+          "UVChannelIndex": 0,
+          "TextureName": "T_cloud03_D_ZYFV2"
+        },
+        {
+          "SamplingScale": 2.359375,
+          "UVChannelIndex": 0,
+          "TextureName": "T_TilingNoise03"
+        }
+      ],
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

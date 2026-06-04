@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_RacingMainUI_Countdown_Bkg_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/Contest/UI_YH_RacingMainUI_Countdown_Bkg_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 136,
+        "Y": 36
+      },
+      "LightingGuid": "C00F7CE0-45E3C7C7-E155E3B6-C38168A8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 136,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4896,
+          "SizeOnDisk": 4896,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 136,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

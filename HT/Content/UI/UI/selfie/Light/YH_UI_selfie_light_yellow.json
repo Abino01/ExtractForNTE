@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_light_yellow",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/Light/YH_UI_selfie_light_yellow",
+    "Properties": {
+      "ImportedSize": {
+        "X": 240,
+        "Y": 224
+      },
+      "LightingGuid": "AC57C4D4-429EF953-0310B2A8-6CD7D98B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 240,
+    "SizeY": 224,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 215040,
+          "SizeOnDisk": 215040,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 240,
+        "SizeY": 224,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_decompose_purple",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Decompose/YH_UI_decompose_purple",
+    "Properties": {
+      "ImportedSize": {
+        "X": 520,
+        "Y": 160
+      },
+      "LightingGuid": "D8C26FD9-422C93D4-AF71F3B8-F654DA20",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 520,
+    "SizeY": 160,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 83200,
+          "SizeOnDisk": 83200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 520,
+        "SizeY": 160,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

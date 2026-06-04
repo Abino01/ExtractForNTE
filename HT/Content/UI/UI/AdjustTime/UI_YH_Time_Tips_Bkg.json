@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Time_Tips_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/AdjustTime/UI_YH_Time_Tips_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 238,
+        "Y": 52
+      },
+      "LightingGuid": "8EE46927-4998EBC9-323D63B3-080BF431",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 238,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 49504,
+          "SizeOnDisk": 49504,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 238,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

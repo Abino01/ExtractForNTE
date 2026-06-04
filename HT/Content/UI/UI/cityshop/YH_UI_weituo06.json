@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_weituo06",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/cityshop/YH_UI_weituo06",
+    "Properties": {
+      "ImportedSize": {
+        "X": 492,
+        "Y": 492
+      },
+      "LightingGuid": "25F2B86B-4C2FA09B-BA8DC8B7-429770F1",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 492,
+    "SizeY": 492,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 242064,
+          "SizeOnDisk": 242064,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 492,
+        "SizeY": 492,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

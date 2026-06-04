@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Bg_Pro_shenyu_collect",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Divination/award/YH_UI_Bg_Pro_shenyu_collect",
+    "Properties": {
+      "ImportedSize": {
+        "X": 68,
+        "Y": 48
+      },
+      "LightingGuid": "ED891CCD-4C8D17F8-B90A79B5-F3F22EAA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 68,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3264,
+          "SizeOnDisk": 3264,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 68,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

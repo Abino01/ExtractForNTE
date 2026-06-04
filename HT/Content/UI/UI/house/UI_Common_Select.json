@@ -1,0 +1,148 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_Common_Select",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/house/UI_Common_Select",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'UI_Main_01'",
+        "ObjectPath": "/Game/UI/UI/UI_Main_01.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Flashing Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "B1A1BCDD-4198DC9A-11836BA5-7F719EA6"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Float Range",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "B56C5993-4B20DDB0-0FDA279F-D3C4979B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Float Speed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "9DEAFCEF-4883306C-BAF58F84-E45C41AD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "OpacityPower",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "FDD5C5AA-4F57B6AF-3404E583-AB03E395"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed_V",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.999789,
+          "ExpressionGUID": "3FA44182-4C248713-62786E9D-8E7A14C8"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "E28438B1-419A2B03-B5121A95-490872B0"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex_01",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'select-bg'",
+            "ObjectPath": "/Game/UI/UI/house/select-bg.0"
+          },
+          "ExpressionGUID": "78F03A28-468DDB8E-40FB98A8-8C19FA2E"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Float Switch",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "F40D6391-4BEBF729-16B3F295-7C8E4566"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "Float(LR)",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "05AAD792-482FE579-F8BC8E8C-E08AF4A6"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Use_OpacityPower",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "EF8DDFBB-4609107D-1FA278BB-2253F5BD"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

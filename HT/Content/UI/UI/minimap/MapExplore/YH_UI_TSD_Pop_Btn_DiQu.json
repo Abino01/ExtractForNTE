@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TSD_Pop_Btn_DiQu",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/YH_UI_TSD_Pop_Btn_DiQu",
+    "Properties": {
+      "ImportedSize": {
+        "X": 80,
+        "Y": 94
+      },
+      "LightingGuid": "C40254CE-4E29B48E-486F5081-A51D702F",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 80,
+    "SizeY": 94,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 30080,
+          "SizeOnDisk": 30080,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 80,
+        "SizeY": 94,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

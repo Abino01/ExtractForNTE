@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_information_card_show_option_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PlayerInfo/BusinessCards/YH_UI_bg_information_card_show_option_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 320,
+        "Y": 244
+      },
+      "LightingGuid": "BAB6FB1E-4CB85CF6-FECBF8BD-DFC63A3A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 320,
+    "SizeY": 244,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 312320,
+          "SizeOnDisk": 312320,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 320,
+        "SizeY": 244,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_YinY_NameOrnament",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YH_YinY_NameOrnament",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1060,
+        "Y": 152
+      },
+      "LightingGuid": "D5D986AF-4BFA5A8C-313FA090-A6767A81",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1060,
+    "SizeY": 152,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 161120,
+          "SizeOnDisk": 161120,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1060,
+        "SizeY": 152,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

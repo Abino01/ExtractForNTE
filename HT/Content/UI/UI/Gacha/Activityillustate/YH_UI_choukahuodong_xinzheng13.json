@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_choukahuodong_xinzheng13",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/Activityillustate/YH_UI_choukahuodong_xinzheng13",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2560,
+        "Y": 1384
+      },
+      "LightingGuid": "59479BDA-432E69C8-01AC4F89-C49D361C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 2560,
+    "SizeY": 1384,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3543040,
+          "SizeOnDisk": 3543040,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 2560,
+        "SizeY": 1384,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_Bag_kuaijie_kuang_4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/QuickUse/YH_Bag_kuaijie_kuang_4",
+    "Properties": {
+      "ImportedSize": {
+        "X": 72,
+        "Y": 72
+      },
+      "LightingGuid": "680BB28A-4E8D1415-C4C909A8-6CB34EFD",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 72,
+    "SizeY": 72,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5184,
+          "SizeOnDisk": 5184,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 72,
+        "SizeY": 72,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_tongxingzheng02_renwudi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CombatAward/YH_UI_tongxingzheng02_renwudi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1164,
+        "Y": 132
+      },
+      "LightingGuid": "6AF109AB-4495791D-4FA97CB2-D6A65603",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1164,
+    "SizeY": 132,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 153648,
+          "SizeOnDisk": 153648,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1164,
+        "SizeY": 132,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

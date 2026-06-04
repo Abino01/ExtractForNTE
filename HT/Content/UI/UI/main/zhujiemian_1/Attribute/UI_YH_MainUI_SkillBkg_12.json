@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_MainUI_SkillBkg_12",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/zhujiemian_1/Attribute/UI_YH_MainUI_SkillBkg_12",
+    "Properties": {
+      "ImportedSize": {
+        "X": 800,
+        "Y": 576
+      },
+      "LightingGuid": "9EBA230F-48DD6094-E723D588-6F308ED0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 800,
+    "SizeY": 576,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 460800,
+          "SizeOnDisk": 460800,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 800,
+        "SizeY": 576,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_ui_paimai_Ebisudi_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/paimai/YH_ui_paimai_Ebisudi_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 720,
+        "Y": 800
+      },
+      "LightingGuid": "B4463D61-400D9647-F50A96B4-B5EAF31B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 720,
+    "SizeY": 800,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 576000,
+          "SizeOnDisk": 576000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 720,
+        "SizeY": 800,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "Type": "BPUI_CommonProgressSlot_C",
+    "Name": "Default__BPUI_CommonProgressSlot_C",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "WidgetBlueprintGeneratedClass'/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.BPUI_CommonProgressSlot_C'",
+    "Package": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot",
+    "Properties": {
+      "NormalColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "GreenColor": {
+        "R": 0.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "00FF00"
+      },
+      "YellowColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFF00"
+      },
+      "RedColor": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF0000"
+      },
+      "bHasScriptImplementedTick": false,
+      "bHasScriptImplementedPaint": false
+    }
+  },
+  {
+    "Type": "CanvasPanel",
+    "Name": "CanvasPanel_48",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CanvasPanel'",
+    "Outer": {
+      "ObjectName": "WidgetTree'BPUI_CommonProgressSlot_C:WidgetTree'",
+      "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.7"
+    },
+    "Properties": {
+      "Slots": [
+        {
+          "ObjectName": "CanvasPanelSlot'BPUI_CommonProgressSlot_C:WidgetTree.CanvasPanel_48.CanvasPanelSlot_1'",
+          "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.2"
+        },
+        {
+          "ObjectName": "CanvasPanelSlot'BPUI_CommonProgressSlot_C:WidgetTree.CanvasPanel_48.CanvasPanelSlot_2'",
+          "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.3"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "CanvasPanelSlot",
+    "Name": "CanvasPanelSlot_1",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CanvasPanelSlot'",
+    "Outer": {
+      "ObjectName": "CanvasPanel'BPUI_CommonProgressSlot_C:WidgetTree.CanvasPanel_48'",
+      "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.1"
+    },
+    "Properties": {
+      "LayoutData": {
+        "Offsets": {
+          "Right": 12.0,
+          "Bottom": 40.0
+        }
+      },
+      "Parent": {
+        "ObjectName": "CanvasPanel'BPUI_CommonProgressSlot_C:WidgetTree.CanvasPanel_48'",
+        "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.1"
+      },
+      "Content": {
+        "ObjectName": "Image'BPUI_CommonProgressSlot_C:WidgetTree.Image_55'",
+        "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.4"
+      }
+    }
+  },
+  {
+    "Type": "CanvasPanelSlot",
+    "Name": "CanvasPanelSlot_2",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CanvasPanelSlot'",
+    "Outer": {
+      "ObjectName": "CanvasPanel'BPUI_CommonProgressSlot_C:WidgetTree.CanvasPanel_48'",
+      "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.1"
+    },
+    "Properties": {
+      "LayoutData": {
+        "Offsets": {
+          "Right": 10.0,
+          "Bottom": 40.0
+        }
+      },
+      "Parent": {
+        "ObjectName": "CanvasPanel'BPUI_CommonProgressSlot_C:WidgetTree.CanvasPanel_48'",
+        "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.1"
+      },
+      "Content": {
+        "ObjectName": "Image'BPUI_CommonProgressSlot_C:WidgetTree.ImgItemIcon'",
+        "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.5"
+      }
+    }
+  },
+  {
+    "Type": "Image",
+    "Name": "Image_55",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Image'",
+    "Outer": {
+      "ObjectName": "WidgetTree'BPUI_CommonProgressSlot_C:WidgetTree'",
+      "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.7"
+    },
+    "Properties": {
+      "Brush": {
+        "TintColor": {
+          "SpecifiedColor": {
+            "R": 0.268478,
+            "G": 0.159044,
+            "B": 0.159044,
+            "A": 1.0,
+            "Hex": "8E6F6F"
+          }
+        }
+      },
+      "Slot": {
+        "ObjectName": "CanvasPanelSlot'BPUI_CommonProgressSlot_C:WidgetTree.CanvasPanel_48.CanvasPanelSlot_1'",
+        "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.2"
+      }
+    }
+  },
+  {
+    "Type": "Image",
+    "Name": "ImgItemIcon",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Image'",
+    "Outer": {
+      "ObjectName": "WidgetTree'BPUI_CommonProgressSlot_C:WidgetTree'",
+      "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.7"
+    },
+    "Properties": {
+      "Slot": {
+        "ObjectName": "CanvasPanelSlot'BPUI_CommonProgressSlot_C:WidgetTree.CanvasPanel_48.CanvasPanelSlot_2'",
+        "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.3"
+      }
+    }
+  },
+  {
+    "Type": "WidgetBlueprintGeneratedClass",
+    "Name": "BPUI_CommonProgressSlot_C",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'WidgetBlueprintGeneratedClass'",
+    "Package": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot",
+    "Properties": {
+      "WidgetTree": {
+        "ObjectName": "WidgetTree'BPUI_CommonProgressSlot_C:WidgetTree'",
+        "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.7"
+      },
+      "bClassRequiresNativeTick": true
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'HTUI_CommonProgressSlot'",
+      "ObjectPath": "/Script/HTGame"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "Image_55",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | ExportObject | BlueprintReadOnly | DisableEditOnInstance | InstancedReference | RepSkip | PersistentInstance",
+        "PropertyClass": {
+          "ObjectName": "Class'Image'",
+          "ObjectPath": "/Script/UMG"
+        }
+      }
+    ],
+    "ClassFlags": "CLASS_EditInlineNew | CLASS_CompiledFromBlueprint | CLASS_DefaultToInstanced | CLASS_HasInstancedReference",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "BPUI_CommonProgressSlot_C'Default__BPUI_CommonProgressSlot_C'",
+      "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.0"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "WidgetTree",
+    "Name": "WidgetTree",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'WidgetTree'",
+    "Outer": {
+      "ObjectName": "WidgetBlueprintGeneratedClass'BPUI_CommonProgressSlot_C'",
+      "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.6"
+    },
+    "Properties": {
+      "RootWidget": {
+        "ObjectName": "CanvasPanel'BPUI_CommonProgressSlot_C:WidgetTree.CanvasPanel_48'",
+        "ObjectPath": "/Game/UI/UI/CommonProgressBar/BPUI_CommonProgressSlot.1"
+      }
+    }
+  }
+]

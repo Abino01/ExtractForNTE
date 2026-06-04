@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_mainui_chatline_01",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/dialogue/UI_mainui_chatline_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1170,
+        "Y": 14
+      },
+      "LightingGuid": "60372A36-4A72BCB9-2C144CB6-448E074E",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1170,
+    "SizeY": 14,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 65520,
+          "SizeOnDisk": 65520,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1170,
+        "SizeY": 14,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

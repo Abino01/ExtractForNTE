@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_BulletBox_Level2_CloseBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/Butten/UI_BulletBox_Level2_CloseBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 96,
+        "Y": 96
+      },
+      "LightingGuid": "AEA846CE-40D0F126-2FBA62AF-727A0F57",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 96,
+    "SizeY": 96,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9216,
+          "SizeOnDisk": 9216,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 96,
+        "SizeY": 96,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Animation_ticket_Left",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Transitions/UI_YH_Us_Animation_ticket_Left",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1087,
+        "Y": 603
+      },
+      "LightingGuid": "57C9B28A-4FEC021A-F3F7D7B9-12EE6011",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1087,
+    "SizeY": 603,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2621844,
+          "SizeOnDisk": 2621844,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1087,
+        "SizeY": 603,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

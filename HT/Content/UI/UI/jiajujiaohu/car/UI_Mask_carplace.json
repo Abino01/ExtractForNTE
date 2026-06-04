@@ -1,0 +1,105 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_Mask_carplace",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/jiajujiaohu/car/UI_Mask_carplace",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'UI_Mat_Mask'",
+        "ObjectPath": "/Game/UI/UI_Effect/UIMaterial/Base/UI_Mat_Mask.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_Scale",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.3,
+          "ExpressionGUID": "3DBC8F9E-4D3A519A-A4E50698-BD6C770F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_U",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.16,
+          "ExpressionGUID": "C77ACABE-4731D775-0970CAA7-976EEB35"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_V",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.056,
+          "ExpressionGUID": "12A0367C-45E0DB89-DA82B3B2-FB10F8C6"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex_Base",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Mask_12'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask_12.0"
+          },
+          "ExpressionGUID": "39C0C6AB-4D1F6128-FF23DB95-62801E63"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_car_ICON01'",
+            "ObjectPath": "/Game/UI/UI/Vehicle/icon/YH_UI_car_ICON01.0"
+          },
+          "ExpressionGUID": "517BC9BF-433E35C3-E738238C-0791A517"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "CloseRepeat_1",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "753EA87F-43362552-99BB08B9-134DE6EC"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

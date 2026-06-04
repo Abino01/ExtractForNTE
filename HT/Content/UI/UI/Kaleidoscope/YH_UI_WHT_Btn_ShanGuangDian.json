@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_WHT_Btn_ShanGuangDian",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Kaleidoscope/YH_UI_WHT_Btn_ShanGuangDian",
+    "Properties": {
+      "ImportedSize": {
+        "X": 96,
+        "Y": 96
+      },
+      "LightingGuid": "4DB74B32-4A924E46-611DA4B5-AED3294B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 96,
+    "SizeY": 96,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9216,
+          "SizeOnDisk": 9216,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 96,
+        "SizeY": 96,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

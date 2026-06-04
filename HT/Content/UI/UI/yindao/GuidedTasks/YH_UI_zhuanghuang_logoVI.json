@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_zhuanghuang_logoVI",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/yindao/GuidedTasks/YH_UI_zhuanghuang_logoVI",
+    "Properties": {
+      "ImportedSize": {
+        "X": 252,
+        "Y": 252
+      },
+      "LightingGuid": "E1CC89E1-4F13574E-E1284CA9-93F523C3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 252,
+    "SizeY": 252,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 63504,
+          "SizeOnDisk": 63504,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 252,
+        "SizeY": 252,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

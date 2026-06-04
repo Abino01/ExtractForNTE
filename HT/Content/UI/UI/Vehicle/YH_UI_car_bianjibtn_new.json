@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_car_bianjibtn_new",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/YH_UI_car_bianjibtn_new",
+    "Properties": {
+      "ImportedSize": {
+        "X": 326,
+        "Y": 160
+      },
+      "LightingGuid": "9D212AEB-43E16063-F7F66FB7-DEE1B797",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 326,
+    "SizeY": 160,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 208640,
+          "SizeOnDisk": 208640,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 326,
+        "SizeY": 160,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

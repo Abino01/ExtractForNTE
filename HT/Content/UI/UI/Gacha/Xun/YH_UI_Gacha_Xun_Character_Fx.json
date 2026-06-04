@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Gacha_Xun_Character_Fx",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/Xun/YH_UI_Gacha_Xun_Character_Fx",
+    "Properties": {
+      "ImportedSize": {
+        "X": 580,
+        "Y": 1000
+      },
+      "LightingGuid": "CC148683-468ADF65-4CF3C2B2-23350923",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 580,
+    "SizeY": 1000,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 580000,
+          "SizeOnDisk": 580000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 580,
+        "SizeY": 1000,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

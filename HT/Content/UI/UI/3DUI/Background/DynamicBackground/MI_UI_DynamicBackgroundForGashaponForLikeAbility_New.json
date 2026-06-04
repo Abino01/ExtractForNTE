@@ -1,0 +1,129 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_UI_DynamicBackgroundForGashaponForLikeAbility_New",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/3DUI/Background/DynamicBackground/MI_UI_DynamicBackgroundForGashaponForLikeAbility_New",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'MI_UI_DynamicBackgroundForGashaponForLikeAbility_New_Material'",
+        "ObjectPath": "/Game/UI/UI/3DUI/Background/DynamicBackground/MI_UI_DynamicBackgroundForGashaponForLikeAbility_New_Material.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Speed1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.05,
+          "ExpressionGUID": "25AE3939-44E648C9-31223485-E90282DD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.05,
+          "ExpressionGUID": "C3548398-49A4DDDC-F74E4986-E18AF5DC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed3",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.05,
+          "ExpressionGUID": "C59E2E9D-4F45C154-C270E78B-9FD2B043"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed4",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.05,
+          "ExpressionGUID": "F9B4143E-49D3D405-D38F0A8C-6A89965D"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed5",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.05,
+          "ExpressionGUID": "5E9B3B8F-4CD79C6D-52BA9D9B-A782F72B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Speed6",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": -0.05,
+          "ExpressionGUID": "75E5999C-49E58292-809E9D99-E131E4AA"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Transparency",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "FB6743A6-4F8399CE-632BF7A0-B17C531E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UV_Scale_Offset",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.416,
+            "G": 0.2,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "AD7C00"
+          },
+          "ExpressionGUID": "035870E2-4C8D06E0-0C85EA8D-EF8785E5"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Texture",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UIBG8_New'",
+            "ObjectPath": "/Game/UI/UI/3DUI/Background/UIBG8_New.0"
+          },
+          "ExpressionGUID": "325CEF67-425CD04E-5726BEAC-92EDBCE3"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

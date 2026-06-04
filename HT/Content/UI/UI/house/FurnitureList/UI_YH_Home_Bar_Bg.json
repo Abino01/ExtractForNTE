@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Home_Bar_Bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/FurnitureList/UI_YH_Home_Bar_Bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 24
+      },
+      "LightingGuid": "81A996A6-4CAD8CC9-7200BFB1-BD3B3DD0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 24,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2400,
+          "SizeOnDisk": 2400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 100,
+        "SizeY": 24,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

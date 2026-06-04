@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DiTuPop_LeftBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/minimapUIAssets/YH_UI_DiTuPop_LeftBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 300,
+        "Y": 160
+      },
+      "LightingGuid": "741A5D56-47A3D9D2-E2BC94AF-C4C671B1",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 300,
+    "SizeY": 160,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 48000,
+          "SizeOnDisk": 48000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 300,
+        "SizeY": 160,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yingdao_btn_new",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/Butten/YH_UI_yingdao_btn_new",
+    "Properties": {
+      "ImportedSize": {
+        "X": 184,
+        "Y": 72
+      },
+      "LightingGuid": "A2E8A961-4CA3C807-2EA0ECA6-5FC21F4A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 184,
+    "SizeY": 72,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 13248,
+          "SizeOnDisk": 13248,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 184,
+        "SizeY": 72,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Interaction_01_Normal_Unloack",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/new/UI_YH_Bond_Interaction_01_Normal_Unloack",
+    "Properties": {
+      "ImportedSize": {
+        "X": 520,
+        "Y": 260
+      },
+      "LightingGuid": "08F7A4A0-42668C49-ABE8FB92-DD7FAFDF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 520,
+    "SizeY": 260,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 135200,
+          "SizeOnDisk": 135200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 520,
+        "SizeY": 260,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

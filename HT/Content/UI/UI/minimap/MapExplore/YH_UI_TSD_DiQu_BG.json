@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TSD_DiQu_BG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/YH_UI_TSD_DiQu_BG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 588,
+        "Y": 340
+      },
+      "LightingGuid": "12CCAA28-4D383AE3-1BAC84B7-21C68252",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 588,
+    "SizeY": 340,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 199920,
+          "SizeOnDisk": 199920,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 588,
+        "SizeY": 340,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Animation_Bg1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Transitions/UI_YH_Us_Animation_Bg1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1920,
+        "Y": 230
+      },
+      "LightingGuid": "5DCB4BE2-46D8BE3C-03D8928A-5044EE78",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1920,
+    "SizeY": 230,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1766400,
+          "SizeOnDisk": 1766400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1920,
+        "SizeY": 230,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

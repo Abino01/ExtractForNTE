@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_Bar",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/YH_UI_bg_Bar",
+    "Properties": {
+      "ImportedSize": {
+        "X": 64,
+        "Y": 34
+      },
+      "LightingGuid": "6B69847D-4F2BD518-28CE2FB7-D3905E40",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 64,
+    "SizeY": 34,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8704,
+          "SizeOnDisk": 8704,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 64,
+        "SizeY": 34,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

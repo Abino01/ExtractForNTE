@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SWM_Start_7",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/OnLine/YH_UI_SWM_Start_7",
+    "Properties": {
+      "ImportedSize": {
+        "X": 508,
+        "Y": 92
+      },
+      "LightingGuid": "BAE5F65B-43397F84-71D611B5-0F06613B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 508,
+    "SizeY": 92,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 46736,
+          "SizeOnDisk": 46736,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 508,
+        "SizeY": 92,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

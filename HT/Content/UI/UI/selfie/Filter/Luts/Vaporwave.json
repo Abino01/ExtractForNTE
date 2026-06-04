@@ -1,0 +1,72 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Vaporwave",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/Filter/Luts/Vaporwave",
+    "Properties": {
+      "AddressX": "TextureAddress::TA_Clamp",
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 256,
+        "Y": 16
+      },
+      "LightingGuid": "4D53C86E-4586325E-95CA36B7-42FCF5C4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_ColorLookupTable",
+      "SRGB": false
+    },
+    "SizeX": 256,
+    "SizeY": 16,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 16384,
+          "SizeOnDisk": 16384,
+          "OffsetInFile": "0x7A"
+        },
+        "SizeX": 256,
+        "SizeY": 16,
+        "SizeZ": 1
+      }
+    ]
+  },
+  {
+    "Type": "Texture2D",
+    "Name": "Vaporwave_LUT__13",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/Filter/Luts/Vaporwave",
+    "Properties": {
+      "ImportedSize": {
+        "X": 256,
+        "Y": 16
+      },
+      "LightingGuid": "F377B22C-4786AD7F-F2F66D9C-C66C5CC8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_ColorLookupTable",
+      "SRGB": false
+    },
+    "SizeX": 256,
+    "SizeY": 16,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 16384,
+          "SizeOnDisk": 16384,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 256,
+        "SizeY": 16,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

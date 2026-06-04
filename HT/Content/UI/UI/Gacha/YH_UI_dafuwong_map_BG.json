@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_dafuwong_map_BG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_dafuwong_map_BG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1496,
+        "Y": 1000
+      },
+      "LightingGuid": "25BC747F-4A32ACFB-D60BD083-1CA778F9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1496,
+    "SizeY": 1000,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1496000,
+          "SizeOnDisk": 1496000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1496,
+        "SizeY": 1000,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

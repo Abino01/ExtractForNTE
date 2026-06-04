@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_popo",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/BedSleep/YH_UI_popo",
+    "Properties": {
+      "ImportedSize": {
+        "X": 248,
+        "Y": 172
+      },
+      "LightingGuid": "7EE97895-469439B8-EE85B893-5F15E902",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 248,
+    "SizeY": 172,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 42656,
+          "SizeOnDisk": 42656,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 248,
+        "SizeY": 172,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

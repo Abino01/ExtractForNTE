@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Chengjiu_biaoti_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Achievement/YH_UI_Chengjiu_biaoti_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 451,
+        "Y": 146
+      },
+      "LightingGuid": "38AD8CA5-4636EADB-C28F9387-9B74766D",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 451,
+    "SizeY": 146,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 263384,
+          "SizeOnDisk": 263384,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 451,
+        "SizeY": 146,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

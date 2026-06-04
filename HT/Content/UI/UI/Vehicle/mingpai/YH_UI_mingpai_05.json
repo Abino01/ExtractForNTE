@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_mingpai_05",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/mingpai/YH_UI_mingpai_05",
+    "Properties": {
+      "ImportedSize": {
+        "X": 376,
+        "Y": 124
+      },
+      "LightingGuid": "0DA8EBEC-4BAF18E7-88EADCA4-FB7ED30E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 376,
+    "SizeY": 124,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 46624,
+          "SizeOnDisk": 46624,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 376,
+        "SizeY": 124,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

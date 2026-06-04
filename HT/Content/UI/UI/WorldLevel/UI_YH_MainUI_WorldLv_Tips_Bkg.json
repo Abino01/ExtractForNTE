@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_MainUI_WorldLv_Tips_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/WorldLevel/UI_YH_MainUI_WorldLv_Tips_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 256,
+        "Y": 64
+      },
+      "LightingGuid": "093DCDAD-4A90614A-8C649DAA-5672340B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI"
+    },
+    "SizeX": 256,
+    "SizeY": 64,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 16384,
+          "SizeOnDisk": 16384,
+          "OffsetInFile": "0x71"
+        },
+        "SizeX": 256,
+        "SizeY": 64,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

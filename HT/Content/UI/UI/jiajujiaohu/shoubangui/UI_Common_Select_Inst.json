@@ -1,0 +1,50 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_Common_Select_Inst",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/jiajujiaohu/shoubangui/UI_Common_Select_Inst",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "MaterialInstanceConstant'UI_Common_Select'",
+        "ObjectPath": "/Game/UI/UI/house/UI_Common_Select.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex_01",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'shoubangui_bg'",
+            "ObjectPath": "/Game/UI/UI/jiajujiaohu/shoubangui/shoubangui_bg.0"
+          },
+          "ExpressionGUID": "78F03A28-468DDB8E-40FB98A8-8C19FA2E"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_img_invitation_fish_black",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ChaseQuest/YH_UI_img_invitation_fish_black",
+    "Properties": {
+      "ImportedSize": {
+        "X": 440,
+        "Y": 440
+      },
+      "LightingGuid": "2363FB32-4686FAF6-B3AB1EA0-3F5D23F3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 440,
+    "SizeY": 440,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 193600,
+          "SizeOnDisk": 193600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 440,
+        "SizeY": 440,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

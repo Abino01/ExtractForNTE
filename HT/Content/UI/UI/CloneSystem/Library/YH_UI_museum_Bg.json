@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_museum_Bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Library/YH_UI_museum_Bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 700,
+        "Y": 1024
+      },
+      "LightingGuid": "06CD3757-44BC4642-3E821E94-AB4440CB",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 700,
+    "SizeY": 1024,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 716800,
+          "SizeOnDisk": 716800,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 700,
+        "SizeY": 1024,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

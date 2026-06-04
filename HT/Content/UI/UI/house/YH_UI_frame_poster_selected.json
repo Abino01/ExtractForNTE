@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_frame_poster_selected",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/YH_UI_frame_poster_selected",
+    "Properties": {
+      "ImportedSize": {
+        "X": 192,
+        "Y": 245
+      },
+      "LightingGuid": "EA538BAC-42056CA6-9E4871AD-EDA685E7",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 192,
+    "SizeY": 245,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 188160,
+          "SizeOnDisk": 188160,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 192,
+        "SizeY": 245,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

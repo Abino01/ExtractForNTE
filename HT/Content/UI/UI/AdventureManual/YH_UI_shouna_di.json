@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shouna_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/AdventureManual/YH_UI_shouna_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 38,
+        "Y": 604
+      },
+      "LightingGuid": "E60B6715-4103D679-1E8CDD8F-34F2A554",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 38,
+    "SizeY": 604,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 91808,
+          "SizeOnDisk": 91808,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 38,
+        "SizeY": 604,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

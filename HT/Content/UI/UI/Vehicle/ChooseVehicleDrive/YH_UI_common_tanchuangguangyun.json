@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_common_tanchuangguangyun",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/ChooseVehicleDrive/YH_UI_common_tanchuangguangyun",
+    "Properties": {
+      "ImportedSize": {
+        "X": 598,
+        "Y": 84
+      },
+      "LightingGuid": "B5D9A0AE-467D154A-268FF19E-CAA49518",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 598,
+    "SizeY": 84,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 200928,
+          "SizeOnDisk": 200928,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 598,
+        "SizeY": 84,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Interaction_City_Details_Lock_Button02_Unlock",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/new/cityouyu/UI_YH_Bond_Interaction_City_Details_Lock_Button02_Unlock",
+    "Properties": {
+      "ImportedSize": {
+        "X": 304,
+        "Y": 76
+      },
+      "LightingGuid": "554A6A01-46F27DB6-970FC9B5-6EDA6620",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 304,
+    "SizeY": 76,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 23104,
+          "SizeOnDisk": 23104,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 304,
+        "SizeY": 76,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

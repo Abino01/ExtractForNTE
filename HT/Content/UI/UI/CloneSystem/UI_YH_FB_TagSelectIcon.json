@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_FB_TagSelectIcon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/UI_YH_FB_TagSelectIcon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 34,
+        "Y": 32
+      },
+      "LightingGuid": "77C85B51-4D1213C0-21B21BBC-0C5B9EE1",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 34,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4352,
+          "SizeOnDisk": 4352,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 34,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

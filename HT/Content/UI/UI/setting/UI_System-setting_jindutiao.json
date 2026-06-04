@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_System-setting_jindutiao",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/setting/UI_System-setting_jindutiao",
+    "Properties": {
+      "ImportedSize": {
+        "X": 312,
+        "Y": 16
+      },
+      "LightingGuid": "FA2437F6-4ED04902-FDC8089D-33EBC8C4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 312,
+    "SizeY": 16,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4992,
+          "SizeOnDisk": 4992,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 312,
+        "SizeY": 16,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

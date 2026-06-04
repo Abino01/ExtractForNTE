@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TSD_Pop_JDT02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/YH_UI_TSD_Pop_JDT02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1356,
+        "Y": 36
+      },
+      "LightingGuid": "88808E33-4E876BBD-DB18B592-E9E5C72B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1356,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 48816,
+          "SizeOnDisk": 48816,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1356,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

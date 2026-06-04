@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_YinY_PingJia_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YH_YinY_PingJia_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1040,
+        "Y": 900
+      },
+      "LightingGuid": "69DFC3BC-427D463C-F9248C9E-28705F25",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1040,
+    "SizeY": 900,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 936000,
+          "SizeOnDisk": 936000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1040,
+        "SizeY": 900,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

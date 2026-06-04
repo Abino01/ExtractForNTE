@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_TakePhotos_Task_Button_On",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/SelfieActivity/UI_YH_TakePhotos_Task_Button_On",
+    "Properties": {
+      "ImportedSize": {
+        "X": 168,
+        "Y": 168
+      },
+      "LightingGuid": "16332210-49AE624F-5CB054B9-3E81B10A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 168,
+    "SizeY": 168,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 28224,
+          "SizeOnDisk": 28224,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 168,
+        "SizeY": 168,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_TSZN_Training_Logo",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/AdventureManual/UI_YH_TSZN_Training_Logo",
+    "Properties": {
+      "ImportedSize": {
+        "X": 472,
+        "Y": 472
+      },
+      "LightingGuid": "A716DA4F-4A467706-807973A2-E18E8402",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 472,
+    "SizeY": 472,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 222784,
+          "SizeOnDisk": 222784,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 472,
+        "SizeY": 472,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

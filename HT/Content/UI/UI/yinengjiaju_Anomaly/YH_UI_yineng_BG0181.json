@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yineng_BG0181",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/yinengjiaju_Anomaly/YH_UI_yineng_BG0181",
+    "Properties": {
+      "ImportedSize": {
+        "X": 995,
+        "Y": 995
+      },
+      "LightingGuid": "AC566DDF-461BA8AB-3A8AF6B9-6DE3BE5B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 995,
+    "SizeY": 995,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3960100,
+          "SizeOnDisk": 3960100,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 995,
+        "SizeY": 995,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

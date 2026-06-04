@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_prerogative_leveltab1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/TycoonRight/YH_UI_prerogative_leveltab1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 180,
+        "Y": 44
+      },
+      "LightingGuid": "8F383663-46D1D05F-3565ED86-8DF4BE2C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 180,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7920,
+          "SizeOnDisk": 7920,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 180,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

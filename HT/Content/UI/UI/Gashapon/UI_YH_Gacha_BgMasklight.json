@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Gacha_BgMasklight",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gashapon/UI_YH_Gacha_BgMasklight",
+    "Properties": {
+      "ImportedSize": {
+        "X": 42,
+        "Y": 493
+      },
+      "LightingGuid": "42B4EA41-4EC10754-25DDF991-04D0EA38",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 42,
+    "SizeY": 493,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 82824,
+          "SizeOnDisk": 82824,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 42,
+        "SizeY": 493,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

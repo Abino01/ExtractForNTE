@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Interaction_City_Details_024_01_Lock",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/new/cityouyu/fengmian/Gongce1_0/UI_YH_Bond_Interaction_City_Details_024_01_Lock",
+    "Properties": {
+      "ImportedSize": {
+        "X": 912,
+        "Y": 676
+      },
+      "LightingGuid": "348FD994-48312346-D1850181-0C654881",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 912,
+    "SizeY": 676,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 616512,
+          "SizeOnDisk": 616512,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 912,
+        "SizeY": 676,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

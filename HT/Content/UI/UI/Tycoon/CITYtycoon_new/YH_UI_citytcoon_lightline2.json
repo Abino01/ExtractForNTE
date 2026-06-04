@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_citytcoon_lightline2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/CITYtycoon_new/YH_UI_citytcoon_lightline2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 700,
+        "Y": 356
+      },
+      "LightingGuid": "9490F771-4308B4AF-264A62AF-9D3F23D6",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 700,
+    "SizeY": 356,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 249200,
+          "SizeOnDisk": 249200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 700,
+        "SizeY": 356,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

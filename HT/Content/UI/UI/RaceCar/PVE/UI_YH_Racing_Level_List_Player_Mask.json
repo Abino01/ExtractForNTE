@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Level_List_Player_Mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVE/UI_YH_Racing_Level_List_Player_Mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 148,
+        "Y": 288
+      },
+      "LightingGuid": "1C5DA61E-4D99D4F2-5AF29DB5-75432826",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 148,
+    "SizeY": 288,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 21312,
+          "SizeOnDisk": 21312,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 148,
+        "SizeY": 288,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

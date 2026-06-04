@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_zhezhao",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/YH_UI_zhezhao",
+    "Properties": {
+      "ImportedSize": {
+        "X": 900,
+        "Y": 506
+      },
+      "LightingGuid": "1AAF3EDE-4D71C50E-833837A2-E3424176",
+      "CompressionSettings": "TextureCompressionSettings::TC_VectorDisplacementmap",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 900,
+    "SizeY": 506,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1821600,
+          "SizeOnDisk": 1821600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 900,
+        "SizeY": 506,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_ui_paimai_jingbiao_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/paimai/YH_ui_paimai_jingbiao_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 434,
+        "Y": 86
+      },
+      "LightingGuid": "4B246ED6-4D31DF7C-E2823B94-CEF4967E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 434,
+    "SizeY": 86,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 149296,
+          "SizeOnDisk": 149296,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 434,
+        "SizeY": 86,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

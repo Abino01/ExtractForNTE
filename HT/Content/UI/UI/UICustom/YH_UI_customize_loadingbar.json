@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_customize_loadingbar",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/UICustom/YH_UI_customize_loadingbar",
+    "Properties": {
+      "ImportedSize": {
+        "X": 480,
+        "Y": 10
+      },
+      "LightingGuid": "11445080-4A88D301-B01DE0B7-51E0BBA0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 480,
+    "SizeY": 10,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 19200,
+          "SizeOnDisk": 19200,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 480,
+        "SizeY": 10,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

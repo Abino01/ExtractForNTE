@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_xiaohaoping_HP",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/consumeItem/UI_YH_xiaohaoping_HP",
+    "Properties": {
+      "ImportedSize": {
+        "X": 118,
+        "Y": 10
+      },
+      "LightingGuid": "5E3B1552-4094BB4D-018864AB-56AD676A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 118,
+    "SizeY": 10,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4720,
+          "SizeOnDisk": 4720,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 118,
+        "SizeY": 10,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

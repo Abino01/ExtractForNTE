@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Curve_Bgline1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Main/UI_YH_Us_Curve_Bgline1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 200,
+        "Y": 132
+      },
+      "LightingGuid": "A99D8AB3-43B3FAE7-BADAA081-C1F87F7F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 200,
+    "SizeY": 132,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 26400,
+          "SizeOnDisk": 26400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 200,
+        "SizeY": 132,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

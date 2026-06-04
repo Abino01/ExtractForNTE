@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Shoppingmall_ntezhuanshi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/AppearanceShop/UI_YH_Shoppingmall_ntezhuanshi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 104,
+        "Y": 28
+      },
+      "LightingGuid": "E6ADF94D-4603EE34-87CAA993-F6A8C17D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 104,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2912,
+          "SizeOnDisk": 2912,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 104,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

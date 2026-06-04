@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_dafuwong_map_shengjiicon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_dafuwong_map_shengjiicon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 48,
+        "Y": 68
+      },
+      "LightingGuid": "C7B3CB90-498B5BC9-6F1422AD-5D5C418D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 48,
+    "SizeY": 68,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3264,
+          "SizeOnDisk": 3264,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 48,
+        "SizeY": 68,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

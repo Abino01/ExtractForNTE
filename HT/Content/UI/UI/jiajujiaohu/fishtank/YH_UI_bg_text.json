@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_text",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/jiajujiaohu/fishtank/YH_UI_bg_text",
+    "Properties": {
+      "ImportedSize": {
+        "X": 220,
+        "Y": 36
+      },
+      "LightingGuid": "384455FD-433D5FA6-E8100C97-50964B24",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 220,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7920,
+          "SizeOnDisk": 7920,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 220,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

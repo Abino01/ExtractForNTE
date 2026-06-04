@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shizhuang_Hide_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Appearance/YH_UI_shizhuang_Hide_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 40,
+        "Y": 40
+      },
+      "LightingGuid": "0323600C-4FAEA16F-A2C9ABA2-9D7D58A8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 40,
+    "SizeY": 40,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1600,
+          "SizeOnDisk": 1600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 40,
+        "SizeY": 40,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

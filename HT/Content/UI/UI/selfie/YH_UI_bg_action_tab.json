@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_action_tab",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_bg_action_tab",
+    "Properties": {
+      "ImportedSize": {
+        "X": 92,
+        "Y": 56
+      },
+      "LightingGuid": "E7EAB024-4AE0FE68-20085998-E4AA177A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 92,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5152,
+          "SizeOnDisk": 5152,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 92,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yinengjiaju_yingwenzhuangshi01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/yixiangjiaju/YH_UI_yinengjiaju_yingwenzhuangshi01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 212,
+        "Y": 44
+      },
+      "LightingGuid": "B2047D0C-4F9EC4C5-003C94B1-6F91B6DC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 212,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9328,
+          "SizeOnDisk": 9328,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 212,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

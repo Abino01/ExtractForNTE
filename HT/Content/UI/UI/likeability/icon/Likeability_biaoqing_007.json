@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Likeability_biaoqing_007",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/Icon/Likeability_biaoqing_007",
+    "Properties": {
+      "ImportedSize": {
+        "X": 480,
+        "Y": 480
+      },
+      "LightingGuid": "6D6D903A-4FB291A5-D8705C89-AF79F521",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 480,
+    "SizeY": 480,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 230400,
+          "SizeOnDisk": 230400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 480,
+        "SizeY": 480,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

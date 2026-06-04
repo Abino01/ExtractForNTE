@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Fj_TagBtnBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/compose/UI_YH_Fj_TagBtnBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 92,
+        "Y": 334
+      },
+      "LightingGuid": "31AC3667-41495A2E-5DA01082-03968698",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 92,
+    "SizeY": 334,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 122912,
+          "SizeOnDisk": 122912,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 92,
+        "SizeY": 334,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

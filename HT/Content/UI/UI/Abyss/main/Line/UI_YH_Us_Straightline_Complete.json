@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Straightline_Complete",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Main/line/UI_YH_Us_Straightline_Complete",
+    "Properties": {
+      "ImportedSize": {
+        "X": 26,
+        "Y": 18
+      },
+      "LightingGuid": "2F39CE9A-43287610-32687F8C-F5C7C78D",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 26,
+    "SizeY": 18,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1872,
+          "SizeOnDisk": 1872,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 26,
+        "SizeY": 18,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

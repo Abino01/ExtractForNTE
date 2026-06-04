@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yinengskill_texingdiban",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_UI_yinengskill_texingdiban",
+    "Properties": {
+      "ImportedSize": {
+        "X": 278,
+        "Y": 128
+      },
+      "LightingGuid": "727705AD-4222DBEB-26B5DE9F-41C9A67B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 278,
+    "SizeY": 128,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 142336,
+          "SizeOnDisk": 142336,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 278,
+        "SizeY": 128,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

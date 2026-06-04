@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yinengskill_chongzhibtn",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_UI_yinengskill_chongzhibtn",
+    "Properties": {
+      "ImportedSize": {
+        "X": 40,
+        "Y": 32
+      },
+      "LightingGuid": "1B1C6E93-40E1B92A-87183A8C-4F326CE2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 40,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1280,
+          "SizeOnDisk": 1280,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 40,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

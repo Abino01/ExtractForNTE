@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_game_pop",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/EquipmentLottery/YH_UI_bg_game_pop",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1852,
+        "Y": 776
+      },
+      "LightingGuid": "B5740D7D-4AF5AD33-DF3C11A7-72151DBE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1852,
+    "SizeY": 776,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1437152,
+          "SizeOnDisk": 1437152,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1852,
+        "SizeY": 776,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

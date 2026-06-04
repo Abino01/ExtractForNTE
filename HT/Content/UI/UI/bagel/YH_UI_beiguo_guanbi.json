@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_beiguo_guanbi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/bagel/YH_UI_beiguo_guanbi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 50,
+        "Y": 50
+      },
+      "LightingGuid": "0B793319-412C16E5-024296A1-BF77D4AE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 50,
+    "SizeY": 50,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10000,
+          "SizeOnDisk": 10000,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 50,
+        "SizeY": 50,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Warningpanel",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/ADVVision/YH_UI_Warningpanel",
+    "Properties": {
+      "ImportedSize": {
+        "X": 72,
+        "Y": 32
+      },
+      "LightingGuid": "4347A57A-4DD5FC9B-38CF6A9F-04559B10",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 72,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2304,
+          "SizeOnDisk": 2304,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 72,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

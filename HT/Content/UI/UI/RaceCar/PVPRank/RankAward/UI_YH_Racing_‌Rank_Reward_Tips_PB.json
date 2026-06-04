@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_‌Rank_Reward_Tips_PB",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_Tips_PB",
+    "Properties": {
+      "ImportedSize": {
+        "X": 268,
+        "Y": 24
+      },
+      "LightingGuid": "23E485A7-46BC309E-160C39B8-FB06D94C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 268,
+    "SizeY": 24,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6432,
+          "SizeOnDisk": 6432,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 268,
+        "SizeY": 24,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

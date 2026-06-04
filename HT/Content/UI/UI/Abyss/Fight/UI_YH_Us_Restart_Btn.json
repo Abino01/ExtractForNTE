@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Restart_Btn",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Fight/UI_YH_Us_Restart_Btn",
+    "Properties": {
+      "ImportedSize": {
+        "X": 238,
+        "Y": 238
+      },
+      "LightingGuid": "E3E2AE75-446F3EC9-A039FBA3-F5BB9D6D",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 238,
+    "SizeY": 238,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 226576,
+          "SizeOnDisk": 226576,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 238,
+        "SizeY": 238,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

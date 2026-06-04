@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Fleet_Rewards_List_Text",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVEAward/UI_YH_Racing_Fleet_Rewards_List_Text",
+    "Properties": {
+      "ImportedSize": {
+        "X": 236,
+        "Y": 56
+      },
+      "LightingGuid": "04C90BBA-43F50307-C8E7BF8D-1CF292AD",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 236,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 13216,
+          "SizeOnDisk": 13216,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 236,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

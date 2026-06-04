@@ -1,0 +1,50 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_YH_chaticon_01_Inst_Inst",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/dialogue/UI_YH_chaticon_01_Inst_Inst",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "MaterialInstanceConstant'UI_YH_chaticon_01_Inst'",
+        "ObjectPath": "/Game/UI/UI/dialogue/UI_YH_chaticon_01_Inst.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_YH_chaticon_01b'",
+            "ObjectPath": "/Game/UI/UI/dialogue/UI_YH_chaticon_01b.0"
+          },
+          "ExpressionGUID": "050E04FC-44870C34-1581EE91-85FF43F8"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

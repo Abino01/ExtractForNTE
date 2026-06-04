@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_beiguo_fabu_yingwen02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/NoteBook/YH_UI_beiguo_fabu_yingwen02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 236,
+        "Y": 104
+      },
+      "LightingGuid": "C8206E68-4B1FDF20-F8765297-53F0B883",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 236,
+    "SizeY": 104,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 24544,
+          "SizeOnDisk": 24544,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 236,
+        "SizeY": 104,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

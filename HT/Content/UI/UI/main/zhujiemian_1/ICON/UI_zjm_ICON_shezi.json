@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_zjm_ICON_shezi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/zhujiemian_1/ICON/UI_zjm_ICON_shezi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 90,
+        "Y": 90
+      },
+      "LightingGuid": "CDEB1C00-4CFF7895-CF760B83-532D7002",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 90,
+    "SizeY": 90,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 32400,
+          "SizeOnDisk": 32400,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 90,
+        "SizeY": 90,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

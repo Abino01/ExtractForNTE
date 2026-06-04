@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Dungeon_siwangdi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Fail/UI_YH_Dungeon_siwangdi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1440,
+        "Y": 164
+      },
+      "LightingGuid": "C04F5EF8-4DE7F381-2202039E-FE46DBAA",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1440,
+    "SizeY": 164,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 944640,
+          "SizeOnDisk": 944640,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1440,
+        "SizeY": 164,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

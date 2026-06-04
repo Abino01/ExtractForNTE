@@ -1,0 +1,3852 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "BP_PreviewActor_ForkLottery_C",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Package": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery",
+    "Properties": {
+      "Timelines": [
+        {
+          "ObjectName": "TimelineTemplate'BP_PreviewActor_ForkLottery_C:时间轴_Template'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.72"
+        }
+      ],
+      "SimpleConstructionScript": {
+        "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+      },
+      "UberGraphFunction": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:ExecuteUbergraph_BP_PreviewActor_ForkLottery'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.11"
+      }
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'HTPreviewActorForkLottery'",
+      "ObjectPath": "/Script/HTGame"
+    },
+    "Children": [
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetReactionLayer'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.24"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetDevelopEquipNiagara'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.15"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetBaseplate'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.12"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetDevelopEquipComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.14"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetEquipmentCoreBComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.19"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetEquipmentCoreAComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.18"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetEquipmentBaseComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.17"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetFormationMemberBottomWC'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.22"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetDragActorComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.16"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetFormationMemberAddWC'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.21"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetFormationMemberWC'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.23"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetEquipmentHandComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.20"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetSoloActorComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.25"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetChildActorComponentByIndex'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.13"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:时间轴__FinishedFunc'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.26"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:时间轴__UpdateFunc'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.27"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:BP_OnPlaySequenceAnim'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.10"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:ExecuteUbergraph_BP_PreviewActor_ForkLottery'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.11"
+      }
+    ],
+    "ChildProperties": [
+      {
+        "Type": "StructProperty",
+        "Name": "UberGraphFrame",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 16,
+        "PropertyFlags": "Transient | DuplicateTransient",
+        "Struct": {
+          "ObjectName": "Class'PointerToUberGraphFrame'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "LevelSequenceActor",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "DarkMask",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "PointLight3",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'PointLightComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "PointLight2",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'PointLightComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "PointLight1",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'PointLightComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "PointLight",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'PointLightComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Plane3",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Plane1",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "HTNiagara",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'HTNiagaraComponent'",
+          "ObjectPath": "/Script/HTGame"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "SpotLight1",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'SpotLightComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Sphere",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "BottomShadow",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Plane2",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Plane",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "SoloActor",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "SkyLight",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'SkyLightComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "FloatProperty",
+        "Name": "____ForkScale_83F20B39470354C68E9584A74C303637",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 4
+      },
+      {
+        "Type": "FloatProperty",
+        "Name": "____ForkXPositon_83F20B39470354C68E9584A74C303637",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 4
+      },
+      {
+        "Type": "ByteProperty",
+        "Name": "_____Direction_83F20B39470354C68E9584A74C303637",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 1,
+        "Enum": {
+          "ObjectName": "Class'ETimelineDirection'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "时间轴",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'TimelineComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Mediaplayer",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance",
+        "PropertyClass": {
+          "ObjectName": "Class'MediaPlayer'",
+          "ObjectPath": "/Script/MediaAssets"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "MediaplayerBG02",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance",
+        "PropertyClass": {
+          "ObjectName": "Class'MediaPlayer'",
+          "ObjectPath": "/Script/MediaAssets"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "ChangeCharacterPPDynamic",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance",
+        "PropertyClass": {
+          "ObjectName": "Class'MaterialInstanceDynamic'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "MediaSource0",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance",
+        "PropertyClass": {
+          "ObjectName": "Class'MediaSource'",
+          "ObjectPath": "/Script/MediaAssets"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "MediaSource02",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance",
+        "PropertyClass": {
+          "ObjectName": "Class'MediaSource'",
+          "ObjectPath": "/Script/MediaAssets"
+        }
+      },
+      {
+        "Type": "StructProperty",
+        "Name": "light_moren",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 24,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance",
+        "Struct": {
+          "ObjectName": "Class'Rotator'",
+          "ObjectPath": "/Script/CoreUObject"
+        }
+      },
+      {
+        "Type": "StructProperty",
+        "Name": "light_gai",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 24,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance",
+        "Struct": {
+          "ObjectName": "Class'Rotator'",
+          "ObjectPath": "/Script/CoreUObject"
+        }
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "Sunlightintensity",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance"
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "RaffleMaterial",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance",
+        "PropertyClass": {
+          "ObjectName": "Class'MaterialInterface'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "FloatProperty",
+        "Name": "DarkMaskEndAlpha",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 4,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance"
+      }
+    ],
+    "FuncMap": {
+      "ExecuteUbergraph_BP_PreviewActor_ForkLottery": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:ExecuteUbergraph_BP_PreviewActor_ForkLottery'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.11"
+      },
+      "BP_OnPlaySequenceAnim": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:BP_OnPlaySequenceAnim'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.10"
+      },
+      "时间轴__UpdateFunc": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:时间轴__UpdateFunc'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.27"
+      },
+      "时间轴__FinishedFunc": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:时间轴__FinishedFunc'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.26"
+      },
+      "GetChildActorComponentByIndex": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetChildActorComponentByIndex'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.13"
+      },
+      "GetSoloActorComponent": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetSoloActorComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.25"
+      },
+      "GetEquipmentHandComponent": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetEquipmentHandComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.20"
+      },
+      "GetFormationMemberWC": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetFormationMemberWC'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.23"
+      },
+      "GetFormationMemberAddWC": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetFormationMemberAddWC'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.21"
+      },
+      "GetDragActorComponent": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetDragActorComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.16"
+      },
+      "GetFormationMemberBottomWC": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetFormationMemberBottomWC'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.22"
+      },
+      "GetEquipmentBaseComponent": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetEquipmentBaseComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.17"
+      },
+      "GetEquipmentCoreAComponent": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetEquipmentCoreAComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.18"
+      },
+      "GetEquipmentCoreBComponent": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetEquipmentCoreBComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.19"
+      },
+      "GetDevelopEquipComponent": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetDevelopEquipComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.14"
+      },
+      "GetBaseplate": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetBaseplate'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.12"
+      },
+      "GetDevelopEquipNiagara": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetDevelopEquipNiagara'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.15"
+      },
+      "GetReactionLayer": {
+        "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetReactionLayer'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.24"
+      }
+    },
+    "ClassFlags": "CLASS_Config | CLASS_NoExport | CLASS_CompiledFromBlueprint | CLASS_HasInstancedReference",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "BP_PreviewActor_ForkLottery_C'Default__BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.2"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "BP_ForkLotterySequenceActor_C",
+    "Name": "SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "BlueprintGeneratedClass'/Game/Blueprints/Actors/Fork/BP_ForkLotterySequenceActor.BP_ForkLotterySequenceActor_C'",
+    "Outer": {
+      "ObjectName": "ChildActorComponent'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.5"
+    },
+    "Template": {
+      "ObjectName": "BP_ForkLotterySequenceActor_C'Default__BP_ForkLotterySequenceActor_C'",
+      "ObjectPath": "/Game/Blueprints/Actors/Fork/BP_ForkLotterySequenceActor.1"
+    },
+    "Properties": {
+      "BurnInOptions": {
+        "ObjectName": "LevelSequenceBurnInOptions'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT.BurnInOptions'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.29"
+      },
+      "BindingOverrides": {
+        "ObjectName": "MovieSceneBindingOverrides'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT.BindingOverrides'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.31"
+      },
+      "DefaultInstanceData": {
+        "ObjectName": "DefaultLevelSequenceInstanceData'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT.InstanceData'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.9"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT.SceneComp'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.38"
+      }
+    },
+    "ActorLabel": "BP_ForkLotterySequenceActor",
+    "ActorInstanceGuid": {
+      "ActorGuid": "00000000-00000000-00000000-00000000",
+      "ActorInstanceGuid": "00000000-00000000-00000000-00000000"
+    }
+  },
+  {
+    "Type": "BP_PreviewActor_ForkLottery_C",
+    "Name": "Default__BP_PreviewActor_ForkLottery_C",
+    "Flags": "RF_Public | RF_Transactional | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "BlueprintGeneratedClass'/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.BP_PreviewActor_ForkLottery_C'",
+    "Package": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery",
+    "Properties": {
+      "UberGraphFrame": {},
+      "Mediaplayer": {
+        "ObjectName": "MediaPlayer'MediaPlayer_UI_BG'",
+        "ObjectPath": "/Game/Movies/UI_HD/MediaPlayer_UI_BG.0"
+      },
+      "MediaplayerBG02": {
+        "ObjectName": "MediaPlayer'MediaPlayer_UI_BG02'",
+        "ObjectPath": "/Game/Movies/UI_HD/MediaPlayer_UI_BG02.0"
+      },
+      "MediaSource0": {
+        "ObjectName": "FileMediaSource'FileMedia_UI_BG'",
+        "ObjectPath": "/Game/Movies/UI_HD/FileMedia_UI_BG.0"
+      },
+      "MediaSource02": {
+        "ObjectName": "FileMediaSource'FileMedia_UI_BG_04'",
+        "ObjectPath": "/Game/Movies/UI_HD/FileMedia_UI_BG_04.0"
+      },
+      "light_moren": {
+        "Pitch": -8.195262,
+        "Yaw": 348.7919,
+        "Roll": 76.990204
+      },
+      "light_gai": {
+        "Pitch": -48.809315,
+        "Yaw": -61.655148,
+        "Roll": -102.419815
+      },
+      "DarkMaskEndAlpha": 0.02,
+      "OrangeEffectConfig": [
+        {
+          "Key": "NS_ForkLotteryTriangle_Line_Enter_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLotteryTriangle_Line_Enter.NS_ForkLotteryTriangle_Line_Enter",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLotteryTriangle_Enter_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLotteryTriangle_Enter.NS_ForkLotteryTriangle_Enter",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLotteryTriangle_Enter2_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLotteryTriangle_Enter2.NS_ForkLotteryTriangle_Enter2",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLotteryTriangle_Enter1_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLotteryTriangle_Enter1.NS_ForkLotteryTriangle_Enter1",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLotteryBoom_Explode_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLotteryBoom_Explode.NS_ForkLotteryBoom_Explode",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLotteryBoom1_Explode1_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLotteryBoom1_Explode.NS_ForkLotteryBoom1_Explode",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLottery_Enter_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLottery_Enter.NS_ForkLottery_Enter",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLottery_Discsbuff_Enter_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLottery_Discsbuff_Enter.NS_ForkLottery_Discsbuff_Enter",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLottery1Boom_Explode_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLottery1Boom_Explode.NS_ForkLottery1Boom_Explode",
+            "SubPathString": ""
+          }
+        }
+      ],
+      "BlueEffectConfig": [
+        {
+          "Key": "NS_ForkLotteryTriangle_Line_Enter_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLotteryTriangle_Line_Enter_B.NS_ForkLotteryTriangle_Line_Enter_B",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLotteryTriangle_Enter_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLotteryTriangle_Enter_B.NS_ForkLotteryTriangle_Enter_B",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLotteryTriangle_Enter2_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLotteryTriangle_Enter2_B.NS_ForkLotteryTriangle_Enter2_B",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLotteryTriangle_Enter1_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLotteryTriangle_Enter1_B.NS_ForkLotteryTriangle_Enter1_B",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLotteryBoom_Explode_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLotteryBoom_Explode_B.NS_ForkLotteryBoom_Explode_B",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLotteryBoom1_Explode1_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLotteryBoom1_Explode1_B.NS_ForkLotteryBoom1_Explode1_B",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLottery_Enter_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLottery_Enter_B.NS_ForkLottery_Enter_B",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLottery_Discsbuff_Enter_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLottery_Discsbuff_Enter_B.NS_ForkLottery_Discsbuff_Enter_B",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "NS_ForkLottery1Boom_Explode_A",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/NS_ForkLottery1Boom_Explode_B.NS_ForkLottery1Boom_Explode_B",
+            "SubPathString": ""
+          }
+        }
+      ],
+      "OrangeMaterialConfig": [
+        {
+          "Key": "M_Common_099_Blackbook_Glow_Wjq014",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/mat/M_Common_099_Blackbook_Glow_Wjq010.M_Common_099_Blackbook_Glow_Wjq010",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "M_Simple_001_Inst71",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/mat/M_Simple_001_Inst69.M_Simple_001_Inst69",
+            "SubPathString": ""
+          }
+        }
+      ],
+      "BlueMaterialConfig": [
+        {
+          "Key": "M_Common_099_Blackbook_Glow_Wjq014",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/mat/M_Common_099_Blackbook_Glow_Wjq015.M_Common_099_Blackbook_Glow_Wjq015",
+            "SubPathString": ""
+          }
+        },
+        {
+          "Key": "M_Simple_001_Inst71",
+          "Value": {
+            "AssetPathName": "/Game/sequence_pack/FX/Discs/mat/M_Simple_001_Inst72.M_Simple_001_Inst72",
+            "SubPathString": ""
+          }
+        }
+      ],
+      "SpringArm": {
+        "ObjectName": "SpringArmComponent'Default__BP_PreviewActor_ForkLottery_C:SpringArm'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.63"
+      },
+      "DummyCamera": {
+        "ObjectName": "CameraComponent'Default__BP_PreviewActor_ForkLottery_C:DummyCamera'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.4"
+      },
+      "CaptureComponent": {
+        "ObjectName": "SceneCaptureComponent2D'Default__BP_PreviewActor_ForkLottery_C:PreviewSceneCapture'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.36"
+      },
+      "bEnablePlanarReflection": true,
+      "ScenePlayerLightComponent": {
+        "ObjectName": "ScenePlayerLightComponent'Default__BP_PreviewActor_ForkLottery_C:PlayerLightComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.40"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent'Default__BP_PreviewActor_ForkLottery_C:RootMesh'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.71"
+      }
+    }
+  },
+  {
+    "Type": "BPCharacterActor_C",
+    "Name": "ChildActor_GEN_VARIABLE_BPCharacterActor_C_CAT",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "BlueprintGeneratedClass'/Game/UI/Blueprints/Character/BPCharacterActor.BPCharacterActor_C'",
+    "Outer": {
+      "ObjectName": "ChildActorComponent'BP_PreviewActor_ForkLottery_C:SoloActor_GEN_VARIABLE'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.6"
+    },
+    "Template": {
+      "ObjectName": "BPCharacterActor_C'Default__BPCharacterActor_C'",
+      "ObjectPath": "/Game/UI/Blueprints/Character/BPCharacterActor.1"
+    },
+    "Properties": {
+      "Mesh": {
+        "ObjectName": "SkeletalMeshComponent'BP_PreviewActor_ForkLottery_C:SoloActor_GEN_VARIABLE.ChildActor_GEN_VARIABLE_BPCharacterActor_C_CAT.Mesh'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.60"
+      },
+      "ForkMesh": {
+        "ObjectName": "SkeletalMeshComponent'BP_PreviewActor_ForkLottery_C:SoloActor_GEN_VARIABLE.ChildActor_GEN_VARIABLE_BPCharacterActor_C_CAT.ForkMesh'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.59"
+      },
+      "Children": [
+        null,
+        {
+          "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+        },
+        {
+          "ObjectName": "Function'BP_PreviewActor_ForkLottery_C:GetDragActorComponent'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.16"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "DummyCamera",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CameraComponent'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_ForkLottery_C'Default__BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.2"
+    },
+    "Properties": {
+      "FieldOfView": 60.0,
+      "OrthoWidth": 512.0,
+      "bAutoCalculateOrthoPlanes": false,
+      "OrthoNearClipPlane": 0.0,
+      "PostProcessSettings": {
+        "BloomIntensity": 1.0,
+        "BloomThreshold": -0.5,
+        "AutoExposureBias": -0.5
+      },
+      "AttachParent": {
+        "ObjectName": "SpringArmComponent'Default__BP_PreviewActor_ForkLottery_C:SpringArm'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.63"
+      }
+    }
+  },
+  {
+    "Type": "ChildActorComponent",
+    "Name": "LevelSequenceActor_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'ChildActorComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "ChildActorClass": {
+        "ObjectName": "BlueprintGeneratedClass'BP_ForkLotterySequenceActor_C'",
+        "ObjectPath": "/Game/Blueprints/Actors/Fork/BP_ForkLotterySequenceActor.0"
+      },
+      "ChildActorTemplate": {
+        "ObjectName": "BP_ForkLotterySequenceActor_C'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.1"
+      },
+      "RelativeLocation": {
+        "X": 132.0,
+        "Y": 19.858797,
+        "Z": -41.97782
+      },
+      "RelativeRotation": {
+        "Pitch": 3.3810522E-29,
+        "Yaw": -180.0,
+        "Roll": -0.5
+      },
+      "ComponentTags": [
+        "SequenceActor"
+      ]
+    }
+  },
+  {
+    "Type": "ChildActorComponent",
+    "Name": "SoloActor_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'ChildActorComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "ChildActorClass": {
+        "ObjectName": "BlueprintGeneratedClass'BPCharacterActor_C'",
+        "ObjectPath": "/Game/UI/Blueprints/Character/BPCharacterActor.0"
+      },
+      "ChildActorTemplate": {
+        "ObjectName": "BPCharacterActor_C'BP_PreviewActor_ForkLottery_C:SoloActor_GEN_VARIABLE.ChildActor_GEN_VARIABLE_BPCharacterActor_C_CAT'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.3"
+      },
+      "RelativeLocation": {
+        "X": 165.0,
+        "Y": -8.0,
+        "Z": -16.0
+      },
+      "RelativeRotation": {
+        "Pitch": 12.0,
+        "Yaw": 80.0,
+        "Roll": 30.0
+      }
+    }
+  },
+  {
+    "Type": "CurveFloat",
+    "Name": "CurveFloat_0",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CurveFloat'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "FloatCurve": {
+        "Keys": [
+          {
+            "InterpMode": "RCIM_Linear",
+            "TangentMode": "RCTM_Auto",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 0.0,
+            "Value": 0.0,
+            "ArriveTangent": 0.0,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.0,
+            "LeaveTangentWeight": 0.0
+          },
+          {
+            "InterpMode": "RCIM_Linear",
+            "TangentMode": "RCTM_Auto",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 0.5,
+            "Value": 0.0,
+            "ArriveTangent": 0.0,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.0,
+            "LeaveTangentWeight": 0.0
+          },
+          {
+            "InterpMode": "RCIM_Linear",
+            "TangentMode": "RCTM_Auto",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 0.51,
+            "Value": 0.2,
+            "ArriveTangent": 0.0,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.0,
+            "LeaveTangentWeight": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "CurveFloat",
+    "Name": "CurveFloat_1_3",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CurveFloat'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "FloatCurve": {
+        "Keys": [
+          {
+            "InterpMode": "RCIM_Linear",
+            "TangentMode": "RCTM_Auto",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 0.5,
+            "Value": 490.0,
+            "ArriveTangent": 0.0,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.0,
+            "LeaveTangentWeight": 0.0
+          },
+          {
+            "InterpMode": "RCIM_Linear",
+            "TangentMode": "RCTM_Auto",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 0.51,
+            "Value": 120.0,
+            "ArriveTangent": 0.0,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.0,
+            "LeaveTangentWeight": 0.0
+          },
+          {
+            "InterpMode": "RCIM_Linear",
+            "TangentMode": "RCTM_Auto",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 0.67,
+            "Value": 100.0,
+            "ArriveTangent": 0.0,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.0,
+            "LeaveTangentWeight": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "DefaultLevelSequenceInstanceData",
+    "Name": "InstanceData",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DefaultLevelSequenceInstanceData'",
+    "Outer": {
+      "ObjectName": "BP_ForkLotterySequenceActor_C'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.1"
+    },
+    "Template": {
+      "ObjectName": "DefaultLevelSequenceInstanceData'Default__BP_ForkLotterySequenceActor_C:InstanceData'",
+      "ObjectPath": "/Game/Blueprints/Actors/Fork/BP_ForkLotterySequenceActor.2"
+    }
+  },
+  {
+    "Type": "Function",
+    "Name": "BP_OnPlaySequenceAnim",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'HTPreviewActorForkLottery:BP_OnPlaySequenceAnim'",
+      "ObjectPath": "/Script/HTGame"
+    },
+    "FunctionFlags": "FUNC_Event | FUNC_Public | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "ExecuteUbergraph_BP_PreviewActor_ForkLottery",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "EntryPoint",
+        "Flags": "RF_Public",
+        "ElementSize": 4,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      },
+      {
+        "Type": "StructProperty",
+        "Name": "CallFunc_Conv_DoubleToVector_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 24,
+        "Struct": {
+          "ObjectName": "Class'Vector'",
+          "ObjectPath": "/Script/CoreUObject"
+        }
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_BreakVector_X",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_BreakVector_Y",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_BreakVector_Z",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "StructProperty",
+        "Name": "CallFunc_MakeVector_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 24,
+        "Struct": {
+          "ObjectName": "Class'Vector'",
+          "ObjectPath": "/Script/CoreUObject"
+        }
+      },
+      {
+        "Type": "StructProperty",
+        "Name": "CallFunc_K2_SetRelativeLocation_SweepHitResult",
+        "Flags": "RF_Public",
+        "ElementSize": 272,
+        "PropertyFlags": "ContainsInstancedReference",
+        "Struct": {
+          "ObjectName": "Class'HitResult'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_Conv_DoubleToVector_InDouble_ImplicitCast",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_MakeVector_X_ImplicitCast",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      }
+    ],
+    "FunctionFlags": "FUNC_Final | FUNC_UbergraphFunction | FUNC_HasDefaults"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetBaseplate",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetChildActorComponentByIndex",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'HTPreviewActor:GetChildActorComponentByIndex'",
+      "ObjectPath": "/Script/HTGame"
+    },
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "InIndex",
+        "Flags": "RF_Public",
+        "ElementSize": 4,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "Temp_int_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_1",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_2",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_3",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "K2Node_Select_Default",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_Event | FUNC_Public | FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetDevelopEquipComponent",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetDevelopEquipNiagara",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'HTNiagaraComponent'",
+          "ObjectPath": "/Script/HTGame"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetDragActorComponent",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetEquipmentBaseComponent",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "index",
+        "Flags": "RF_Public",
+        "ElementSize": 4,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "Temp_int_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_1",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_2",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_3",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_4",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_5",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_6",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_7",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_8",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_9",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_10",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_11",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_12",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_13",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_14",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_15",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_16",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_17",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_18",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_19",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_20",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_21",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_22",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_23",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_24",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_25",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_26",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_27",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_28",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_29",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_30",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_31",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_32",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_33",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_34",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_35",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_36",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_37",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_38",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_39",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_40",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_41",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_42",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_43",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_44",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_45",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_46",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_47",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_48",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "K2Node_Select_Default",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetEquipmentCoreAComponent",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetEquipmentCoreBComponent",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetEquipmentHandComponent",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'SkeletalMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetFormationMemberAddWC",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "InIndex",
+        "Flags": "RF_Public",
+        "ElementSize": 4,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "Temp_int_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_1",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_2",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_3",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "K2Node_Select_Default",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_Public | FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetFormationMemberBottomWC",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "InIndex",
+        "Flags": "RF_Public",
+        "ElementSize": 4,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "Temp_int_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_1",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_2",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_3",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "K2Node_Select_Default",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_Public | FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetFormationMemberWC",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "InIndex",
+        "Flags": "RF_Public",
+        "ElementSize": 4,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "Temp_int_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_1",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_2",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Temp_object_Variable_3",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "K2Node_Select_Default",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'WidgetComponent'",
+          "ObjectPath": "/Script/UMG"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_Public | FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetReactionLayer",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "GetSoloActorComponent",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'HTPreviewActor:GetSoloActorComponent'",
+      "ObjectPath": "/Script/HTGame"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "Parm | OutParm | ReturnParm | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_Event | FUNC_Public | FUNC_HasOutParms | FUNC_BlueprintCallable | FUNC_BlueprintEvent | FUNC_Const"
+  },
+  {
+    "Type": "Function",
+    "Name": "时间轴__FinishedFunc",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "FunctionFlags": "FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "时间轴__UpdateFunc",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "FunctionFlags": "FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "HTNiagaraComponent",
+    "Name": "HTNiagara_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'HTNiagaraComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "Asset": {
+        "ObjectName": "NiagaraSystem'NS_Gasha_002'",
+        "ObjectPath": "/Game/FX/Nia/Scene/Gashaponmachine/NS_Gasha_002.75"
+      },
+      "OverrideParameters": {
+        "UserParameterRedirects": [
+          {
+            "Key": {
+              "VarData": "",
+              "Name": "MYColor",
+              "TypeDef": {
+                "ClassStructOrEnum": {
+                  "ObjectName": "Class'LinearColor'",
+                  "ObjectPath": "/Script/CoreUObject"
+                },
+                "UnderlyingType": 2,
+                "Flags": 0
+              }
+            },
+            "Value": {
+              "VarData": "",
+              "Name": "User.MYColor",
+              "TypeDef": {
+                "ClassStructOrEnum": {
+                  "ObjectName": "Class'LinearColor'",
+                  "ObjectPath": "/Script/CoreUObject"
+                },
+                "UnderlyingType": 2,
+                "Flags": 0
+              }
+            }
+          },
+          {
+            "Key": {
+              "VarData": "",
+              "Name": "Velocity",
+              "TypeDef": {
+                "ClassStructOrEnum": {
+                  "ObjectName": "Class'NiagaraFloat'",
+                  "ObjectPath": "/Script/Niagara"
+                },
+                "UnderlyingType": 2,
+                "Flags": 0
+              }
+            },
+            "Value": {
+              "VarData": "",
+              "Name": "User.Velocity",
+              "TypeDef": {
+                "ClassStructOrEnum": {
+                  "ObjectName": "Class'NiagaraFloat'",
+                  "ObjectPath": "/Script/Niagara"
+                },
+                "UnderlyingType": 2,
+                "Flags": 0
+              }
+            }
+          }
+        ],
+        "SortedParameterOffsets": [
+          {
+            "Offset": 4,
+            "Name": "User.MYColor",
+            "TypeDef": {
+              "ClassStructOrEnum": {
+                "ObjectName": "Class'LinearColor'",
+                "ObjectPath": "/Script/CoreUObject"
+              },
+              "UnderlyingType": 2,
+              "Flags": 0
+            }
+          },
+          {
+            "Offset": 0,
+            "Name": "User.Velocity",
+            "TypeDef": {
+              "ClassStructOrEnum": {
+                "ObjectName": "Class'NiagaraFloat'",
+                "ObjectPath": "/Script/Niagara"
+              },
+              "UnderlyingType": 2,
+              "Flags": 0
+            }
+          }
+        ],
+        "ParameterData": [
+          0,
+          0,
+          0,
+          64,
+          154,
+          153,
+          25,
+          63,
+          143,
+          194,
+          245,
+          60,
+          143,
+          194,
+          245,
+          60,
+          0,
+          0,
+          128,
+          63
+        ]
+      },
+      "RelativeLocation": {
+        "X": 1.199825,
+        "Y": 52.885746,
+        "Z": 38.751423
+      },
+      "bAutoActivate": false
+    }
+  },
+  {
+    "Type": "LevelSequenceBurnInOptions",
+    "Name": "BurnInOptions",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'LevelSequenceBurnInOptions'",
+    "Outer": {
+      "ObjectName": "BP_ForkLotterySequenceActor_C'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.1"
+    },
+    "Template": {
+      "ObjectName": "LevelSequenceBurnInOptions'Default__BP_ForkLotterySequenceActor_C:BurnInOptions'",
+      "ObjectPath": "/Game/Blueprints/Actors/Fork/BP_ForkLotterySequenceActor.3"
+    }
+  },
+  {
+    "Type": "LevelSequencePlayer",
+    "Name": "AnimationPlayer",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'LevelSequencePlayer'",
+    "Outer": {
+      "ObjectName": "BP_ForkLotterySequenceActor_C'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.1"
+    },
+    "Template": {
+      "ObjectName": "LevelSequencePlayer'Default__BP_ForkLotterySequenceActor_C:AnimationPlayer'",
+      "ObjectPath": "/Game/Blueprints/Actors/Fork/BP_ForkLotterySequenceActor.4"
+    },
+    "Properties": {
+      "OnPlay": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_ForkLotterySequenceActor_C'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT'",
+              "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.1"
+            },
+            "FunctionName": "ShowBurnin"
+          }
+        ]
+      },
+      "OnPlayReverse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_ForkLotterySequenceActor_C'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT'",
+              "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.1"
+            },
+            "FunctionName": "ShowBurnin"
+          }
+        ]
+      },
+      "OnStop": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_ForkLotterySequenceActor_C'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT'",
+              "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.1"
+            },
+            "FunctionName": "HideBurnin"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "MovieSceneBindingOverrides",
+    "Name": "BindingOverrides",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MovieSceneBindingOverrides'",
+    "Outer": {
+      "ObjectName": "BP_ForkLotterySequenceActor_C'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.1"
+    },
+    "Template": {
+      "ObjectName": "MovieSceneBindingOverrides'Default__BP_ForkLotterySequenceActor_C:BindingOverrides'",
+      "ObjectPath": "/Game/Blueprints/Actors/Fork/BP_ForkLotterySequenceActor.5"
+    }
+  },
+  {
+    "Type": "PointLightComponent",
+    "Name": "PointLight1_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'PointLightComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "SoftSourceRadius": 50.0,
+      "SourceLength": 100.0,
+      "IntensityUnits": "ELightUnits::Lumens",
+      "AttenuationRadius": 90.0,
+      "ShadowResolutionScale": 0.5,
+      "Intensity": 4.5,
+      "CastShadows": false,
+      "RelativeLocation": {
+        "X": -55.391666,
+        "Y": 102.88046,
+        "Z": 15.322017
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": 360.0,
+        "Roll": 360.0
+      }
+    },
+    "IntensityNits": 0.0
+  },
+  {
+    "Type": "PointLightComponent",
+    "Name": "PointLight2_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'PointLightComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "SourceRadius": 5.333331,
+      "SoftSourceRadius": 20.0,
+      "SourceLength": 30.0,
+      "IntensityUnits": "ELightUnits::Lumens",
+      "AttenuationRadius": 120.0,
+      "SpecularScale": 0.5,
+      "ShadowResolutionScale": 0.5,
+      "Intensity": 5.0,
+      "CastShadows": false,
+      "RelativeLocation": {
+        "X": -44.258595,
+        "Y": 5.9909706,
+        "Z": 74.95618
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": 369.4623,
+        "Roll": 279.4623
+      }
+    },
+    "IntensityNits": 11.131486
+  },
+  {
+    "Type": "PointLightComponent",
+    "Name": "PointLight3_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'PointLightComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "SourceRadius": 2.0,
+      "SourceLength": 100.0,
+      "IntensityUnits": "ELightUnits::Lumens",
+      "AttenuationRadius": 40.0,
+      "ShadowResolutionScale": 0.2,
+      "Intensity": 2.1,
+      "RelativeLocation": {
+        "X": 0.17206304,
+        "Y": 41.01608,
+        "Z": 41.816753
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": 360.0,
+        "Roll": 360.0
+      }
+    },
+    "IntensityNits": 33.24601
+  },
+  {
+    "Type": "PointLightComponent",
+    "Name": "PointLight_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'PointLightComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "SourceLength": 100.0,
+      "IntensityUnits": "ELightUnits::Lumens",
+      "AttenuationRadius": 90.0,
+      "ShadowResolutionScale": 0.2,
+      "Intensity": 5.0,
+      "CastShadows": false,
+      "RelativeLocation": {
+        "X": 61.27725,
+        "Y": 81.109116,
+        "Z": 13.582385
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": 360.0,
+        "Roll": 360.0
+      }
+    },
+    "IntensityNits": 0.0
+  },
+  {
+    "Type": "SceneCaptureComponent2D",
+    "Name": "PreviewSceneCapture",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SceneCaptureComponent2D'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_ForkLottery_C'Default__BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.2"
+    },
+    "Properties": {
+      "FOVAngle": 60.0,
+      "OrthoWidth": 512.0,
+      "bAutoCalculateOrthoPlanes": false,
+      "PostProcessSettings": {
+        "bOverride_ColorContrastShadows": true,
+        "bOverride_ApplyToonShadows": true,
+        "bOverride_ColorSaturationToonShadows": true,
+        "bOverride_ColorContrastToonShadows": true,
+        "bOverride_ColorGammaToonShadows": true,
+        "bOverride_ColorGainToonShadows": true,
+        "bOverride_ColorOffsetToonShadows": true,
+        "bOverride_ColorContrastHighlights": true,
+        "bOverride_ColorGammaHighlights": true,
+        "bOverride_FilmSlope": true,
+        "bOverride_FilmToe": true,
+        "bOverride_FilmWhiteClip": true,
+        "bOverride_ApplyToonFilm": true,
+        "bOverride_ToonFilmSlope": true,
+        "bOverride_ToonFilmToe": true,
+        "bOverride_ToonFilmShoulder": true,
+        "bOverride_ToonFilmBlackClip": true,
+        "bOverride_ApplyToonTonemapping": true,
+        "bOverride_ToonMaxLuminance": true,
+        "bOverride_ToonContrast": true,
+        "bOverride_ToonLinearSectionStart": true,
+        "bOverride_ToonLinearSectionLength": true,
+        "bOverride_ToonBlackTightnessB": true,
+        "bOverride_ToonBlackTightnessC": true,
+        "bOverride_BloomMethod": true,
+        "bOverride_BloomIntensity": true,
+        "bOverride_BloomThreshold": true,
+        "bOverride_ToonShadingModelBloomThreshold": true,
+        "bOverride_ToonShadingModelBloomSaturation": true,
+        "bOverride_ToonShadingModelBloomSaturationThreshold": true,
+        "bOverride_Bloom1Tint": true,
+        "bOverride_Bloom3Tint": true,
+        "bOverride_BloomSizeScale": true,
+        "bOverride_AutoExposureMethod": true,
+        "bOverride_AutoExposureBias": true,
+        "bOverride_LocalExposureHighlightContrastScale": true,
+        "bOverride_LensFlareIntensity": true,
+        "bOverride_LensFlareBokehSize": true,
+        "bOverride_AmbientOcclusionRadius": true,
+        "bOverride_ToonRimLight": true,
+        "bOverride_RimLightColor0": true,
+        "bOverride_RimLightColor1": true,
+        "bOverride_RimLightWidth": true,
+        "bOverride_RimLightParams": true,
+        "bOverride_DynamicGlobalIlluminationMethod": true,
+        "ApplyToonShadows": true,
+        "FilmSlope": 1.4,
+        "FilmShoulder": 0.25,
+        "FilmWhiteClip": 0.05,
+        "ApplyToonFilm": true,
+        "ToonFilmSlope": 1.0,
+        "ToonFilmToe": 0.6,
+        "ToonFilmShoulder": 1.0,
+        "ApplyToonTonemapping": true,
+        "ToonContrast": 0.8,
+        "ToonLinearSectionStart": 0.4,
+        "ToonLinearSectionLength": 0.9,
+        "ToonBlackTightnessC": 1.23,
+        "SceneColorTint": {
+          "R": 1.0,
+          "G": 0.945862,
+          "B": 0.901785,
+          "A": 1.0,
+          "Hex": "FFF9F4"
+        },
+        "BloomIntensity": 0.8,
+        "BloomThreshold": -0.9,
+        "ToonShadingModelBloomThreshold": 0.1,
+        "ToonShadingModelBloomSaturation": 3.0,
+        "ToonShadingModelBloomSaturationThreshold": 0.6,
+        "BloomSizeScale": 15.0,
+        "Bloom1Tint": {
+          "R": 1.365726,
+          "G": 1.198908,
+          "B": 1.018838,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        },
+        "Bloom3Tint": {
+          "R": 0.901786,
+          "G": 0.759708,
+          "B": 0.681707,
+          "A": 1.0,
+          "Hex": "F4E2D8"
+        },
+        "BloomConvolutionScatterDispersion": 2.0,
+        "LumenSurfaceCacheResolution": 1.0,
+        "ReflectionMethod": "EReflectionMethod::Lumen",
+        "AutoExposureBias": 0.65,
+        "AutoExposureMinBrightness": 1.0,
+        "AutoExposureMaxBrightness": 1.0,
+        "LocalExposureShadowContrastScale": 0.8,
+        "LocalExposureDetailStrength": 0.6,
+        "LocalExposureBlurredLuminanceBlend": 0.24,
+        "LocalExposureBlurredLuminanceKernelSizePercent": 25.6,
+        "LensFlareIntensity": 0.3,
+        "LensFlareBokehSize": 32.0,
+        "AmbientOcclusionIntensity": 1.0,
+        "AmbientOcclusionRadius": 20.0,
+        "ColorGradingLUT": {
+          "ObjectName": "Texture2D'Cinematic_Vibes_LUT__1'",
+          "ObjectPath": "/Game/Environment/LUTs/20_Cinematic_Vibes_LUTs_Pack/Cinematic_Vibes_LUT__1.0"
+        },
+        "DepthOfFieldSensorWidth": 150.0,
+        "DepthOfFieldFocalDistance": 148.0,
+        "ToonRimLight": true,
+        "RimLightColor0": {
+          "R": 1.3,
+          "G": 1.3,
+          "B": 1.3,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        },
+        "RimLightWidth": 2.5
+      },
+      "CaptureSource": "ESceneCaptureSource::SCS_FinalToneCurveHDR",
+      "MaxViewDistanceOverride": 800.0,
+      "ShowFlagSettings": [
+        {
+          "ShowFlagName": "TemporalAA",
+          "Enabled": true
+        },
+        {
+          "ShowFlagName": "MotionBlur",
+          "Enabled": true
+        }
+      ],
+      "AttachParent": {
+        "ObjectName": "CameraComponent'Default__BP_PreviewActor_ForkLottery_C:DummyCamera'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.4"
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SceneComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComp",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SceneComponent'",
+    "Outer": {
+      "ObjectName": "BP_ForkLotterySequenceActor_C'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE.SequenceActor_GEN_VARIABLE_BP_ForkLotterySequenceActor_C_CAT'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.1"
+    },
+    "Template": {
+      "ObjectName": "SceneComponent'Default__BP_ForkLotterySequenceActor_C:SceneComp'",
+      "ObjectPath": "/Game/Blueprints/Actors/Fork/BP_ForkLotterySequenceActor.7"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SceneComponent'",
+    "Outer": {
+      "ObjectName": "BPCharacterActor_C'BP_PreviewActor_ForkLottery_C:SoloActor_GEN_VARIABLE.ChildActor_GEN_VARIABLE_BPCharacterActor_C_CAT'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.3"
+    },
+    "Template": {
+      "ObjectName": "SceneComponent'Default__BPCharacterActor_C:RootComponent'",
+      "ObjectPath": "/Game/UI/Blueprints/Character/BPCharacterActor.10"
+    }
+  },
+  {
+    "Type": "ScenePlayerLightComponent",
+    "Name": "PlayerLightComponent",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'ScenePlayerLightComponent'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_ForkLottery_C'Default__BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.2"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'SceneComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "SceneComponent'BP_PreviewActor_ForkLottery_C:DefaultSceneRoot_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.37"
+      },
+      "VariableGuid": "85F940BA-470DE5D7-7F88FB8C-1019FDCF",
+      "InternalVariableName": "DefaultSceneRoot"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_1",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_ForkLottery_C:Plane1_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.66"
+      },
+      "ParentComponentOrVariableName": "PreviewSceneCapture",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "12E93891-4B110973-57086D8E-8AF043CC",
+      "InternalVariableName": "Plane1"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_10",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'PointLightComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "PointLightComponent'BP_PreviewActor_ForkLottery_C:PointLight1_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.32"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "92D151D1-4A6BAB15-6E385FAA-6C6FB59A",
+      "InternalVariableName": "PointLight1"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_11",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_ForkLottery_C:DarkMask_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.65"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "3ABB9D2A-42B95B61-29D06C9E-80D55BC3",
+      "InternalVariableName": "DarkMask"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_12",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'HTNiagaraComponent'",
+        "ObjectPath": "/Script/HTGame"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "HTNiagaraComponent'BP_PreviewActor_ForkLottery_C:HTNiagara_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.28"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "95EF78A4-4C5FE48C-85FC92AA-743877D4",
+      "InternalVariableName": "HTNiagara"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_16",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'ChildActorComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "ChildActorComponent'BP_PreviewActor_ForkLottery_C:SoloActor_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.6"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "EF7855C3-46CF80D7-05CB36A4-9930E238",
+      "InternalVariableName": "SoloActor"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_18",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'SpotLightComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "SpotLightComponent'BP_PreviewActor_ForkLottery_C:SpotLight1_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.62"
+      },
+      "ParentComponentOrVariableName": "PreviewSceneCapture",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "C946607E-4F45CCDC-6695FB9C-2933CF91",
+      "InternalVariableName": "SpotLight1"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_2",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_ForkLottery_C:Plane2_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.67"
+      },
+      "ParentComponentOrVariableName": "PreviewSceneCapture",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "D8A1746E-4B96A1A8-0622EFA3-C57933F6",
+      "InternalVariableName": "Plane2"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_20",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'PointLightComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "PointLightComponent'BP_PreviewActor_ForkLottery_C:PointLight2_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.33"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "5FA30B41-4B547F6E-E05F2296-326E654C",
+      "InternalVariableName": "PointLight2"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_21",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'PointLightComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "PointLightComponent'BP_PreviewActor_ForkLottery_C:PointLight3_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.34"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "D0312CB6-4D7CC7D4-A1548184-EBD4474C",
+      "InternalVariableName": "PointLight3"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_23",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_ForkLottery_C:Sphere_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.70"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "9D0BB82E-4FA02727-8A55219B-3B4EEB5E",
+      "InternalVariableName": "Sphere"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_4",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_ForkLottery_C:Plane_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.69"
+      },
+      "ParentComponentOrVariableName": "PreviewSceneCapture",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "CF6080C9-42BFAC82-BC680EB5-ED29C74B",
+      "InternalVariableName": "Plane"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_5",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_ForkLottery_C:Plane3_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.68"
+      },
+      "ParentComponentOrVariableName": "PreviewSceneCapture",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "C6531F97-4F80A867-778499BB-07B50C1D",
+      "InternalVariableName": "Plane3"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_6",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'ChildActorComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "ChildActorComponent'BP_PreviewActor_ForkLottery_C:LevelSequenceActor_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.5"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "219829C5-48F2858D-58284791-083459A1",
+      "InternalVariableName": "LevelSequenceActor"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_7",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'SkyLightComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "SkyLightComponent'BP_PreviewActor_ForkLottery_C:SkyLight_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.61"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "5B3F3CDF-43BB6F72-A5DA4CB8-55A56939",
+      "InternalVariableName": "SkyLight"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_8",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'PointLightComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "PointLightComponent'BP_PreviewActor_ForkLottery_C:PointLight_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.35"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "CC865BEF-4A5CD88D-97800098-42836DBF",
+      "InternalVariableName": "PointLight"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_9",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.58"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_ForkLottery_C:BottomShadow_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.64"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "85F6C3EB-4F2EAC0F-B1268F91-DFC0DC12",
+      "InternalVariableName": "BottomShadow"
+    }
+  },
+  {
+    "Type": "SimpleConstructionScript",
+    "Name": "SimpleConstructionScript_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SimpleConstructionScript'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "RootNodes": [
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_7'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.55"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_16'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.46"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_4'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.52"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_2'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.48"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_9'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.57"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_23'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.51"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_18'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.47"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_12'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.45"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_1'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.42"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_5'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.53"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_8'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.56"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_10'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.43"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_20'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.49"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_21'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.50"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_11'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.44"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_6'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.54"
+        }
+      ],
+      "AllNodes": [
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_7'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.55"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_16'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.46"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_4'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.52"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_2'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.48"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_9'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.57"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_23'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.51"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_18'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.47"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_12'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.45"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_1'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.42"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_5'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.53"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_8'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.56"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_10'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.43"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_20'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.49"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_21'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.50"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_11'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.44"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_6'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.54"
+        }
+      ],
+      "DefaultSceneRootNode": {
+        "ObjectName": "SCS_Node'BP_PreviewActor_ForkLottery_C:SimpleConstructionScript_0.SCS_Node_0'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.41"
+      }
+    }
+  },
+  {
+    "Type": "SkeletalMeshComponent",
+    "Name": "ForkMesh",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SkeletalMeshComponent'",
+    "Outer": {
+      "ObjectName": "BPCharacterActor_C'BP_PreviewActor_ForkLottery_C:SoloActor_GEN_VARIABLE.ChildActor_GEN_VARIABLE_BPCharacterActor_C_CAT'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.3"
+    },
+    "Template": {
+      "ObjectName": "SkeletalMeshComponent'Default__BPCharacterActor_C:ForkMesh'",
+      "ObjectPath": "/Game/UI/Blueprints/Character/BPCharacterActor.15"
+    },
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent'BP_PreviewActor_ForkLottery_C:SoloActor_GEN_VARIABLE.ChildActor_GEN_VARIABLE_BPCharacterActor_C_CAT.RootComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.39"
+      }
+    }
+  },
+  {
+    "Type": "SkeletalMeshComponent",
+    "Name": "Mesh",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SkeletalMeshComponent'",
+    "Outer": {
+      "ObjectName": "BPCharacterActor_C'BP_PreviewActor_ForkLottery_C:SoloActor_GEN_VARIABLE.ChildActor_GEN_VARIABLE_BPCharacterActor_C_CAT'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.3"
+    },
+    "Template": {
+      "ObjectName": "SkeletalMeshComponent'Default__BPCharacterActor_C:Mesh'",
+      "ObjectPath": "/Game/UI/Blueprints/Character/BPCharacterActor.16"
+    },
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent'BP_PreviewActor_ForkLottery_C:SoloActor_GEN_VARIABLE.ChildActor_GEN_VARIABLE_BPCharacterActor_C_CAT.RootComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.39"
+      }
+    }
+  },
+  {
+    "Type": "SkyLightComponent",
+    "Name": "SkyLight_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SkyLightComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "SourceType": "ESkyLightSourceType::SLS_SpecifiedCubemap",
+      "Cubemap": {
+        "ObjectName": "TextureCube'HDRI_Exhibition_Cgchoco_Interior_4k'",
+        "ObjectPath": "/Game/Environment/Cubemaps/GarageCube/HDRI_Exhibition_Cgchoco_Interior_4k.0"
+      },
+      "LowerHemisphereColor": {
+        "R": 0.154514,
+        "G": 0.05,
+        "B": 0.093429,
+        "A": 1.0,
+        "Hex": "6D3F56"
+      },
+      "Intensity": 1.5,
+      "LightColor": {
+        "B": 255,
+        "G": 254,
+        "R": 247,
+        "A": 255,
+        "Hex": "F7FEFF"
+      },
+      "CastShadows": false,
+      "CastStaticShadows": false,
+      "CastDynamicShadows": false,
+      "bCastVolumetricShadow": false,
+      "RelativeLocation": {
+        "X": 20.0,
+        "Y": -4.553846E-07,
+        "Z": 5.2145486
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.0,
+        "Roll": 0.0
+      },
+      "Mobility": "EComponentMobility::Movable"
+    }
+  },
+  {
+    "Type": "SpotLightComponent",
+    "Name": "SpotLight1_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SpotLightComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "InnerConeAngle": 30.0,
+      "OuterConeAngle": 40.0,
+      "SourceRadius": 840.0,
+      "SoftSourceRadius": 260.0,
+      "IntensityUnits": "ELightUnits::Candelas",
+      "AttenuationRadius": 20000.0,
+      "LightingChannels": {
+        "bChannel0": false,
+        "bChannel1": true
+      },
+      "Intensity": 50.0,
+      "CastShadows": false,
+      "VolumetricScatteringIntensity": 0.0,
+      "RelativeLocation": {
+        "X": 182.00229,
+        "Y": -17.284134,
+        "Z": 274.13358
+      },
+      "RelativeRotation": {
+        "Pitch": -85.60063,
+        "Yaw": -206.99356,
+        "Roll": 477.20334
+      }
+    },
+    "IntensityNits": 0.48205683
+  },
+  {
+    "Type": "SpringArmComponent",
+    "Name": "SpringArm",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SpringArmComponent'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_ForkLottery_C'Default__BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.2"
+    },
+    "Properties": {
+      "TargetArmLength": 0.0,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent'Default__BP_PreviewActor_ForkLottery_C:RootMesh'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.71"
+      },
+      "RelativeLocation": {
+        "X": 54.0,
+        "Y": 0.0,
+        "Z": 0.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "BottomShadow_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'M_Decal_012'",
+          "ObjectPath": "/Game/FX/Mat/Decal/M_Decal_012.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": 20.332052,
+        "Z": 4.1819632E-08
+      },
+      "RelativeScale3D": {
+        "X": 1.8320885,
+        "Y": 1.0669136,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "DarkMask_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant'MI_Glass_Gacha'",
+          "ObjectPath": "/Game/Environment/Building/Materials_Common/GlassMaterial/MI_Glass_Gacha.0"
+        }
+      ],
+      "TranslucencySortPriority": -1,
+      "RelativeLocation": {
+        "X": -5.64611,
+        "Y": 27.004824,
+        "Z": 15.002843
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 93.3484
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Plane1_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'UI_YH_Gacha_Label_Bg_Mat'",
+          "ObjectPath": "/Game/UI/UI/Gashapon/UI_YH_Gacha_Label_Bg_Mat.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 453.1581,
+        "Y": -115.68292,
+        "Z": -74.57748
+      },
+      "RelativeRotation": {
+        "Pitch": -21.376333,
+        "Yaw": 94.9212,
+        "Roll": 81.98695
+      },
+      "RelativeScale3D": {
+        "X": 1.3570935,
+        "Y": 0.077882,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Plane2_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant'MI_UI_DynamicBackgroundForGashapon_Inst'",
+          "ObjectPath": "/Game/UI/UI/3DUI/Background/DynamicBackground/MI_UI_DynamicBackgroundForGashapon_Inst.0"
+        }
+      ],
+      "LightingChannels": {
+        "bChannel0": false,
+        "bChannel1": true
+      },
+      "RelativeLocation": {
+        "X": 407.71375,
+        "Y": 78.93049,
+        "Z": -25.441654
+      },
+      "RelativeRotation": {
+        "Pitch": -16.235064,
+        "Yaw": 1529.2196,
+        "Roll": 1530.0
+      },
+      "RelativeScale3D": {
+        "X": 9.33681,
+        "Y": 3.927425,
+        "Z": 0.22345226
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Plane3_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'UI_YH_Gacha_Label_Bg_Mat'",
+          "ObjectPath": "/Game/UI/UI/Gashapon/UI_YH_Gacha_Label_Bg_Mat.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 432.77603,
+        "Y": 121.83531,
+        "Z": -6.6252217
+      },
+      "RelativeRotation": {
+        "Pitch": -60.119385,
+        "Yaw": 103.07216,
+        "Roll": 74.40266
+      },
+      "RelativeScale3D": {
+        "X": 1.3552284,
+        "Y": 0.077882,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Plane_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'UI_YH_Gacha_Label_Bg_Mat'",
+          "ObjectPath": "/Game/UI/UI/Gashapon/UI_YH_Gacha_Label_Bg_Mat.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 452.16714,
+        "Y": -125.69812,
+        "Z": -49.983692
+      },
+      "RelativeRotation": {
+        "Pitch": -58.871197,
+        "Yaw": 102.58961,
+        "Roll": 74.9627
+      },
+      "RelativeScale3D": {
+        "X": 1.3536165,
+        "Y": 0.077882424,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Sphere_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Sphere'",
+        "ObjectPath": "/Engine/BasicShapes/Sphere.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'BasicShapeMaterial'",
+          "ObjectPath": "/Engine/BasicShapes/BasicShapeMaterial.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 60.180134,
+        "Y": -24.427408,
+        "Z": 7.0487776
+      },
+      "bVisible": false
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "RootMesh",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_ForkLottery_C'Default__BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.2"
+    }
+  },
+  {
+    "Type": "TimelineTemplate",
+    "Name": "时间轴_Template",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'TimelineTemplate'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_ForkLottery_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.0"
+    },
+    "Properties": {
+      "TimelineLength": 3.0,
+      "bAutoPlay": true,
+      "FloatTracks": [
+        {
+          "CurveFloat": {
+            "ObjectName": "CurveFloat'BP_PreviewActor_ForkLottery_C:CurveFloat_1_3'",
+            "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.8"
+          },
+          "PropertyName": "____ForkXPositon_83F20B39470354C68E9584A74C303637",
+          "TrackName": "ForkXPositon",
+          "bIsExternalCurve": false
+        },
+        {
+          "CurveFloat": {
+            "ObjectName": "CurveFloat'BP_PreviewActor_ForkLottery_C:CurveFloat_0'",
+            "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_ForkLottery.7"
+          },
+          "PropertyName": "____ForkScale_83F20B39470354C68E9584A74C303637",
+          "TrackName": "ForkScale",
+          "bIsExternalCurve": false
+        }
+      ],
+      "TimelineGuid": "83F20B39-470354C6-8E9584A7-4C303637",
+      "VariableName": "时间轴",
+      "DirectionPropertyName": "_____Direction_83F20B39470354C68E9584A74C303637",
+      "UpdateFunctionName": "时间轴__UpdateFunc",
+      "FinishedFunctionName": "时间轴__FinishedFunc"
+    }
+  }
+]

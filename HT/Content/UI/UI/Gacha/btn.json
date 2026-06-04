@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "btn",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/btn",
+    "Properties": {
+      "ImportedSize": {
+        "X": 380,
+        "Y": 76
+      },
+      "LightingGuid": "71E37B6A-4B77C9DB-DD622BB8-8668E879",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 380,
+    "SizeY": 76,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 28880,
+          "SizeOnDisk": 28880,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 380,
+        "SizeY": 76,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

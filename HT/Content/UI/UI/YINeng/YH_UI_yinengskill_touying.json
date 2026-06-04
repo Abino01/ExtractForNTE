@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yinengskill_touying",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_UI_yinengskill_touying",
+    "Properties": {
+      "ImportedSize": {
+        "X": 236,
+        "Y": 272
+      },
+      "LightingGuid": "E2FCD5C1-4092FE11-E7C0DB9A-8493C92E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 236,
+    "SizeY": 272,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 64192,
+          "SizeOnDisk": 64192,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 236,
+        "SizeY": 272,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

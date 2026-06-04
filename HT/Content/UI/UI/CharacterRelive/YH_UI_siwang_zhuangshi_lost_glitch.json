@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_siwang_zhuangshi_lost_glitch",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CharacterRelive/YH_UI_siwang_zhuangshi_lost_glitch",
+    "Properties": {
+      "ImportedSize": {
+        "X": 768,
+        "Y": 768
+      },
+      "LightingGuid": "B2F7CE91-494C1F1E-F6E394B0-548DE4F0",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "SRGB": false,
+      "NeverStream": true
+    },
+    "SizeX": 768,
+    "SizeY": 768,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2359296,
+          "SizeOnDisk": 2359296,
+          "OffsetInFile": "0x7E"
+        },
+        "SizeX": 768,
+        "SizeY": 768,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

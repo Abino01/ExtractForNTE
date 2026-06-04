@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_img_custom",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/YH_UI_img_custom",
+    "Properties": {
+      "ImportedSize": {
+        "X": 464,
+        "Y": 32
+      },
+      "LightingGuid": "01A4347D-44D3E3CB-629D41AB-DE37D2B4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 464,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 14848,
+          "SizeOnDisk": 14848,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 464,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

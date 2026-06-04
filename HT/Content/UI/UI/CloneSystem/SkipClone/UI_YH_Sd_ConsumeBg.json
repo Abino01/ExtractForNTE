@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Sd_ConsumeBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/SkipClone/UI_YH_Sd_ConsumeBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 60,
+        "Y": 32
+      },
+      "LightingGuid": "6AC41F7D-47549BB2-0D85DCA7-2E2D51BF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 60,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1920,
+          "SizeOnDisk": 1920,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 60,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

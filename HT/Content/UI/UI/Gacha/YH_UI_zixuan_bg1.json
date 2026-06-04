@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_zixuan_bg1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_zixuan_bg1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 272,
+        "Y": 780
+      },
+      "LightingGuid": "C09C3634-4496C26E-BEF66F9F-277F3288",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 272,
+    "SizeY": 780,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 212160,
+          "SizeOnDisk": 212160,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 272,
+        "SizeY": 780,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

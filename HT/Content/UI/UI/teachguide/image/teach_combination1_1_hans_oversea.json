@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "teach_combination1_1_hans_oversea",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/teachguide/image/teach_combination1_1_hans_oversea",
+    "Properties": {
+      "ImportedSize": {
+        "X": 832,
+        "Y": 424
+      },
+      "LightingGuid": "A8B3E8C6-45201102-F768C3B8-A5982288",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 832,
+    "SizeY": 424,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 352768,
+          "SizeOnDisk": 352768,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 832,
+        "SizeY": 424,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

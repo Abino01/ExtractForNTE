@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_YinY_FenShuBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YH_YinY_FenShuBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 132,
+        "Y": 376
+      },
+      "LightingGuid": "BA8D1B9C-43132F19-32F9A3AA-4CC2C735",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 132,
+    "SizeY": 376,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 49632,
+          "SizeOnDisk": 49632,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 132,
+        "SizeY": 376,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

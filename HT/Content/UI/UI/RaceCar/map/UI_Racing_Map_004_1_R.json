@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_Racing_Map_004_1_R",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/map/UI_Racing_Map_004_1_R",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1200,
+        "Y": 1200
+      },
+      "LightingGuid": "99E68477-45977E77-9F8CAFB9-E2E5EFB8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1200,
+    "SizeY": 1200,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 720000,
+          "SizeOnDisk": 720000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1200,
+        "SizeY": 1200,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

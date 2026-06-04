@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_popbg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/YH_UI_shangpu_popbg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1236,
+        "Y": 796
+      },
+      "LightingGuid": "C0BE9210-4782C2A7-632B7F90-24291E73",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1236,
+    "SizeY": 796,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 983856,
+          "SizeOnDisk": 983856,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1236,
+        "SizeY": 796,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

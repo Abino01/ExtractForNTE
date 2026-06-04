@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Dance_9",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/Icon/Dance_9",
+    "Properties": {
+      "ImportedSize": {
+        "X": 960,
+        "Y": 540
+      },
+      "LightingGuid": "50C6A325-49A01ECB-D96083B4-4355B1B0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 960,
+    "SizeY": 540,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 259200,
+          "SizeOnDisk": 259200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 960,
+        "SizeY": 540,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

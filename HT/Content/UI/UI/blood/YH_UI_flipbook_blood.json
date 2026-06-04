@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_flipbook_blood",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/blood/YH_UI_flipbook_blood",
+    "Properties": {
+      "ImportedSize": {
+        "X": 336,
+        "Y": 736
+      },
+      "LightingGuid": "EBC609A0-4ACCAA88-1F602189-EC18980B",
+      "NeverStream": true
+    },
+    "SizeX": 336,
+    "SizeY": 736,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 123648,
+          "SizeOnDisk": 123648,
+          "OffsetInFile": "0x71"
+        },
+        "SizeX": 336,
+        "SizeY": 736,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_tiezhi_common",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/DelegateMission/YH_UI_tiezhi_common",
+    "Properties": {
+      "ImportedSize": {
+        "X": 172,
+        "Y": 172
+      },
+      "LightingGuid": "6106F034-456BF286-FFAB1E99-AB23063E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 172,
+    "SizeY": 172,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 29584,
+          "SizeOnDisk": 29584,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 172,
+        "SizeY": 172,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

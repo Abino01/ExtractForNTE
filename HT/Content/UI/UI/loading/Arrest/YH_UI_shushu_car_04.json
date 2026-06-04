@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shushu_car_04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/loading/Arrest/YH_UI_shushu_car_04",
+    "Properties": {
+      "ImportedSize": {
+        "X": 476,
+        "Y": 368
+      },
+      "LightingGuid": "557D6147-47063EAD-8C0DD08D-BFEE4F09",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 476,
+    "SizeY": 368,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 175168,
+          "SizeOnDisk": 175168,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 476,
+        "SizeY": 368,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

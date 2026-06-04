@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_chactorNol_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PianoPlay/UI_chactorNol_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 42,
+        "Y": 42
+      },
+      "LightingGuid": "FA7E6982-47FFE1EF-A38A45AB-C2953AB7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 42,
+    "SizeY": 42,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7056,
+          "SizeOnDisk": 7056,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 42,
+        "SizeY": 42,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

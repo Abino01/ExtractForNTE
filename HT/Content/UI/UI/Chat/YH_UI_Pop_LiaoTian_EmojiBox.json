@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Pop_LiaoTian_EmojiBox",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Chat/YH_UI_Pop_LiaoTian_EmojiBox",
+    "Properties": {
+      "ImportedSize": {
+        "X": 176,
+        "Y": 176
+      },
+      "LightingGuid": "5CC5AC60-4A336C31-96244889-EED8208E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 176,
+    "SizeY": 176,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 30976,
+          "SizeOnDisk": 30976,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 176,
+        "SizeY": 176,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

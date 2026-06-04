@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_shijian_jindu",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_selfie_shijian_jindu",
+    "Properties": {
+      "ImportedSize": {
+        "X": 368,
+        "Y": 368
+      },
+      "LightingGuid": "BAA5FE52-4A7FDCFA-AD66A4BB-B0F136E3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 368,
+    "SizeY": 368,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 135424,
+          "SizeOnDisk": 135424,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 368,
+        "SizeY": 368,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

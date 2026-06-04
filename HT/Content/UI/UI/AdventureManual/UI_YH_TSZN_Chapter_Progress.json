@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_TSZN_Chapter_Progress",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/AdventureManual/UI_YH_TSZN_Chapter_Progress",
+    "Properties": {
+      "ImportedSize": {
+        "X": 359,
+        "Y": 28
+      },
+      "LightingGuid": "8F58A330-4660FF20-AAFE0491-1DDCE89C",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 359,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 40208,
+          "SizeOnDisk": 40208,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 359,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

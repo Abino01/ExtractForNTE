@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DiTu_TSD_BG_Hover",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/YH_UI_DiTu_TSD_BG_Hover",
+    "Properties": {
+      "ImportedSize": {
+        "X": 336,
+        "Y": 112
+      },
+      "LightingGuid": "17273B84-4DF2D48B-C074598B-6E28B45B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 336,
+    "SizeY": 112,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 150528,
+          "SizeOnDisk": 150528,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 336,
+        "SizeY": 112,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_CarComponent_chejia",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/icon/YH_UI_CarComponent_chejia",
+    "Properties": {
+      "ImportedSize": {
+        "X": 144,
+        "Y": 140
+      },
+      "LightingGuid": "EEAA8320-49ACE545-BB451E8F-BEDAF9C5",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 144,
+    "SizeY": 140,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 20160,
+          "SizeOnDisk": 20160,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 144,
+        "SizeY": 140,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

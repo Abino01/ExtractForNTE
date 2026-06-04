@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yineng_jihuodi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Awaken/YH_UI_yineng_jihuodi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 106,
+        "Y": 44
+      },
+      "LightingGuid": "FB838936-4AB00E5E-80B429B6-D9649D23",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 106,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 18656,
+          "SizeOnDisk": 18656,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 106,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

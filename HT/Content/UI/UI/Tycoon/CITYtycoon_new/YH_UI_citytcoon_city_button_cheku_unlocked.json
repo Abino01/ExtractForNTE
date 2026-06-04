@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_citytcoon_city_button_cheku_unlocked",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/CITYtycoon_new/YH_UI_citytcoon_city_button_cheku_unlocked",
+    "Properties": {
+      "ImportedSize": {
+        "X": 412,
+        "Y": 186
+      },
+      "LightingGuid": "B404A135-49FC3D6C-B0B5B596-AD20BAF2",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 412,
+    "SizeY": 186,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 306528,
+          "SizeOnDisk": 306528,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 412,
+        "SizeY": 186,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

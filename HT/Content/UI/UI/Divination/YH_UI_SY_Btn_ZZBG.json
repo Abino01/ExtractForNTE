@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SY_Btn_ZZBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Divination/YH_UI_SY_Btn_ZZBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 312,
+        "Y": 68
+      },
+      "LightingGuid": "DE7F490B-4D5854BD-FDD4CC86-F3D54785",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 312,
+    "SizeY": 68,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 21216,
+          "SizeOnDisk": 21216,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 312,
+        "SizeY": 68,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

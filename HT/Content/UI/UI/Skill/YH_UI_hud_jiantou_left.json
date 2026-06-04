@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_hud_jiantou_left",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/skill/YH_UI_hud_jiantou_left",
+    "Properties": {
+      "ImportedSize": {
+        "X": 108,
+        "Y": 100
+      },
+      "LightingGuid": "A105D301-4C7F699F-058F7AA5-FADC4B98",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 108,
+    "SizeY": 100,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10800,
+          "SizeOnDisk": 10800,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 108,
+        "SizeY": 100,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

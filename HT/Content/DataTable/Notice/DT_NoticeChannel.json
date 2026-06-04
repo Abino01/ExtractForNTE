@@ -1,0 +1,57 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_NoticeChannel",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/Notice/DT_NoticeChannel",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'NoticeChannelConfig'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "default": {
+        "Description": "默认",
+        "URLPostfix": "/Notice/default/Notice.json"
+      },
+      "9_2": {
+        "Description": "iOS",
+        "URLPostfix": "/Notice/9_2/Notice.json"
+      },
+      "9_6642": {
+        "Description": "官方PC端",
+        "URLPostfix": "/Notice/9_6642/Notice.json"
+      },
+      "9_6643": {
+        "Description": "官方Android端",
+        "URLPostfix": "/Notice/9_6643/Notice.json"
+      },
+      "9_6508": {
+        "Description": "TapTapPC端",
+        "URLPostfix": "/Notice/9_6508/Notice.json"
+      },
+      "9_410": {
+        "Description": "TapTapAndroid",
+        "URLPostfix": "/Notice/9_410/Notice.json"
+      },
+      "9_661": {
+        "Description": "好游快爆Android",
+        "URLPostfix": "/Notice/9_661/Notice.json"
+      },
+      "123_6639": {
+        "Description": "哔哩哔哩PC端",
+        "URLPostfix": "/Notice/123_6639/Notice.json"
+      },
+      "123_1": {
+        "Description": "哔哩哔哩Android",
+        "URLPostfix": "/Notice/123_1/Notice.json"
+      },
+      "banshu": {
+        "Description": "版署",
+        "URLPostfix": "/Notice/banshu/Notice.json"
+      }
+    }
+  }
+]

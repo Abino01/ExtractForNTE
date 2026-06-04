@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_libaoshangcheng_hengtiao_7",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/tuijian/YH_UI_libaoshangcheng_hengtiao_7",
+    "Properties": {
+      "ImportedSize": {
+        "X": 368,
+        "Y": 244
+      },
+      "LightingGuid": "AE4D8237-47316767-028EE5A3-70C7CB8B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 368,
+    "SizeY": 244,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 89792,
+          "SizeOnDisk": 89792,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 368,
+        "SizeY": 244,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

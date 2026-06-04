@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Pass_pop_bg2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CombatAward/UI_YH_Pass_pop_bg2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2212,
+        "Y": 160
+      },
+      "LightingGuid": "DF10F2AD-444A540B-99AE9BA8-6EC60392",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 2212,
+    "SizeY": 160,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 353920,
+          "SizeOnDisk": 353920,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 2212,
+        "SizeY": 160,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

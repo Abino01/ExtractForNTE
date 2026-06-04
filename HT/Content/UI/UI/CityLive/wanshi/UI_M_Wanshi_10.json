@@ -1,0 +1,116 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_M_Wanshi_10",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/UI_M_Wanshi_10",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_UI_Circle'",
+        "ObjectPath": "/Game/UI/UI_Effect/UIMaterial/Base/M_UI_Circle.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Progress",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.531999,
+          "ExpressionGUID": "4C024CBA-408CFBBD-0C38CA83-DA2DFF0B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotationAngle",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.25,
+          "ExpressionGUID": "78BD4606-418475D0-A3413E9B-4AD25DF3"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "503D5FDA-4D391614-047D7C8F-8D796BE8"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RotationCenter",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.5,
+            "G": 0.5,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "BCBC00"
+          },
+          "ExpressionGUID": "E89A0815-4DF1FAC1-288DF7B5-9A77AA29"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_wanshiban_bingo6'",
+            "ObjectPath": "/Game/UI/UI/CityLive/wanshi/YH_UI_wanshiban_bingo6.0"
+          },
+          "ExpressionGUID": "CF53C2E4-4333F8DE-48303C9E-A2B1CA3E"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.33
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "Reverse",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "8673BCF4-45BC3C3F-E07A11A1-8B13E69B"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

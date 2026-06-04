@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Gacha_RecordsBtn_Bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gashapon/UI_YH_Gacha_RecordsBtn_Bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 98,
+        "Y": 56
+      },
+      "LightingGuid": "62D4339D-4061F3D7-21C4EBA9-5AEF27B1",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 98,
+    "SizeY": 56,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 21952,
+          "SizeOnDisk": 21952,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 98,
+        "SizeY": 56,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_listdiwen",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/YH_UI_shangpu_listdiwen",
+    "Properties": {
+      "ImportedSize": {
+        "X": 600,
+        "Y": 569
+      },
+      "LightingGuid": "3E620CD1-4333BA1F-8F2A4A8D-9F9C3C6B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 600,
+    "SizeY": 569,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1365600,
+          "SizeOnDisk": 1365600,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 600,
+        "SizeY": 569,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "tips_mouse_zhongjian",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/roomsetting/tips_mouse_zhongjian",
+    "Properties": {
+      "ImportedSize": {
+        "X": 40,
+        "Y": 44
+      },
+      "LightingGuid": "0F49D784-44E2815A-20D093A8-35CBE0F0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 40,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1760,
+          "SizeOnDisk": 1760,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 40,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

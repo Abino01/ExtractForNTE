@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Time_Bkg_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/AdjustTime/UI_YH_Time_Bkg_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 628,
+        "Y": 628
+      },
+      "LightingGuid": "F8EED614-4DB2BC2F-229F76B5-475EF06C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 628,
+    "SizeY": 628,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 394384,
+          "SizeOnDisk": 394384,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 628,
+        "SizeY": 628,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_PVEBOSS_Settings_Details",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/DiyBoss/UI_YH_PVEBOSS_Settings_Details",
+    "Properties": {
+      "ImportedSize": {
+        "X": 560,
+        "Y": 336
+      },
+      "LightingGuid": "1EB0B878-4F683FB3-2912089C-5CF901C5",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 560,
+    "SizeY": 336,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 188160,
+          "SizeOnDisk": 188160,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 560,
+        "SizeY": 336,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

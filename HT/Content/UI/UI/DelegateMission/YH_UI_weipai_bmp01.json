@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_weipai_bmp01",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/DelegateMission/YH_UI_weipai_bmp01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 548,
+        "Y": 222
+      },
+      "LightingGuid": "F36AC5E5-479E8096-54AD0584-193B4577",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 548,
+    "SizeY": 222,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 486624,
+          "SizeOnDisk": 486624,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 548,
+        "SizeY": 222,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

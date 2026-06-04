@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_H_playemote03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/emote/UI_H_playemote03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 4416,
+        "Y": 3204
+      },
+      "LightingGuid": "58848262-42140FBA-7424AB9C-020AAC9B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 4416,
+    "SizeY": 3204,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 56595456,
+          "SizeOnDisk": 56595456,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 4416,
+        "SizeY": 3204,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

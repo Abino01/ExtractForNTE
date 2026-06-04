@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_JuBao_Bg1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Report/YH_UI_JuBao_Bg1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 878,
+        "Y": 264
+      },
+      "LightingGuid": "D05D9DED-494D8E86-5634428E-950B2694",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 878,
+    "SizeY": 264,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 927168,
+          "SizeOnDisk": 927168,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 878,
+        "SizeY": 264,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

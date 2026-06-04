@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Map_DiaoYuList4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Fishing/YH_UI_Map_DiaoYuList4",
+    "Properties": {
+      "ImportedSize": {
+        "X": 242,
+        "Y": 108
+      },
+      "LightingGuid": "C87A519D-4F11A274-344468A4-D7E87AEA",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 242,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 104544,
+          "SizeOnDisk": 104544,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 242,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

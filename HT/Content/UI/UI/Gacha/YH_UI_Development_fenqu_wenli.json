@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Development_fenqu_wenli",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_Development_fenqu_wenli",
+    "Properties": {
+      "ImportedSize": {
+        "X": 7,
+        "Y": 7
+      },
+      "LightingGuid": "34BAE0FA-4D179FAF-2A008382-E268D6BC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 7,
+    "SizeY": 7,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 196,
+          "SizeOnDisk": 196,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 7,
+        "SizeY": 7,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_museum_CheckinBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Library/YH_UI_museum_CheckinBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 620,
+        "Y": 468
+      },
+      "LightingGuid": "2265A853-4AE1B4B7-985F0DB2-AE0E9DD8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 620,
+    "SizeY": 468,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 290160,
+          "SizeOnDisk": 290160,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 620,
+        "SizeY": 468,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

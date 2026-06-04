@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Chengjiu_celan_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Achievement/YH_UI_Chengjiu_celan_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 112,
+        "Y": 792
+      },
+      "LightingGuid": "F938D076-4FB8C081-414B40B6-95E3C07B",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 112,
+    "SizeY": 792,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 354816,
+          "SizeOnDisk": 354816,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 112,
+        "SizeY": 792,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

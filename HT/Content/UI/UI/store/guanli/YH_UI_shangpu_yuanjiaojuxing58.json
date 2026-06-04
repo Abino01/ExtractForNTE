@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_yuanjiaojuxing58",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/guanli/YH_UI_shangpu_yuanjiaojuxing58",
+    "Properties": {
+      "ImportedSize": {
+        "X": 88,
+        "Y": 58
+      },
+      "LightingGuid": "DD4D498B-40319F56-9973BF87-F2E03756",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 88,
+    "SizeY": 58,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 20416,
+          "SizeOnDisk": 20416,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 88,
+        "SizeY": 58,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

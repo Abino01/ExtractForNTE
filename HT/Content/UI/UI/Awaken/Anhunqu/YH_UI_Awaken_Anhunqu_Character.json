@@ -1,0 +1,236 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "YH_UI_Awaken_Anhunqu_Character",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/Awaken/Anhunqu/YH_UI_Awaken_Anhunqu_Character",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'UI_Mat_UVOffest_New'",
+        "ObjectPath": "/Game/UI/UI_Effect/UIMaterial/Base/UI_Mat_UVOffest_New.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UVOffestAngle",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "D0AD6ECD-49A03E39-A534F38F-7E07508A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "953826E5-45A79805-9D58F1A2-E01C8896"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "LayerColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "3ECD5260-4D56FAA4-A4A1A7AB-5CA4E184"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UVOffestTranslation",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.048,
+            "G": -0.075,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "3E0000"
+          },
+          "ExpressionGUID": "426542B9-41E4AC6E-6D3D3F8E-CC4D4E09"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UVOffsetScale",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": -2.085,
+            "G": -2.048,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "ExpressionGUID": "7975F80F-4754DE96-360255AF-60AC9144"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Value",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "ExpressionGUID": "1E5804F4-47E55E4A-D7FA4788-EC870F78"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UVOffsetScale_2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": -1.0,
+            "G": -1.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "ExpressionGUID": "7903CBBA-4AB2FF03-0CC2C7B6-A004E9BD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Value2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "ExpressionGUID": "93B6C64A-4B5CE83B-26F28896-FBA38E90"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "BaseColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_juexingdi_Bg_Mask'",
+            "ObjectPath": "/Game/UI/UI/Awaken/YH_UI_juexingdi_Bg_Mask.0"
+          },
+          "ExpressionGUID": "559A1E6E-45412EC7-AF913D8D-CDD94C05"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Mask_1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_juexingdi_Anhunqu'",
+            "ObjectPath": "/Game/UI/UI/Awaken/Anhunqu/YH_UI_juexingdi_Anhunqu.0"
+          },
+          "ExpressionGUID": "7AD29C33-42FAF294-36ADC6B9-D9B17243"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Mask_2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Base01'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Base/UI_T_Base01.0"
+          },
+          "ExpressionGUID": "7625A425-44288C9C-738535A2-AE81BFF0"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "LightSweepORSpread",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "EDA9ABC4-40F52536-D07FEE97-89CC6AA6"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "MulOpacity",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "86FCFF6D-4C4D76AA-61A84593-6B8AD990"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "OpenColor_Mask1",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "834E606A-4683CC64-D59DB1B7-F800E256"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "OpenColor_Mask2",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "C1698306-45EAD428-57DA74A1-D40AE2EE"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

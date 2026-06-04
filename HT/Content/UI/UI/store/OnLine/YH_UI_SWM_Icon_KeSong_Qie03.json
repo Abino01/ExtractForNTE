@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SWM_Icon_KeSong_Qie03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/OnLine/YH_UI_SWM_Icon_KeSong_Qie03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 256,
+        "Y": 88
+      },
+      "LightingGuid": "4812E6A2-464CF4BD-ACDDE5B9-FDDC4C92",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 256,
+    "SizeY": 88,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 22528,
+          "SizeOnDisk": 22528,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 256,
+        "SizeY": 88,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Bank_Complete",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RobBank/YH_UI_Bank_Complete",
+    "Properties": {
+      "ImportedSize": {
+        "X": 164,
+        "Y": 140
+      },
+      "LightingGuid": "40C7F15D-4BF3A905-3D8941B0-CCB6D176",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 164,
+    "SizeY": 140,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 22960,
+          "SizeOnDisk": 22960,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 164,
+        "SizeY": 140,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

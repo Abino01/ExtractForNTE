@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Upgrade_EXP_PB",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/UI_YH_Upgrade_EXP_PB",
+    "Properties": {
+      "ImportedSize": {
+        "X": 471,
+        "Y": 11
+      },
+      "LightingGuid": "7EEF91CF-4E7A5D23-CE48C29B-811A940F",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 471,
+    "SizeY": 11,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 20724,
+          "SizeOnDisk": 20724,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 471,
+        "SizeY": 11,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

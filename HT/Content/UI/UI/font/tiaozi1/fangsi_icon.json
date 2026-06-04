@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "fangsi_icon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/font/tiaozi1/fangsi_icon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 112,
+        "Y": 108
+      },
+      "LightingGuid": "22F945B3-4C019802-F153D083-DF32D5C3",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 112,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 48384,
+          "SizeOnDisk": 48384,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 112,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

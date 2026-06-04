@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Yun_Text",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/YH_UI_Yun_Text",
+    "Properties": {
+      "ImportedSize": {
+        "X": 132,
+        "Y": 80
+      },
+      "LightingGuid": "5F958DA4-4A65F39F-F9FDA388-DEE1D4CC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 132,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10560,
+          "SizeOnDisk": 10560,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 132,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

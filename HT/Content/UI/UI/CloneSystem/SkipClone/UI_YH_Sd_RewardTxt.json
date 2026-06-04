@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Sd_RewardTxt",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/SkipClone/UI_YH_Sd_RewardTxt",
+    "Properties": {
+      "ImportedSize": {
+        "X": 66,
+        "Y": 11
+      },
+      "LightingGuid": "E4CFAEB8-4F4729F3-527247B4-0938278E",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 66,
+    "SizeY": 11,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2904,
+          "SizeOnDisk": 2904,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 66,
+        "SizeY": 11,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

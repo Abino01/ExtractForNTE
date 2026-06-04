@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_hud_zhuansu_img01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/racing/YH_UI_hud_zhuansu_img01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 522,
+        "Y": 8
+      },
+      "LightingGuid": "30E84270-49BFA3E6-2857F0A6-36481188",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 522,
+    "SizeY": 8,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 16704,
+          "SizeOnDisk": 16704,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 522,
+        "SizeY": 8,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

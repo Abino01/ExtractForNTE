@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_bofang_mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_selfie_bofang_mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 10,
+        "Y": 180
+      },
+      "LightingGuid": "2F8F8042-4A3BB89F-14D932AD-8A4A4926",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 10,
+    "SizeY": 180,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7200,
+          "SizeOnDisk": 7200,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 10,
+        "SizeY": 180,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_camera_power02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VideoTransition/YH_UI_camera_power02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 120,
+        "Y": 60
+      },
+      "LightingGuid": "1B6BF9D0-44CEC8EA-9446C4BD-3FBBA042",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 120,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7200,
+          "SizeOnDisk": 7200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 120,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

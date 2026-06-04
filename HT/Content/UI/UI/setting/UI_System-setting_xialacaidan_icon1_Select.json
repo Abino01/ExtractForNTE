@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_System-setting_xialacaidan_icon1_Select",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/setting/UI_System-setting_xialacaidan_icon1_Select",
+    "Properties": {
+      "ImportedSize": {
+        "X": 29,
+        "Y": 29
+      },
+      "LightingGuid": "B7CD5256-4B4AF8E3-79715AB5-861322F9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 29,
+    "SizeY": 29,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3364,
+          "SizeOnDisk": 3364,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 29,
+        "SizeY": 29,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

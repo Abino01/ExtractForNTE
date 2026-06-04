@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Tips_ProfilePicture_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/UI_YH_Bond_Tips_ProfilePicture_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 108,
+        "Y": 108
+      },
+      "LightingGuid": "7F5A6237-49726363-5DC4C287-38600055",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 108,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 11664,
+          "SizeOnDisk": 11664,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 108,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

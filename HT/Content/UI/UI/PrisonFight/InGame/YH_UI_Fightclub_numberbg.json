@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Fightclub_numberbg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PrisonFight/InGame/YH_UI_Fightclub_numberbg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 184,
+        "Y": 180
+      },
+      "LightingGuid": "3149E646-4E2807DB-BA74C9A5-599A2616",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 184,
+    "SizeY": 180,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 33120,
+          "SizeOnDisk": 33120,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 184,
+        "SizeY": 180,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

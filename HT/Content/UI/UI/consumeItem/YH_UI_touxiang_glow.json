@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_touxiang_glow",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/consumeItem/YH_UI_touxiang_glow",
+    "Properties": {
+      "ImportedSize": {
+        "X": 298,
+        "Y": 482
+      },
+      "LightingGuid": "0455100F-44FCF56E-9B89EDAC-5915A388",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 298,
+    "SizeY": 482,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 574544,
+          "SizeOnDisk": 574544,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 298,
+        "SizeY": 482,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Companion_rewards_list",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/Companion/YH_UI_Companion_rewards_list",
+    "Properties": {
+      "ImportedSize": {
+        "X": 126,
+        "Y": 148
+      },
+      "LightingGuid": "47463DB8-41152E04-F8D6BFA0-8B967C1E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 126,
+    "SizeY": 148,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 74592,
+          "SizeOnDisk": 74592,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 126,
+        "SizeY": 148,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

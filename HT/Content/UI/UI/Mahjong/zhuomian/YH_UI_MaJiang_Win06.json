@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_MaJiang_Win06",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_MaJiang_Win06",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1172,
+        "Y": 172
+      },
+      "LightingGuid": "E5AABB93-4C712E63-CE7BAF88-F45D6715",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1172,
+    "SizeY": 172,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 806336,
+          "SizeOnDisk": 806336,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1172,
+        "SizeY": 172,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

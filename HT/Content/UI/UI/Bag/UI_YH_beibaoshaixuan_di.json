@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_beibaoshaixuan_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/bag/UI_YH_beibaoshaixuan_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 920,
+        "Y": 80
+      },
+      "LightingGuid": "25AFB390-45DC9BCC-A86B3DAE-BF02A16F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 920,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 73600,
+          "SizeOnDisk": 73600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 920,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

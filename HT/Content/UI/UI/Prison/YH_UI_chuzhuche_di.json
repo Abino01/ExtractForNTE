@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_chuzhuche_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Prison/YH_UI_chuzhuche_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 240,
+        "Y": 52
+      },
+      "LightingGuid": "C6C6C214-462EB7ED-1A3662A7-3955503C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 240,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 12480,
+          "SizeOnDisk": 12480,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 240,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

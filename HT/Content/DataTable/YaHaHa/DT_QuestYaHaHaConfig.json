@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_QuestYaHaHaConfig",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/YaHaHa/DT_QuestYaHaHaConfig",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'YaHaHaData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "drop_mainquest_q1100591_food": {
+        "Index": 10000,
+        "YaHahaID": "drop_mainquest_q1100591_food",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "ZRange": 6E-45,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": []
+      }
+    }
+  }
+]

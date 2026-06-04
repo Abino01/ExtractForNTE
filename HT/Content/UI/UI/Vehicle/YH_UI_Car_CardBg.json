@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Car_CardBg",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/YH_UI_Car_CardBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 500,
+        "Y": 615
+      },
+      "LightingGuid": "19025ACA-4350AE16-C88F69BA-B0073E05",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 500,
+    "SizeY": 615,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1230000,
+          "SizeOnDisk": 1230000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 500,
+        "SizeY": 615,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

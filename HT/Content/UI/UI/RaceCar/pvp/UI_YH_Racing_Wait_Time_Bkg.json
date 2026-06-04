@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Wait_Time_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVP/UI_YH_Racing_Wait_Time_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 68,
+        "Y": 68
+      },
+      "LightingGuid": "D3E3BC75-4C2354B8-A015C0B8-78CDDEF7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 68,
+    "SizeY": 68,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4624,
+          "SizeOnDisk": 4624,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 68,
+        "SizeY": 68,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

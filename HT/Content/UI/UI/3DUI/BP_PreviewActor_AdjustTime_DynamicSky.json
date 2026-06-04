@@ -1,0 +1,1395 @@
+[
+  {
+    "Type": "ArrowComponent",
+    "Name": "Arrow_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'ArrowComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    }
+  },
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "BP_PreviewActor_AdjustTime_DynamicSky_C",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Package": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky",
+    "Properties": {
+      "SimpleConstructionScript": {
+        "ObjectName": "SimpleConstructionScript'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.28"
+      },
+      "UberGraphFunction": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:ExecuteUbergraph_BP_PreviewActor_AdjustTime_DynamicSky'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.7"
+      }
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'HTPreviewActor'",
+      "ObjectPath": "/Script/HTGame"
+    },
+    "Children": [
+      {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:UpdateCloudValues'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.16"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:Initialize for Cloud Movement'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.8"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:AddCloud'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.6"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:PreValue'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.13"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:UserConstructionScript'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.17"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:ReceiveTick'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.15"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:OnSetTimeOfDay'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.11"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:InitialTimeOfDay'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.9"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:OnUIActiveted'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.12"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:ReceiveBeginPlay'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.14"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:OnAdjustmentStateChanged'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.10"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:ExecuteUbergraph_BP_PreviewActor_AdjustTime_DynamicSky'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.7"
+      }
+    ],
+    "ChildProperties": [
+      {
+        "Type": "StructProperty",
+        "Name": "UberGraphFrame",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 16,
+        "PropertyFlags": "Transient | DuplicateTransient",
+        "Struct": {
+          "ObjectName": "Class'PointerToUberGraphFrame'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Mesh_Sphere_003",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "SM_cloud17_ZYF",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Ultra_Dynamci_Sky_HT_Preview",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'ChildActorComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Arrow",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'ArrowComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "BP_ScenePlayerLightComponent",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "BlueprintGeneratedClass'BP_ScenePlayerLightComponent_C'",
+          "ObjectPath": "/Game/UltraDynamicSky/Blueprints/PlayerLight/BP_ScenePlayerLightComponent.0"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "UDS_PlayerOcclusion",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "BlueprintGeneratedClass'UDS_PlayerOcclusion_C'",
+          "ObjectPath": "/Game/UltraDynamicSky/Blueprints/System/UDS_PlayerOcclusion.0"
+        }
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "TIME",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible"
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "InputTime",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance"
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "TimeForCloudMovement",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance"
+      },
+      {
+        "Type": "ArrayProperty",
+        "Name": "CloudMaterials",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 16,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance",
+        "Inner": {
+          "Type": "ObjectProperty",
+          "Name": "CloudMaterials",
+          "Flags": "RF_Public",
+          "ElementSize": 8,
+          "PropertyClass": {
+            "ObjectName": "Class'MaterialInstanceDynamic'",
+            "ObjectPath": "/Script/Engine"
+          }
+        }
+      },
+      {
+        "Type": "FloatProperty",
+        "Name": "Delta Seconds",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 4,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance"
+      },
+      {
+        "Type": "ByteProperty",
+        "Name": "CurrentTimeAdjustmentState",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 1,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance",
+        "Enum": {
+          "ObjectName": "Class'EAdjustTimeState'",
+          "ObjectPath": "/Script/HTGame"
+        }
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CurrentMovementSpeed",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance"
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "AdjustmentModeMovementSpeed",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance"
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "TimelapseModeMovementSpeed",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance"
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CurrentDisappearSpeed",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance"
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "TimelapseModeDisappearSpeed",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance"
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "AdjustmentModeDisappearSpeed",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance"
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "TimeForCloudDisappear",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance"
+      }
+    ],
+    "FuncMap": {
+      "ExecuteUbergraph_BP_PreviewActor_AdjustTime_DynamicSky": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:ExecuteUbergraph_BP_PreviewActor_AdjustTime_DynamicSky'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.7"
+      },
+      "OnAdjustmentStateChanged": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:OnAdjustmentStateChanged'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.10"
+      },
+      "ReceiveBeginPlay": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:ReceiveBeginPlay'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.14"
+      },
+      "OnUIActiveted": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:OnUIActiveted'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.12"
+      },
+      "InitialTimeOfDay": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:InitialTimeOfDay'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.9"
+      },
+      "OnSetTimeOfDay": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:OnSetTimeOfDay'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.11"
+      },
+      "ReceiveTick": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:ReceiveTick'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.15"
+      },
+      "UserConstructionScript": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:UserConstructionScript'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.17"
+      },
+      "PreValue": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:PreValue'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.13"
+      },
+      "AddCloud": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:AddCloud'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.6"
+      },
+      "Initialize for Cloud Movement": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:Initialize for Cloud Movement'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.8"
+      },
+      "UpdateCloudValues": {
+        "ObjectName": "Function'BP_PreviewActor_AdjustTime_DynamicSky_C:UpdateCloudValues'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.16"
+      }
+    },
+    "ClassFlags": "CLASS_Config | CLASS_NoExport | CLASS_CompiledFromBlueprint | CLASS_HasInstancedReference",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "BP_PreviewActor_AdjustTime_DynamicSky_C'Default__BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.2"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "BP_PreviewActor_AdjustTime_DynamicSky_C",
+    "Name": "Default__BP_PreviewActor_AdjustTime_DynamicSky_C",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "BlueprintGeneratedClass'/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.BP_PreviewActor_AdjustTime_DynamicSky_C'",
+    "Package": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky",
+    "Properties": {
+      "UberGraphFrame": {},
+      "AdjustmentModeMovementSpeed": 0.02,
+      "TimelapseModeMovementSpeed": 1.2,
+      "TimelapseModeDisappearSpeed": 0.8,
+      "AdjustmentModeDisappearSpeed": 0.02,
+      "SpringArm": {
+        "ObjectName": "SpringArmComponent'Default__BP_PreviewActor_AdjustTime_DynamicSky_C:SpringArm'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.29"
+      },
+      "DummyCamera": {
+        "ObjectName": "CameraComponent'Default__BP_PreviewActor_AdjustTime_DynamicSky_C:DummyCamera'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.4"
+      },
+      "CaptureComponent": {
+        "ObjectName": "SceneCaptureComponent2D'Default__BP_PreviewActor_AdjustTime_DynamicSky_C:PreviewSceneCapture'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.18"
+      },
+      "ScenePlayerLightComponent": {
+        "ObjectName": "ScenePlayerLightComponent'Default__BP_PreviewActor_AdjustTime_DynamicSky_C:PlayerLightComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.20"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent'Default__BP_PreviewActor_AdjustTime_DynamicSky_C:RootMesh'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.32"
+      }
+    }
+  },
+  {
+    "Type": "BP_ScenePlayerLightComponent_C",
+    "Name": "BP_ScenePlayerLightComponent_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "BlueprintGeneratedClass'/Game/UltraDynamicSky/Blueprints/PlayerLight/BP_ScenePlayerLightComponent.BP_ScenePlayerLightComponent_C'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "Template": {
+      "ObjectName": "BP_ScenePlayerLightComponent_C'Default__BP_ScenePlayerLightComponent_C'",
+      "ObjectPath": "/Game/UltraDynamicSky/Blueprints/PlayerLight/BP_ScenePlayerLightComponent.1"
+    },
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "DummyCamera",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CameraComponent'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_AdjustTime_DynamicSky_C'Default__BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.2"
+    },
+    "Properties": {
+      "FieldOfView": 121.159996,
+      "OrthoWidth": 512.0,
+      "bAutoCalculateOrthoPlanes": false,
+      "OrthoNearClipPlane": 0.0,
+      "AttachParent": {
+        "ObjectName": "SpringArmComponent'Default__BP_PreviewActor_AdjustTime_DynamicSky_C:SpringArm'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.29"
+      },
+      "RelativeLocation": {
+        "X": -102.60604,
+        "Y": 14630.0,
+        "Z": 3181.9077
+      },
+      "RelativeRotation": {
+        "Pitch": 30.0,
+        "Yaw": 90.0,
+        "Roll": -3.9359436E-11
+      }
+    }
+  },
+  {
+    "Type": "ChildActorComponent",
+    "Name": "Ultra_Dynamci_Sky_HT_Preview_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'ChildActorComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "Properties": {
+      "ChildActorClass": {
+        "ObjectName": "BlueprintGeneratedClass'Ultra_Dynamci_Sky_HT_Preview_C'",
+        "ObjectPath": "/Game/UltraDynamicSky/Blueprints/Ultra_Dynamci_Sky_HT_Preview.0"
+      },
+      "ChildActorTemplate": {
+        "ObjectName": "Ultra_Dynamci_Sky_HT_Preview_C'BP_PreviewActor_AdjustTime_DynamicSky_C:Ultra_Dynamci_Sky_HT_Preview_GEN_VARIABLE.Ultra_Dynamci_Sky_HT_Preview_GEN_VARIABLE_Ultra_Dynamci_Sky_HT_Preview_C_CAT'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.34"
+      },
+      "ComponentTags": [
+        "sky_preview"
+      ]
+    }
+  },
+  {
+    "Type": "Function",
+    "Name": "AddCloud",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "FunctionFlags": "FUNC_Public | FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "ExecuteUbergraph_BP_PreviewActor_AdjustTime_DynamicSky",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "EntryPoint",
+        "Flags": "RF_Public",
+        "ElementSize": 4,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      },
+      {
+        "Type": "FloatProperty",
+        "Name": "K2Node_Event_DeltaSeconds",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "K2Node_CustomEvent_TimeOfDay_1",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "K2Node_CustomEvent_TimeOfDay",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "ByteProperty",
+        "Name": "K2Node_CustomEvent_CurrentTimeAdjustmentState",
+        "Flags": "RF_Public",
+        "ElementSize": 1,
+        "Enum": {
+          "ObjectName": "Class'EAdjustTimeState'",
+          "ObjectPath": "/Script/HTGame"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_Final | FUNC_UbergraphFunction"
+  },
+  {
+    "Type": "Function",
+    "Name": "Initialize for Cloud Movement",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "Temp_int_Array_Index_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "Temp_int_Loop_Counter_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "CallFunc_Add_IntInt_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "ArrayProperty",
+        "Name": "CallFunc_GetMaterials_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 16,
+        "PropertyFlags": "ReferenceParm",
+        "Inner": {
+          "Type": "ObjectProperty",
+          "Name": "CallFunc_GetMaterials_ReturnValue",
+          "Flags": "RF_Public",
+          "ElementSize": 8,
+          "PropertyClass": {
+            "ObjectName": "Class'MaterialInterface'",
+            "ObjectPath": "/Script/Engine"
+          }
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "CallFunc_Array_Get_Item",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyClass": {
+          "ObjectName": "Class'MaterialInterface'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "CallFunc_Array_Length_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "CallFunc_CreateDynamicMaterialInstance_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyClass": {
+          "ObjectName": "Class'MaterialInstanceDynamic'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "BoolProperty",
+        "Name": "CallFunc_Less_IntInt_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 1,
+        "FieldSize": 1,
+        "ByteOffset": 0,
+        "ByteMask": 1,
+        "FieldMask": 255,
+        "BoolSize": 1,
+        "bIsNativeBool": true
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "CallFunc_Array_Add_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      }
+    ],
+    "FunctionFlags": "FUNC_Public | FUNC_HasDefaults | FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "InitialTimeOfDay",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "ChildProperties": [
+      {
+        "Type": "DoubleProperty",
+        "Name": "TimeOfDay",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      }
+    ],
+    "FunctionFlags": "FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "OnAdjustmentStateChanged",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ByteProperty",
+        "Name": "CurrentTimeAdjustmentState",
+        "Flags": "RF_Public",
+        "ElementSize": 1,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm",
+        "Enum": {
+          "ObjectName": "Class'EAdjustTimeState'",
+          "ObjectPath": "/Script/HTGame"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "OnSetTimeOfDay",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "ChildProperties": [
+      {
+        "Type": "DoubleProperty",
+        "Name": "TimeOfDay",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      }
+    ],
+    "FunctionFlags": "FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "OnUIActiveted",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "FunctionFlags": "FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "PreValue",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "ChildProperties": [
+      {
+        "Type": "BoolProperty",
+        "Name": "CallFunc_IsDedicatedServer_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 1,
+        "FieldSize": 1,
+        "ByteOffset": 0,
+        "ByteMask": 1,
+        "FieldMask": 255,
+        "BoolSize": 1,
+        "bIsNativeBool": true
+      },
+      {
+        "Type": "BoolProperty",
+        "Name": "CallFunc_Not_PreBool_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 1,
+        "FieldSize": 1,
+        "ByteOffset": 0,
+        "ByteMask": 1,
+        "FieldMask": 255,
+        "BoolSize": 1,
+        "bIsNativeBool": true
+      }
+    ],
+    "FunctionFlags": "FUNC_Public | FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "ReceiveBeginPlay",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'Actor:ReceiveBeginPlay'",
+      "ObjectPath": "/Script/Engine"
+    },
+    "FunctionFlags": "FUNC_Event | FUNC_Protected | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "ReceiveTick",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'Actor:ReceiveTick'",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ChildProperties": [
+      {
+        "Type": "FloatProperty",
+        "Name": "DeltaSeconds",
+        "Flags": "RF_Public",
+        "ElementSize": 4,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      }
+    ],
+    "FunctionFlags": "FUNC_Event | FUNC_Public | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "UpdateCloudValues",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "Temp_int_Array_Index_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "Temp_int_Loop_Counter_Variable",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "CallFunc_Add_IntInt_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_Multiply_DoubleDouble_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_Add_DoubleDouble_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_FInterpTo_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_FInterpTo_ReturnValue_1",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_Multiply_DoubleDouble_ReturnValue_1",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_FInterpTo_ReturnValue_2",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "BoolProperty",
+        "Name": "K2Node_SwitchEnum_CmpSuccess",
+        "Flags": "RF_Public",
+        "ElementSize": 1,
+        "FieldSize": 1,
+        "ByteOffset": 0,
+        "ByteMask": 1,
+        "FieldMask": 255,
+        "BoolSize": 1,
+        "bIsNativeBool": true
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_FInterpTo_ReturnValue_3",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_Add_DoubleDouble_ReturnValue_1",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "IntProperty",
+        "Name": "CallFunc_Array_Length_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "CallFunc_Array_Get_Item",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyClass": {
+          "ObjectName": "Class'MaterialInstanceDynamic'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "BoolProperty",
+        "Name": "CallFunc_Less_IntInt_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 1,
+        "FieldSize": 1,
+        "ByteOffset": 0,
+        "ByteMask": 1,
+        "FieldMask": 255,
+        "BoolSize": 1,
+        "bIsNativeBool": true
+      },
+      {
+        "Type": "FloatProperty",
+        "Name": "CallFunc_SetScalarParameterValue_Value_ImplicitCast",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_Multiply_DoubleDouble_A_ImplicitCast",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_FInterpTo_DeltaTime_ImplicitCast",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_FInterpTo_DeltaTime_ImplicitCast_1",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "FloatProperty",
+        "Name": "CallFunc_SetScalarParameterValue_Value_ImplicitCast_1",
+        "Flags": "RF_Public",
+        "ElementSize": 4
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_Multiply_DoubleDouble_A_ImplicitCast_1",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_FInterpTo_DeltaTime_ImplicitCast_2",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      },
+      {
+        "Type": "DoubleProperty",
+        "Name": "CallFunc_FInterpTo_DeltaTime_ImplicitCast_3",
+        "Flags": "RF_Public",
+        "ElementSize": 8
+      }
+    ],
+    "FunctionFlags": "FUNC_Public | FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "UserConstructionScript",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'Actor:UserConstructionScript'",
+      "ObjectPath": "/Script/Engine"
+    },
+    "FunctionFlags": "FUNC_Event | FUNC_Public | FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "SceneCaptureComponent2D",
+    "Name": "PreviewSceneCapture",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SceneCaptureComponent2D'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_AdjustTime_DynamicSky_C'Default__BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.2"
+    },
+    "Properties": {
+      "FOVAngle": 154.68,
+      "OrthoWidth": 512.0,
+      "bAutoCalculateOrthoPlanes": false,
+      "TextureTarget": {
+        "ObjectName": "CanvasRenderTarget2D'AdjustTimeCanvasRenderTarget2D'",
+        "ObjectPath": "/Game/UI/Blueprints/AdjustTime/AdjustTimeCanvasRenderTarget2D.0"
+      },
+      "PostProcessSettings": {
+        "bOverride_FilmSlope": true,
+        "bOverride_FilmToe": true,
+        "bOverride_FilmWhiteClip": true,
+        "bOverride_ApplyToonFilm": true,
+        "bOverride_ToonFilmSlope": true,
+        "bOverride_ToonFilmToe": true,
+        "bOverride_ToonFilmShoulder": true,
+        "bOverride_ToonFilmBlackClip": true,
+        "bOverride_BloomMethod": true,
+        "bOverride_BloomIntensity": true,
+        "bOverride_BloomThreshold": true,
+        "bOverride_ToonShadingModelBloomThreshold": true,
+        "bOverride_BloomSizeScale": true,
+        "bOverride_AutoExposureMethod": true,
+        "bOverride_AutoExposureBias": true,
+        "bOverride_AutoExposureApplyPhysicalCameraExposure": true,
+        "bOverride_LocalExposureHighlightContrastScale": true,
+        "bOverride_LensFlareIntensity": true,
+        "bOverride_LensFlareBokehSize": true,
+        "bOverride_ReflectionMethod": true,
+        "FilmSlope": 1.0,
+        "FilmShoulder": 1.0,
+        "FilmWhiteClip": 0.05,
+        "ApplyToonFilm": true,
+        "ToonFilmSlope": 1.0,
+        "ToonFilmToe": 0.6,
+        "ToonFilmShoulder": 1.0,
+        "BloomIntensity": 1.2,
+        "BloomThreshold": -0.5,
+        "ToonShadingModelBloomThreshold": -0.7,
+        "BloomSizeScale": 20.0,
+        "DynamicGlobalIlluminationMethod": "EDynamicGlobalIlluminationMethod::Lumen",
+        "LumenSurfaceCacheResolution": 1.0,
+        "ReflectionMethod": "EReflectionMethod::ScreenSpace",
+        "AutoExposureBias": 0.0,
+        "AutoExposureMinBrightness": 1.0,
+        "AutoExposureMaxBrightness": 1.0,
+        "LocalExposureShadowContrastScale": 0.7,
+        "LocalExposureDetailStrength": 0.9,
+        "LocalExposureBlurredLuminanceKernelSizePercent": 25.6,
+        "LensFlareIntensity": 0.3,
+        "LensFlareBokehSize": 32.0
+      },
+      "CaptureSource": "ESceneCaptureSource::SCS_FinalToneCurveHDR",
+      "MaxViewDistanceOverride": 800.0,
+      "ShowFlagSettings": [
+        {
+          "ShowFlagName": "TemporalAA",
+          "Enabled": true
+        }
+      ],
+      "AttachParent": {
+        "ObjectName": "CameraComponent'Default__BP_PreviewActor_AdjustTime_DynamicSky_C:DummyCamera'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.4"
+      },
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": -2.842171E-13,
+        "Z": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SceneComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    }
+  },
+  {
+    "Type": "ScenePlayerLightComponent",
+    "Name": "PlayerLightComponent",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'ScenePlayerLightComponent'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_AdjustTime_DynamicSky_C'Default__BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.2"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'SceneComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "SceneComponent'BP_PreviewActor_AdjustTime_DynamicSky_C:DefaultSceneRoot_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.19"
+      },
+      "VariableGuid": "85F940BA-470DE5D7-7F88FB8C-1019FDCF",
+      "InternalVariableName": "DefaultSceneRoot"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_1",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'ArrowComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "ArrowComponent'BP_PreviewActor_AdjustTime_DynamicSky_C:Arrow_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.0"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "99C168DB-413F950D-DF86A298-86388A28",
+      "InternalVariableName": "Arrow"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_2",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_AdjustTime_DynamicSky_C:SM_cloud17_ZYF_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.31"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "692C4148-48979C85-44045685-34EB7EDF",
+      "InternalVariableName": "SM_cloud17_ZYF"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_3",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'ChildActorComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "ChildActorComponent'BP_PreviewActor_AdjustTime_DynamicSky_C:Ultra_Dynamci_Sky_HT_Preview_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.5"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "AE571C32-4BA50D6E-C5B804B7-2D356B0C",
+      "InternalVariableName": "Ultra_Dynamci_Sky_HT_Preview"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_37",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "BlueprintGeneratedClass'UDS_PlayerOcclusion_C'",
+        "ObjectPath": "/Game/UltraDynamicSky/Blueprints/System/UDS_PlayerOcclusion.0"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "UDS_PlayerOcclusion_C'BP_PreviewActor_AdjustTime_DynamicSky_C:UDS_PlayerOcclusion_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.33"
+      },
+      "VariableGuid": "E783A4B1-4DF71146-6D6AD3B5-B61E39C9",
+      "InternalVariableName": "UDS_PlayerOcclusion"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_38",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "BlueprintGeneratedClass'BP_ScenePlayerLightComponent_C'",
+        "ObjectPath": "/Game/UltraDynamicSky/Blueprints/PlayerLight/BP_ScenePlayerLightComponent.0"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "BP_ScenePlayerLightComponent_C'BP_PreviewActor_AdjustTime_DynamicSky_C:BP_ScenePlayerLightComponent_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.3"
+      },
+      "VariableGuid": "530B53E5-4E5EB60A-3848D0AE-691B6265",
+      "InternalVariableName": "BP_ScenePlayerLightComponent"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_4",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_AdjustTime_DynamicSky_C:Mesh_Sphere_003_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.30"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "EC8FFC02-4D5DA27C-6E17FBA9-58396CAD",
+      "InternalVariableName": "Mesh_Sphere_003"
+    }
+  },
+  {
+    "Type": "SimpleConstructionScript",
+    "Name": "SimpleConstructionScript_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SimpleConstructionScript'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "Properties": {
+      "RootNodes": [
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_37'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.25"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_38'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.26"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_1'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.22"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_3'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.24"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_2'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.23"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_4'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.27"
+        }
+      ],
+      "AllNodes": [
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_37'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.25"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_38'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.26"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_1'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.22"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_3'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.24"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_2'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.23"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_4'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.27"
+        }
+      ],
+      "DefaultSceneRootNode": {
+        "ObjectName": "SCS_Node'BP_PreviewActor_AdjustTime_DynamicSky_C:SimpleConstructionScript_0.SCS_Node_0'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.21"
+      }
+    }
+  },
+  {
+    "Type": "SpringArmComponent",
+    "Name": "SpringArm",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SpringArmComponent'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_AdjustTime_DynamicSky_C'Default__BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.2"
+    },
+    "Properties": {
+      "TargetArmLength": 200.0,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent'Default__BP_PreviewActor_AdjustTime_DynamicSky_C:RootMesh'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.32"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Mesh_Sphere_003_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Mesh_Sphere_003'",
+        "ObjectPath": "/Game/FX/Mesh/Sphere/Mesh_Sphere_003.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant'M_StarrySky_001_Inst'",
+          "ObjectPath": "/Game/FX/Mat/Scene/StarrySky/M_StarrySky_001_Inst.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": -302.60605,
+        "Y": 14630.0,
+        "Z": 3181.9077
+      },
+      "RelativeRotation": {
+        "Pitch": 0.123932,
+        "Yaw": 14.240615,
+        "Roll": -180.48831
+      },
+      "RelativeScale3D": {
+        "X": 5000000.0,
+        "Y": 5000000.0,
+        "Z": 5000000.0
+      },
+      "bVisible": false
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "SM_cloud17_ZYF_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'SM_cloud17_ZYF_RCd'",
+        "ObjectPath": "/Game/UI/UI/3DUI/SM_cloud17_ZYF_RCd.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant'MI_cloud03_D_ZYF_SkyPreview'",
+          "ObjectPath": "/Game/UI/UI/3DUI/MI_cloud03_D_ZYF_SkyPreview.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant'MI_cloud02_D_ZYF_SkyPreview'",
+          "ObjectPath": "/Game/UI/UI/3DUI/MI_cloud02_D_ZYF_SkyPreview.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant'MI_cloud01_D_ZYFV2_SkyPreview'",
+          "ObjectPath": "/Game/UI/UI/3DUI/MI_cloud01_D_ZYFV2_SkyPreview.0"
+        }
+      ],
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.0,
+        "Roll": 0.0
+      },
+      "ComponentTags": [
+        "ToonCloud"
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "RootMesh",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_AdjustTime_DynamicSky_C'Default__BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.2"
+    }
+  },
+  {
+    "Type": "UDS_PlayerOcclusion_C",
+    "Name": "UDS_PlayerOcclusion_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "BlueprintGeneratedClass'/Game/UltraDynamicSky/Blueprints/System/UDS_PlayerOcclusion.UDS_PlayerOcclusion_C'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_AdjustTime_DynamicSky_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.1"
+    },
+    "Template": {
+      "ObjectName": "UDS_PlayerOcclusion_C'Default__UDS_PlayerOcclusion_C'",
+      "ObjectPath": "/Game/UltraDynamicSky/Blueprints/System/UDS_PlayerOcclusion.11"
+    },
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Ultra_Dynamci_Sky_HT_Preview_C",
+    "Name": "Ultra_Dynamci_Sky_HT_Preview_GEN_VARIABLE_Ultra_Dynamci_Sky_HT_Preview_C_CAT",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "BlueprintGeneratedClass'/Game/UltraDynamicSky/Blueprints/Ultra_Dynamci_Sky_HT_Preview.Ultra_Dynamci_Sky_HT_Preview_C'",
+    "Outer": {
+      "ObjectName": "ChildActorComponent'BP_PreviewActor_AdjustTime_DynamicSky_C:Ultra_Dynamci_Sky_HT_Preview_GEN_VARIABLE'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_AdjustTime_DynamicSky.5"
+    },
+    "Template": {
+      "ObjectName": "Ultra_Dynamci_Sky_HT_Preview_C'Default__Ultra_Dynamci_Sky_HT_Preview_C'",
+      "ObjectPath": "/Game/UltraDynamicSky/Blueprints/Ultra_Dynamci_Sky_HT_Preview.11"
+    },
+    "Properties": {
+      "TimeOfDay": 1368.1157
+    },
+    "ActorLabel": "Ultra_Dynamci_Sky_HT_Preview",
+    "ActorInstanceGuid": {
+      "ActorGuid": "00000000-00000000-00000000-00000000",
+      "ActorInstanceGuid": "00000000-00000000-00000000-00000000"
+    }
+  }
+]

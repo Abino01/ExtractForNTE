@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_weipai_biaoqianye_bg01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/DelegateMission/YH_UI_weipai_biaoqianye_bg01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 184,
+        "Y": 88
+      },
+      "LightingGuid": "26B215BE-4CD1401D-31AF5C82-0DBAE679",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 184,
+    "SizeY": 88,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 16192,
+          "SizeOnDisk": 16192,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 184,
+        "SizeY": 88,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "BPUI_GoldAppleNewspaper_Ui_05",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Video/BPUI_GoldAppleNewspaper_Ui_05",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1260,
+        "Y": 1800
+      },
+      "LightingGuid": "EF25B682-4FC496B0-A157E5AF-A3003BD0",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1260,
+    "SizeY": 1800,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9072000,
+          "SizeOnDisk": 9072000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1260,
+        "SizeY": 1800,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

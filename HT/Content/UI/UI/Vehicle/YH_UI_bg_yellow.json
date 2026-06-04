@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_yellow",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/YH_UI_bg_yellow",
+    "Properties": {
+      "ImportedSize": {
+        "X": 8,
+        "Y": 8
+      },
+      "LightingGuid": "9F291282-4603DEC3-B8FDEDA9-6EE07D0A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI"
+    },
+    "SizeX": 8,
+    "SizeY": 8,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 32,
+          "SizeOnDisk": 32,
+          "OffsetInFile": "0x71"
+        },
+        "SizeX": 8,
+        "SizeY": 8,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

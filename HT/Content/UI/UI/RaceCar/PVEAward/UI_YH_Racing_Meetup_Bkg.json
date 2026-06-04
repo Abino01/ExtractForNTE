@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Meetup_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVEAward/UI_YH_Racing_Meetup_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 428,
+        "Y": 700
+      },
+      "LightingGuid": "1218BEBF-43C34BB8-C7824E94-891C1F8F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 428,
+    "SizeY": 700,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 299600,
+          "SizeOnDisk": 299600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 428,
+        "SizeY": 700,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

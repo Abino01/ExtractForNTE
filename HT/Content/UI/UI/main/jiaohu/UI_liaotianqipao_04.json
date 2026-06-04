@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_liaotianqipao_04",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/jiaohu/UI_liaotianqipao_04",
+    "Properties": {
+      "ImportedSize": {
+        "X": 672,
+        "Y": 70
+      },
+      "LightingGuid": "D323C87C-436CCCD6-E9C3D3B4-50DF9243",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 672,
+    "SizeY": 70,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 188160,
+          "SizeOnDisk": 188160,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 672,
+        "SizeY": 70,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

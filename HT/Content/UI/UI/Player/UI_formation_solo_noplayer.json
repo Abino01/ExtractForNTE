@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_formation_solo_noplayer",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/UI_formation_solo_noplayer",
+    "Properties": {
+      "ImportedSize": {
+        "X": 268,
+        "Y": 152
+      },
+      "LightingGuid": "75129446-41557F2A-EFF620A8-82D4582F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 268,
+    "SizeY": 152,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 40736,
+          "SizeOnDisk": 40736,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 268,
+        "SizeY": 152,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

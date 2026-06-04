@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Ticket_BgLeft",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Main/UI_YH_Us_Ticket_BgLeft",
+    "Properties": {
+      "ImportedSize": {
+        "X": 178,
+        "Y": 134
+      },
+      "LightingGuid": "B7254C9E-4C23883B-73923B82-F6E06EF3",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 178,
+    "SizeY": 134,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 95408,
+          "SizeOnDisk": 95408,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 178,
+        "SizeY": 134,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

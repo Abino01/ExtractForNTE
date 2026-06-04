@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_yineng_di01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_yineng_di01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 478,
+        "Y": 266
+      },
+      "LightingGuid": "A5E2BA84-42EFE4C4-7307808A-B4B9A318",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 478,
+    "SizeY": 266,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 508592,
+          "SizeOnDisk": 508592,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 478,
+        "SizeY": 266,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LJ_PopIcon02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Friend/YH_UI_LJ_PopIcon02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 364,
+        "Y": 452
+      },
+      "LightingGuid": "0D9B6EC4-4FD745DB-46F5C5B8-00385CFA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 364,
+    "SizeY": 452,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 164528,
+          "SizeOnDisk": 164528,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 364,
+        "SizeY": 452,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

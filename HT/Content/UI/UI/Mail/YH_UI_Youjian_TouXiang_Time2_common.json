@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Youjian_TouXiang_Time2_common",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mail/YH_UI_Youjian_TouXiang_Time2_common",
+    "Properties": {
+      "ImportedSize": {
+        "X": 24,
+        "Y": 24
+      },
+      "LightingGuid": "B9DE5B7C-4B60A718-5D62E2BE-FF04D2AF",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 24,
+    "SizeY": 24,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2304,
+          "SizeOnDisk": 2304,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 24,
+        "SizeY": 24,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

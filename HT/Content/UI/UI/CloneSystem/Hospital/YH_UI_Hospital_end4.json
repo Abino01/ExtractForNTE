@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Hospital_end4",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Hospital/YH_UI_Hospital_end4",
+    "Properties": {
+      "ImportedSize": {
+        "X": 780,
+        "Y": 580
+      },
+      "LightingGuid": "21B8682F-4439912D-EB560EBF-482E64BA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 780,
+    "SizeY": 580,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 226200,
+          "SizeOnDisk": 226200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 780,
+        "SizeY": 580,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

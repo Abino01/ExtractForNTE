@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LiaoTian_GengDuo",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Chat/YH_UI_LiaoTian_GengDuo",
+    "Properties": {
+      "ImportedSize": {
+        "X": 62,
+        "Y": 62
+      },
+      "LightingGuid": "E97189F8-4872477E-04B6858F-A52DEA8A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 62,
+    "SizeY": 62,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 15376,
+          "SizeOnDisk": 15376,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 62,
+        "SizeY": 62,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

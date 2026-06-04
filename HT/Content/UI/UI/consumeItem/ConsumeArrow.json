@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "ConsumeArrow",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/consumeItem/ConsumeArrow",
+    "Properties": {
+      "ImportedSize": {
+        "X": 32,
+        "Y": 52
+      },
+      "LightingGuid": "119F49A7-4DD8F420-E87CABB6-2486BC2D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 32,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1664,
+          "SizeOnDisk": 1664,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 32,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

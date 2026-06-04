@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shizhuang_card_mask02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Appearance/YH_UI_shizhuang_card_mask02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 216,
+        "Y": 560
+      },
+      "LightingGuid": "68F09639-445FE36E-1CC3B6B7-C2B530F7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 216,
+    "SizeY": 560,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 60480,
+          "SizeOnDisk": 60480,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 216,
+        "SizeY": 560,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

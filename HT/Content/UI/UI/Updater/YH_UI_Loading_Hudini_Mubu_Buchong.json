@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Loading_Hudini_Mubu_Buchong",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Updater/YH_UI_Loading_Hudini_Mubu_Buchong",
+    "Properties": {
+      "ImportedSize": {
+        "X": 688,
+        "Y": 540
+      },
+      "LightingGuid": "C6B8B030-4B7FD725-8E30E2A1-387FCDF3",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 688,
+    "SizeY": 540,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1486080,
+          "SizeOnDisk": 1486080,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 688,
+        "SizeY": 540,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

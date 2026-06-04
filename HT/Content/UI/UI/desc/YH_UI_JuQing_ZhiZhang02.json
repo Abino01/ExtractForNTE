@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_JuQing_ZhiZhang02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/desc/YH_UI_JuQing_ZhiZhang02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 938,
+        "Y": 984
+      },
+      "LightingGuid": "EB594F53-451880AF-25985692-F4DE2616",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 938,
+    "SizeY": 984,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3691968,
+          "SizeOnDisk": 3691968,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 938,
+        "SizeY": 984,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

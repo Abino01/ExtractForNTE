@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_jinggaoxian_zhandou_di07",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Prison/YH_UI_jinggaoxian_zhandou_di07",
+    "Properties": {
+      "ImportedSize": {
+        "X": 440,
+        "Y": 104
+      },
+      "LightingGuid": "391F28CA-4C8A7A33-F73EC8B3-956FECD4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 440,
+    "SizeY": 104,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 22880,
+          "SizeOnDisk": 22880,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 440,
+        "SizeY": 104,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

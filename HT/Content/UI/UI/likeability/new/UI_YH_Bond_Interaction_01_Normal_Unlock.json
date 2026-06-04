@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Interaction_01_Normal_Unlock",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/new/UI_YH_Bond_Interaction_01_Normal_Unlock",
+    "Properties": {
+      "ImportedSize": {
+        "X": 644,
+        "Y": 260
+      },
+      "LightingGuid": "4FC5B588-4D2B91D0-AA9E0AB8-230DBD5A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 644,
+    "SizeY": 260,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 167440,
+          "SizeOnDisk": 167440,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 644,
+        "SizeY": 260,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

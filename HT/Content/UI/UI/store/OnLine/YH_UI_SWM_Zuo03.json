@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SWM_Zuo03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/OnLine/YH_UI_SWM_Zuo03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 696,
+        "Y": 342
+      },
+      "LightingGuid": "444A8B58-4EE70EC9-40174689-34C96895",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 696,
+    "SizeY": 342,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 952128,
+          "SizeOnDisk": 952128,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 696,
+        "SizeY": 342,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

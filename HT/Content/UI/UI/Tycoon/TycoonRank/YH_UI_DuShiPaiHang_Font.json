@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DuShiPaiHang_Font",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/TycoonRank/YH_UI_DuShiPaiHang_Font",
+    "Properties": {
+      "ImportedSize": {
+        "X": 436,
+        "Y": 76
+      },
+      "LightingGuid": "8D2FBB47-4E6B8571-A45381AC-736C1CFC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 436,
+    "SizeY": 76,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 33136,
+          "SizeOnDisk": 33136,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 436,
+        "SizeY": 76,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

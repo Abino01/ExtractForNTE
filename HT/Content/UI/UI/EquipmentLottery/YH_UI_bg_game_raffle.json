@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_game_raffle",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/EquipmentLottery/YH_UI_bg_game_raffle",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2468,
+        "Y": 1740
+      },
+      "LightingGuid": "F444FCAA-4C3F85EE-11468C95-28673D06",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 2468,
+    "SizeY": 1740,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 17177280,
+          "SizeOnDisk": 17177280,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 2468,
+        "SizeY": 1740,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

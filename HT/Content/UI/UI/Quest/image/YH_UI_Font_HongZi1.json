@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Font_HongZi1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Quest/image/YH_UI_Font_HongZi1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 912,
+        "Y": 274
+      },
+      "LightingGuid": "3A702AD4-49EB1015-B3523E94-5D4203D4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 912,
+    "SizeY": 274,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 999552,
+          "SizeOnDisk": 999552,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 912,
+        "SizeY": 274,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

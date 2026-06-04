@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Common_Button_Receive_Disble",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/Butten/UI_YH_Common_Button_Receive_Disble",
+    "Properties": {
+      "ImportedSize": {
+        "X": 160,
+        "Y": 74
+      },
+      "LightingGuid": "D02A501A-4323D96A-C16E5683-7398ADEB",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 160,
+    "SizeY": 74,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 47360,
+          "SizeOnDisk": 47360,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 160,
+        "SizeY": 74,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

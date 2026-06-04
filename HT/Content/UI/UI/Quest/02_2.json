@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "02_2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Quest/02_2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 400,
+        "Y": 300
+      },
+      "LightingGuid": "C7160C38-46D7F5EA-5AFF0EB9-A4DEC5DC",
+      "NeverStream": true
+    },
+    "SizeX": 400,
+    "SizeY": 300,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 120000,
+          "SizeOnDisk": 120000,
+          "OffsetInFile": "0x71"
+        },
+        "SizeX": 400,
+        "SizeY": 300,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

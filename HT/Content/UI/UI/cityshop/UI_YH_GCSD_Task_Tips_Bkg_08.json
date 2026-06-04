@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_GCSD_Task_Tips_Bkg_08",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/cityshop/UI_YH_GCSD_Task_Tips_Bkg_08",
+    "Properties": {
+      "ImportedSize": {
+        "X": 224,
+        "Y": 364
+      },
+      "LightingGuid": "A5BA252C-41268350-C3F525B1-3CEDE4F0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 224,
+    "SizeY": 364,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 81536,
+          "SizeOnDisk": 81536,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 224,
+        "SizeY": 364,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

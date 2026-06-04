@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_avatarbg_bai",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/UI_avatarbg_bai",
+    "Properties": {
+      "ImportedSize": {
+        "X": 295,
+        "Y": 383
+      },
+      "LightingGuid": "68EB0069-47632B65-045690A2-CC4C3569",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 295,
+    "SizeY": 383,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 451940,
+          "SizeOnDisk": 451940,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 295,
+        "SizeY": 383,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

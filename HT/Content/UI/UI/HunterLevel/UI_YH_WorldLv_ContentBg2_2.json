@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_WorldLv_ContentBg2_2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/HunterLevel/UI_YH_WorldLv_ContentBg2_2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1140,
+        "Y": 212
+      },
+      "LightingGuid": "BE1D5EC0-4D7B9DDA-10FD6CA5-B83157AF",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1140,
+    "SizeY": 212,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 966720,
+          "SizeOnDisk": 966720,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1140,
+        "SizeY": 212,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

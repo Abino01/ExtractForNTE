@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_SY_Ornament",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Divination/YH_UI_SY_Ornament",
+    "Properties": {
+      "ImportedSize": {
+        "X": 508,
+        "Y": 500
+      },
+      "LightingGuid": "8C1FBE7D-4266657E-BC5C9EA9-D79892CD",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 508,
+    "SizeY": 500,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 254000,
+          "SizeOnDisk": 254000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 508,
+        "SizeY": 500,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

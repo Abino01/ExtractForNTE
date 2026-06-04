@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Hud_itemgainbg04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Message/YH_UI_Hud_itemgainbg04",
+    "Properties": {
+      "ImportedSize": {
+        "X": 472,
+        "Y": 44
+      },
+      "LightingGuid": "C1F70AAD-4BF4A6F7-2873B1BC-824C2E72",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 472,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 20768,
+          "SizeOnDisk": 20768,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 472,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

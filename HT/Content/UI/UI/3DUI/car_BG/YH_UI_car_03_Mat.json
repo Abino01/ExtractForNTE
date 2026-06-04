@@ -1,0 +1,201 @@
+[
+  {
+    "Type": "Material",
+    "Name": "YH_UI_car_03_Mat",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Material'",
+    "Package": "/Game/UI/UI/3DUI/car_BG/YH_UI_car_03_Mat",
+    "Properties": {
+      "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+      "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+      "ShadingModels": {
+        "ShadingModelField": 1
+      },
+      "bCanMaskedBeAssumedOpaque": true,
+      "PixelDepthOffsetMode": "EPixelDepthOffsetMode::PDOM_Legacy",
+      "StateId": "85B7A322-484E005B-DB831484-613B426D",
+      "TextureStreamingData": [
+        {
+          "SamplingScale": 0.09375,
+          "UVChannelIndex": 0,
+          "TextureName": "T_Noise_001"
+        }
+      ],
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedExpressionData": {
+      "RuntimeEntries": {
+        "ParameterInfoSet": [
+          {
+            "Name": "Power",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[1]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "UVTilingSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UVRotator",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[2]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[3]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[4]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[5]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[6]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[7]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[8]": {
+        "ParameterInfoSet": []
+      },
+      "ScalarPrimitiveDataIndexValues": [
+        -1
+      ],
+      "VectorPrimitiveDataIndexValues": [
+        -1,
+        -1
+      ],
+      "ScalarValues": [
+        0.006
+      ],
+      "StaticSwitchValues": [],
+      "DynamicSwitchValues": [],
+      "VectorValues": [
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "FFFF00"
+        },
+        {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      ],
+      "DoubleVectorValues": [],
+      "TextureValues": [],
+      "TextureCollectionValues": [],
+      "FontValues": [],
+      "FontPageValues": [],
+      "RuntimeVirtualTextureValues": [],
+      "SparseVolumeTextureValues": [],
+      "ReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'YH_UI_car_03'",
+          "ObjectPath": "/Game/UI/UI/3DUI/car_BG/YH_UI_car_03.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_Noise_001'",
+          "ObjectPath": "/Game/FX/Tex/Common/T_Noise_001.0"
+        }
+      ],
+      "ReferencedTextureCollections": [],
+      "ReferencedExternalCodeExpressionClasses": [],
+      "FunctionInfos": [
+        {
+          "StateId": "F1A8C6A9-4D37E691-BD787485-98A34AB8",
+          "Function": {
+            "ObjectName": "MaterialFunction'RemapValueRange'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "88ED1612-48F2C783-A7B35586-CFA4F664",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVTiling'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVTiling.0"
+          }
+        },
+        {
+          "StateId": "475ED9C4-47A1DD80-4551DE9B-F943D731",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_FakeRandomSine'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_FakeRandomSine.0"
+          }
+        }
+      ],
+      "FunctionInfosStateCRC": 2793153320,
+      "ParameterCollectionInfos": [
+        {
+          "StateId": "351088CC-4812BCE4-71E7FFA9-7CFDE7ED",
+          "ParameterCollection": {
+            "ObjectName": "MaterialParameterCollection'MC_Particle'",
+            "ObjectPath": "/Game/UltraDynamicSky/Materials/MC_Particle.0"
+          }
+        }
+      ],
+      "GrassTypes": [],
+      "MaterialLayers": {
+        "Layers": [],
+        "Blends": [],
+        "tree": {
+          "Nodes": [],
+          "Payloads": [],
+          "Root": -1
+        }
+      },
+      "DynamicParameterNames": [],
+      "QualityLevelsUsed": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "bHasMaterialLayers": false,
+      "bHasRuntimeVirtualTextureOutput": false,
+      "bHasFirstPersonOutput": false,
+      "bHasMaterialCacheOutput": false,
+      "bMaterialCacheHasNonUVDerivedExpression": false,
+      "bHasSceneColor": false,
+      "bHasPerInstanceCustomData": false,
+      "bHasPerInstanceRandom": false,
+      "bHasVertexInterpolator": false,
+      "bHasCustomizedUVs": false,
+      "bHasMeshPaintTexture": false,
+      "bHasWorldPosition": false,
+      "PropertyConnectedMask": 3
+    },
+    "ReferencedTextures": [
+      {
+        "ObjectName": "Texture2D'T_Noise_001'",
+        "ObjectPath": "/Game/FX/Tex/Common/T_Noise_001.0"
+      },
+      {
+        "ObjectName": "Texture2D'YH_UI_car_03'",
+        "ObjectPath": "/Game/UI/UI/3DUI/car_BG/YH_UI_car_03.0"
+      }
+    ]
+  }
+]

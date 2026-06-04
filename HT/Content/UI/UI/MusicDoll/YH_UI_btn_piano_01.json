@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_btn_piano_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/MusicDoll/YH_UI_btn_piano_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 72,
+        "Y": 32
+      },
+      "LightingGuid": "0C1D6DA3-4C3A4F81-6D7CB6A2-A55E97D5",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 72,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2304,
+          "SizeOnDisk": 2304,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 72,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

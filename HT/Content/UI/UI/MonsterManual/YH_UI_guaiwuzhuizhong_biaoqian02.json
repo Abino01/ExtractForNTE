@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_guaiwuzhuizhong_biaoqian02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/MonsterManual/YH_UI_guaiwuzhuizhong_biaoqian02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 180,
+        "Y": 80
+      },
+      "LightingGuid": "4D5554C8-486B583A-1DA78386-120CC4DA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 180,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 14400,
+          "SizeOnDisk": 14400,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 180,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

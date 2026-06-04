@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Hunter_supplies_hp4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CombatAward/NewCombatAwards/UI_YH_Hunter_supplies_hp4",
+    "Properties": {
+      "ImportedSize": {
+        "X": 360,
+        "Y": 372
+      },
+      "LightingGuid": "6E47E19B-4C21FC8E-D86AA19E-5E3B00AF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 360,
+    "SizeY": 372,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 133920,
+          "SizeOnDisk": 133920,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 360,
+        "SizeY": 372,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

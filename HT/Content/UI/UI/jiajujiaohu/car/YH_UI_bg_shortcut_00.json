@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_shortcut_00",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/jiajujiaohu/car/YH_UI_bg_shortcut_00",
+    "Properties": {
+      "ImportedSize": {
+        "X": 324,
+        "Y": 756
+      },
+      "LightingGuid": "2B1F58FF-476F13D7-78A71185-302B94C9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 324,
+    "SizeY": 756,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 244944,
+          "SizeOnDisk": 244944,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 324,
+        "SizeY": 756,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

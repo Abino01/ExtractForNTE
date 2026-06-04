@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_xiaotishi_blackbg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Message/UI_xiaotishi_blackbg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 720,
+        "Y": 48
+      },
+      "LightingGuid": "D172DBC8-46A25F76-8F64E9B7-C6CBD8FC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 720,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 34560,
+          "SizeOnDisk": 34560,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 720,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

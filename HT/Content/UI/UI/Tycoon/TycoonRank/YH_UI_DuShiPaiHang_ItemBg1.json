@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_DuShiPaiHang_ItemBg1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/TycoonRank/YH_UI_DuShiPaiHang_ItemBg1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1184,
+        "Y": 120
+      },
+      "LightingGuid": "4DDDE2D3-471E9513-EF1C32B5-DCDFE2A3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1184,
+    "SizeY": 120,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 142080,
+          "SizeOnDisk": 142080,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1184,
+        "SizeY": 120,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_poster",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/jiajujiaohu/shoubangui/YH_UI_bg_poster",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1890,
+        "Y": 266
+      },
+      "LightingGuid": "B6C3302A-471D8E8F-45998EB2-D50F63C2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1890,
+    "SizeY": 266,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2010960,
+          "SizeOnDisk": 2010960,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 1890,
+        "SizeY": 266,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

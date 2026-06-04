@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_CompletedTx",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/ADVVision/YH_UI_CompletedTx",
+    "Properties": {
+      "ImportedSize": {
+        "X": 700,
+        "Y": 100
+      },
+      "LightingGuid": "8299753B-4A15E5DF-32438B8C-3F19B70A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 700,
+    "SizeY": 100,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 70000,
+          "SizeOnDisk": 70000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 700,
+        "SizeY": 100,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

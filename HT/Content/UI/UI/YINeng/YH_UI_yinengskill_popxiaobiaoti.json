@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yinengskill_popxiaobiaoti",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_UI_yinengskill_popxiaobiaoti",
+    "Properties": {
+      "ImportedSize": {
+        "X": 40,
+        "Y": 36
+      },
+      "LightingGuid": "F3B17838-48CE6FDD-FE2112B8-93045FA0",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 40,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5760,
+          "SizeOnDisk": 5760,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 40,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

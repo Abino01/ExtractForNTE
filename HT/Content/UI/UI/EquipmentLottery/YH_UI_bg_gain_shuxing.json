@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_gain_shuxing",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/EquipmentLottery/YH_UI_bg_gain_shuxing",
+    "Properties": {
+      "ImportedSize": {
+        "X": 292,
+        "Y": 36
+      },
+      "LightingGuid": "72CDDB72-46075A03-AD4D06BC-9795C5E2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 292,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10512,
+          "SizeOnDisk": 10512,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 292,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

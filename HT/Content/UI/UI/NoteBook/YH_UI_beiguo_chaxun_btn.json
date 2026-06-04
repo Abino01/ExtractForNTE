@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_beiguo_chaxun_btn",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/NoteBook/YH_UI_beiguo_chaxun_btn",
+    "Properties": {
+      "ImportedSize": {
+        "X": 92,
+        "Y": 68
+      },
+      "LightingGuid": "6E017389-431464BC-94F44BB9-B640A18F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 92,
+    "SizeY": 68,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6256,
+          "SizeOnDisk": 6256,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 92,
+        "SizeY": 68,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_jueseshuxing_icon05_5",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/UI_jueseshuxing_icon05_5",
+    "Properties": {
+      "ImportedSize": {
+        "X": 104,
+        "Y": 12
+      },
+      "LightingGuid": "EA993839-4A8C6201-2C84A381-C0AC6460",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 104,
+    "SizeY": 12,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4992,
+          "SizeOnDisk": 4992,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 104,
+        "SizeY": 12,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

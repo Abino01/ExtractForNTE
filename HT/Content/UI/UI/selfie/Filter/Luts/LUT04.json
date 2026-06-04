@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "LUT04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/Filter/Luts/LUT04",
+    "Properties": {
+      "AddressX": "TextureAddress::TA_Clamp",
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 256,
+        "Y": 16
+      },
+      "LightingGuid": "B4F33DB2-41876AE7-67BE9288-B87B316B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_ColorLookupTable",
+      "SRGB": false
+    },
+    "SizeX": 256,
+    "SizeY": 16,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 16384,
+          "SizeOnDisk": 16384,
+          "OffsetInFile": "0x7A"
+        },
+        "SizeX": 256,
+        "SizeY": 16,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

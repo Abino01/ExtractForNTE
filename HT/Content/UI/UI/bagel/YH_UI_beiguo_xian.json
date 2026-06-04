@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_beiguo_xian",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/bagel/YH_UI_beiguo_xian",
+    "Properties": {
+      "ImportedSize": {
+        "X": 12,
+        "Y": 4
+      },
+      "LightingGuid": "6312B6F1-46E21370-D1188C8F-3AA89BA9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 12,
+    "SizeY": 4,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 48,
+          "SizeOnDisk": 48,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 12,
+        "SizeY": 4,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

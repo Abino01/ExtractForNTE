@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "sideillustrate_AnHunQu",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/Sideillustrate/sideillustrate_AnHunQu",
+    "Properties": {
+      "ImportedSize": {
+        "X": 700,
+        "Y": 250
+      },
+      "LightingGuid": "C464E222-4D4B198B-18DD77A2-F9A74B2F",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 700,
+    "SizeY": 250,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 700000,
+          "SizeOnDisk": 700000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 700,
+        "SizeY": 250,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

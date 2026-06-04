@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "logo_Oversea",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/logo_Oversea",
+    "Properties": {
+      "ImportedSize": {
+        "X": 800,
+        "Y": 800
+      },
+      "LightingGuid": "53A28EFC-4CFB6D1C-DC5376A8-F4B088DE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 800,
+    "SizeY": 800,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 640000,
+          "SizeOnDisk": 640000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 800,
+        "SizeY": 800,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_PVP_F_Meetup_List_Lock",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/haoyou/UI_YH_Racing_PVP_F_Meetup_List_Lock",
+    "Properties": {
+      "ImportedSize": {
+        "X": 96,
+        "Y": 96
+      },
+      "LightingGuid": "AAF5448C-404042D5-AA33B0A6-3B70016F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 96,
+    "SizeY": 96,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9216,
+          "SizeOnDisk": 9216,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 96,
+        "SizeY": 96,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

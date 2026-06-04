@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Vip_PointsTxtBox",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/bigworldmap_assets/tanban/UI_YH_Vip_PointsTxtBox",
+    "Properties": {
+      "ImportedSize": {
+        "X": 58,
+        "Y": 28
+      },
+      "LightingGuid": "7D261F27-4BD3BD55-F9A6459B-49A6E225",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 58,
+    "SizeY": 28,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6496,
+          "SizeOnDisk": 6496,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 58,
+        "SizeY": 28,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

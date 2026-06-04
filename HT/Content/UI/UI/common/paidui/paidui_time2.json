@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "paidui_time2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/paidui/paidui_time2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 148,
+        "Y": 44
+      },
+      "LightingGuid": "08BA3737-44F595D5-A5662991-04EA2498",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 148,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 26048,
+          "SizeOnDisk": 26048,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 148,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

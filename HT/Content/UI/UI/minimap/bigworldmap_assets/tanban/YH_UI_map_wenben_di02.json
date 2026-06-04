@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_map_wenben_di02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/bigworldmap_assets/tanban/YH_UI_map_wenben_di02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 548,
+        "Y": 1080
+      },
+      "LightingGuid": "70627E61-4B5AFA13-184CE4BD-B5249B9F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 548,
+    "SizeY": 1080,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 591840,
+          "SizeOnDisk": 591840,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 548,
+        "SizeY": 1080,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

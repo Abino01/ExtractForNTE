@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_weituo_miaoshu_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/TakeOrders/YH_UI_weituo_miaoshu_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 80,
+        "Y": 84
+      },
+      "LightingGuid": "E8B46E90-4C910C13-E81A3598-F146286A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 80,
+    "SizeY": 84,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6720,
+          "SizeOnDisk": 6720,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 80,
+        "SizeY": 84,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

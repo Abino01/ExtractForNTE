@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "PhotoStudio_1",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/Icon/PhotoStudio_1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 960,
+        "Y": 540
+      },
+      "LightingGuid": "CC7CBE8E-44C307B4-CFA00EA2-0B830D77",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 960,
+    "SizeY": 540,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 259200,
+          "SizeOnDisk": 259200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 960,
+        "SizeY": 540,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

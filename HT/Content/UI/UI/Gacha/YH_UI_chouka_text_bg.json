@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_chouka_text_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_chouka_text_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 796,
+        "Y": 160
+      },
+      "LightingGuid": "70E1804D-4DC69ED4-8F1BA58A-7C20E576",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 796,
+    "SizeY": 160,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 509440,
+          "SizeOnDisk": 509440,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 796,
+        "SizeY": 160,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_Cardt6",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/majiangpai/YH_UI_Mahjong_Cardt6",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 156
+      },
+      "LightingGuid": "53A3773E-40F2B729-A2C9ED9B-7C93C8A1",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 156,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 15600,
+          "SizeOnDisk": 15600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 100,
+        "SizeY": 156,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

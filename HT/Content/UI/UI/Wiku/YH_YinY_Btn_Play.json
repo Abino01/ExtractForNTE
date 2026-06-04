@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_YinY_Btn_Play",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YH_YinY_Btn_Play",
+    "Properties": {
+      "ImportedSize": {
+        "X": 410,
+        "Y": 74
+      },
+      "LightingGuid": "EEE83D5B-47393D4E-9B0F7BA7-D0BC2377",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 410,
+    "SizeY": 74,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 121360,
+          "SizeOnDisk": 121360,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 410,
+        "SizeY": 74,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

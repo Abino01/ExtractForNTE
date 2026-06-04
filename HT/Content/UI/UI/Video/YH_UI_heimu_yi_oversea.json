@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_heimu_yi_oversea",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Video/YH_UI_heimu_yi_oversea",
+    "Properties": {
+      "ImportedSize": {
+        "X": 604,
+        "Y": 568
+      },
+      "LightingGuid": "478B4C99-466B6908-BBA98BA3-94E5A358",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 604,
+    "SizeY": 568,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1372288,
+          "SizeOnDisk": 1372288,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 604,
+        "SizeY": 568,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

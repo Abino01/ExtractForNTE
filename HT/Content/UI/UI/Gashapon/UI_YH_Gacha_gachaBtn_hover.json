@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Gacha_gachaBtn_hover",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gashapon/UI_YH_Gacha_gachaBtn_hover",
+    "Properties": {
+      "ImportedSize": {
+        "X": 272,
+        "Y": 378
+      },
+      "LightingGuid": "E112613B-47725F67-256991BD-CC4E5D43",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 272,
+    "SizeY": 378,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 411264,
+          "SizeOnDisk": 411264,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 272,
+        "SizeY": 378,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

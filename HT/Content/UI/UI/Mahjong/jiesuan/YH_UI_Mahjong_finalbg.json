@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_finalbg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/jiesuan/YH_UI_Mahjong_finalbg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 188,
+        "Y": 188
+      },
+      "LightingGuid": "25C8D5AD-424BC35D-0D5E1D87-E5817410",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 188,
+    "SizeY": 188,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 35344,
+          "SizeOnDisk": 35344,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 188,
+        "SizeY": 188,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

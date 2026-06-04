@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_yineng_skill02_wenben03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_yineng_skill02_wenben03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 122,
+        "Y": 68
+      },
+      "LightingGuid": "480B3730-4CAAA3F6-DA0F96AF-06AC0CC9",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 122,
+    "SizeY": 68,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 33184,
+          "SizeOnDisk": 33184,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 122,
+        "SizeY": 68,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

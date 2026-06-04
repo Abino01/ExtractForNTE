@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_juese_loadingbarbgimg_new",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/blood/YH_UI_juese_loadingbarbgimg_new",
+    "Properties": {
+      "ImportedSize": {
+        "X": 396,
+        "Y": 10
+      },
+      "LightingGuid": "578926D3-49E0CC2E-986FE78D-CFCA67BE",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 396,
+    "SizeY": 10,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 15840,
+          "SizeOnDisk": 15840,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 396,
+        "SizeY": 10,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

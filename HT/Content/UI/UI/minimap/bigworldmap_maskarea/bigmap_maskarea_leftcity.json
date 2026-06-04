@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "bigmap_maskarea_leftcity",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/bigworldmap_maskarea/bigmap_maskarea_leftcity",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2040,
+        "Y": 2384
+      },
+      "LightingGuid": "68CB28D6-493C78A4-9C13ED8B-A0151DC7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "Downscale": {
+        "bCooked": true,
+        "Default": 8.0,
+        "PerPlatform": null,
+        "Value": 8.0
+      },
+      "NeverStream": true
+    },
+    "SizeX": 256,
+    "SizeY": 300,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 76800,
+          "SizeOnDisk": 76800,
+          "OffsetInFile": "0x7C"
+        },
+        "SizeX": 256,
+        "SizeY": 300,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

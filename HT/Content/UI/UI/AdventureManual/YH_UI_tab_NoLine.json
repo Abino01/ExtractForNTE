@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_tab_NoLine",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/AdventureManual/YH_UI_tab_NoLine",
+    "Properties": {
+      "ImportedSize": {
+        "X": 276,
+        "Y": 64
+      },
+      "LightingGuid": "81910B3B-4F0B3A08-9D1CDA84-35E1B571",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 276,
+    "SizeY": 64,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 17664,
+          "SizeOnDisk": 17664,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 276,
+        "SizeY": 64,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

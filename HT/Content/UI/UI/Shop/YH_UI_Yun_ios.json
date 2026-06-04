@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Yun_ios",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/YH_UI_Yun_ios",
+    "Properties": {
+      "ImportedSize": {
+        "X": 304,
+        "Y": 88
+      },
+      "LightingGuid": "B49369C2-4CCB79DA-489481B5-9549B2AE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 304,
+    "SizeY": 88,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 26752,
+          "SizeOnDisk": 26752,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 304,
+        "SizeY": 88,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

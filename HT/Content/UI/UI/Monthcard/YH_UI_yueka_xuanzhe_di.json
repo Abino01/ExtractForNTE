@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yueka_xuanzhe_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Monthcard/YH_UI_yueka_xuanzhe_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 380,
+        "Y": 484
+      },
+      "LightingGuid": "B9FD09DC-4B2407F1-A085868C-4B7150E2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 380,
+    "SizeY": 484,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 183920,
+          "SizeOnDisk": 183920,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 380,
+        "SizeY": 484,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

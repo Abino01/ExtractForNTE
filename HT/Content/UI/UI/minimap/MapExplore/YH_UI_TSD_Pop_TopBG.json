@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TSD_Pop_TopBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/YH_UI_TSD_Pop_TopBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1652,
+        "Y": 144
+      },
+      "LightingGuid": "CDB03E4F-42E1224E-ED0005BD-520F832E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1652,
+    "SizeY": 144,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 237888,
+          "SizeOnDisk": 237888,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1652,
+        "SizeY": 144,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

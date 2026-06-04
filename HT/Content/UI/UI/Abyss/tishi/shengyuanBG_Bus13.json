@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "shengyuanBG_Bus13",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/tishi/shengyuanBG_Bus13",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1440,
+        "Y": 480
+      },
+      "LightingGuid": "492D274E-40F1F118-F8F4BE80-9797C237",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1440,
+    "SizeY": 480,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 691200,
+          "SizeOnDisk": 691200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1440,
+        "SizeY": 480,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

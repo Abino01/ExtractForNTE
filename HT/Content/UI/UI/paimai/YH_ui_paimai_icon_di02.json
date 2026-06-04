@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_ui_paimai_icon_di02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/paimai/YH_ui_paimai_icon_di02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 192,
+        "Y": 191
+      },
+      "LightingGuid": "1D26E23F-4D29325B-B93B4F8F-7A9ACDC6",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 192,
+    "SizeY": 191,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 146688,
+          "SizeOnDisk": 146688,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 192,
+        "SizeY": 191,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

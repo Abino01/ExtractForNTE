@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_shengjilist_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/YH_UI_shangpu_shengjilist_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 358,
+        "Y": 82
+      },
+      "LightingGuid": "6A61A12C-4657424F-8D278E82-1434A304",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 358,
+    "SizeY": 82,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 117424,
+          "SizeOnDisk": 117424,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 358,
+        "SizeY": 82,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

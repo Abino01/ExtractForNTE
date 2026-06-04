@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_JBFB_Images_TxtBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Mamen/UI_YH_JBFB_Images_TxtBg",
+    "Properties": {
+      "AddressX": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 300,
+        "Y": 172
+      },
+      "LightingGuid": "DA011590-438345DD-C49D0CA2-F63A2BD7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 300,
+    "SizeY": 172,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 51600,
+          "SizeOnDisk": 51600,
+          "OffsetInFile": "0x77"
+        },
+        "SizeX": 300,
+        "SizeY": 172,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Bank_shouyipanel2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RobBank/YH_UI_Bank_shouyipanel2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 244,
+        "Y": 52
+      },
+      "LightingGuid": "B83C5414-4BDA0D22-04942299-679C35E5",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 244,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 12688,
+          "SizeOnDisk": 12688,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 244,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

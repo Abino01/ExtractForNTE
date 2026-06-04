@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_YinY_Ornament02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YH_YinY_Ornament02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 192,
+        "Y": 32
+      },
+      "LightingGuid": "EC05FB1B-49694D8D-F63BB084-FC3D8005",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 192,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6144,
+          "SizeOnDisk": 6144,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 192,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_commonBlurBG",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/BG/YH_UI_commonBlurBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 720,
+        "Y": 405
+      },
+      "LightingGuid": "2D9FB7CB-47DAFEF4-06C8D8B2-2B4D762F",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "NeverStream": true
+    },
+    "SizeX": 720,
+    "SizeY": 405,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1166400,
+          "SizeOnDisk": 1166400,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 720,
+        "SizeY": 405,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

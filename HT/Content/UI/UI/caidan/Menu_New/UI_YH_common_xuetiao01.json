@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_common_xuetiao01",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/caidan/Menu_New/UI_YH_common_xuetiao01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 437,
+        "Y": 12
+      },
+      "LightingGuid": "829221D7-4EADDABF-2BE08D88-B2668D90",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 437,
+    "SizeY": 12,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 20976,
+          "SizeOnDisk": 20976,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 437,
+        "SizeY": 12,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Takeorders_Tips1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/TakeOrders/YH_UI_Takeorders_Tips1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 92,
+        "Y": 92
+      },
+      "LightingGuid": "9C939AA1-4F1F90D0-C400BDB5-92D7A624",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 92,
+    "SizeY": 92,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8464,
+          "SizeOnDisk": 8464,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 92,
+        "SizeY": 92,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

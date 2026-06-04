@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_chouka_celan02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_chouka_celan02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 360,
+        "Y": 116
+      },
+      "LightingGuid": "0D2B11FF-4E7D6BD9-C90252A6-5C19138F",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 360,
+    "SizeY": 116,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 167040,
+          "SizeOnDisk": 167040,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 360,
+        "SizeY": 116,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

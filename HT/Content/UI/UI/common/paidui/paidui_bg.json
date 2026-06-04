@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "paidui_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/paidui/paidui_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 724,
+        "Y": 304
+      },
+      "LightingGuid": "D36F8074-4C2C7BA5-C169EA82-1615C8BE",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 724,
+    "SizeY": 304,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 880384,
+          "SizeOnDisk": 880384,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 724,
+        "SizeY": 304,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

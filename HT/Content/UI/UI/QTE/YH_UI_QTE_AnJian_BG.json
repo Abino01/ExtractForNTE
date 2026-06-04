@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_QTE_AnJian_BG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/QTE/YH_UI_QTE_AnJian_BG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 84,
+        "Y": 84
+      },
+      "LightingGuid": "B8EE00CF-4933ED7F-9BA55C88-5D091D4D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 84,
+    "SizeY": 84,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7056,
+          "SizeOnDisk": 7056,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 84,
+        "SizeY": 84,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

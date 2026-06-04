@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_SpinoffSeries_Baicang_Tips_FWP_oversea",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Quest/LegendaryQuest/UI_YH_SpinoffSeries_Baicang_Tips_FWP_oversea",
+    "Properties": {
+      "ImportedSize": {
+        "X": 88,
+        "Y": 258
+      },
+      "LightingGuid": "521B80BF-41F90E76-F8FA31A8-E0DBDC69",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 88,
+    "SizeY": 258,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 90816,
+          "SizeOnDisk": 90816,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 88,
+        "SizeY": 258,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_listbg_520",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_shangpu_listbg_520",
+    "Properties": {
+      "ImportedSize": {
+        "X": 520,
+        "Y": 44
+      },
+      "LightingGuid": "56972902-416A6276-3B0FD4BD-6CFF92CA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "SRGB": false,
+      "NeverStream": true
+    },
+    "SizeX": 520,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 11440,
+          "SizeOnDisk": 11440,
+          "OffsetInFile": "0x77"
+        },
+        "SizeX": 520,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

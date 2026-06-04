@@ -1,0 +1,43 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_TSZN_Boss_Time_Progress",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/AdventureManual/UI_YH_TSZN_Boss_Time_Progress",
+    "Properties": {
+      "ImportedSize": {
+        "X": 397,
+        "Y": 472
+      },
+      "LightingGuid": "AF8D2DDA-417D130D-864FFCB9-59B5F2BC",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "Downscale": {
+        "bCooked": true,
+        "Default": 0.0,
+        "PerPlatform": null,
+        "Value": 0.0
+      },
+      "NeverStream": true
+    },
+    "SizeX": 397,
+    "SizeY": 472,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 749536,
+          "SizeOnDisk": 749536,
+          "OffsetInFile": "0x83"
+        },
+        "SizeX": 397,
+        "SizeY": 472,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

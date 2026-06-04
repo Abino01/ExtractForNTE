@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Fashion_nanzhu2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Appearance/Fashion/Fashion_nanzhu2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 380,
+        "Y": 980
+      },
+      "LightingGuid": "FB63590A-47920081-F4C5DBB9-E0476DA4",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 380,
+    "SizeY": 980,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1489600,
+          "SizeOnDisk": 1489600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 380,
+        "SizeY": 980,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

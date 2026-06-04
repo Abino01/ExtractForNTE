@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_img_game_screen_mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/EquipmentLottery/YH_UI_img_game_screen_mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1082,
+        "Y": 608
+      },
+      "LightingGuid": "83F00704-45ACE044-E44156AC-596FD38F",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "SRGB": false,
+      "NeverStream": true
+    },
+    "SizeX": 1082,
+    "SizeY": 608,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2631424,
+          "SizeOnDisk": 2631424,
+          "OffsetInFile": "0x7E"
+        },
+        "SizeX": 1082,
+        "SizeY": 608,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

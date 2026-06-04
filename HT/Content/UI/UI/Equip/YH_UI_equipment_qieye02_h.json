@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_equipment_qieye02_h",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Equip/YH_UI_equipment_qieye02_h",
+    "Properties": {
+      "ImportedSize": {
+        "X": 118,
+        "Y": 66
+      },
+      "LightingGuid": "02C0D304-42E17164-B0776CB6-114239D0",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 118,
+    "SizeY": 66,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 31152,
+          "SizeOnDisk": 31152,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 118,
+        "SizeY": 66,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

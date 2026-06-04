@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_NPC_03311",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03311",
+    "Properties": {
+      "ImportedSize": {
+        "X": 256,
+        "Y": 288
+      },
+      "LightingGuid": "A384872D-42E98196-43186B96-47A1900E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 256,
+    "SizeY": 288,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 73728,
+          "SizeOnDisk": 73728,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 256,
+        "SizeY": 288,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

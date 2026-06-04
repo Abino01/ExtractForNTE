@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_zhuawawaji_STAR",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ClawMachine/YH_UI_zhuawawaji_STAR",
+    "Properties": {
+      "ImportedSize": {
+        "X": 241,
+        "Y": 241
+      },
+      "LightingGuid": "6ECD5246-43DD17E3-4A3BCF9F-70F1CE9D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 241,
+    "SizeY": 241,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 232324,
+          "SizeOnDisk": 232324,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 241,
+        "SizeY": 241,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

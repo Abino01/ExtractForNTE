@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "lingzhou_icon_1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/font/tiaozi1/lingzhou_icon_1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 120,
+        "Y": 108
+      },
+      "LightingGuid": "A4B3A5C6-4E7C3C8F-B8D990B2-DAE1FDD5",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 120,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 51840,
+          "SizeOnDisk": 51840,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 120,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

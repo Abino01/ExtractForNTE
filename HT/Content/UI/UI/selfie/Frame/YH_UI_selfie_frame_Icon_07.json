@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_frame_Icon_07",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/Frame/YH_UI_selfie_frame_Icon_07",
+    "Properties": {
+      "ImportedSize": {
+        "X": 764,
+        "Y": 380
+      },
+      "LightingGuid": "6BFF622D-45AEB1D1-2575D995-D334B92E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 764,
+    "SizeY": 380,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 290320,
+          "SizeOnDisk": 290320,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 764,
+        "SizeY": 380,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

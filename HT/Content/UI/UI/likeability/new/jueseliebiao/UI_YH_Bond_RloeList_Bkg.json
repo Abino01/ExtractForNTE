@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_RloeList_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/new/jueseliebiao/UI_YH_Bond_RloeList_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 544,
+        "Y": 792
+      },
+      "LightingGuid": "0377BB8C-45278EF4-CDA93C86-D56E42BB",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 544,
+    "SizeY": 792,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 430848,
+          "SizeOnDisk": 430848,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 544,
+        "SizeY": 792,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

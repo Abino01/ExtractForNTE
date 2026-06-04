@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_hud_yibiao_zhezhao",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/racing/YH_UI_hud_yibiao_zhezhao",
+    "Properties": {
+      "ImportedSize": {
+        "X": 840,
+        "Y": 152
+      },
+      "LightingGuid": "C8D240FF-445B46A3-15D752B5-6D25E47F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 840,
+    "SizeY": 152,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 127680,
+          "SizeOnDisk": 127680,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 840,
+        "SizeY": 152,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

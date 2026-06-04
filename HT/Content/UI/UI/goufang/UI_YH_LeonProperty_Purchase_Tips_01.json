@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_LeonProperty_Purchase_Tips_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/UI_YH_LeonProperty_Purchase_Tips_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 696,
+        "Y": 600
+      },
+      "LightingGuid": "445AD4E5-40012D5A-2736ADB2-6010E58A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 696,
+    "SizeY": 600,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 417600,
+          "SizeOnDisk": 417600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 696,
+        "SizeY": 600,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

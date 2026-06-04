@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_kaiguan_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_selfie_kaiguan_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 96,
+        "Y": 44
+      },
+      "LightingGuid": "09E5F449-4310D726-3A06AEB0-38B8BB86",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 96,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4224,
+          "SizeOnDisk": 4224,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 96,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

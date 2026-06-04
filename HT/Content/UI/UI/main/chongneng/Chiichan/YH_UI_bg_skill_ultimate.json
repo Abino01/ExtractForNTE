@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_skill_ultimate",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/chongneng/Chiichan/YH_UI_bg_skill_ultimate",
+    "Properties": {
+      "ImportedSize": {
+        "X": 304,
+        "Y": 80
+      },
+      "LightingGuid": "23D94E56-4DF44B05-6CAE6C8C-9295826A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 304,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 24320,
+          "SizeOnDisk": 24320,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 304,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

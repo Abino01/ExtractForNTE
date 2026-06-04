@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_ReplaceCar_Meetup_001",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_ReplaceCar_Meetup_001",
+    "Properties": {
+      "ImportedSize": {
+        "X": 472,
+        "Y": 260
+      },
+      "LightingGuid": "F3D4B543-450DD7EF-21FE459C-1938DE8E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 472,
+    "SizeY": 260,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 122720,
+          "SizeOnDisk": 122720,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 472,
+        "SizeY": 260,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

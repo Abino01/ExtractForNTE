@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_‌Rank_Reward_Bkg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/PVPRank/RankAward/UI_YH_Racing_‌Rank_Reward_Bkg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1752,
+        "Y": 820
+      },
+      "LightingGuid": "FB701AAA-4E454766-C3971490-F1729060",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1752,
+    "SizeY": 820,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1436640,
+          "SizeOnDisk": 1436640,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1752,
+        "SizeY": 820,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_taotoutouxiang_fengge",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_taotoutouxiang_fengge",
+    "Properties": {
+      "ImportedSize": {
+        "X": 3,
+        "Y": 48
+      },
+      "LightingGuid": "728F8F97-47EAC4CD-A2EC48B2-AD125F20",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 3,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 576,
+          "SizeOnDisk": 576,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 3,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

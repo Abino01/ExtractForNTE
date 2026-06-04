@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_FB_Label_Color",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/UI_YH_FB_Label_Color",
+    "Properties": {
+      "ImportedSize": {
+        "X": 68,
+        "Y": 26
+      },
+      "LightingGuid": "1BC2B862-4C90E8F7-90895A86-CD297A61",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 68,
+    "SizeY": 26,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7072,
+          "SizeOnDisk": 7072,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 68,
+        "SizeY": 26,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

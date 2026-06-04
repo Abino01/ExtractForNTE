@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mail_Bg_Square",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/YH_UI_Mail_Bg_Square",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1152,
+        "Y": 108
+      },
+      "LightingGuid": "B3EA172C-47CC77D4-63757288-9188E770",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1152,
+    "SizeY": 108,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 497664,
+          "SizeOnDisk": 497664,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1152,
+        "SizeY": 108,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,964 @@
+[
+  {
+    "Type": "Material",
+    "Name": "an_0_Mat",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Material'",
+    "Package": "/Game/UI/UI/font/tiaozi1/an_0_Mat",
+    "Properties": {
+      "MaterialDomain": "EMaterialDomain::MD_UI",
+      "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+      "bCanMaskedBeAssumedOpaque": true,
+      "PixelDepthOffsetMode": "EPixelDepthOffsetMode::PDOM_Legacy",
+      "StateId": "C96EED69-46D9AE97-D040C385-DDEE7DFC",
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedExpressionData": {
+      "RuntimeEntries": {
+        "ParameterInfoSet": [
+          {
+            "Name": "RotatorAngle (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "V_Skewing (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "LightMul",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Dis",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "AM",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Animation  Phase (0-1) (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Dis_Rotator",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Noise",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Switch_NoiseDis",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Dis_Noise",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[1]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "UVTilingSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UVRotator",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Dis_UV",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Dis_Noise_UV",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Dis_Noise_Rotator",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[2]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[3]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "UI_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Mask_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Dis_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Dis_Noise_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[4]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[5]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[6]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[7]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[8]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "V_Clamp (SB)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "ScalarPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "VectorPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "ScalarValues": [
+        -25.0,
+        0.0,
+        2.0,
+        0.0,
+        1.0,
+        0.0,
+        0.25,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "StaticSwitchValues": [
+        true
+      ],
+      "DynamicSwitchValues": [
+        false
+      ],
+      "VectorValues": [
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "FFFF00"
+        },
+        {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        },
+        {
+          "R": 1.5,
+          "G": 1.5,
+          "B": 0.5,
+          "A": 0.0,
+          "Hex": "FFFFBC"
+        },
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "FFFF00"
+        },
+        {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      ],
+      "DoubleVectorValues": [],
+      "TextureValues": [
+        {
+          "AssetPathName": "/Engine/EngineResources/DefaultTexture.DefaultTexture",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/FX/Tex/Mask/T_Mask_070.T_Mask_070",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/FX/Tex/Smoke/T_Smoke_029.T_Smoke_029",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Game/FX/Tex/Smoke/T_Smoke_013.T_Smoke_013",
+          "SubPathString": ""
+        }
+      ],
+      "TextureCollectionValues": [],
+      "FontValues": [],
+      "FontPageValues": [],
+      "RuntimeVirtualTextureValues": [],
+      "SparseVolumeTextureValues": [],
+      "ReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'DefaultTexture'",
+          "ObjectPath": "/Engine/EngineResources/DefaultTexture.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_Smoke_029'",
+          "ObjectPath": "/Game/FX/Tex/Smoke/T_Smoke_029.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_Mask_070'",
+          "ObjectPath": "/Game/FX/Tex/Mask/T_Mask_070.0"
+        },
+        null,
+        {
+          "ObjectName": "Texture2D'DefaultDiffuse'",
+          "ObjectPath": "/Engine/EngineMaterials/DefaultDiffuse.0"
+        },
+        {
+          "ObjectName": "Texture2D'DebugNumberStrip'",
+          "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.0"
+        },
+        {
+          "ObjectName": "Texture2D'DebugNumberPeriod'",
+          "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.0"
+        },
+        {
+          "ObjectName": "Texture2D'flipbook'",
+          "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_Smoke_013'",
+          "ObjectPath": "/Game/FX/Tex/Smoke/T_Smoke_013.0"
+        }
+      ],
+      "ReferencedTextureCollections": [],
+      "ReferencedExternalCodeExpressionClasses": [],
+      "FunctionInfos": [
+        {
+          "StateId": "F1A8C6A9-4D37E691-BD787485-98A34AB8",
+          "Function": {
+            "ObjectName": "MaterialFunction'RemapValueRange'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "88ED1612-48F2C783-A7B35586-CFA4F664",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVTiling'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVTiling.0"
+          }
+        },
+        {
+          "StateId": "F1A8C6A9-4D37E691-BD787485-98A34AB8",
+          "Function": {
+            "ObjectName": "MaterialFunction'RemapValueRange'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "88ED1612-48F2C783-A7B35586-CFA4F664",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVTiling'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVTiling.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "B2F4A5A7-4EDE33D8-E70A4A83-A28D1503",
+          "Function": {
+            "ObjectName": "MaterialFunction'ScaleUVsByCenter'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.0"
+          }
+        },
+        {
+          "StateId": "59444864-4EC2E098-30A8039D-35A6C7AA",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugTimeSine'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugTimeSine.0"
+          }
+        },
+        {
+          "StateId": "F1A8C6A9-4D37E691-BD787485-98A34AB8",
+          "Function": {
+            "ObjectName": "MaterialFunction'RemapValueRange'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "88ED1612-48F2C783-A7B35586-CFA4F664",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVTiling'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVTiling.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "B2F4A5A7-4EDE33D8-E70A4A83-A28D1503",
+          "Function": {
+            "ObjectName": "MaterialFunction'ScaleUVsByCenter'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.0"
+          }
+        },
+        {
+          "StateId": "59444864-4EC2E098-30A8039D-35A6C7AA",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugTimeSine'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugTimeSine.0"
+          }
+        },
+        {
+          "StateId": "F1A8C6A9-4D37E691-BD787485-98A34AB8",
+          "Function": {
+            "ObjectName": "MaterialFunction'RemapValueRange'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "88ED1612-48F2C783-A7B35586-CFA4F664",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVTiling'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVTiling.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "B2F4A5A7-4EDE33D8-E70A4A83-A28D1503",
+          "Function": {
+            "ObjectName": "MaterialFunction'ScaleUVsByCenter'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.0"
+          }
+        },
+        {
+          "StateId": "59444864-4EC2E098-30A8039D-35A6C7AA",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugTimeSine'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugTimeSine.0"
+          }
+        },
+        {
+          "StateId": "F1A8C6A9-4D37E691-BD787485-98A34AB8",
+          "Function": {
+            "ObjectName": "MaterialFunction'RemapValueRange'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "88ED1612-48F2C783-A7B35586-CFA4F664",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVTiling'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVTiling.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "B2F4A5A7-4EDE33D8-E70A4A83-A28D1503",
+          "Function": {
+            "ObjectName": "MaterialFunction'ScaleUVsByCenter'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.0"
+          }
+        },
+        {
+          "StateId": "59444864-4EC2E098-30A8039D-35A6C7AA",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugTimeSine'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugTimeSine.0"
+          }
+        },
+        {
+          "StateId": "F1A8C6A9-4D37E691-BD787485-98A34AB8",
+          "Function": {
+            "ObjectName": "MaterialFunction'RemapValueRange'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "88ED1612-48F2C783-A7B35586-CFA4F664",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVTiling'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVTiling.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "B2F4A5A7-4EDE33D8-E70A4A83-A28D1503",
+          "Function": {
+            "ObjectName": "MaterialFunction'ScaleUVsByCenter'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.0"
+          }
+        },
+        {
+          "StateId": "59444864-4EC2E098-30A8039D-35A6C7AA",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugTimeSine'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugTimeSine.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "E47E7D6B-466F913C-C1497584-EDB1DBD6",
+          "Function": {
+            "ObjectName": "MaterialFunction'ComputeMipLevel'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.0"
+          }
+        },
+        {
+          "StateId": "2DA7361E-4ADEEDBC-9E251392-08DB9B40",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugScalarValues'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "E47E7D6B-466F913C-C1497584-EDB1DBD6",
+          "Function": {
+            "ObjectName": "MaterialFunction'ComputeMipLevel'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.0"
+          }
+        },
+        {
+          "StateId": "2DA7361E-4ADEEDBC-9E251392-08DB9B40",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugScalarValues'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "BBE5CE17-42600C40-DF0A77AF-DB6EC5B4",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugFloat2Values'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.0"
+          }
+        },
+        {
+          "StateId": "CEA19503-4AFB6DD7-0ED556A0-0EFCD46F",
+          "Function": {
+            "ObjectName": "MaterialFunction'FlipBook'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "E47E7D6B-466F913C-C1497584-EDB1DBD6",
+          "Function": {
+            "ObjectName": "MaterialFunction'ComputeMipLevel'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.0"
+          }
+        },
+        {
+          "StateId": "2DA7361E-4ADEEDBC-9E251392-08DB9B40",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugScalarValues'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "E47E7D6B-466F913C-C1497584-EDB1DBD6",
+          "Function": {
+            "ObjectName": "MaterialFunction'ComputeMipLevel'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.0"
+          }
+        },
+        {
+          "StateId": "2DA7361E-4ADEEDBC-9E251392-08DB9B40",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugScalarValues'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "BBE5CE17-42600C40-DF0A77AF-DB6EC5B4",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugFloat2Values'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.0"
+          }
+        },
+        {
+          "StateId": "CEA19503-4AFB6DD7-0ED556A0-0EFCD46F",
+          "Function": {
+            "ObjectName": "MaterialFunction'FlipBook'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "E47E7D6B-466F913C-C1497584-EDB1DBD6",
+          "Function": {
+            "ObjectName": "MaterialFunction'ComputeMipLevel'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.0"
+          }
+        },
+        {
+          "StateId": "2DA7361E-4ADEEDBC-9E251392-08DB9B40",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugScalarValues'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "E47E7D6B-466F913C-C1497584-EDB1DBD6",
+          "Function": {
+            "ObjectName": "MaterialFunction'ComputeMipLevel'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.0"
+          }
+        },
+        {
+          "StateId": "2DA7361E-4ADEEDBC-9E251392-08DB9B40",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugScalarValues'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "BBE5CE17-42600C40-DF0A77AF-DB6EC5B4",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugFloat2Values'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.0"
+          }
+        },
+        {
+          "StateId": "CEA19503-4AFB6DD7-0ED556A0-0EFCD46F",
+          "Function": {
+            "ObjectName": "MaterialFunction'FlipBook'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "E47E7D6B-466F913C-C1497584-EDB1DBD6",
+          "Function": {
+            "ObjectName": "MaterialFunction'ComputeMipLevel'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.0"
+          }
+        },
+        {
+          "StateId": "2DA7361E-4ADEEDBC-9E251392-08DB9B40",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugScalarValues'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "E47E7D6B-466F913C-C1497584-EDB1DBD6",
+          "Function": {
+            "ObjectName": "MaterialFunction'ComputeMipLevel'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.0"
+          }
+        },
+        {
+          "StateId": "2DA7361E-4ADEEDBC-9E251392-08DB9B40",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugScalarValues'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "BBE5CE17-42600C40-DF0A77AF-DB6EC5B4",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugFloat2Values'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.0"
+          }
+        },
+        {
+          "StateId": "CEA19503-4AFB6DD7-0ED556A0-0EFCD46F",
+          "Function": {
+            "ObjectName": "MaterialFunction'FlipBook'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "E47E7D6B-466F913C-C1497584-EDB1DBD6",
+          "Function": {
+            "ObjectName": "MaterialFunction'ComputeMipLevel'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.0"
+          }
+        },
+        {
+          "StateId": "2DA7361E-4ADEEDBC-9E251392-08DB9B40",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugScalarValues'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "E47E7D6B-466F913C-C1497584-EDB1DBD6",
+          "Function": {
+            "ObjectName": "MaterialFunction'ComputeMipLevel'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.0"
+          }
+        },
+        {
+          "StateId": "2DA7361E-4ADEEDBC-9E251392-08DB9B40",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugScalarValues'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.0"
+          }
+        },
+        {
+          "StateId": "A9CC16D5-4B375243-36F3CF86-3EF27E55",
+          "Function": {
+            "ObjectName": "MaterialFunction'TextureCropping'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "BBE5CE17-42600C40-DF0A77AF-DB6EC5B4",
+          "Function": {
+            "ObjectName": "MaterialFunction'DebugFloat2Values'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.0"
+          }
+        },
+        {
+          "StateId": "CEA19503-4AFB6DD7-0ED556A0-0EFCD46F",
+          "Function": {
+            "ObjectName": "MaterialFunction'FlipBook'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.0"
+          }
+        },
+        {
+          "StateId": "F1A8C6A9-4D37E691-BD787485-98A34AB8",
+          "Function": {
+            "ObjectName": "MaterialFunction'RemapValueRange'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "88ED1612-48F2C783-A7B35586-CFA4F664",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVTiling'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVTiling.0"
+          }
+        }
+      ],
+      "FunctionInfosStateCRC": 2722206526,
+      "ParameterCollectionInfos": [
+        {
+          "StateId": "351088CC-4812BCE4-71E7FFA9-7CFDE7ED",
+          "ParameterCollection": {
+            "ObjectName": "MaterialParameterCollection'MC_Particle'",
+            "ObjectPath": "/Game/UltraDynamicSky/Materials/MC_Particle.0"
+          }
+        }
+      ],
+      "GrassTypes": [],
+      "MaterialLayers": {
+        "Layers": [],
+        "Blends": [],
+        "tree": {
+          "Nodes": [],
+          "Payloads": [],
+          "Root": -1
+        }
+      },
+      "DynamicParameterNames": [],
+      "QualityLevelsUsed": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "bHasMaterialLayers": false,
+      "bHasRuntimeVirtualTextureOutput": false,
+      "bHasFirstPersonOutput": false,
+      "bHasMaterialCacheOutput": false,
+      "bMaterialCacheHasNonUVDerivedExpression": false,
+      "bHasSceneColor": false,
+      "bHasPerInstanceCustomData": false,
+      "bHasPerInstanceRandom": false,
+      "bHasVertexInterpolator": false,
+      "bHasCustomizedUVs": false,
+      "bHasMeshPaintTexture": false,
+      "bHasWorldPosition": false,
+      "PropertyConnectedMask": 35
+    },
+    "ReferencedTextures": [
+      {
+        "ObjectName": "Texture2D'DefaultDiffuse'",
+        "ObjectPath": "/Engine/EngineMaterials/DefaultDiffuse.0"
+      },
+      {
+        "ObjectName": "Texture2D'DefaultTexture'",
+        "ObjectPath": "/Engine/EngineResources/DefaultTexture.0"
+      },
+      {
+        "ObjectName": "Texture2D'DebugNumberStrip'",
+        "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.0"
+      },
+      {
+        "ObjectName": "Texture2D'DebugNumberPeriod'",
+        "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.0"
+      },
+      {
+        "ObjectName": "Texture2D'flipbook'",
+        "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.0"
+      },
+      {
+        "ObjectName": "Texture2D'T_Mask_070'",
+        "ObjectPath": "/Game/FX/Tex/Mask/T_Mask_070.0"
+      },
+      {
+        "ObjectName": "Texture2D'T_Smoke_013'",
+        "ObjectPath": "/Game/FX/Tex/Smoke/T_Smoke_013.0"
+      },
+      {
+        "ObjectName": "Texture2D'T_Smoke_029'",
+        "ObjectPath": "/Game/FX/Tex/Smoke/T_Smoke_029.0"
+      }
+    ]
+  }
+]

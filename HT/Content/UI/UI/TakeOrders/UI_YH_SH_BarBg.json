@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_SH_BarBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/TakeOrders/UI_YH_SH_BarBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 214,
+        "Y": 16
+      },
+      "LightingGuid": "914E9DE0-45376B47-475CE3BA-4F63F955",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 214,
+    "SizeY": 16,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 13696,
+          "SizeOnDisk": 13696,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 214,
+        "SizeY": 16,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

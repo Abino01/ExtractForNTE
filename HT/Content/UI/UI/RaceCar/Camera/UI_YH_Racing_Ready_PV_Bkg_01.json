@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Ready_PV_Bkg_01",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/Camera/UI_YH_Racing_Ready_PV_Bkg_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 832,
+        "Y": 916
+      },
+      "LightingGuid": "6DF02B7E-455B627C-8BFF7EAA-495D989E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 832,
+    "SizeY": 916,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 762112,
+          "SizeOnDisk": 762112,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 832,
+        "SizeY": 916,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

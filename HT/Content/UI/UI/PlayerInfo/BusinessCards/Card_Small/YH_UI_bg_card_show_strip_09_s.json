@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_card_show_strip_09_s",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_09_s",
+    "Properties": {
+      "ImportedSize": {
+        "X": 296,
+        "Y": 176
+      },
+      "LightingGuid": "B8B1DFEE-4C13C0D9-4FF6BC87-35F7B1D8",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "SRGB": false,
+      "NeverStream": true
+    },
+    "SizeX": 296,
+    "SizeY": 176,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 208384,
+          "SizeOnDisk": 208384,
+          "OffsetInFile": "0x7E"
+        },
+        "SizeX": 296,
+        "SizeY": 176,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

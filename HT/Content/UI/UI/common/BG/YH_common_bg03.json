@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_common_bg03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/common/BG/YH_common_bg03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 63,
+        "Y": 300
+      },
+      "LightingGuid": "30A6B539-4F80FBF8-9A7A9E99-573DC4AD",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 63,
+    "SizeY": 300,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 75600,
+          "SizeOnDisk": 75600,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 63,
+        "SizeY": 300,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

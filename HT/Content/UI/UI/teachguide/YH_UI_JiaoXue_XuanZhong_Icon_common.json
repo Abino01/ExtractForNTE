@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_JiaoXue_XuanZhong_Icon_common",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/teachguide/YH_UI_JiaoXue_XuanZhong_Icon_common",
+    "Properties": {
+      "ImportedSize": {
+        "X": 102,
+        "Y": 102
+      },
+      "LightingGuid": "E054E827-4731D82B-86D49281-B8B28B9E",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 102,
+    "SizeY": 102,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 41616,
+          "SizeOnDisk": 41616,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 102,
+        "SizeY": 102,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

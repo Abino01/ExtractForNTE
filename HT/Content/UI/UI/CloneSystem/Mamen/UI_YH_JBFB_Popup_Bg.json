@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_JBFB_Popup_Bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Mamen/UI_YH_JBFB_Popup_Bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1088,
+        "Y": 700
+      },
+      "LightingGuid": "B453B50D-4CFCAA26-6B38FDA4-54AC633B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1088,
+    "SizeY": 700,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 761600,
+          "SizeOnDisk": 761600,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1088,
+        "SizeY": 700,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

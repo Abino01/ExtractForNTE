@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Common_Tips_Equiorder",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/itemtips/UI_YH_Common_Tips_Equiorder",
+    "Properties": {
+      "ImportedSize": {
+        "X": 516,
+        "Y": 48
+      },
+      "LightingGuid": "3B027725-46B3B15C-9BB89F8F-C8F8BE1E",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 516,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 99072,
+          "SizeOnDisk": 99072,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 516,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

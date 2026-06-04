@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "realestaemap_bg2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/realestaemap_bg2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 214,
+        "Y": 110
+      },
+      "LightingGuid": "9669E306-4AD445D7-6B54CE95-61CEFCA8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 214,
+    "SizeY": 110,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 94160,
+          "SizeOnDisk": 94160,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 214,
+        "SizeY": 110,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

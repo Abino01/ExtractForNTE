@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TSD_Pic_WeiWenPu",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/AreaImage/YH_UI_TSD_Pic_WeiWenPu",
+    "Properties": {
+      "ImportedSize": {
+        "X": 504,
+        "Y": 244
+      },
+      "LightingGuid": "17E51895-4309AC9D-583F748D-054A947B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 504,
+    "SizeY": 244,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 122976,
+          "SizeOnDisk": 122976,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 504,
+        "SizeY": 244,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

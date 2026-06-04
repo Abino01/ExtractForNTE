@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yinengskill_zhaopiandiban",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_UI_yinengskill_zhaopiandiban",
+    "Properties": {
+      "ImportedSize": {
+        "X": 278,
+        "Y": 334
+      },
+      "LightingGuid": "A17ACB1C-45E79FBC-ED677597-F7645428",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 278,
+    "SizeY": 334,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 371408,
+          "SizeOnDisk": 371408,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 278,
+        "SizeY": 334,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

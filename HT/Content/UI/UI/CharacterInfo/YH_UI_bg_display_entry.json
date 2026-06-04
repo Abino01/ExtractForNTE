@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_display_entry",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Characterinfo/YH_UI_bg_display_entry",
+    "Properties": {
+      "ImportedSize": {
+        "X": 192,
+        "Y": 44
+      },
+      "LightingGuid": "80C207EA-416300BF-E2B66A8E-DB6DEF17",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 192,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8448,
+          "SizeOnDisk": 8448,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 192,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "YH_MonthCard_Sweep_Mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/Monthcard/YH_MonthCard_Sweep_Mask",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_ClipImage'",
+        "ObjectPath": "/Game/UI/UI_Material/Item/M_ClipImage.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Width",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 180.0,
+          "ExpressionGUID": "14BC82C6-448B00D7-09F2B2B4-E2D4CCE9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Height",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 240.0,
+          "ExpressionGUID": "9052BAE8-4F2ADE24-8666A88F-5B12C260"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Scale",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "3D715F27-4B1B2C72-CBFFC0BC-52EDE118"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "XOffset",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "2DEEF345-499E50CB-4DB4BDBD-D4B6D877"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "YOffset",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "0E37075D-45B6E3BF-A1CD329F-40B7F307"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "MaskTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_MonthCard_di02'",
+            "ObjectPath": "/Game/UI/UI/Monthcard/YH_MonthCard_di02.0"
+          },
+          "ExpressionGUID": "5E897990-4045C225-32BAABB9-FD0E5AB1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'DefaultWhiteGrid_Low'",
+            "ObjectPath": "/Engine/EngineMaterials/DefaultWhiteGrid_Low.0"
+          },
+          "ExpressionGUID": "E32DD82D-4ADB8D98-1BBD4D87-5CC663A3"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_Additive",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

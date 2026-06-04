@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_head_portrait_show",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PlayerInfo/Effects/YH_UI_bg_head_portrait_show",
+    "Properties": {
+      "ImportedSize": {
+        "X": 640,
+        "Y": 400
+      },
+      "LightingGuid": "A8D5910A-447C1CFC-54D78099-D95A7351",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 640,
+    "SizeY": 400,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 256000,
+          "SizeOnDisk": 256000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 640,
+        "SizeY": 400,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

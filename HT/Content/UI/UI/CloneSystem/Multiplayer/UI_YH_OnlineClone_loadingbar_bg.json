@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_OnlineClone_loadingbar_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Multiplayer/UI_YH_OnlineClone_loadingbar_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 226,
+        "Y": 12
+      },
+      "LightingGuid": "D5C6F244-41C8FE32-7BA2E0A7-33D40581",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 226,
+    "SizeY": 12,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10848,
+          "SizeOnDisk": 10848,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 226,
+        "SizeY": 12,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,503 @@
+[
+  {
+    "Type": "Material",
+    "Name": "PreviewMaterial",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Material'",
+    "Package": "/Game/UI/UI/3DUI/PreviewMaterial",
+    "Properties": {
+      "MaterialDomain": "EMaterialDomain::MD_UI",
+      "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+      "MaterialDecalResponse": "EMaterialDecalResponse::MDR_None",
+      "bCanMaskedBeAssumedOpaque": true,
+      "PixelDepthOffsetMode": "EPixelDepthOffsetMode::PDOM_Legacy",
+      "StateId": "75B388A2-4C84DA31-98A03DBD-5135F72E",
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedExpressionData": {
+      "RuntimeEntries": {
+        "ParameterInfoSet": [
+          {
+            "Name": "YH_MF_SquareMaskMul",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "YH_MF_SquareMaskPower",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UP",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Down",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Right",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Left",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "YH_MF_SquareMask(Up&Down)(0_1)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "YH_MF_SquareMask(Left&Right)(0_1)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "YH_MF_SquareMask_TC",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "WaveMul(+_DYIndex3_3)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "WaveScale",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Wave(R)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Wave(G)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Speed_time",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Wave_UV_Correction",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UseTexCoordOut(0_1)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "FxHardnessMin (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "FxHardnessMax (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "FxHardness (S)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[1]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "UVTilingSpeed",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UVRotator",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "WaveUV",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "WaveUV（Rotator)",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[2]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[3]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "RenderTarget",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Wave_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "RuntimeEntries[4]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[5]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[6]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[7]": {
+        "ParameterInfoSet": []
+      },
+      "RuntimeEntries[8]": {
+        "ParameterInfoSet": [
+          {
+            "Name": "UseColorOnly",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UseParameterOpacity",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "usetextureAlpha",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "Use(RG)Wave",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          {
+            "Name": "UseParticleTime",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          }
+        ]
+      },
+      "ScalarPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "VectorPrimitiveDataIndexValues": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "ScalarValues": [
+        15.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "StaticSwitchValues": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "DynamicSwitchValues": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "VectorValues": [
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "FFFF00"
+        },
+        {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        },
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 0.02,
+          "A": 0.1,
+          "Hex": "19FFFF26"
+        },
+        {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        },
+        {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        }
+      ],
+      "DoubleVectorValues": [],
+      "TextureValues": [
+        {
+          "AssetPathName": "/Game/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+          "SubPathString": ""
+        },
+        {
+          "AssetPathName": "/Engine/EngineResources/DefaultTexture.DefaultTexture",
+          "SubPathString": ""
+        }
+      ],
+      "TextureCollectionValues": [],
+      "FontValues": [],
+      "FontPageValues": [],
+      "RuntimeVirtualTextureValues": [],
+      "SparseVolumeTextureValues": [],
+      "ReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'T_Linear_White'",
+          "ObjectPath": "/Game/CoreMaterials/Character/DefaultTextures/T_Linear_White.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_Smoke_007'",
+          "ObjectPath": "/Game/FX/Tex/Smoke/T_Smoke_007.0"
+        },
+        {
+          "ObjectName": "Texture2D'DefaultTexture'",
+          "ObjectPath": "/Engine/EngineResources/DefaultTexture.0"
+        }
+      ],
+      "ReferencedTextureCollections": [],
+      "ReferencedExternalCodeExpressionClasses": [
+        {
+          "ObjectName": "Class'MaterialExpressionParticleRelativeTime'",
+          "ObjectPath": "/Script/Engine"
+        }
+      ],
+      "FunctionInfos": [
+        {
+          "StateId": "F1A8C6A9-4D37E691-BD787485-98A34AB8",
+          "Function": {
+            "ObjectName": "MaterialFunction'RemapValueRange'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "88ED1612-48F2C783-A7B35586-CFA4F664",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVTiling'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVTiling.0"
+          }
+        },
+        {
+          "StateId": "D6581C71-48C9AD92-CEA203B4-8EBA29E8",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_FxHardness'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_FxHardness.0"
+          }
+        },
+        {
+          "StateId": "3F8893ED-4827FDEE-E700C699-ED78D4EB",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_SquareMask'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_SquareMask.0"
+          }
+        },
+        {
+          "StateId": "F1A8C6A9-4D37E691-BD787485-98A34AB8",
+          "Function": {
+            "ObjectName": "MaterialFunction'RemapValueRange'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "88ED1612-48F2C783-A7B35586-CFA4F664",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVTiling'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVTiling.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "B2F4A5A7-4EDE33D8-E70A4A83-A28D1503",
+          "Function": {
+            "ObjectName": "MaterialFunction'ScaleUVsByCenter'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.0"
+          }
+        },
+        {
+          "StateId": "2C1DDB6E-406BC9FC-1D4141A1-7C82122A",
+          "Function": {
+            "ObjectName": "MaterialFunction'BreakOutFloat2Components'",
+            "ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.0"
+          }
+        },
+        {
+          "StateId": "DF3668C2-4A7141DA-2C3DB29B-CF1192E6",
+          "Function": {
+            "ObjectName": "MaterialFunction'MF_HT_Time'",
+            "ObjectPath": "/Game/CoreMaterials/Functions/MF_HT_Time.0"
+          }
+        },
+        {
+          "StateId": "198AB147-4F1716C0-4EA65189-ECF939AA",
+          "Function": {
+            "ObjectName": "MaterialFunction'YH_MF_UVWave'",
+            "ObjectPath": "/Game/FX/FX_MF/YH_MF_UVWave.0"
+          }
+        }
+      ],
+      "FunctionInfosStateCRC": 1313940881,
+      "ParameterCollectionInfos": [
+        {
+          "StateId": "DEA5F712-4FE30354-4B557EB4-133C59DF",
+          "ParameterCollection": {
+            "ObjectName": "MaterialParameterCollection'PreviewMaterialPar'",
+            "ObjectPath": "/Game/UI/UI/3DUI/PreviewMaterialPar.0"
+          }
+        },
+        {
+          "StateId": "351088CC-4812BCE4-71E7FFA9-7CFDE7ED",
+          "ParameterCollection": {
+            "ObjectName": "MaterialParameterCollection'MC_Particle'",
+            "ObjectPath": "/Game/UltraDynamicSky/Materials/MC_Particle.0"
+          }
+        }
+      ],
+      "GrassTypes": [],
+      "MaterialLayers": {
+        "Layers": [],
+        "Blends": [],
+        "tree": {
+          "Nodes": [],
+          "Payloads": [],
+          "Root": -1
+        }
+      },
+      "DynamicParameterNames": [
+        "WaveUV_Shifting_+",
+        "WaveUVRotatorAngle_+",
+        "WaveUV_Speed_X",
+        "WaveUVWaveMul_+"
+      ],
+      "QualityLevelsUsed": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "bHasMaterialLayers": false,
+      "bHasRuntimeVirtualTextureOutput": false,
+      "bHasFirstPersonOutput": false,
+      "bHasMaterialCacheOutput": false,
+      "bMaterialCacheHasNonUVDerivedExpression": false,
+      "bHasSceneColor": false,
+      "bHasPerInstanceCustomData": false,
+      "bHasPerInstanceRandom": false,
+      "bHasVertexInterpolator": false,
+      "bHasCustomizedUVs": false,
+      "bHasMeshPaintTexture": false,
+      "bHasWorldPosition": false,
+      "PropertyConnectedMask": 3
+    },
+    "ReferencedTextures": [
+      {
+        "ObjectName": "Texture2D'DefaultTexture'",
+        "ObjectPath": "/Engine/EngineResources/DefaultTexture.0"
+      },
+      {
+        "ObjectName": "Texture2D'T_Linear_White'",
+        "ObjectPath": "/Game/CoreMaterials/Character/DefaultTextures/T_Linear_White.0"
+      },
+      {
+        "ObjectName": "Texture2D'T_Smoke_007'",
+        "ObjectPath": "/Game/FX/Tex/Smoke/T_Smoke_007.0"
+      }
+    ]
+  }
+]

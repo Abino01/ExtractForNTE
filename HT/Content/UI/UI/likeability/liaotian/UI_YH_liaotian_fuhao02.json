@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_liaotian_fuhao02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/liaotian/UI_YH_liaotian_fuhao02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 30,
+        "Y": 24
+      },
+      "LightingGuid": "94D5E56B-46ADAD3C-EFEA7E92-44FFDE01",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 30,
+    "SizeY": 24,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2880,
+          "SizeOnDisk": 2880,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 30,
+        "SizeY": 24,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

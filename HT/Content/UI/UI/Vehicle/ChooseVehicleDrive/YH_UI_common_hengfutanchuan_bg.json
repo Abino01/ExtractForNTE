@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_common_hengfutanchuan_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/ChooseVehicleDrive/YH_UI_common_hengfutanchuan_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 60,
+        "Y": 248
+      },
+      "LightingGuid": "3E4BA871-4B2E97AA-E65F48AF-A55E249D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 60,
+    "SizeY": 248,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 14880,
+          "SizeOnDisk": 14880,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 60,
+        "SizeY": 248,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

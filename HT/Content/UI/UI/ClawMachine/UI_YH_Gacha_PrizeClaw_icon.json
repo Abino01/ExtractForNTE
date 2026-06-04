@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Gacha_PrizeClaw_icon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ClawMachine/UI_YH_Gacha_PrizeClaw_icon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 160,
+        "Y": 163
+      },
+      "LightingGuid": "62A6B58D-4168405A-E13EBCB5-ECB088FF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 160,
+    "SizeY": 163,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 104320,
+          "SizeOnDisk": 104320,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 160,
+        "SizeY": 163,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

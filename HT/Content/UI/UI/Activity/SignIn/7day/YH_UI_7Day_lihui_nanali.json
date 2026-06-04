@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_7Day_lihui_nanali",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/SignIn/7day/YH_UI_7Day_lihui_nanali",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1172,
+        "Y": 1508
+      },
+      "LightingGuid": "711AE813-48D439E2-0223D6AF-89A84295",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1172,
+    "SizeY": 1508,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1767376,
+          "SizeOnDisk": 1767376,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1172,
+        "SizeY": 1508,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

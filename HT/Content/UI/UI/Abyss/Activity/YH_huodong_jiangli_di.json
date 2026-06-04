@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_huodong_jiangli_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Activity/YH_huodong_jiangli_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 328,
+        "Y": 20
+      },
+      "LightingGuid": "BF654400-4BD077FB-728F93BA-60DC2AD3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 328,
+    "SizeY": 20,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 6560,
+          "SizeOnDisk": 6560,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 328,
+        "SizeY": 20,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

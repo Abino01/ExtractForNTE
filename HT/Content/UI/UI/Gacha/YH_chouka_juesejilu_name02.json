@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_chouka_juesejilu_name02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_chouka_juesejilu_name02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 220,
+        "Y": 36
+      },
+      "LightingGuid": "417FC815-42206E68-6ECF4DBD-7359D0A3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 220,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7920,
+          "SizeOnDisk": 7920,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 220,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

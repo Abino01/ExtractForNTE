@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_CityMission_Photo2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/CityGameplay/YH_UI_CityMission_Photo2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 262,
+        "Y": 332
+      },
+      "LightingGuid": "A92E3AA0-4ED65112-282005B9-004B6FAE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 262,
+    "SizeY": 332,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 347936,
+          "SizeOnDisk": 347936,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 262,
+        "SizeY": 332,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

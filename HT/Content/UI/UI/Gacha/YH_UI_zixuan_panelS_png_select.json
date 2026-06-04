@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_zixuan_panelS_png_select",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_zixuan_panelS_png_select",
+    "Properties": {
+      "ImportedSize": {
+        "X": 256,
+        "Y": 556
+      },
+      "LightingGuid": "FB1184E4-428A8363-930D478D-6C4279D7",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 256,
+    "SizeY": 556,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 569344,
+          "SizeOnDisk": 569344,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 256,
+        "SizeY": 556,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

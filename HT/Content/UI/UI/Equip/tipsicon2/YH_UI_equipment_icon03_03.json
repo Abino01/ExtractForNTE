@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_equipment_icon03_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Equip/tipsicon2/YH_UI_equipment_icon03_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 156,
+        "Y": 156
+      },
+      "LightingGuid": "9042566C-4ECCC8B1-D49DD4A8-408C75FD",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 156,
+    "SizeY": 156,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 97344,
+          "SizeOnDisk": 97344,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 156,
+        "SizeY": 156,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

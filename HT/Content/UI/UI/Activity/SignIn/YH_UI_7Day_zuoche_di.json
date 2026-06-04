@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_7Day_zuoche_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/SignIn/YH_UI_7Day_zuoche_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 270,
+        "Y": 802
+      },
+      "LightingGuid": "5CF83BE1-4E377B8C-C9BCD294-930F56DD",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 270,
+    "SizeY": 802,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 866160,
+          "SizeOnDisk": 866160,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 270,
+        "SizeY": 802,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

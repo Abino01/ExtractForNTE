@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_custom_tag",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/YH_UI_bg_custom_tag",
+    "Properties": {
+      "ImportedSize": {
+        "X": 108,
+        "Y": 44
+      },
+      "LightingGuid": "5DA33D2C-42DE5F28-15DC35A5-A46BCA65",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 108,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4752,
+          "SizeOnDisk": 4752,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 108,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

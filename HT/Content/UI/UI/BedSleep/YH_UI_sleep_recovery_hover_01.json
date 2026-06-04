@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_sleep_recovery_hover_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/BedSleep/YH_UI_sleep_recovery_hover_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 76,
+        "Y": 116
+      },
+      "LightingGuid": "8762C6B6-40855F53-56DEB5AF-EDE7E3EC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 76,
+    "SizeY": 116,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8816,
+          "SizeOnDisk": 8816,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 76,
+        "SizeY": 116,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

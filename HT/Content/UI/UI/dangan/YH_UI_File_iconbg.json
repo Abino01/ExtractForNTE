@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_File_iconbg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/dangan/YH_UI_File_iconbg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 198,
+        "Y": 198
+      },
+      "LightingGuid": "DB248D36-40579905-12C1C89C-052678E9",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 198,
+    "SizeY": 198,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 156816,
+          "SizeOnDisk": 156816,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 198,
+        "SizeY": 198,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

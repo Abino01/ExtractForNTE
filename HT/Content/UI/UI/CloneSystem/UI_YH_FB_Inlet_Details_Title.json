@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_FB_Inlet_Details_Title",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/UI_YH_FB_Inlet_Details_Title",
+    "Properties": {
+      "ImportedSize": {
+        "X": 320,
+        "Y": 32
+      },
+      "LightingGuid": "30D7F54B-43569E16-E46269B8-FB533B3B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 320,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 10240,
+          "SizeOnDisk": 10240,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 320,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

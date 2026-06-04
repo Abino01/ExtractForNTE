@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Common_Button03_Down3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/UI_YH_Common_Button03_Down3",
+    "Properties": {
+      "ImportedSize": {
+        "X": 160,
+        "Y": 74
+      },
+      "LightingGuid": "ED7D5C9C-45604E4E-12A8D197-9E91DB03",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 160,
+    "SizeY": 74,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 47360,
+          "SizeOnDisk": 47360,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 160,
+        "SizeY": 74,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

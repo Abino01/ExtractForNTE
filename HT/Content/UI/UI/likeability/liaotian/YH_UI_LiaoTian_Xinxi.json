@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LiaoTian_Xinxi",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/liaotian/YH_UI_LiaoTian_Xinxi",
+    "Properties": {
+      "ImportedSize": {
+        "X": 506,
+        "Y": 79
+      },
+      "LightingGuid": "C3E49653-49650454-741C0BB6-BD3EFF4F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 506,
+    "SizeY": 79,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 159896,
+          "SizeOnDisk": 159896,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 506,
+        "SizeY": 79,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

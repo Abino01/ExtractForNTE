@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Time_TimeScale_03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/AdjustTime/UI_YH_Time_TimeScale_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 528,
+        "Y": 528
+      },
+      "LightingGuid": "D735BFF4-4FB43B86-0E734CA2-263712C7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 528,
+    "SizeY": 528,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 278784,
+          "SizeOnDisk": 278784,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 528,
+        "SizeY": 528,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

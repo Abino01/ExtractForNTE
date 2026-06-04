@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_weipai_ing_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/DelegateMission/YH_UI_weipai_ing_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 110,
+        "Y": 34
+      },
+      "LightingGuid": "1D963B97-460A7394-655AA89A-5435F6D8",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 110,
+    "SizeY": 34,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 14960,
+          "SizeOnDisk": 14960,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 110,
+        "SizeY": 34,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

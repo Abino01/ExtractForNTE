@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_icon_record_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/jiajujiaohu/YH_UI_icon_record_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 148,
+        "Y": 104
+      },
+      "LightingGuid": "BD60A276-4064D8FE-FAF7358B-11D7B638",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 148,
+    "SizeY": 104,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 15392,
+          "SizeOnDisk": 15392,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 148,
+        "SizeY": 104,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

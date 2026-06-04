@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "realestate01_mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/realestate01_mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 220,
+        "Y": 224
+      },
+      "LightingGuid": "05591DD8-432BE598-C1C6B891-ABC58D70",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 220,
+    "SizeY": 224,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 49280,
+          "SizeOnDisk": 49280,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 220,
+        "SizeY": 224,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

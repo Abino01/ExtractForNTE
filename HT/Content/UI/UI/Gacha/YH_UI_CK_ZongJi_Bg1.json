@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_CK_ZongJi_Bg1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_CK_ZongJi_Bg1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 120,
+        "Y": 48
+      },
+      "LightingGuid": "4DF0530B-4F35D82E-A42CC29E-68766E9D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 120,
+    "SizeY": 48,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5760,
+          "SizeOnDisk": 5760,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 120,
+        "SizeY": 48,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

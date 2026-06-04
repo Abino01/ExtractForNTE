@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Development_fanganliebiao_xuanzhong",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Activity/YH_UI_Development_fanganliebiao_xuanzhong",
+    "Properties": {
+      "ImportedSize": {
+        "X": 72,
+        "Y": 130
+      },
+      "LightingGuid": "4C49C2AA-435EF113-49FA9897-32C8BAAB",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 72,
+    "SizeY": 130,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 37440,
+          "SizeOnDisk": 37440,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 72,
+        "SizeY": 130,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

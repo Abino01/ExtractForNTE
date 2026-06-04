@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Bank_PinkTx",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RobBank/YH_UI_Bank_PinkTx",
+    "Properties": {
+      "ImportedSize": {
+        "X": 456,
+        "Y": 124
+      },
+      "LightingGuid": "6DF42DE3-4E638FEB-A814A598-030A495F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 456,
+    "SizeY": 124,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 56544,
+          "SizeOnDisk": 56544,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 456,
+        "SizeY": 124,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

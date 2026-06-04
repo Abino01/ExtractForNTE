@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Gacha_ProgressBar",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gashapon/UI_YH_Gacha_ProgressBar",
+    "Properties": {
+      "ImportedSize": {
+        "X": 300,
+        "Y": 10
+      },
+      "LightingGuid": "9EBF028C-44427E2D-EDB8DDB6-D6D2197A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 300,
+    "SizeY": 10,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 12000,
+          "SizeOnDisk": 12000,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 300,
+        "SizeY": 10,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

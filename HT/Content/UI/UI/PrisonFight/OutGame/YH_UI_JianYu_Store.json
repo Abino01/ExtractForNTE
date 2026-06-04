@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_JianYu_Store",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PrisonFight/OutGame/YH_UI_JianYu_Store",
+    "Properties": {
+      "ImportedSize": {
+        "X": 122,
+        "Y": 122
+      },
+      "LightingGuid": "C73EF3E5-4C2C860F-2921DEBF-2AEB696D",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 122,
+    "SizeY": 122,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 59536,
+          "SizeOnDisk": 59536,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 122,
+        "SizeY": 122,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

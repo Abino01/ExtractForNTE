@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_dafuwo_interlude07_at",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_dafuwo_interlude07_at",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2092,
+        "Y": 188
+      },
+      "LightingGuid": "824F0BB9-470ADF30-F6645C85-5360E6BB",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 2092,
+    "SizeY": 188,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1573184,
+          "SizeOnDisk": 1573184,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 2092,
+        "SizeY": 188,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

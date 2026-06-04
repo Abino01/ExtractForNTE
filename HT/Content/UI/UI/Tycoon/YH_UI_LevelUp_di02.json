@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LevelUp_di02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tycoon/YH_UI_LevelUp_di02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1372,
+        "Y": 188
+      },
+      "LightingGuid": "65047D31-4B76B000-A7323597-FA24045A",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1372,
+    "SizeY": 188,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 257936,
+          "SizeOnDisk": 257936,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1372,
+        "SizeY": 188,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Us_Line_PointBtn",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Main/UI_YH_Us_Line_PointBtn",
+    "Properties": {
+      "ImportedSize": {
+        "X": 66,
+        "Y": 67
+      },
+      "LightingGuid": "2BA6D1B9-407E528E-4FEC6D9A-FD3A4046",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 66,
+    "SizeY": 67,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 17688,
+          "SizeOnDisk": 17688,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 66,
+        "SizeY": 67,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

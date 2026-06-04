@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Albert",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/desc/text/Albert",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1410,
+        "Y": 787
+      },
+      "LightingGuid": "033B9A2F-41428F48-0E95A2BB-7C08592B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1410,
+    "SizeY": 787,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4438680,
+          "SizeOnDisk": 4438680,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 1410,
+        "SizeY": 787,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

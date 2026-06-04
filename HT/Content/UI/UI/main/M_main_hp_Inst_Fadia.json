@@ -1,0 +1,139 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "M_main_hp_Inst_Fadia",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/main/M_main_hp_Inst_Fadia",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_main_hp'",
+        "ObjectPath": "/Game/UI/UI/main/M_main_hp.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "HPAfter",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "2C67F669-4DBF92CD-B92A5DA2-D4B3BB15"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "HPFront",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "B7937C09-437A85D1-FF29769B-805F278A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ShieldHealthValue",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "0E87D82A-49B0B369-DE7BBFA6-F5126DB1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "DownColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "51AC1E09-42F7E011-F427F1BB-F74E4C69"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ForegroundColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.019382,
+            "G": 0.73791,
+            "B": 0.701102,
+            "A": 1.0,
+            "Hex": "26DFDA"
+          },
+          "ExpressionGUID": "F0898826-4CA03B8D-F82A878F-FCDA85EE"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UPColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.051046,
+            "G": 0.463542,
+            "B": 0.199919,
+            "A": 0.0,
+            "Hex": "40B57C"
+          },
+          "ExpressionGUID": "30600DB2-45EF48F4-A6B0308A-D4459DF6"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UI_Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_zjm_energy09'",
+            "ObjectPath": "/Game/UI/UI/main/zhujiemian_1/UI_zjm_energy09.0"
+          },
+          "ExpressionGUID": "5DAA130E-4FE7BD1F-F4D4659E-62597AA8"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "ForegroundColor_OnlyOn",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "6F90F96C-425E8F26-BD1766AE-2D97A81E"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

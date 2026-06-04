@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "H_NPC_03404_h_4_0",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/Icon/H_NPC_03404_h_4_0",
+    "Properties": {
+      "ImportedSize": {
+        "X": 960,
+        "Y": 540
+      },
+      "LightingGuid": "C7DD25E1-4960E5E4-77E9D49D-3F9A2626",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 960,
+    "SizeY": 540,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 259200,
+          "SizeOnDisk": 259200,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 960,
+        "SizeY": 540,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_guyuandiban",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/main/YH_UI_shangpu_guyuandiban",
+    "Properties": {
+      "ImportedSize": {
+        "X": 252,
+        "Y": 96
+      },
+      "LightingGuid": "8D8AD641-4C442726-141B12B1-3E5F13F2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 252,
+    "SizeY": 96,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 24192,
+          "SizeOnDisk": 24192,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 252,
+        "SizeY": 96,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

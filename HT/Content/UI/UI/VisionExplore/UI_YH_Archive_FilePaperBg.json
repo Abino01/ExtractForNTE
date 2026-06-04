@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Archive_FilePaperBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/UI_YH_Archive_FilePaperBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 388,
+        "Y": 444
+      },
+      "LightingGuid": "B8A64C28-414542F4-E8F801B9-B6231F70",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 388,
+    "SizeY": 444,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 172272,
+          "SizeOnDisk": 172272,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 388,
+        "SizeY": 444,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

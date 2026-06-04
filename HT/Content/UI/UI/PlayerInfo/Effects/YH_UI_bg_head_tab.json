@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_bg_head_tab",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PlayerInfo/Effects/YH_UI_bg_head_tab",
+    "Properties": {
+      "ImportedSize": {
+        "X": 92,
+        "Y": 44
+      },
+      "LightingGuid": "DCA3A1C8-4CC6AEF0-7EA1A1AC-D60669C0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 92,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4048,
+          "SizeOnDisk": 4048,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 92,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

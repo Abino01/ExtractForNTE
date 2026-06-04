@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_wanshiban_auto8",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/YH_UI_wanshiban_auto8",
+    "Properties": {
+      "ImportedSize": {
+        "X": 370,
+        "Y": 70
+      },
+      "LightingGuid": "191BBF7C-44CB6F6F-36645C87-BC16277A",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 370,
+    "SizeY": 70,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 103600,
+          "SizeOnDisk": 103600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 370,
+        "SizeY": 70,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

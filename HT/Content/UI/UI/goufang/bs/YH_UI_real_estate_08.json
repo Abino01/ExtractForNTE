@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_real_estate_08",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/bs/YH_UI_real_estate_08",
+    "Properties": {
+      "ImportedSize": {
+        "X": 248,
+        "Y": 340
+      },
+      "LightingGuid": "145AAFEC-40DE4C96-E00FCFAA-EDF0B978",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 248,
+    "SizeY": 340,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 84320,
+          "SizeOnDisk": 84320,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 248,
+        "SizeY": 340,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

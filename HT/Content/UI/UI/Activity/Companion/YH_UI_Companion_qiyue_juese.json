@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Companion_qiyue_juese",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/Companion/YH_UI_Companion_qiyue_juese",
+    "Properties": {
+      "ImportedSize": {
+        "X": 500,
+        "Y": 132
+      },
+      "LightingGuid": "F4E36A7F-406207A2-E5430D88-44C15F8E",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 500,
+    "SizeY": 132,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 66000,
+          "SizeOnDisk": 66000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 500,
+        "SizeY": 132,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_kongmu_Bg03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/YH_UI_kongmu_Bg03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 768,
+        "Y": 768
+      },
+      "LightingGuid": "943FE14B-43642353-6DEE6CB1-9C41927E",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 768,
+    "SizeY": 768,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2359296,
+          "SizeOnDisk": 2359296,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 768,
+        "SizeY": 768,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

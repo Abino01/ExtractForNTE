@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_weipai_feceicon02",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/DelegateMission/YH_UI_weipai_feceicon02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 38,
+        "Y": 38
+      },
+      "LightingGuid": "F784B1B2-45F3B873-382E07A0-F1B619AF",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 38,
+    "SizeY": 38,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5776,
+          "SizeOnDisk": 5776,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 38,
+        "SizeY": 38,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

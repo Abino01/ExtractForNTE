@@ -1,0 +1,103 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_CircularProgressBar_A",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/Cultivation/MI_CircularProgressBar_A",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "MaterialInstanceConstant'MI_XunProgressBar2'",
+        "ObjectPath": "/Game/UI/UI_Material/CircularProgressBar/MI_XunProgressBar2.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "MaxProgress",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "17105364-47AF1756-EFEBF598-F32B2896"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Progress",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.583676,
+          "ExpressionGUID": "1047D0FA-4C0601A0-AD859D8A-78ABF99B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "StartPos",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "125E8834-48E582E2-6EED249E-1D700C4F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Weaken",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "131B427E-4DBC6E10-172FE0AE-5C1F509C"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "WeakenColor",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.013702,
+            "G": 0.012983,
+            "B": 0.016807,
+            "A": 0.0,
+            "Hex": "1F1E23"
+          },
+          "ExpressionGUID": "17FC4914-4C643DB0-9B5FE096-E19FDDDE"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Tex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_UI_Development_jindu02_img'",
+            "ObjectPath": "/Game/UI/UI/Cultivation/YH_UI_Development_jindu02_img.0"
+          },
+          "ExpressionGUID": "3C932DA4-4FCB0E44-837642B9-A581B43B"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

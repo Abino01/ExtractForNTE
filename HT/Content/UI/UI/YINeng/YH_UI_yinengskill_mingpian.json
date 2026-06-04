@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yinengskill_mingpian",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_UI_yinengskill_mingpian",
+    "Properties": {
+      "ImportedSize": {
+        "X": 208,
+        "Y": 94
+      },
+      "LightingGuid": "1EE879DC-46DECB0F-8CE17FA8-83100948",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 208,
+    "SizeY": 94,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 78208,
+          "SizeOnDisk": 78208,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 208,
+        "SizeY": 94,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

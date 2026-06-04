@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Promotion_Button_Icon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/UI_YH_Bond_Promotion_Button_Icon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 28,
+        "Y": 20
+      },
+      "LightingGuid": "BDDA2F3E-4D3D5183-09E97381-B321DDD9",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 28,
+    "SizeY": 20,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 560,
+          "SizeOnDisk": 560,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 28,
+        "SizeY": 20,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

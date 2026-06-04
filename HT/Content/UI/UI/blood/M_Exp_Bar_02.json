@@ -1,0 +1,124 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "M_Exp_Bar_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/blood/M_Exp_Bar_02",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_HP_Bar'",
+        "ObjectPath": "/Game/UI/UI/blood/M_HP_Bar.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Value1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.4,
+          "ExpressionGUID": "4EB6E7EB-44927DB7-7BD78A89-30EB8E91"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Value2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "EDD696AF-4FCD04CF-23259989-B89B1495"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Value3",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "9EC6413C-42433608-3D04F084-03EC3D0F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Color1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.204164,
+            "G": 1.0,
+            "B": 0.297275,
+            "A": 1.0,
+            "Hex": "7DFF94"
+          },
+          "ExpressionGUID": "23A4221D-4EE1DA03-75AE5080-50552D47"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Color2",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.204164,
+            "G": 1.0,
+            "B": 0.297275,
+            "A": 1.0,
+            "Hex": "7DFF94"
+          },
+          "ExpressionGUID": "11E301A3-44AEFA9C-92A4D983-4CDE304E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Color3",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.204164,
+            "G": 1.0,
+            "B": 0.297275,
+            "A": 1.0,
+            "Hex": "7DFF94"
+          },
+          "ExpressionGUID": "176A50C9-49B75242-A1EF4D98-B8FA2847"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Image",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_YH_Upgrade_EXP_PB'",
+            "ObjectPath": "/Game/UI/UI/player/UI_YH_Upgrade_EXP_PB.0"
+          },
+          "ExpressionGUID": "C9D97F32-43A0C6DA-8C8055A9-C2B42A34"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

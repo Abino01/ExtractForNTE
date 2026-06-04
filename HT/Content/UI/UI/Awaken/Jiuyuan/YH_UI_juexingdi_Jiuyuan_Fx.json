@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_juexingdi_Jiuyuan_Fx",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Awaken/Jiuyuan/YH_UI_juexingdi_Jiuyuan_Fx",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1416,
+        "Y": 1008
+      },
+      "LightingGuid": "201D79B7-4803EF52-8FEA8787-010E50E5",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1416,
+    "SizeY": 1008,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5709312,
+          "SizeOnDisk": 5709312,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1416,
+        "SizeY": 1008,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

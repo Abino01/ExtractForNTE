@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_BRT_List_Icon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/guaiwu/UI_YH_BRT_List_Icon",
+    "Properties": {
+      "ImportedSize": {
+        "X": 76,
+        "Y": 76
+      },
+      "LightingGuid": "9B7F089B-4EF216A8-3AD275BA-179B4449",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 76,
+    "SizeY": 76,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 5776,
+          "SizeOnDisk": 5776,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 76,
+        "SizeY": 76,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_OpActBondResonance_Character_Glow_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/Companion/YH_UI_OpActBondResonance_Character_Glow_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1204,
+        "Y": 1840
+      },
+      "LightingGuid": "41EA13D1-48D392F9-84CE3FB8-9BE6D9C5",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1204,
+    "SizeY": 1840,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8861440,
+          "SizeOnDisk": 8861440,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1204,
+        "SizeY": 1840,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_wanshiban_weituo4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/YH_UI_wanshiban_weituo4",
+    "Properties": {
+      "ImportedSize": {
+        "X": 426,
+        "Y": 282
+      },
+      "LightingGuid": "3DB4F261-4A1C47DD-2CC44AA5-6BE34C70",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 426,
+    "SizeY": 282,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 480528,
+          "SizeOnDisk": 480528,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 426,
+        "SizeY": 282,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

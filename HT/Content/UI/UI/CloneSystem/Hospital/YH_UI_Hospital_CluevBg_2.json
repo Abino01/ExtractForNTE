@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Hospital_CluevBg_2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CloneSystem/Hospital/YH_UI_Hospital_CluevBg_2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 624,
+        "Y": 46
+      },
+      "LightingGuid": "BE2A4BE0-4F8C37C0-F1F211B3-D78AC5D6",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 624,
+    "SizeY": 46,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 114816,
+          "SizeOnDisk": 114816,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 624,
+        "SizeY": 46,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

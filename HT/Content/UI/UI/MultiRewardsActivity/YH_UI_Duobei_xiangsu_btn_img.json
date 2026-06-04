@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Duobei_xiangsu_btn_img",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/MultiRewardsActivity/YH_UI_Duobei_xiangsu_btn_img",
+    "Properties": {
+      "ImportedSize": {
+        "X": 480,
+        "Y": 200
+      },
+      "LightingGuid": "3EB95C02-4E7D9E9B-7B62AC96-32D256CC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 480,
+    "SizeY": 200,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 48000,
+          "SizeOnDisk": 48000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 480,
+        "SizeY": 200,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

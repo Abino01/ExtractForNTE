@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Missions_task_Txt_Design",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Quest/QuestMain/UI_YH_Missions_task_Txt_Design",
+    "Properties": {
+      "ImportedSize": {
+        "X": 74,
+        "Y": 31
+      },
+      "LightingGuid": "08C27A17-4A165CCD-D9E652A2-3FB1AF0C",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 74,
+    "SizeY": 31,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 9176,
+          "SizeOnDisk": 9176,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 74,
+        "SizeY": 31,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_zhuangshizi01_mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/YH_UI_shangpu_zhuangshizi01_mask",
+    "Properties": {
+      "AddressY": "TextureAddress::TA_Clamp",
+      "ImportedSize": {
+        "X": 1148,
+        "Y": 76
+      },
+      "LightingGuid": "C1F7CD07-4EE6A567-EDED81BD-3467CE17",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1148,
+    "SizeY": 76,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 348992,
+          "SizeOnDisk": 348992,
+          "OffsetInFile": "0x7C"
+        },
+        "SizeX": 1148,
+        "SizeY": 76,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

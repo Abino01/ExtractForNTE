@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Fightclub_Countdownfight",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PrisonFight/InGame/YH_UI_Fightclub_Countdownfight",
+    "Properties": {
+      "ImportedSize": {
+        "X": 916,
+        "Y": 216
+      },
+      "LightingGuid": "8E5BDEDB-4F1B875A-2F850097-348E8628",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 916,
+    "SizeY": 216,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 197856,
+          "SizeOnDisk": 197856,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 916,
+        "SizeY": 216,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

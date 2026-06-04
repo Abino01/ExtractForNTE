@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_Racing_PVPReady_RoleList_Ready",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/haoyouzhunbei/UI_Racing_PVPReady_RoleList_Ready",
+    "Properties": {
+      "ImportedSize": {
+        "X": 132,
+        "Y": 60
+      },
+      "LightingGuid": "4FFE5647-41B23D7F-19403392-2B16D105",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 132,
+    "SizeY": 60,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 7920,
+          "SizeOnDisk": 7920,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 132,
+        "SizeY": 60,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

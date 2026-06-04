@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_RecordTimepanel",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/YH_UI_RecordTimepanel",
+    "Properties": {
+      "ImportedSize": {
+        "X": 128,
+        "Y": 30
+      },
+      "LightingGuid": "4DD14AD0-440C66EA-F3946186-E9116E16",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 128,
+    "SizeY": 30,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 15360,
+          "SizeOnDisk": 15360,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 128,
+        "SizeY": 30,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

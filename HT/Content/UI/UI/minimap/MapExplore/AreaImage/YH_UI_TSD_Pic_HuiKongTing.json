@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TSD_Pic_HuiKongTing",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/AreaImage/YH_UI_TSD_Pic_HuiKongTing",
+    "Properties": {
+      "ImportedSize": {
+        "X": 504,
+        "Y": 244
+      },
+      "LightingGuid": "5E7A67D3-4A9A13E5-42323690-F0711FB3",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 504,
+    "SizeY": 244,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 122976,
+          "SizeOnDisk": 122976,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 504,
+        "SizeY": 244,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

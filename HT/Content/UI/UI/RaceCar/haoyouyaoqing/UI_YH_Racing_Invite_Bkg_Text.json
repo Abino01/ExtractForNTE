@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Racing_Invite_Bkg_Text",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/RaceCar/haoyouyaoqing/UI_YH_Racing_Invite_Bkg_Text",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1024,
+        "Y": 180
+      },
+      "LightingGuid": "8DE1A949-415717D1-D770F68D-DAB1A9FA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1024,
+    "SizeY": 180,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 184320,
+          "SizeOnDisk": 184320,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1024,
+        "SizeY": 180,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

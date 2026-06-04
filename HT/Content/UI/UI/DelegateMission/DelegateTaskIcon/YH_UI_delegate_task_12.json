@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_delegate_task_12",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/DelegateMission/DelegateTaskIcon/YH_UI_delegate_task_12",
+    "Properties": {
+      "ImportedSize": {
+        "X": 548,
+        "Y": 222
+      },
+      "LightingGuid": "C1D5CAD9-4AC77F56-505A2ABC-8C3E77FD",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 548,
+    "SizeY": 222,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 486624,
+          "SizeOnDisk": 486624,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 548,
+        "SizeY": 222,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

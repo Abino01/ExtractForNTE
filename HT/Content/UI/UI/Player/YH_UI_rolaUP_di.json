@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_rolaUP_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/YH_UI_rolaUP_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2520,
+        "Y": 644
+      },
+      "LightingGuid": "48505430-429D30D0-4292069D-1CBB0156",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "Downscale": {
+        "bCooked": true,
+        "Default": 2.5,
+        "PerPlatform": null,
+        "Value": 2.5
+      },
+      "NeverStream": true
+    },
+    "SizeX": 1000,
+    "SizeY": 256,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 256000,
+          "SizeOnDisk": 256000,
+          "OffsetInFile": "0x7C"
+        },
+        "SizeX": 1000,
+        "SizeY": 256,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

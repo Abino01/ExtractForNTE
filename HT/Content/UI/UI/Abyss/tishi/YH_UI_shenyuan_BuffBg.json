@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shenyuan_BuffBg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/tishi/YH_UI_shenyuan_BuffBg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 100,
+        "Y": 428
+      },
+      "LightingGuid": "2D0F22A1-4666C82B-0A301898-2ACF3BDC",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 100,
+    "SizeY": 428,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 42800,
+          "SizeOnDisk": 42800,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 100,
+        "SizeY": 428,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI__tetrominoes_screenpanel2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tetris/UI__tetrominoes_screenpanel2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 120,
+        "Y": 38
+      },
+      "LightingGuid": "7975DD6F-4FA7B03D-F8359B85-451AD0DA",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 120,
+    "SizeY": 38,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 18240,
+          "SizeOnDisk": 18240,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 120,
+        "SizeY": 38,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

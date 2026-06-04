@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Chengjiu_hengtiao02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Achievement/YH_UI_Chengjiu_hengtiao02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1641,
+        "Y": 159
+      },
+      "LightingGuid": "8EAB2DBB-43DB5A86-7146AE87-33B578FD",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1641,
+    "SizeY": 159,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1043676,
+          "SizeOnDisk": 1043676,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1641,
+        "SizeY": 159,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Shoppingmall_fonstab",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/AppearanceShop/UI_YH_Shoppingmall_fonstab",
+    "Properties": {
+      "ImportedSize": {
+        "X": 452,
+        "Y": 44
+      },
+      "LightingGuid": "C1C5E486-488F0465-A53488B3-36A6EEC7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 452,
+    "SizeY": 44,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 19888,
+          "SizeOnDisk": 19888,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 452,
+        "SizeY": 44,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

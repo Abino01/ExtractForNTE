@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yueka_card_BG04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Monthcard/YH_UI_yueka_card_BG04",
+    "Properties": {
+      "ImportedSize": {
+        "X": 572,
+        "Y": 8
+      },
+      "LightingGuid": "AB19282B-41C7DD58-34F4659D-ADDB8965",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 572,
+    "SizeY": 8,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 18304,
+          "SizeOnDisk": 18304,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 572,
+        "SizeY": 8,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

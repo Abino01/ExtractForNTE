@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Hunter_supplies_bgVx1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CombatAward/NewCombatAwards/UI_YH_Hunter_supplies_bgVx1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1184,
+        "Y": 1284
+      },
+      "LightingGuid": "902F95EC-441164EC-54D08D8C-CDF672B6",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1184,
+    "SizeY": 1284,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1520256,
+          "SizeOnDisk": 1520256,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1184,
+        "SizeY": 1284,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

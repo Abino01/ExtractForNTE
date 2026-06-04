@@ -1,0 +1,43 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_CityMission_Magazine2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/CityGameplay/YH_UI_CityMission_Magazine2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 724,
+        "Y": 910
+      },
+      "LightingGuid": "4078676B-4D67F945-1893438C-072B0CDD",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "Downscale": {
+        "bCooked": true,
+        "Default": 0.0,
+        "PerPlatform": null,
+        "Value": 0.0
+      },
+      "NeverStream": true
+    },
+    "SizeX": 724,
+    "SizeY": 910,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2635360,
+          "SizeOnDisk": 2635360,
+          "OffsetInFile": "0x83"
+        },
+        "SizeX": 724,
+        "SizeY": 910,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

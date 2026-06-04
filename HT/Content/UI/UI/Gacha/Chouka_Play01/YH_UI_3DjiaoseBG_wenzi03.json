@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_3DjiaoseBG_wenzi03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/Chouka_Play01/YH_UI_3DjiaoseBG_wenzi03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1419,
+        "Y": 230
+      },
+      "LightingGuid": "DC76536A-4C257E25-06C959B9-8FC7070C",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1419,
+    "SizeY": 230,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1305480,
+          "SizeOnDisk": 1305480,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1419,
+        "SizeY": 230,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

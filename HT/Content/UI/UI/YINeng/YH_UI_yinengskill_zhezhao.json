@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yinengskill_zhezhao",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/YINeng/YH_UI_yinengskill_zhezhao",
+    "Properties": {
+      "ImportedSize": {
+        "X": 272,
+        "Y": 272
+      },
+      "LightingGuid": "9BAAE92A-453FB487-B528C7A0-C4C0ED61",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 272,
+    "SizeY": 272,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 36992,
+          "SizeOnDisk": 36992,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 272,
+        "SizeY": 272,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

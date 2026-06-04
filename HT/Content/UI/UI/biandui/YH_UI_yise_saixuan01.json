@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yise_saixuan01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/biandui/YH_UI_yise_saixuan01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 224,
+        "Y": 420
+      },
+      "LightingGuid": "0AC70931-45610CDF-9BDB4999-E7D18910",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 224,
+    "SizeY": 420,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 376320,
+          "SizeOnDisk": 376320,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 224,
+        "SizeY": 420,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

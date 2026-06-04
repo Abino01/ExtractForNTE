@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TSD_POP_Reward_BG_Mask",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/YH_UI_TSD_POP_Reward_BG_Mask",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1336,
+        "Y": 136
+      },
+      "LightingGuid": "9057E4A4-4B57BBB1-3B87BF85-AC54C548",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1336,
+    "SizeY": 136,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 726784,
+          "SizeOnDisk": 726784,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 1336,
+        "SizeY": 136,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

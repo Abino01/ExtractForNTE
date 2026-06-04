@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_jueshe_shuxing03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/player/YH_UI_jueshe_shuxing03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 160,
+        "Y": 40
+      },
+      "LightingGuid": "941CDA46-4A7667F6-529D5781-649CFE12",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 160,
+    "SizeY": 40,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 25600,
+          "SizeOnDisk": 25600,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 160,
+        "SizeY": 40,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

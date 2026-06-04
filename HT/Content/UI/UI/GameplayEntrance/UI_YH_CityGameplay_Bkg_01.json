@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_CityGameplay_Bkg_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/GameplayEntrance/UI_YH_CityGameplay_Bkg_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1500,
+        "Y": 952
+      },
+      "LightingGuid": "95C1D8B3-4648B43C-6E62FE92-5907E104",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1500,
+    "SizeY": 952,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1428000,
+          "SizeOnDisk": 1428000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1500,
+        "SizeY": 952,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

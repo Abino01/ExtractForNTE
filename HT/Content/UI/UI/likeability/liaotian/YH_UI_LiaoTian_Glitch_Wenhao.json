@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_LiaoTian_Glitch_Wenhao",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/liaotian/YH_UI_LiaoTian_Glitch_Wenhao",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1816,
+        "Y": 868
+      },
+      "LightingGuid": "6E8E3028-4ABCA50A-2729C88D-FA9E2CC4",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1816,
+    "SizeY": 868,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1576288,
+          "SizeOnDisk": 1576288,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1816,
+        "SizeY": 868,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

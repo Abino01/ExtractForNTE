@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_siwang_zhuangshi_lost",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/CharacterRelive/YH_UI_siwang_zhuangshi_lost",
+    "Properties": {
+      "ImportedSize": {
+        "X": 367,
+        "Y": 97
+      },
+      "LightingGuid": "B8F04AFC-4E4FF39F-D2140384-3686B378",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 367,
+    "SizeY": 97,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 142396,
+          "SizeOnDisk": 142396,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 367,
+        "SizeY": 97,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

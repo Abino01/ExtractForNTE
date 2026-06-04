@@ -1,0 +1,1558 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "BP_PreviewActor_naming_C",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Package": "/Game/UI/UI/3DUI/BP_PreviewActor_naming",
+    "Properties": {
+      "Timelines": [
+        {
+          "ObjectName": "TimelineTemplate'BP_PreviewActor_naming_C:Timeline_Template'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.39"
+        },
+        {
+          "ObjectName": "TimelineTemplate'BP_PreviewActor_naming_C:Timeline_CameraInitialMove_Template'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.38"
+        }
+      ],
+      "SimpleConstructionScript": {
+        "ObjectName": "SimpleConstructionScript'BP_PreviewActor_naming_C:SimpleConstructionScript_0'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.28"
+      },
+      "UberGraphFunction": {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:ExecuteUbergraph_BP_PreviewActor_naming'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.5"
+      }
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'HTPreviewActor'",
+      "ObjectPath": "/Script/HTGame"
+    },
+    "Children": [
+      {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:PlayNiager'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.6"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:Timeline__FinishedFunc'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.9"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:Timeline__UpdateFunc'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.10"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:Timeline_CameraInitialMove__FinishedFunc'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.11"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:Timeline_CameraInitialMove__UpdateFunc'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.12"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:ReceiveEndPlay'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.8"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:ReceiveBeginPlay'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.7"
+      },
+      {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:ExecuteUbergraph_BP_PreviewActor_naming'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.5"
+      }
+    ],
+    "ChildProperties": [
+      {
+        "Type": "StructProperty",
+        "Name": "UberGraphFrame",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 16,
+        "PropertyFlags": "Transient | DuplicateTransient",
+        "Struct": {
+          "ObjectName": "Class'PointerToUberGraphFrame'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Plane9",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Plane6",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Plane8",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Plane7",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Plane5",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Plane4",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "NS_UI_qiyue_xinzhihebing_02Loop",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'NiagaraComponent'",
+          "ObjectPath": "/Script/Niagara"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "NS_UI_qiyue_xinzhihebing_00",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'NiagaraComponent'",
+          "ObjectPath": "/Script/Niagara"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Plane3",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference | NonTransactional",
+        "PropertyClass": {
+          "ObjectName": "Class'StaticMeshComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "StructProperty",
+        "Name": "Timeline_CameraInitialMove_CameraOffset_9CFA28A74103B1D72D57D997FD77BFEC",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 24,
+        "Struct": {
+          "ObjectName": "Class'Vector'",
+          "ObjectPath": "/Script/CoreUObject"
+        }
+      },
+      {
+        "Type": "ByteProperty",
+        "Name": "Timeline_CameraInitialMove__Direction_9CFA28A74103B1D72D57D997FD77BFEC",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 1,
+        "Enum": {
+          "ObjectName": "Class'ETimelineDirection'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Timeline_CameraInitialMove",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'TimelineComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "FloatProperty",
+        "Name": "Timeline_NewTrack_0_ECBC8B26403EDD82AB6C82B1D278CB17",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 4
+      },
+      {
+        "Type": "ByteProperty",
+        "Name": "Timeline__Direction_ECBC8B26403EDD82AB6C82B1D278CB17",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 1,
+        "Enum": {
+          "ObjectName": "Class'ETimelineDirection'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Timeline",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | InstancedReference",
+        "PropertyClass": {
+          "ObjectName": "Class'TimelineComponent'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "Mediaplayer",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 8,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance",
+        "PropertyClass": {
+          "ObjectName": "Class'MediaPlayer'",
+          "ObjectPath": "/Script/MediaAssets"
+        }
+      },
+      {
+        "Type": "StructProperty",
+        "Name": "CameraInitialLocation",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 24,
+        "PropertyFlags": "Edit | BlueprintVisible | DisableEditOnInstance",
+        "Struct": {
+          "ObjectName": "Class'Vector'",
+          "ObjectPath": "/Script/CoreUObject"
+        }
+      }
+    ],
+    "FuncMap": {
+      "ExecuteUbergraph_BP_PreviewActor_naming": {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:ExecuteUbergraph_BP_PreviewActor_naming'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.5"
+      },
+      "ReceiveBeginPlay": {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:ReceiveBeginPlay'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.7"
+      },
+      "ReceiveEndPlay": {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:ReceiveEndPlay'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.8"
+      },
+      "Timeline_CameraInitialMove__UpdateFunc": {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:Timeline_CameraInitialMove__UpdateFunc'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.12"
+      },
+      "Timeline_CameraInitialMove__FinishedFunc": {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:Timeline_CameraInitialMove__FinishedFunc'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.11"
+      },
+      "Timeline__UpdateFunc": {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:Timeline__UpdateFunc'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.10"
+      },
+      "Timeline__FinishedFunc": {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:Timeline__FinishedFunc'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.9"
+      },
+      "PlayNiager": {
+        "ObjectName": "Function'BP_PreviewActor_naming_C:PlayNiager'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.6"
+      }
+    },
+    "ClassFlags": "CLASS_Config | CLASS_NoExport | CLASS_CompiledFromBlueprint | CLASS_HasInstancedReference",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "BP_PreviewActor_naming_C'Default__BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.1"
+    },
+    "EditorTags": {
+      "BlueprintType": "BPTYPE_Normal"
+    }
+  },
+  {
+    "Type": "BP_PreviewActor_naming_C",
+    "Name": "Default__BP_PreviewActor_naming_C",
+    "Flags": "RF_Public | RF_ClassDefaultObject | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "BlueprintGeneratedClass'/Game/UI/UI/3DUI/BP_PreviewActor_naming.BP_PreviewActor_naming_C'",
+    "Package": "/Game/UI/UI/3DUI/BP_PreviewActor_naming",
+    "Properties": {
+      "UberGraphFrame": {},
+      "Timeline_CameraInitialMove_CameraOffset_9CFA28A74103B1D72D57D997FD77BFEC": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Mediaplayer": {
+        "ObjectName": "MediaPlayer'MediaPlayer_UI_BG'",
+        "ObjectPath": "/Game/Movies/UI_HD/MediaPlayer_UI_BG.0"
+      },
+      "CameraInitialLocation": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SpringArm": {
+        "ObjectName": "SpringArmComponent'Default__BP_PreviewActor_naming_C:SpringArm'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.29"
+      },
+      "DummyCamera": {
+        "ObjectName": "CameraComponent'Default__BP_PreviewActor_naming_C:DummyCamera'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.2"
+      },
+      "CaptureComponent": {
+        "ObjectName": "SceneCaptureComponent2D'Default__BP_PreviewActor_naming_C:PreviewSceneCapture'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.15"
+      },
+      "ScenePlayerLightComponent": {
+        "ObjectName": "ScenePlayerLightComponent'Default__BP_PreviewActor_naming_C:PlayerLightComponent'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.17"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent'Default__BP_PreviewActor_naming_C:RootMesh'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.37"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "DummyCamera",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CameraComponent'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_naming_C'Default__BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.1"
+    },
+    "Properties": {
+      "OrthoWidth": 512.0,
+      "bAutoCalculateOrthoPlanes": false,
+      "OrthoNearClipPlane": 0.0,
+      "AttachParent": {
+        "ObjectName": "SpringArmComponent'Default__BP_PreviewActor_naming_C:SpringArm'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.29"
+      }
+    }
+  },
+  {
+    "Type": "CurveFloat",
+    "Name": "CurveFloat_0",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CurveFloat'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "FloatCurve": {
+        "Keys": [
+          {
+            "InterpMode": "RCIM_Linear",
+            "TangentMode": "RCTM_Auto",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 0.0,
+            "Value": 15.0,
+            "ArriveTangent": 0.0,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.0,
+            "LeaveTangentWeight": 0.0
+          },
+          {
+            "InterpMode": "RCIM_Linear",
+            "TangentMode": "RCTM_Auto",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 1.0,
+            "Value": 1.0,
+            "ArriveTangent": 0.0,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.0,
+            "LeaveTangentWeight": 0.0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "CurveVector",
+    "Name": "CurveVector_3",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'CurveVector'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "FloatCurves": {
+        "Keys": [
+          {
+            "InterpMode": "RCIM_Cubic",
+            "TangentMode": "RCTM_User",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 0.0,
+            "Value": 50.0,
+            "ArriveTangent": 0.8134474,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.81345826,
+            "LeaveTangentWeight": 0.0
+          },
+          {
+            "InterpMode": "RCIM_Cubic",
+            "TangentMode": "RCTM_User",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 1.5,
+            "Value": 0.0,
+            "ArriveTangent": 0.0,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.0,
+            "LeaveTangentWeight": 0.0
+          }
+        ]
+      },
+      "FloatCurves[1]": {
+        "Keys": [
+          {
+            "InterpMode": "RCIM_Constant",
+            "TangentMode": "RCTM_Auto",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 0.0,
+            "Value": 0.0,
+            "ArriveTangent": 0.0,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.0,
+            "LeaveTangentWeight": 0.0
+          }
+        ]
+      }
+    },
+    "FloatCurves": [
+      {
+        "Keys": [
+          {
+            "InterpMode": "RCIM_Cubic",
+            "TangentMode": "RCTM_User",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 0.0,
+            "Value": 50.0,
+            "ArriveTangent": 0.8134474,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.81345826,
+            "LeaveTangentWeight": 0.0
+          },
+          {
+            "InterpMode": "RCIM_Cubic",
+            "TangentMode": "RCTM_User",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 1.5,
+            "Value": 0.0,
+            "ArriveTangent": 0.0,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.0,
+            "LeaveTangentWeight": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant"
+      },
+      {
+        "Keys": [
+          {
+            "InterpMode": "RCIM_Constant",
+            "TangentMode": "RCTM_Auto",
+            "TangentWeightMode": "RCTWM_WeightedNone",
+            "Time": 0.0,
+            "Value": 0.0,
+            "ArriveTangent": 0.0,
+            "ArriveTangentWeight": 0.0,
+            "LeaveTangent": 0.0,
+            "LeaveTangentWeight": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant"
+      },
+      null
+    ]
+  },
+  {
+    "Type": "Function",
+    "Name": "ExecuteUbergraph_BP_PreviewActor_naming",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "EntryPoint",
+        "Flags": "RF_Public",
+        "ElementSize": 4,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      },
+      {
+        "Type": "StructProperty",
+        "Name": "CallFunc_Add_VectorVector_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 24,
+        "Struct": {
+          "ObjectName": "Class'Vector'",
+          "ObjectPath": "/Script/CoreUObject"
+        }
+      },
+      {
+        "Type": "BoolProperty",
+        "Name": "CallFunc_OpenSource_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 1,
+        "FieldSize": 1,
+        "ByteOffset": 0,
+        "ByteMask": 1,
+        "FieldMask": 255,
+        "BoolSize": 1,
+        "bIsNativeBool": true
+      },
+      {
+        "Type": "ByteProperty",
+        "Name": "K2Node_Event_EndPlayReason",
+        "Flags": "RF_Public",
+        "ElementSize": 1,
+        "Enum": {
+          "ObjectName": "Class'EEndPlayReason'",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "StructProperty",
+        "Name": "CallFunc_MakeColor_ReturnValue",
+        "Flags": "RF_Public",
+        "ElementSize": 16,
+        "Struct": {
+          "ObjectName": "Class'LinearColor'",
+          "ObjectPath": "/Script/CoreUObject"
+        }
+      },
+      {
+        "Type": "StructProperty",
+        "Name": "CallFunc_K2_SetRelativeLocation_SweepHitResult",
+        "Flags": "RF_Public",
+        "ElementSize": 272,
+        "PropertyFlags": "ContainsInstancedReference",
+        "Struct": {
+          "ObjectName": "Class'HitResult'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_Final | FUNC_UbergraphFunction | FUNC_HasDefaults"
+  },
+  {
+    "Type": "Function",
+    "Name": "PlayNiager",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "FunctionFlags": "FUNC_Public | FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "ReceiveBeginPlay",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'Actor:ReceiveBeginPlay'",
+      "ObjectPath": "/Script/Engine"
+    },
+    "FunctionFlags": "FUNC_Event | FUNC_Protected | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "ReceiveEndPlay",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'Actor:ReceiveEndPlay'",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ChildProperties": [
+      {
+        "Type": "ByteProperty",
+        "Name": "EndPlayReason",
+        "Flags": "RF_Public",
+        "ElementSize": 1,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm",
+        "Enum": {
+          "ObjectName": "Class'EEndPlayReason'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_Event | FUNC_Protected | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "Timeline__FinishedFunc",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "FunctionFlags": "FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "Timeline__UpdateFunc",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "FunctionFlags": "FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "Timeline_CameraInitialMove__FinishedFunc",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "FunctionFlags": "FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "Timeline_CameraInitialMove__UpdateFunc",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Function'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "FunctionFlags": "FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "NiagaraComponent",
+    "Name": "NS_UI_qiyue_xinzhihebing_00_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'NiagaraComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "Asset": {
+        "ObjectName": "NiagaraSystem'NS_UI_qiyue_xinzhihebing_04'",
+        "ObjectPath": "/Game/FX/Nia/UI_3D/Qiyue/NS_UI_qiyue_xinzhihebing_04.86"
+      },
+      "OverrideParameters": {},
+      "RelativeLocation": {
+        "X": 2.0,
+        "Y": 95.0,
+        "Z": 50.0
+      },
+      "bAutoActivate": false
+    }
+  },
+  {
+    "Type": "NiagaraComponent",
+    "Name": "NS_UI_qiyue_xinzhihebing_02Loop_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'NiagaraComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "Asset": {
+        "ObjectName": "NiagaraSystem'NS_UI_qiyue_xinzhihebing_04loop'",
+        "ObjectPath": "/Game/FX/Nia/UI_3D/Qiyue/NS_UI_qiyue_xinzhihebing_04loop.108"
+      },
+      "OverrideParameters": {
+        "UserParameterRedirects": [
+          {
+            "Key": {
+              "VarData": "",
+              "Name": "TwistPower",
+              "TypeDef": {
+                "ClassStructOrEnum": {
+                  "ObjectName": "Class'NiagaraFloat'",
+                  "ObjectPath": "/Script/Niagara"
+                },
+                "UnderlyingType": 2,
+                "Flags": 0
+              }
+            },
+            "Value": {
+              "VarData": "",
+              "Name": "User.TwistPower",
+              "TypeDef": {
+                "ClassStructOrEnum": {
+                  "ObjectName": "Class'NiagaraFloat'",
+                  "ObjectPath": "/Script/Niagara"
+                },
+                "UnderlyingType": 2,
+                "Flags": 0
+              }
+            }
+          }
+        ],
+        "SortedParameterOffsets": [
+          {
+            "Offset": 0,
+            "Name": "User.TwistPower",
+            "TypeDef": {
+              "ClassStructOrEnum": {
+                "ObjectName": "Class'NiagaraFloat'",
+                "ObjectPath": "/Script/Niagara"
+              },
+              "UnderlyingType": 2,
+              "Flags": 0
+            }
+          }
+        ],
+        "ParameterData": [
+          205,
+          204,
+          204,
+          61
+        ]
+      },
+      "RelativeLocation": {
+        "X": 2.0,
+        "Y": 95.0,
+        "Z": 50.0
+      }
+    }
+  },
+  {
+    "Type": "SceneCaptureComponent2D",
+    "Name": "PreviewSceneCapture",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SceneCaptureComponent2D'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_naming_C'Default__BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.1"
+    },
+    "Properties": {
+      "FOVAngle": 60.0,
+      "OrthoWidth": 512.0,
+      "bAutoCalculateOrthoPlanes": false,
+      "PostProcessSettings": {
+        "bOverride_FilmSlope": true,
+        "bOverride_FilmToe": true,
+        "bOverride_FilmShoulder": true,
+        "bOverride_FilmBlackClip": true,
+        "bOverride_FilmWhiteClip": true,
+        "bOverride_ApplyToonFilm": true,
+        "bOverride_ToonFilmSlope": true,
+        "bOverride_ToonFilmToe": true,
+        "bOverride_ToonFilmShoulder": true,
+        "bOverride_ToonFilmBlackClip": true,
+        "bOverride_BloomMethod": true,
+        "bOverride_BloomIntensity": true,
+        "bOverride_BloomThreshold": true,
+        "bOverride_ToonShadingModelBloomThreshold": true,
+        "bOverride_AutoExposureBias": true,
+        "bOverride_LocalExposureHighlightContrastScale": true,
+        "bOverride_LocalExposureShadowContrastScale": true,
+        "bOverride_LocalExposureDetailStrength": true,
+        "bOverride_LocalExposureBlurredLuminanceKernelSizePercent": true,
+        "bOverride_ApplyToonLocalExposure": true,
+        "bOverride_LocalExposureToonHighlightContrastScale": true,
+        "bOverride_LocalExposureToonShadowContrastScale": true,
+        "FilmSlope": 1.0,
+        "FilmShoulder": 1.0,
+        "ApplyToonFilm": true,
+        "ToonFilmSlope": 1.0,
+        "ToonFilmShoulder": 1.0,
+        "BloomIntensity": 4.0,
+        "BloomThreshold": -0.5,
+        "ToonShadingModelBloomThreshold": -0.6,
+        "DynamicGlobalIlluminationMethod": "EDynamicGlobalIlluminationMethod::Lumen",
+        "LumenSurfaceCacheResolution": 1.0,
+        "ReflectionMethod": "EReflectionMethod::Lumen",
+        "AutoExposureBias": 0.0,
+        "AutoExposureMinBrightness": 1.0,
+        "AutoExposureMaxBrightness": 1.0,
+        "LocalExposureHighlightContrastScale": 1.1,
+        "LocalExposureShadowContrastScale": 0.7,
+        "LocalExposureDetailStrength": 0.9,
+        "LocalExposureBlurredLuminanceKernelSizePercent": 25.6,
+        "ApplyToonLocalExposure": true,
+        "LocalExposureToonHighlightContrastScale": 1.1,
+        "LocalExposureToonShadowContrastScale": 0.5
+      },
+      "CaptureSource": "ESceneCaptureSource::SCS_FinalToneCurveHDR",
+      "MaxViewDistanceOverride": 800.0,
+      "ShowFlagSettings": [
+        {
+          "ShowFlagName": "TemporalAA",
+          "Enabled": true
+        }
+      ],
+      "AttachParent": {
+        "ObjectName": "CameraComponent'Default__BP_PreviewActor_naming_C:DummyCamera'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.2"
+      },
+      "RelativeLocation": {
+        "X": -151.0,
+        "Y": 4.0,
+        "Z": 34.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SceneComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    }
+  },
+  {
+    "Type": "ScenePlayerLightComponent",
+    "Name": "PlayerLightComponent",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'ScenePlayerLightComponent'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_naming_C'Default__BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.1"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_naming_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'SceneComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "SceneComponent'BP_PreviewActor_naming_C:DefaultSceneRoot_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.16"
+      },
+      "VariableGuid": "85F940BA-470DE5D7-7F88FB8C-1019FDCF",
+      "InternalVariableName": "DefaultSceneRoot"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_1",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_naming_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_naming_C:Plane8_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.35"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "FC138DE3-417517DA-41792EA1-6A9F6A05",
+      "InternalVariableName": "Plane8"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_11",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_naming_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_naming_C:Plane7_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.34"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "0E834663-4CA25B5E-4933F5B0-8843BD6F",
+      "InternalVariableName": "Plane7"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_2",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_naming_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_naming_C:Plane6_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.33"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "9E01CC93-42F8AE19-2C960FB9-695B8DD7",
+      "InternalVariableName": "Plane6"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_3",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_naming_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_naming_C:Plane9_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.36"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "DD92C063-421C8FC7-4F9B8F8F-D6158F6C",
+      "InternalVariableName": "Plane9"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_4",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_naming_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'NiagaraComponent'",
+        "ObjectPath": "/Script/Niagara"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "NiagaraComponent'BP_PreviewActor_naming_C:NS_UI_qiyue_xinzhihebing_00_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.13"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "E8B3B0A0-48ADF18E-A3FD69BD-A5CE5E4B",
+      "InternalVariableName": "NS_UI_qiyue_xinzhihebing_00"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_6",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_naming_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'NiagaraComponent'",
+        "ObjectPath": "/Script/Niagara"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "NiagaraComponent'BP_PreviewActor_naming_C:NS_UI_qiyue_xinzhihebing_02Loop_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.14"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "ADE5BCC5-4AE562B5-3D68D78A-6EFA3E51",
+      "InternalVariableName": "NS_UI_qiyue_xinzhihebing_02Loop"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_7",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_naming_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_naming_C:Plane4_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.31"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "65AEE0D8-499D88AB-2CC1FEBC-5A05D831",
+      "InternalVariableName": "Plane4"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_8",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_naming_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_naming_C:Plane5_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.32"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "FF80C8DF-4401B107-26C0BEB9-4080C7F8",
+      "InternalVariableName": "Plane5"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_9",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SCS_Node'",
+    "Outer": {
+      "ObjectName": "SimpleConstructionScript'BP_PreviewActor_naming_C:SimpleConstructionScript_0'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.28"
+    },
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'StaticMeshComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "StaticMeshComponent'BP_PreviewActor_naming_C:Plane3_GEN_VARIABLE'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.30"
+      },
+      "ParentComponentOrVariableName": "RootMesh",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "8AAF5660-4315EB03-DE9D928A-9ABDF843",
+      "InternalVariableName": "Plane3"
+    }
+  },
+  {
+    "Type": "SimpleConstructionScript",
+    "Name": "SimpleConstructionScript_0",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SimpleConstructionScript'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "RootNodes": [
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_9'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.27"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_4'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.23"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_6'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.24"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_7'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.25"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_8'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.26"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_11'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.20"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_1'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.19"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_2'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.21"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_3'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.22"
+        }
+      ],
+      "AllNodes": [
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_9'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.27"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_4'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.23"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_6'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.24"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_7'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.25"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_8'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.26"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_11'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.20"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_1'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.19"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_2'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.21"
+        },
+        {
+          "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_3'",
+          "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.22"
+        }
+      ],
+      "DefaultSceneRootNode": {
+        "ObjectName": "SCS_Node'BP_PreviewActor_naming_C:SimpleConstructionScript_0.SCS_Node_0'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.18"
+      }
+    }
+  },
+  {
+    "Type": "SpringArmComponent",
+    "Name": "SpringArm",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'SpringArmComponent'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_naming_C'Default__BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.1"
+    },
+    "Properties": {
+      "TargetArmLength": 200.0,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent'Default__BP_PreviewActor_naming_C:RootMesh'",
+        "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.37"
+      },
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": 4.440892E-16,
+        "Z": 0.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.0,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Plane3_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'YH_play_3duiBG01'",
+          "ObjectPath": "/Game/UI/UI/3DUI/Background/YH_playBG/YH_play_3duiBG01.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": -712.0,
+        "Z": 38.99999
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 90.0
+      },
+      "RelativeScale3D": {
+        "X": 16.0,
+        "Y": 9.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Plane4_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'M_PreviewActor_naming_2'",
+          "ObjectPath": "/Game/UI/UI/3DUI/M_PreviewActor_naming_2.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": -454.0,
+        "Z": 38.999992
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 90.0
+      },
+      "RelativeScale3D": {
+        "X": 16.0,
+        "Y": 9.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Plane5_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'UI_qiyue_huawen_Mat'",
+          "ObjectPath": "/Game/UI/UI/name/UI_qiyue_huawen_Mat.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 7.0,
+        "Y": -612.0,
+        "Z": -91.00001
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 90.0
+      },
+      "RelativeScale3D": {
+        "X": 11.0,
+        "Y": 9.5,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Plane6_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'NewMaterial'",
+          "ObjectPath": "/Game/UI/UI/player/NewMaterial.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": -381.0,
+        "Z": 38.999996
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 90.0
+      },
+      "RelativeScale3D": {
+        "X": 16.0,
+        "Y": 9.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Plane7_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'M_PreviewActor_naming_2'",
+          "ObjectPath": "/Game/UI/UI/3DUI/M_PreviewActor_naming_2.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": -548.0,
+        "Z": 38.999992
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 90.0
+      },
+      "RelativeScale3D": {
+        "X": 16.0,
+        "Y": 9.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Plane8_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'M_PreviewActor_naming_2'",
+          "ObjectPath": "/Game/UI/UI/3DUI/M_PreviewActor_naming_2.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": -694.0,
+        "Z": 38.99999
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 90.0
+      },
+      "RelativeScale3D": {
+        "X": 16.0,
+        "Y": 9.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Plane9_GEN_VARIABLE",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh'Plane'",
+        "ObjectPath": "/Engine/BasicShapes/Plane.2"
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material'NewMaterial'",
+          "ObjectPath": "/Game/UI/UI/player/NewMaterial.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": -855.0,
+        "Z": 38.99999
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 90.0
+      },
+      "RelativeScale3D": {
+        "X": 16.0,
+        "Y": 9.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "RootMesh",
+    "Flags": "RF_Public | RF_Transactional | RF_ArchetypeObject | RF_DefaultSubObject | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StaticMeshComponent'",
+    "Outer": {
+      "ObjectName": "BP_PreviewActor_naming_C'Default__BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.1"
+    }
+  },
+  {
+    "Type": "TimelineTemplate",
+    "Name": "Timeline_CameraInitialMove_Template",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'TimelineTemplate'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "TimelineLength": 1.5,
+      "LengthMode": "ETimelineLengthMode::TL_LastKeyFrame",
+      "VectorTracks": [
+        {
+          "CurveVector": {
+            "ObjectName": "CurveVector'BP_PreviewActor_naming_C:CurveVector_3'",
+            "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.4"
+          },
+          "PropertyName": "Timeline_CameraInitialMove_CameraOffset_9CFA28A74103B1D72D57D997FD77BFEC",
+          "TrackName": "CameraOffset",
+          "bIsExternalCurve": false
+        }
+      ],
+      "TimelineGuid": "9CFA28A7-4103B1D7-2D57D997-FD77BFEC",
+      "VariableName": "Timeline_CameraInitialMove",
+      "DirectionPropertyName": "Timeline_CameraInitialMove__Direction_9CFA28A74103B1D72D57D997FD77BFEC",
+      "UpdateFunctionName": "Timeline_CameraInitialMove__UpdateFunc",
+      "FinishedFunctionName": "Timeline_CameraInitialMove__FinishedFunc"
+    }
+  },
+  {
+    "Type": "TimelineTemplate",
+    "Name": "Timeline_Template",
+    "Flags": "RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'TimelineTemplate'",
+    "Outer": {
+      "ObjectName": "BlueprintGeneratedClass'BP_PreviewActor_naming_C'",
+      "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.0"
+    },
+    "Properties": {
+      "TimelineLength": 1.0,
+      "FloatTracks": [
+        {
+          "CurveFloat": {
+            "ObjectName": "CurveFloat'BP_PreviewActor_naming_C:CurveFloat_0'",
+            "ObjectPath": "/Game/UI/UI/3DUI/BP_PreviewActor_naming.3"
+          },
+          "PropertyName": "Timeline_NewTrack_0_ECBC8B26403EDD82AB6C82B1D278CB17",
+          "TrackName": "NewTrack_0",
+          "bIsExternalCurve": false
+        }
+      ],
+      "TimelineGuid": "ECBC8B26-403EDD82-AB6C82B1-D278CB17",
+      "VariableName": "Timeline",
+      "DirectionPropertyName": "Timeline__Direction_ECBC8B26403EDD82AB6C82B1D278CB17",
+      "UpdateFunctionName": "Timeline__UpdateFunc",
+      "FinishedFunctionName": "Timeline__FinishedFunc"
+    }
+  }
+]

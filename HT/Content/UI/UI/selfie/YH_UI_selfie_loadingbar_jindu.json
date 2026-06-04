@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_selfie_loadingbar_jindu",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_selfie_loadingbar_jindu",
+    "Properties": {
+      "ImportedSize": {
+        "X": 320,
+        "Y": 36
+      },
+      "LightingGuid": "8AFD14CF-47522053-75C379A0-7AD306F0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 320,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 11520,
+          "SizeOnDisk": 11520,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 320,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

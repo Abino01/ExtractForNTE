@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_shiqu_fires_bg_01",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Message/UI_shiqu_fires_bg_01",
+    "Properties": {
+      "ImportedSize": {
+        "X": 604,
+        "Y": 128
+      },
+      "LightingGuid": "224B781E-45D07EF1-95F9C3BA-737ED10C",
+      "CompressionSettings": "TextureCompressionSettings::TC_VectorDisplacementmap",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 604,
+    "SizeY": 128,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 309248,
+          "SizeOnDisk": 309248,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 604,
+        "SizeY": 128,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

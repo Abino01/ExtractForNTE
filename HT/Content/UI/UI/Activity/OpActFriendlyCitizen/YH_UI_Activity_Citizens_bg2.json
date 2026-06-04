@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Activity_Citizens_bg2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Activity/OpActFriendlyCitizen/YH_UI_Activity_Citizens_bg2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 488,
+        "Y": 652
+      },
+      "LightingGuid": "4CF28417-45633205-48A774A2-BF2B2B60",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 488,
+    "SizeY": 652,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 318176,
+          "SizeOnDisk": 318176,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 488,
+        "SizeY": 652,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

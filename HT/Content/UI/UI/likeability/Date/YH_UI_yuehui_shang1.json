@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_yuehui_shang1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/Date/YH_UI_yuehui_shang1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 504,
+        "Y": 528
+      },
+      "LightingGuid": "77C83934-488592BD-B445F1BA-D5781B39",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 504,
+    "SizeY": 528,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 266112,
+          "SizeOnDisk": 266112,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 504,
+        "SizeY": 528,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

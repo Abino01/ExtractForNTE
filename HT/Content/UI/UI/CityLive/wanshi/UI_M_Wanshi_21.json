@@ -1,0 +1,197 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "UI_M_Wanshi_21",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "/Game/UI/UI/CityLive/wanshi/UI_M_Wanshi_21",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'UI_Mat_Dissolve'",
+        "ObjectPath": "/Game/UI/UI_Effect/UIMaterial/Base/UI_Mat_Dissolve.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Smooth",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 5.0,
+          "ExpressionGUID": "47245BDA-4ACCACD3-78BD7682-0663DA5F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Dissolve（DY0）",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "31BB0843-4F12E197-13A51AB5-6BBB7613"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex_Angle",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "C4B41E9E-48871B18-B78026BA-0CC87DD6"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "noise",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "67EE5529-4A732DC6-5937B28A-E78BB7BC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_Scale_U",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "E134EE73-46D97BC3-09848FBA-627F5453"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_Scale_V",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "7033B2EE-4BE3B6AF-5C05B69D-B67BCA6B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_U",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "0FCE25E6-4C6ABA30-F25EC5B6-5A6949B3"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1_V",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "0AAACF2E-4EE2F79E-0AC54AA9-D0996113"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "DisolveTex_UV",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": -0.3,
+            "G": -3.0,
+            "B": 0.55,
+            "A": 0.0,
+            "Hex": "0000C4"
+          },
+          "ExpressionGUID": "EDF273A2-41B124CA-AD09289B-974710D5"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "DisolveTex_panner",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "ExpressionGUID": "6376596B-4D62F030-888EE0AA-DE23C2FB"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Color",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "E31473B0-42444D6E-E7BEEB81-1A653D2F"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "DisolveTex",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'UI_T_Mask26_1'",
+            "ObjectPath": "/Game/UI/UI_Effect/UITexture/Common/UI_T_Mask26_1.0"
+          },
+          "ExpressionGUID": "66F0EB0E-44C47061-30672994-BC7242FD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Tex1",
+            "Association": "EMaterialParameterAssociation::GlobalParameter",
+            "Index": -1
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'YH_wanshiban_SaiChe3'",
+            "ObjectPath": "/Game/UI/UI/CityLive/wanshi/YH_wanshiban_SaiChe3.0"
+          },
+          "ExpressionGUID": "681B5B3F-46488FD0-ED3DA29F-F09CB7C5"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "StaticParametersRuntime": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseDisolveTex",
+              "Association": "EMaterialParameterAssociation::GlobalParameter",
+              "Index": -1
+            },
+            "bOverride": true,
+            "ExpressionGUID": "D4EF066B-479822A0-D125E886-ED52AB72"
+          }
+        ]
+      },
+      "bIncludedInBaseGame": true
+    },
+    "LoadedMaterialResources": [],
+    "CachedData": {
+      "ParentLayerIndexRemap": []
+    }
+  }
+]

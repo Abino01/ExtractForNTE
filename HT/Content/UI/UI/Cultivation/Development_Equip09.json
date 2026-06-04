@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Development_Equip09",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Cultivation/Development_Equip09",
+    "Properties": {
+      "ImportedSize": {
+        "X": 112,
+        "Y": 172
+      },
+      "LightingGuid": "ABFCBAB1-4DE0E662-075D2DAB-ED4E4015",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 112,
+    "SizeY": 172,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 19264,
+          "SizeOnDisk": 19264,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 112,
+        "SizeY": 172,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

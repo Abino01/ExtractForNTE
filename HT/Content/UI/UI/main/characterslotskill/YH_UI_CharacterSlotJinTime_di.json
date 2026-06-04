@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_CharacterSlotJinTime_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/main/characterslotskill/YH_UI_CharacterSlotJinTime_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 92,
+        "Y": 212
+      },
+      "LightingGuid": "CB315B00-4C108AE8-D5135AA4-8C96E219",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 92,
+    "SizeY": 212,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 19504,
+          "SizeOnDisk": 19504,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 92,
+        "SizeY": 212,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

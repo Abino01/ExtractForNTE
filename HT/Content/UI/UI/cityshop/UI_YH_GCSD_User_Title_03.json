@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_GCSD_User_Title_03",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/cityshop/UI_YH_GCSD_User_Title_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 376,
+        "Y": 52
+      },
+      "LightingGuid": "523FB2BF-49F34374-89788BA1-F60D92A8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 376,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 19552,
+          "SizeOnDisk": 19552,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 376,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

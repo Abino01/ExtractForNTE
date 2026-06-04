@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI__tetrominoes_rankpanel2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Tetris/UI__tetrominoes_rankpanel2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1228,
+        "Y": 120
+      },
+      "LightingGuid": "CBB796CC-41ED8290-42705C99-58A1390D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1228,
+    "SizeY": 120,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 147360,
+          "SizeOnDisk": 147360,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 1228,
+        "SizeY": 120,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

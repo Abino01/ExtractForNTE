@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "6_3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Achievement/6_3",
+    "Properties": {
+      "ImportedSize": {
+        "X": 134,
+        "Y": 134
+      },
+      "LightingGuid": "87915EA6-42984104-EA4032B4-71ABE9DE",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 134,
+    "SizeY": 134,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 71824,
+          "SizeOnDisk": 71824,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 134,
+        "SizeY": 134,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_TSD_Pop_TipsBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/minimap/MapExplore/YH_UI_TSD_Pop_TipsBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 688,
+        "Y": 88
+      },
+      "LightingGuid": "4FBC169B-4FA472B4-AE21C9B4-8BFED435",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 688,
+    "SizeY": 88,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 60544,
+          "SizeOnDisk": 60544,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 688,
+        "SizeY": 88,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

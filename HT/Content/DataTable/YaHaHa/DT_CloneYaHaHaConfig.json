@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_CloneYaHaHaConfig",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Package": "/Game/DataTable/YaHaHa/DT_CloneYaHaHaConfig",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'YaHaHaData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "Yahahaliyuqi": {
+        "Index": 6400,
+        "YaHahaID": "Yahaha6400",
+        "TableName": "Clone",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": -133249.0,
+          "Y": 176581.0,
+          "Z": 9832.0
+        },
+        "Range": 8000.0,
+        "ZRange": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": []
+      }
+    }
+  }
+]

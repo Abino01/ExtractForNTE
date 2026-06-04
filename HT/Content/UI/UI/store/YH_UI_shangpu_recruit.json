@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_recruit",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/YH_UI_shangpu_recruit",
+    "Properties": {
+      "ImportedSize": {
+        "X": 128,
+        "Y": 50
+      },
+      "LightingGuid": "6FEA78A7-41CD8EAB-A940549D-15C4B617",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 128,
+    "SizeY": 50,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 25600,
+          "SizeOnDisk": 25600,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 128,
+        "SizeY": 50,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

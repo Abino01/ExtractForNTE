@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_icon_nitrogen_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Vehicle/Nitrous/YH_UI_icon_nitrogen_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 28,
+        "Y": 36
+      },
+      "LightingGuid": "95C8437A-486C8E1B-C4E29C9B-AFA16752",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 28,
+    "SizeY": 36,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1008,
+          "SizeOnDisk": 1008,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 28,
+        "SizeY": 36,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

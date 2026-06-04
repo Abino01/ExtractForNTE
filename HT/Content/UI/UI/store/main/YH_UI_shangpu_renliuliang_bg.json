@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_shangpu_renliuliang_bg",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/store/main/YH_UI_shangpu_renliuliang_bg",
+    "Properties": {
+      "ImportedSize": {
+        "X": 344,
+        "Y": 76
+      },
+      "LightingGuid": "640199F1-48AD82B3-578A80B7-6016AE5F",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 344,
+    "SizeY": 76,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 104576,
+          "SizeOnDisk": 104576,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 344,
+        "SizeY": 76,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

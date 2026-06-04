@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_timeshijian_di",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/AdventureManual/YH_UI_timeshijian_di",
+    "Properties": {
+      "ImportedSize": {
+        "X": 452,
+        "Y": 64
+      },
+      "LightingGuid": "2AAA63A6-4792F473-64407A94-04D4E7BE",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 452,
+    "SizeY": 64,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 28928,
+          "SizeOnDisk": 28928,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 452,
+        "SizeY": 64,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

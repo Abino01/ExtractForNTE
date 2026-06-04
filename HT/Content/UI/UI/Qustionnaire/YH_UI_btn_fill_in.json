@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_btn_fill_in",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Qustionnaire/YH_UI_btn_fill_in",
+    "Properties": {
+      "ImportedSize": {
+        "X": 304,
+        "Y": 80
+      },
+      "LightingGuid": "8C8DA681-4926C91B-D8A384B8-3355855D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 304,
+    "SizeY": 80,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 24320,
+          "SizeOnDisk": 24320,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 304,
+        "SizeY": 80,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Permanent_Txt",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_Permanent_Txt",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1482,
+        "Y": 248
+      },
+      "LightingGuid": "0E76440B-4D03D599-736B538A-50D4DE43",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1482,
+    "SizeY": 248,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1470144,
+          "SizeOnDisk": 1470144,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 1482,
+        "SizeY": 248,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

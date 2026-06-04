@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_hud_hasuoer_yanjing02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/WishingFountain/Buff/YH_UI_hud_hasuoer_yanjing02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 46,
+        "Y": 26
+      },
+      "LightingGuid": "B1D15718-4228EF91-06F93C93-60A7B05B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 46,
+    "SizeY": 26,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4784,
+          "SizeOnDisk": 4784,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 46,
+        "SizeY": 26,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

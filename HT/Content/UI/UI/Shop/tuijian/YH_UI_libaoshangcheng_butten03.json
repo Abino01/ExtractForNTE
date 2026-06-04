@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_libaoshangcheng_butten03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/tuijian/YH_UI_libaoshangcheng_butten03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 360,
+        "Y": 78
+      },
+      "LightingGuid": "941CB379-44C61DEB-29A5B5BE-AE5B3155",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 360,
+    "SizeY": 78,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 112320,
+          "SizeOnDisk": 112320,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 360,
+        "SizeY": 78,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

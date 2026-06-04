@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_equipment_yuanjiaojuxing32_img",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Equip/YH_UI_equipment_yuanjiaojuxing32_img",
+    "Properties": {
+      "ImportedSize": {
+        "X": 40,
+        "Y": 32
+      },
+      "LightingGuid": "931EF494-400D715E-A0AAA380-926D1DBD",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 40,
+    "SizeY": 32,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1280,
+          "SizeOnDisk": 1280,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 40,
+        "SizeY": 32,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

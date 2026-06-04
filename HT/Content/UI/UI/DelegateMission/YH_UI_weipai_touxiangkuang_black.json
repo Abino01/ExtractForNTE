@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_weipai_touxiangkuang_black",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/DelegateMission/YH_UI_weipai_touxiangkuang_black",
+    "Properties": {
+      "ImportedSize": {
+        "X": 168,
+        "Y": 168
+      },
+      "LightingGuid": "4DC557A2-46B31DC9-72E3F2A8-987EF0C2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 168,
+    "SizeY": 168,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 28224,
+          "SizeOnDisk": 28224,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 168,
+        "SizeY": 168,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

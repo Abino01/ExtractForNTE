@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Mahjong_icon_tongjitab",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mahjong/zhuomian/YH_UI_Mahjong_icon_tongjitab",
+    "Properties": {
+      "ImportedSize": {
+        "X": 120,
+        "Y": 40
+      },
+      "LightingGuid": "69CCE50D-413ADD48-5A1CCE86-87A9160D",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 120,
+    "SizeY": 40,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4800,
+          "SizeOnDisk": 4800,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 120,
+        "SizeY": 40,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

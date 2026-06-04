@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Title_RacingPVPRank_000_2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/PlayerInfo/TitleSystem/Title/Tycoon/UI_YH_Title_RacingPVPRank_000_2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 444,
+        "Y": 156
+      },
+      "LightingGuid": "E05B49F5-447326E8-C828B9B8-71C5BA81",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 444,
+    "SizeY": 156,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 34632,
+          "SizeOnDisk": 34632,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 444,
+        "SizeY": 156,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

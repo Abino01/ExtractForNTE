@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Bond_Tips_NewRole_Bkg_02",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/likeability/UI_YH_Bond_Tips_NewRole_Bkg_02",
+    "Properties": {
+      "ImportedSize": {
+        "X": 460,
+        "Y": 168
+      },
+      "LightingGuid": "DBAB816F-4DFA9EC5-22C34D8C-92857B02",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 460,
+    "SizeY": 168,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 309120,
+          "SizeOnDisk": 309120,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 460,
+        "SizeY": 168,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

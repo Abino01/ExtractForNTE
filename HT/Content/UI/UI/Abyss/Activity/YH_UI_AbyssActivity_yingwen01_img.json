@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_AbyssActivity_yingwen01_img",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Abyss/Activity/YH_UI_AbyssActivity_yingwen01_img",
+    "Properties": {
+      "ImportedSize": {
+        "X": 64,
+        "Y": 540
+      },
+      "LightingGuid": "F2823607-439474BC-25DC01BD-B38D29D8",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 64,
+    "SizeY": 540,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 34560,
+          "SizeOnDisk": 34560,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 64,
+        "SizeY": 540,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

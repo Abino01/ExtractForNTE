@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Shoppingmall_Labeldiscountline",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/shop/shangcheng/UI_YH_Shoppingmall_Labeldiscountline",
+    "Properties": {
+      "ImportedSize": {
+        "X": 46,
+        "Y": 2
+      },
+      "LightingGuid": "9800BD45-4497E71C-F3D04E93-FF8826FE",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 46,
+    "SizeY": 2,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 368,
+          "SizeOnDisk": 368,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 46,
+        "SizeY": 2,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

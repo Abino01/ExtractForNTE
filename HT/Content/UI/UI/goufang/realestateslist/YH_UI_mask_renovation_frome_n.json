@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_mask_renovation_frome_n",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/goufang/realestateslist/YH_UI_mask_renovation_frome_n",
+    "Properties": {
+      "ImportedSize": {
+        "X": 280,
+        "Y": 194
+      },
+      "LightingGuid": "2D6FAD22-455ED9BA-3578A398-B810E0C1",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 280,
+    "SizeY": 194,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 217280,
+          "SizeOnDisk": 217280,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 280,
+        "SizeY": 194,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

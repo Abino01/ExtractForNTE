@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_MonthCard_Sheep",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Monthcard/YH_MonthCard_Sheep",
+    "Properties": {
+      "ImportedSize": {
+        "X": 384,
+        "Y": 288
+      },
+      "LightingGuid": "2FE69585-4920B153-A2FD6C87-1C3679BD",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 384,
+    "SizeY": 288,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 110592,
+          "SizeOnDisk": 110592,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 384,
+        "SizeY": 288,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

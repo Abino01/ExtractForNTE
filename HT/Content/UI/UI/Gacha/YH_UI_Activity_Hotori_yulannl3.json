@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Activity_Hotori_yulannl3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_Activity_Hotori_yulannl3",
+    "Properties": {
+      "ImportedSize": {
+        "X": 266,
+        "Y": 156
+      },
+      "LightingGuid": "93CC9689-44607FC1-0A674096-25498928",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 266,
+    "SizeY": 156,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 165984,
+          "SizeOnDisk": 165984,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 266,
+        "SizeY": 156,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

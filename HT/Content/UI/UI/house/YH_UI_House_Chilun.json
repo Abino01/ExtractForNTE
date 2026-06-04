@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_House_Chilun",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/house/YH_UI_House_Chilun",
+    "Properties": {
+      "ImportedSize": {
+        "X": 118,
+        "Y": 118
+      },
+      "LightingGuid": "AD9EF67A-4FC67591-42E101AB-4BF57E77",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 118,
+    "SizeY": 118,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 55696,
+          "SizeOnDisk": 55696,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 118,
+        "SizeY": 118,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

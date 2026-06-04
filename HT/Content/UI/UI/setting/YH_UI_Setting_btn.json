@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Setting_btn",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/setting/YH_UI_Setting_btn",
+    "Properties": {
+      "ImportedSize": {
+        "X": 91,
+        "Y": 52
+      },
+      "LightingGuid": "36556893-44994B61-F3D05D94-47C1DF8F",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 91,
+    "SizeY": 52,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 18928,
+          "SizeOnDisk": 18928,
+          "OffsetInFile": "0x78"
+        },
+        "SizeX": 91,
+        "SizeY": 52,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

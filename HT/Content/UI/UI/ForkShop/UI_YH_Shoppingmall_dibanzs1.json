@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_YH_Shoppingmall_dibanzs1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ForkShop/UI_YH_Shoppingmall_dibanzs1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 372,
+        "Y": 160
+      },
+      "LightingGuid": "A0BC6B0C-469AAA37-AE7A5C9B-49CFDB63",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "SRGB": false,
+      "NeverStream": true
+    },
+    "SizeX": 372,
+    "SizeY": 160,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 238080,
+          "SizeOnDisk": 238080,
+          "OffsetInFile": "0x7E"
+        },
+        "SizeX": 372,
+        "SizeY": 160,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

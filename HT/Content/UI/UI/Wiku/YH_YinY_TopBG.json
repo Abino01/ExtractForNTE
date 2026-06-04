@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_YinY_TopBG",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Wiku/YH_YinY_TopBG",
+    "Properties": {
+      "ImportedSize": {
+        "X": 396,
+        "Y": 96
+      },
+      "LightingGuid": "25E41706-4E6238DA-E1FFE890-6E0EBAB0",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 396,
+    "SizeY": 96,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 38016,
+          "SizeOnDisk": 38016,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 396,
+        "SizeY": 96,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

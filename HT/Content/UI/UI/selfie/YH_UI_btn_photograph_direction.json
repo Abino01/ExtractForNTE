@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_btn_photograph_direction",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/selfie/YH_UI_btn_photograph_direction",
+    "Properties": {
+      "ImportedSize": {
+        "X": 312,
+        "Y": 312
+      },
+      "LightingGuid": "7CD06EF2-4619FEA3-1042D790-6801D553",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 312,
+    "SizeY": 312,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 97344,
+          "SizeOnDisk": 97344,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 312,
+        "SizeY": 312,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

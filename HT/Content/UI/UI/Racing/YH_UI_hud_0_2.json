@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_hud_0_2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/racing/YH_UI_hud_0_2",
+    "Properties": {
+      "ImportedSize": {
+        "X": 36,
+        "Y": 58
+      },
+      "LightingGuid": "B000C53D-4284CAAB-74C65286-BC1CE923",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 36,
+    "SizeY": 58,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8352,
+          "SizeOnDisk": 8352,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 36,
+        "SizeY": 58,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_xiaohao_di03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/consumeItem/YH_UI_xiaohao_di03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 147,
+        "Y": 147
+      },
+      "LightingGuid": "2BBCCD6E-4328137A-C98E34BB-28702AFE",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 147,
+    "SizeY": 147,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 86436,
+          "SizeOnDisk": 86436,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 147,
+        "SizeY": 147,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

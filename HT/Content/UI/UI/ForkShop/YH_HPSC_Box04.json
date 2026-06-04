@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_HPSC_Box04",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/ForkShop/YH_HPSC_Box04",
+    "Properties": {
+      "ImportedSize": {
+        "X": 736,
+        "Y": 104
+      },
+      "LightingGuid": "56CD490C-4A3E5FAF-FB0F14B9-0C9EB1C6",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 736,
+    "SizeY": 104,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 306176,
+          "SizeOnDisk": 306176,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 736,
+        "SizeY": 104,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

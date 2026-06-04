@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_Activity_Hotori_bg1",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Gacha/YH_UI_Activity_Hotori_bg1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 200,
+        "Y": 1080
+      },
+      "LightingGuid": "1D50C397-47EED744-C7D181BC-59D0C27B",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 200,
+    "SizeY": 1080,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT1",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 108000,
+          "SizeOnDisk": 108000,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 200,
+        "SizeY": 1080,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

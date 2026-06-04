@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_mail_line",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/Mail/YH_UI_mail_line",
+    "Properties": {
+      "ImportedSize": {
+        "X": 592,
+        "Y": 8
+      },
+      "LightingGuid": "FC052474-4A579549-0967D89B-B20EC1A2",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 592,
+    "SizeY": 8,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4736,
+          "SizeOnDisk": 4736,
+          "OffsetInFile": "0x74"
+        },
+        "SizeX": 592,
+        "SizeY": 8,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

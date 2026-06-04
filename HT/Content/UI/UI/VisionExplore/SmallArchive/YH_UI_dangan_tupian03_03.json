@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "YH_UI_dangan_tupian03_03",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/UI/UI/VisionExplore/SmallArchive/YH_UI_dangan_tupian03_03",
+    "Properties": {
+      "ImportedSize": {
+        "X": 289,
+        "Y": 268
+      },
+      "LightingGuid": "5A3E1846-42CA02A5-FFEB9099-1F391D24",
+      "CompressionSettings": "TextureCompressionSettings::TC_EditorIcon",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 289,
+    "SizeY": 268,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 309808,
+          "SizeOnDisk": 309808,
+          "OffsetInFile": "0x7B"
+        },
+        "SizeX": 289,
+        "SizeY": 268,
+        "SizeZ": 1
+      }
+    ]
+  }
+]
